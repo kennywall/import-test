@@ -179,6 +179,17 @@
             </div><!-- /#main -->
 
             <div id="sidebar">
+                
+                <div class="widget widget_recent_entries">  
+                    <h3>Network of Sites</h3>
+                    <ul>
+                        <li><a href="http://apievangelist.com" target="_blank">API Evangelist</a></li>
+                        <li><a href="http://apivoice.com" target="_blank">API Voice</a></li>
+                        <li><a href="http://theapistack.com" target="_blank">API Stack</a></li>
+                        <li><a href="http://ipaevangelist.com" target="_blank">IPA Evangelist</a></li>
+                        <li><a href="http://hackerstorytelling.com" target="_blank">Hacker Storytelling</a></li>
+                    </ul>
+                </div>                
 
                  <div class="widget widget_recent_entries">  
                      
@@ -212,7 +223,17 @@
                     </script>                    
                         
                 </div>  
-                <!--- End Partners --->              
+                <!--- End Partners --->   
+                
+                <div class="widget widget_recent_entries">  
+                    <h3>Latest Posts</h3>
+                    <ul>
+                        {% for post in site.posts limit:25 %}
+                        <li><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></li>
+                        {% endfor %}                        
+                    </ul>
+                </div>                   
+                           
             </div>
 
         </div>     
