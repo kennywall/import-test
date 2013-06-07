@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moving on in life...
-url: http://apievangelist.com/2008/09/30/moving-on-in-life/
-source: http://apievangelist.com/2008/09/30/moving-on-in-life/
-domain: apievangelist.com
+url: http://kinlane.com/2008/09/30/moving-on-in-life/
+source: http://kinlane.com/2008/09/30/moving-on-in-life/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been through some major changes lately. Feel like I am really moving on into the 2nd half of my life. (Mid-Life...don't like that?). Anyways I recently went through a divorce with my wife Ishbel. I am learning how to spend time with my daughter Kaia both virtually, phone and in scheduled weekend times.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Publishing Social Newspapers with Paper.li
-url: http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-paper-li/
-source: http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-paper-li/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/14/publishing-social-newspapers-with-paper-li/
+source: http://kinlane.com/2011/02/14/publishing-social-newspapers-with-paper-li/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 ---
 {% include JB/setup %}<p><a href="http://Paper.li" target="_blank"> Paper.li</a> is a Software as a Service (<a class="zem_slink" title="Software as a Service" rel="wikinvest" href="http://www.wikinvest.com/concept/Software_as_a_Service">SaaS</a>) that organizes links shared on <a href="http://paper.li/" target="_blank">Twitter and Facebook into a newspaper-style format</a>.

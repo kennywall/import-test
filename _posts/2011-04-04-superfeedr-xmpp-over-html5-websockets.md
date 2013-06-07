@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Superfeedr XMPP over HTML5 WebSockets
-url: http://apievangelist.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/
-source: http://apievangelist.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/
+source: http://kinlane.com/2011/04/04/superfeedr-xmpp-over-html5-websockets/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/superfeedr-logo.png
 ---
 {% include JB/setup %}<p><a title="Superfeedr" href="http://superfeedr.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/superfeedr-logo.png" alt="" width="250" align="right" /></a><a title="Superfeedr" href="http://superfeedr.com">Superfeedr</a> keeps showing what a pioneer they are when it comes to web, API and feed technology, with a <a title="release of an Ejabber module that builds Websocks into an XMPP server" href="http://blog.superfeedr.com/xmpp-over-websockets/">release of an Ejabber module that builds WebSockets into an XMPP server</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print for Mobile Docs
-url: http://apievangelist.com/2011/01/24/google-cloud-print-for-mobile-docs/
-source: http://apievangelist.com/2011/01/24/google-cloud-print-for-mobile-docs/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/24/google-cloud-print-for-mobile-docs/
+source: http://kinlane.com/2011/01/24/google-cloud-print-for-mobile-docs/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-mobile-cloud-print.png
 ---
 {% include JB/setup %}<p>Google has launched a <a href="http://googlemobile.blogspot.com/2011/01/cloud-printing-on-go.html" target="_blank">BETA program of the Google Cloud Print for mobile documents and Gmail for mobile</a>.

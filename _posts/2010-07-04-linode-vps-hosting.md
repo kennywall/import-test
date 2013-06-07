@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Linode - VPS Hosting
-url: http://apievangelist.com/2010/07/04/linode-vps-hosting/
-source: http://apievangelist.com/2010/07/04/linode-vps-hosting/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/04/linode-vps-hosting/
+source: http://kinlane.com/2010/07/04/linode-vps-hosting/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Linode.PNG
 ---
 {% include JB/setup %}<p><a href="http://www.linode.com/" target="_blank"><img class="alignnone" style="padding: 15px;" title="Linode - VPS Hosting" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/Linode.PNG" alt="" width="313" height="76" align="right" /></a><a href="http://www.linode.com/" target="_blank">Linode</a> is a very focused and simple <a href="http://www.linode.com/" target="_blank">Virtual Private Hosting</a> (VPS) company that delivers some very affordable cloud hosting solutions.<p></p>

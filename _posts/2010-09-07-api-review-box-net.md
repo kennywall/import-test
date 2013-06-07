@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Review - Box.net
-url: http://apievangelist.com/2010/09/07/api-review-box-net/
-source: http://apievangelist.com/2010/09/07/api-review-box-net/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/07/api-review-box-net/
+source: http://kinlane.com/2010/09/07/api-review-box-net/
+domain: kinlane.com
 image: http://img.zemanta.com/zemified_e.png?x-id=fa59dff9-86aa-426d-8a23-0bb2a7091c53
 ---
 {% include JB/setup %}<p>

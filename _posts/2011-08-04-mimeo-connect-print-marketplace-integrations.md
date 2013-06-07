@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Connect Print Marketplace Integrations
-url: http://apievangelist.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
-source: http://apievangelist.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
+source: http://kinlane.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/solutions/mimeo-marketplace.php"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png" alt="" width="250" align="right" /></a><p></p>

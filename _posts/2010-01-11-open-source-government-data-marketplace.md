@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Source Government Data Marketplace
-url: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
-source: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
+source: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Someone needs to create an open source version of <a href="http://www.data.gov/">data.gov</a>.<p></p>

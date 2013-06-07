@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Launching Applications in the Cloud
-url: http://apievangelist.com/2009/04/02/launching-applications-in-the-cloud/
-source: http://apievangelist.com/2009/04/02/launching-applications-in-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/02/launching-applications-in-the-cloud/
+source: http://kinlane.com/2009/04/02/launching-applications-in-the-cloud/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Been reading several high quality posts about a new social service that allows you to check the availability of your username across many social networks. This is a great way to protect your "brand" in the social media space.<p></p>

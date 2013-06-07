@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Are QR Codes Relevant Anymore?
-url: http://apievangelist.com/2011/06/16/are-qr-codes-relevant-anymore/
-source: http://apievangelist.com/2011/06/16/are-qr-codes-relevant-anymore/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/16/are-qr-codes-relevant-anymore/
+source: http://kinlane.com/2011/06/16/are-qr-codes-relevant-anymore/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg" alt="" width="150" align="right" />A <a title="Quick Response(QR)" href="http://en.wikipedia.org/wiki/QR_code">Quick Response (QR)</a> code is a two-dimensional code that is readable by barcode readers as well as camera phones.<p></p>

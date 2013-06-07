@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How Are You Using Facebook for Business?
-url: http://apievangelist.com/2009/10/16/how-are-you-using-facebook-for-business/
-source: http://apievangelist.com/2009/10/16/how-are-you-using-facebook-for-business/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/16/how-are-you-using-facebook-for-business/
+source: http://kinlane.com/2009/10/16/how-are-you-using-facebook-for-business/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>This is from a response to a question I came across on <a class="zem_slink" title="LinkedIn" rel="homepage" href="http://www.linkedin.com">LinkedIn</a> Answers. I thought I should syndicate it here:<p></p>

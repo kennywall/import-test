@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introduction to Google Cloud Print
-url: http://apievangelist.com/2011/02/06/introduction-to-google-cloud-print/
-source: http://apievangelist.com/2011/02/06/introduction-to-google-cloud-print/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/06/introduction-to-google-cloud-print/
+source: http://kinlane.com/2011/02/06/introduction-to-google-cloud-print/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p>I have been studying <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://blog.chromium.org/2010/04/new-approach-to-printing.html" target="_blank">since they announced it last year</a>. Even though you don't catch me printing very often, I am fascinated by the technology and its potential.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Startup School 2010
-url: http://apievangelist.com/2010/10/17/startup-school-2010/
-source: http://apievangelist.com/2010/10/17/startup-school-2010/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/17/startup-school-2010/
+source: http://kinlane.com/2010/10/17/startup-school-2010/
+domain: kinlane.com
 image: http://i.bnet.com/blogs/andy-bechtlesheim.jpg
 ---
 {% include JB/setup %}<p>I was fortunate enough to attend <a href="http://startupschool.org/">Startup School 2010</a> yesterday. #sus2010<p></p>

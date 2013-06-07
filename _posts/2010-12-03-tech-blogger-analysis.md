@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tech Blogger Analysis
-url: http://apievangelist.com/2010/12/03/tech-blogger-analysis/
-source: http://apievangelist.com/2010/12/03/tech-blogger-analysis/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/03/tech-blogger-analysis/
+source: http://kinlane.com/2010/12/03/tech-blogger-analysis/
+domain: kinlane.com
 image: http://about.mappyfriends.com/wp-content/uploads/2010/09/readwriteweb.jpg
 ---
 {% include JB/setup %}<p><img src="http://about.mappyfriends.com/wp-content/uploads/2010/09/readwriteweb.jpg" alt="" align="right" />A <a href="http://www.kinlane.com/2010/12/ideation-and-project-evolution/" target="_blank">project I'm moving off the back-burner and into the public domain</a> is a project I called Tech Blogger Analysis. My GF is Audrey Watters @ ReadWriteWeb, so I get exposed to an authors daily perspective in the tech blogging world.<p></p>

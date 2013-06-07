@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Integrated Development Environment (IDE) for APIs
-url: http://apievangelist.com/2011/06/18/integrated-development-environment-ide-for-apis/
-source: http://apievangelist.com/2011/06/18/integrated-development-environment-ide-for-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/18/integrated-development-environment-ide-for-apis/
+source: http://kinlane.com/2011/06/18/integrated-development-environment-ide-for-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/Akshell-Screenshot.png
 ---
 {% include JB/setup %}<p><a title="Akshell" href="http://www.akshell.com/ide/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/Akshell-Screenshot.png" alt="" width="250" align="right" /></a>I recently moved my IDE off my desktop and onto the web.  I'm test driving two separate web-based integrated development environments (IDE):

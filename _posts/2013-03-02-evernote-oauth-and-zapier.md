@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evernote, OAuth and Zapier
-url: http://apievangelist.com/2013/03/02/evernote-oauth-and-zapier/
-source: http://apievangelist.com/2013/03/02/evernote-oauth-and-zapier/
-domain: apievangelist.com
+url: http://kinlane.com/2013/03/02/evernote-oauth-and-zapier/
+source: http://kinlane.com/2013/03/02/evernote-oauth-and-zapier/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/evernote-hacked-03-2013.png
 ---
 {% include JB/setup %}<p><p>One of the platforms I depend upon for my memory was hacked today.  This afternoon, Evernote let everyone know that the platform was compromised and forced a reset of all passwords.</p>

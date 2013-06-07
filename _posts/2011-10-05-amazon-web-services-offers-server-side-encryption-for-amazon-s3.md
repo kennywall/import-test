@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Web Services Offers Server Side Encryption for Amazon S3
-url: http://apievangelist.com/2011/10/05/amazon-web-services-offers-server-side-encryption-for-amazon-s3/
-source: http://apievangelist.com/2011/10/05/amazon-web-services-offers-server-side-encryption-for-amazon-s3/
-domain: apievangelist.com
+url: http://kinlane.com/2011/10/05/amazon-web-services-offers-server-side-encryption-for-amazon-s3/
+source: http://kinlane.com/2011/10/05/amazon-web-services-offers-server-side-encryption-for-amazon-s3/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/amazon/amazon-s3-encryption.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/amazon-s3-encryption.png" alt="" width="250" align="right" />Amazon Web Services <a title="now offers Server Side Encryption" href="http://aws.typepad.com/aws/2011/10/new-amazon-s3-server-side-encryption.html" target="_blank">now offers Server Side Encryption (SSE) for Amazon S3</a>, enablingthe ability to encrypt data stored in Amazon S3, by adding an additional request header when writing the object to Amazon S3, with decryptionoccurringautomatically when data is retrieved.<p></p>

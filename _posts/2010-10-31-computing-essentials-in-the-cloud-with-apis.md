@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Computing Essentials in the Cloud with APIs
-url: http://apievangelist.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
-source: http://apievangelist.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
+source: http://kinlane.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud.jpeg
 ---
 {% include JB/setup %}<p>As we continue to move computing off the workstation and servers and into the cloud, we need to recreate all the essentials of computing we are used to.  APIs are how the next generation of computing essentials like email, print, DNS, and file system will be delivered in this environment.<p></p>

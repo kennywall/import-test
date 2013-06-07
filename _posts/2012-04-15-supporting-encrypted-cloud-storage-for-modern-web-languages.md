@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Supporting Encrypted Cloud Storage for Modern Web Languages
-url: http://apievangelist.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
-source: http://apievangelist.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
-domain: apievangelist.com
+url: http://kinlane.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
+source: http://kinlane.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/idrive-logo.jpg
 ---
 {% include JB/setup %}<p><p><a href="http://evs.idrive.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IDrive/IDrive-EVS.png" alt="" width="150" align="right" /></a></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Lifetime of Experience with 'Government Workers'
-url: http://apievangelist.com/2013/05/01/a-lifetime-of-experience-with-government-workers/
-source: http://apievangelist.com/2013/05/01/a-lifetime-of-experience-with-government-workers/
-domain: apievangelist.com
+url: http://kinlane.com/2013/05/01/a-lifetime-of-experience-with-government-workers/
+source: http://kinlane.com/2013/05/01/a-lifetime-of-experience-with-government-workers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/uncle-sam.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/uncle-sam.jpg" alt="" width="250" align="right" /></p>

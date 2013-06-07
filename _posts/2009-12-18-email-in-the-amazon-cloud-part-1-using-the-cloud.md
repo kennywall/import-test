@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email in the Amazon Cloud Part 1 - Using the Cloud
-url: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-1-using-the-cloud/
-source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-1-using-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-1-using-the-cloud/
+source: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-1-using-the-cloud/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Amazon is a great place to really take care of business when it comes to IT. First order of business at my new job last year was to take care of a really troubling "hostage" situation with their current server co-location contract. My boss said, "move us to the cloud". I had used Amazon Web Services before, I thought I should check out other providers as well. So I toured a handful of cloud providers, but ended up back with Amazon Web Services.<p></p>

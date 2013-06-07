@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Beautiful Flowcharts and Diagrams
-url: http://apievangelist.com/2009/06/19/beautiful-flowcharts-and-diagrams/
-source: http://apievangelist.com/2009/06/19/beautiful-flowcharts-and-diagrams/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/19/beautiful-flowcharts-and-diagrams/
+source: http://kinlane.com/2009/06/19/beautiful-flowcharts-and-diagrams/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I always want to visual my projects and ideas in easy to understand <a class="zem_slink" title="Diagram" rel="wikipedia" href="http://en.wikipedia.org/wiki/Diagram">diagrams</a> that are beautiful. I always look to <a href="http://hinchcliffeandcompany.com/">Dion Hinchcliffe</a> as the <a href="http://hinchcliffeandcompany.com/">master of technical diagrams</a>. I love his work.<p></p>

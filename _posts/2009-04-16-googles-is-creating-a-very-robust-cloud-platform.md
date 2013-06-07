@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google's is Creating a Very Robust Cloud Platform
-url: http://apievangelist.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
-source: http://apievangelist.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
+source: http://kinlane.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been playing around with some <a href="http://cloud.kinlane.com">research on cloud computing</a> lately. I am using the <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a> Platform as a base to store and present all the data.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Proofing Print Documents From Scribd
-url: http://apievangelist.com/2011/01/25/proofing-print-documents-from-scribd/
-source: http://apievangelist.com/2011/01/25/proofing-print-documents-from-scribd/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/25/proofing-print-documents-from-scribd/
+source: http://kinlane.com/2011/01/25/proofing-print-documents-from-scribd/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
 {% include JB/setup %}<p>I recently created a couple of working examples using <a href="http://www.scribd.com/">Scribd</a> <a href="http://www.apievangelist.com/">API</a> and the <a href="http://www.mimeo.com">Mimeo</a> Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> API:

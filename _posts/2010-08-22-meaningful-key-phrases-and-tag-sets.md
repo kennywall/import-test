@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Meaningful Key Phrases and Tag Sets
-url: http://apievangelist.com/2010/08/22/meaningful-key-phrases-and-tag-sets/
-source: http://apievangelist.com/2010/08/22/meaningful-key-phrases-and-tag-sets/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/22/meaningful-key-phrases-and-tag-sets/
+source: http://kinlane.com/2010/08/22/meaningful-key-phrases-and-tag-sets/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/looking-deeper-magnify.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Looking Deeper" src="http://kinlane-productions.s3.amazonaws.com/looking-deeper-magnify.jpg" alt="" width="150" align="right" />I can parse any document or web page and tell you what words exist in the content. I can tell you which words are most used or potentially meaningful in the content.<p></p>

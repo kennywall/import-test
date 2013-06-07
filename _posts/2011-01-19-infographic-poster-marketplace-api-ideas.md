@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Infographic Poster Marketplace [API Ideas]
-url: http://apievangelist.com/2011/01/19/infographic-poster-marketplace-api-ideas/
-source: http://apievangelist.com/2011/01/19/infographic-poster-marketplace-api-ideas/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/19/infographic-poster-marketplace-api-ideas/
+source: http://kinlane.com/2011/01/19/infographic-poster-marketplace-api-ideas/
+domain: kinlane.com
 image: http://www.infographicsshowcase.com/wp-content/uploads/2010/11/struggling-countries-around-the-world-graphic-600x1668.jpg
 ---
 {% include JB/setup %}<p><em>This is another post in my API Ideas series, I'm posting all my ideas for applications that could be built using the Mimeo Connect Cloud Print API.</em>

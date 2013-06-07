@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Are All of Our Memories Real?
-url: http://apievangelist.com/2011/06/10/are-all-of-our-memories-real/
-source: http://apievangelist.com/2011/06/10/are-all-of-our-memories-real/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/10/are-all-of-our-memories-real/
+source: http://kinlane.com/2011/06/10/are-all-of-our-memories-real/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png" alt="" width="200" align="right" />My 10 year old daughter Kaia and I were chatting last night about a old family friend that is coming to visit.  She hasn't seen him since she was three years old.<p></p>

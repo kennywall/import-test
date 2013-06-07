@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Updating My Status
-url: http://apievangelist.com/2009/02/16/updating-my-status/
-source: http://apievangelist.com/2009/02/16/updating-my-status/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/16/updating-my-status/
+source: http://kinlane.com/2009/02/16/updating-my-status/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=f58554d1-3142-4e9c-828d-a290fb16848c
 ---
 {% include JB/setup %}<p>

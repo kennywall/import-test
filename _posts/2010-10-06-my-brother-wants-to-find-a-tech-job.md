@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Brother Wants to Find a Tech Job
-url: http://apievangelist.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
-source: http://apievangelist.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
+source: http://kinlane.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>My little brother Michael is looking for a job in the tech industry.  He asked if he could send his resume my way.  I said sure.<p></p>

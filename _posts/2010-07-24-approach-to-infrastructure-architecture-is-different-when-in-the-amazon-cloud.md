@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Approach to Infrastructure Architecture is Different When in the Amazon Cloud
-url: http://apievangelist.com/2010/07/24/approach-to-infrastructure-architecture-is-different-when-in-the-amazon-cloud/
-source: http://apievangelist.com/2010/07/24/approach-to-infrastructure-architecture-is-different-when-in-the-amazon-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/24/approach-to-infrastructure-architecture-is-different-when-in-the-amazon-cloud/
+source: http://kinlane.com/2010/07/24/approach-to-infrastructure-architecture-is-different-when-in-the-amazon-cloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" />I was just reading <a href="http://www.mor.ph/node/275" target="_blank">Insights from the AWS Cloud Computing for the Enterprise Event in Los Angeles</a> on the <a href="http://www.mor.ph" target="_blank">Morph blog</a>. They offer some good morsels of cloud wisdom and have a good presentation by Dr. Werner Vogels. What stuck with me were the bullet points about designing infrastructure when using cloud based Infrastructure as a Service (IaaS):

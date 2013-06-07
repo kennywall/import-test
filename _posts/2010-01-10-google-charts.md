@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Charts
-url: http://apievangelist.com/2010/01/10/google-charts/
-source: http://apievangelist.com/2010/01/10/google-charts/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/10/google-charts/
+source: http://kinlane.com/2010/01/10/google-charts/
+domain: kinlane.com
 image: http://chart.apis.google.com/chart?cht=p3&amp;chd=t:60,40&amp;chs=250x100&amp;chl=Hello|World
 ---
 {% include JB/setup %}<p>I wanted to reintroduce everyone to <a href="http://code.google.com/apis/chart/">Google Charts</a>. If you haven't heard about it, it is a quick and easy way to create chart from data sources.<p></p>

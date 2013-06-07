@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Worldmark by Wyndam - Time Share Review
-url: http://apievangelist.com/2009/03/04/worldmark-by-wyndam-time-share-review/
-source: http://apievangelist.com/2009/03/04/worldmark-by-wyndam-time-share-review/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/04/worldmark-by-wyndam-time-share-review/
+source: http://kinlane.com/2009/03/04/worldmark-by-wyndam-time-share-review/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>In the last year or so of my marriage I signed up for Trendswest vacation resort. We went to their resort in St George Utah and went Zion and Bryce canyon. It was nice. Then Trendswest got bought by <a href="http://www.worldmarktheclub.com/index.shtml">Worldmark</a>.<p></p>

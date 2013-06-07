@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Interroperability at the Software as a Service (SaaS) Layer
-url: http://apievangelist.com/2009/04/11/interroperability-at-the-software-as-a-service-saas-layer/
-source: http://apievangelist.com/2009/04/11/interroperability-at-the-software-as-a-service-saas-layer/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/11/interroperability-at-the-software-as-a-service-saas-layer/
+source: http://kinlane.com/2009/04/11/interroperability-at-the-software-as-a-service-saas-layer/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I encounter this problem all the time, but I am doing a fresh round of thinking trying to help my mom and brother with their <a href="http://www.kinlane.com/?p=528">Internet Operations for their small businesses</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tune in to The McKinsey Quarterly
-url: http://apievangelist.com/2009/02/19/tune-in-to-the-mckinsey-quarterly/
-source: http://apievangelist.com/2009/02/19/tune-in-to-the-mckinsey-quarterly/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/19/tune-in-to-the-mckinsey-quarterly/
+source: http://kinlane.com/2009/02/19/tune-in-to-the-mckinsey-quarterly/
+domain: kinlane.com
 image: http://www.mckinseyquarterly.com/image/mail/mkq_facebook-twitter.gif
 ---
 {% include JB/setup %}<p>I read the McKinsey Quarterly from time to time. It comes into my inbox and when I see a title I like I tend to download and read further.<p></p>

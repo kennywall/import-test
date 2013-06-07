@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Add Fans to Your Event Facebook Profile Using Text Messages (SMS)
-url: http://apievangelist.com/2009/03/27/add-fans-to-your-event-facebook-profile-using-text-messages-sms/
-source: http://apievangelist.com/2009/03/27/add-fans-to-your-event-facebook-profile-using-text-messages-sms/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/27/add-fans-to-your-event-facebook-profile-using-text-messages-sms/
+source: http://kinlane.com/2009/03/27/add-fans-to-your-event-facebook-profile-using-text-messages-sms/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Facebook is in the process of launching a new way for people to become fans of Facebook Pages using SMS text messaging.<p></p>

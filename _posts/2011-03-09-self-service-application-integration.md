@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Self-Service Application Integration
-url: http://apievangelist.com/2011/03/09/self-service-application-integration/
-source: http://apievangelist.com/2011/03/09/self-service-application-integration/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/09/self-service-application-integration/
+source: http://kinlane.com/2011/03/09/self-service-application-integration/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplace.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplace.jpg" alt="" width="250" align="right" />Today is the <a title="First Birthday Google Apps Marketplace" href="http://googleblog.blogspot.com/2011/03/happy-1st-birthday-to-google-apps.html">first birthday of the Google Apps Marketplace</a>, and what better time to talk about the significance of application ecosystems.<p></p>

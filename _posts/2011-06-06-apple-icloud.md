@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Apple iCloud
-url: http://apievangelist.com/2011/06/06/apple-icloud/
-source: http://apievangelist.com/2011/06/06/apple-icloud/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/06/apple-icloud/
+source: http://kinlane.com/2011/06/06/apple-icloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/apple-icloud.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/apple-icloud.jpg" alt="" width="150" align="right" />Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.<p></p>

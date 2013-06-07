@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Print To Google Cloud Print Without a Mobile Device
-url: http://apievangelist.com/2011/02/04/print-to-google-cloud-print-without-mobile-device/
-source: http://apievangelist.com/2011/02/04/print-to-google-cloud-print-without-mobile-device/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/04/print-to-google-cloud-print-without-mobile-device/
+source: http://kinlane.com/2011/02/04/print-to-google-cloud-print-without-mobile-device/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p><a href="https://chrome.google.com/extensions/detail/ffaifmgpcdjedlffbhenaloimajbdkfg?hl=en" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png" alt="" width="250" align="right" /></a>I have been doing a lot of work with <a href="http://code.google.com/apis/cloudprint/docs/overview.html" target="_blank">Google Cloud Print</a> lately. It is an amazing platfor, however one complaint I have is that it currently supports printing only through iPhone, IPad and Android devices.<p></p>

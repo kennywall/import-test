@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon EC2 Instance
-url: http://apievangelist.com/2009/04/12/amazon-ec2-instance/
-source: http://apievangelist.com/2009/04/12/amazon-ec2-instance/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/12/amazon-ec2-instance/
+source: http://kinlane.com/2009/04/12/amazon-ec2-instance/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>For some reason today I got a nervous feeling that I have too many Amazon EC2 instances up and running....I was up to 20 instances mid week to support our event in May. I shut them down 24 hours later, but for some reason I got worried that I had left some up and running.<p></p>

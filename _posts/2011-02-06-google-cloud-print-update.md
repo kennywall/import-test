@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print - Update
-url: http://apievangelist.com/2011/02/06/google-cloud-print-update/
-source: http://apievangelist.com/2011/02/06/google-cloud-print-update/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/06/google-cloud-print-update/
+source: http://kinlane.com/2011/02/06/google-cloud-print-update/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="200" align="right" /></a>Now that you have a <a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">Google Cloud Printer registered with the Google Cloud Print</a> (GCP) registry, you will need to keep the status of that printer updated.<p></p>

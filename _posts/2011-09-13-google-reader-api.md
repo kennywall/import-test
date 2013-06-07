@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Reader API
-url: http://apievangelist.com/2011/09/13/google-reader-api/
-source: http://apievangelist.com/2011/09/13/google-reader-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/13/google-reader-api/
+source: http://kinlane.com/2011/09/13/google-reader-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.google.com/reader "><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg" alt="" width="290" align="right" /></a>One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications.<p></p>

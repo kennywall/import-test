@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Essentials for My REST Print API Area
-url: http://apievangelist.com/2010/11/13/essentials-for-my-rest-print-api-area/
-source: http://apievangelist.com/2010/11/13/essentials-for-my-rest-print-api-area/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/13/essentials-for-my-rest-print-api-area/
+source: http://kinlane.com/2010/11/13/essentials-for-my-rest-print-api-area/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have established the phase one for my Mimeo Connect REST Print API.  I need just the essentials to get the API up and running.<p></p>

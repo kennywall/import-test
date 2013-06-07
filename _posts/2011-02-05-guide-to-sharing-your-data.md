@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Guide to Sharing Your Data
-url: http://apievangelist.com/2011/02/05/guide-to-sharing-your-data/
-source: http://apievangelist.com/2011/02/05/guide-to-sharing-your-data/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/05/guide-to-sharing-your-data/
+source: http://kinlane.com/2011/02/05/guide-to-sharing-your-data/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/share-data.jpg
 ---
 {% include JB/setup %}<p><div><p></p>

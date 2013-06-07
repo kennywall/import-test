@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Millimeter-Scale Computer
-url: http://apievangelist.com/2011/02/22/new-millimeter-scale-computer/
-source: http://apievangelist.com/2011/02/22/new-millimeter-scale-computer/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/22/new-millimeter-scale-computer/
+source: http://kinlane.com/2011/02/22/new-millimeter-scale-computer/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg" alt="" width="300" align="right" />The <a href="http://www.eecs.umich.edu/" target="_blank">University of Michigan Department of Electrical Engineering and Computer Science</a> has <a href="http://ns.umich.edu/htdocs/releases/story.php?id=8278" target="_blank">announced a prototype millimeter-scale computer</a> along with their paper on the subject at at the <a href="http://isscc.org/" target="_blank">International Solid-State Circuits Conference (ISSCC) in San Francisco.</a><p></p>

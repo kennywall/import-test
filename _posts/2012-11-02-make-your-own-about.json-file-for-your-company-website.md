@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Make Your Own About.json File For Your Company Website
-url: http://apievangelist.com/2012/11/02/make-your-own-about.json-file-for-your-company-website/
-source: http://apievangelist.com/2012/11/02/make-your-own-about.json-file-for-your-company-website/
-domain: apievangelist.com
+url: http://kinlane.com/2012/11/02/make-your-own-about.json-file-for-your-company-website/
+source: http://kinlane.com/2012/11/02/make-your-own-about.json-file-for-your-company-website/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p>I spend a lot of time trying to find company logos and a little blurb about what a company does. &nbsp;You'd think in this cloudy API driven world there would a simpler way. &nbsp;</p>

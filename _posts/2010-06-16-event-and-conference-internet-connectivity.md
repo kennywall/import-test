@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event and Conference Internet
-url: http://apievangelist.com/2010/06/16/event-and-conference-internet-connectivity/
-source: http://apievangelist.com/2010/06/16/event-and-conference-internet-connectivity/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/16/event-and-conference-internet-connectivity/
+source: http://kinlane.com/2010/06/16/event-and-conference-internet-connectivity/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/steve-jobs-keynote.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" title="WWDC Keynote" src="http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/steve-jobs-keynote.jpg" alt="" width="250" align="right" />After writing a little about the <a href="http://www.kinlane.com/2010/06/event-broadband-internet/">pathetic state of event and conference Wifi and 3G Internet</a> I've continued going through my notes on this subject.<p></p>

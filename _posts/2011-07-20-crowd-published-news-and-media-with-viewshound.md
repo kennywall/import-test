@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Crowd-published News and Media with ViewsHound
-url: http://apievangelist.com/2011/07/20/crowd-published-news-and-media-with-viewshound/
-source: http://apievangelist.com/2011/07/20/crowd-published-news-and-media-with-viewshound/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/20/crowd-published-news-and-media-with-viewshound/
+source: http://kinlane.com/2011/07/20/crowd-published-news-and-media-with-viewshound/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/viewshound/ViewsHound-Logo.png
 ---
 {% include JB/setup %}<p><a title="ViewsHound" href="http://www.viewshound.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/viewshound/ViewsHound-Logo.png" alt="" width="250" align="right" /></a><a title="ViewsHound" href="http://www.viewshound.com/">ViewsHound</a>, a crowdpublished media site, has published work from over 1,000 authors in its first 10 weeks since launch, including over 230 authors, who have submitted at least 5 pieces of work a piece to ViewsHound.<p></p>

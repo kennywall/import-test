@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OpenStack - Open Source, Open Standards Cloud.
-url: http://apievangelist.com/2010/07/20/openstack-open-source-open-standards-cloud/
-source: http://apievangelist.com/2010/07/20/openstack-open-source-open-standards-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/20/openstack-open-source-open-standards-cloud/
+source: http://kinlane.com/2010/07/20/openstack-open-source-open-standards-cloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/OpenStack_200.jpeg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="OpenStack" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/OpenStack_200.jpeg" alt="" width="194" height="200" align="right" />I am impressed with <a href="http://www.rackspace.com/index.php" target="_blank">Rackspace</a> donating the code for their compute and object storage platform and creating the <a href="http://www.openstack.org/index.php" target="_blank">OpenStack</a>. There has been a lot of discussion around the need for a <a href="http://www.kinlane.com/2010/06/cloud-storage-api-standard/">cloud storage API standard</a>, and whether or not <a href="http://www.readwriteweb.com/cloud/2010/07/cloud-community-debates-is-ama.php" target="_blank">Amazon should be the base for an cloud computing standard</a>.<p></p>

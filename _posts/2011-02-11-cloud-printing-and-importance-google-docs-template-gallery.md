@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Printing and Importance of the Google Docs Template Gallery
-url: http://apievangelist.com/2011/02/11/cloud-printing-and-importance-google-docs-template-gallery/
-source: http://apievangelist.com/2011/02/11/cloud-printing-and-importance-google-docs-template-gallery/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/11/cloud-printing-and-importance-google-docs-template-gallery/
+source: http://kinlane.com/2011/02/11/cloud-printing-and-importance-google-docs-template-gallery/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-docs-template-gallery-1.png
 ---
 {% include JB/setup %}<p>As I'm planning and developing around the <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> platform I'm starting to see a bigger picture.

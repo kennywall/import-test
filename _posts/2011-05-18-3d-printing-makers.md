@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - Makers
-url: http://apievangelist.com/2011/05/18/3d-printing-makers/
-source: http://apievangelist.com/2011/05/18/3d-printing-makers/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-makers/
+source: http://kinlane.com/2011/05/18/3d-printing-makers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-makers.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-makers.jpg" alt="" width="250" align="right" />Just like it takes <a title="creators" href="http://www.kinlane.com/2011/05/3d-printing-the-creators/">creators</a> to develop 3D models of physical objects, it takes makers, who are people that actually bring these virtual representations into the world.<p></p>

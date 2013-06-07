@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Day 2: Switching from PC to Macbook
-url: http://apievangelist.com/2010/10/26/day-2-switching-from-pc-to-macbook/
-source: http://apievangelist.com/2010/10/26/day-2-switching-from-pc-to-macbook/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/26/day-2-switching-from-pc-to-macbook/
+source: http://kinlane.com/2010/10/26/day-2-switching-from-pc-to-macbook/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/macbook-pro
 ---
 {% include JB/setup %}<p>It is now day two of being on my new Macbook Pro, and I am fine.  I haven't used an Mac computer since high school.  I am 38,  so 20 years?<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Following the Dalai Lhama on Twitter
-url: http://apievangelist.com/2009/02/08/following-the-dalai-lhama-on-twitter/
-source: http://apievangelist.com/2009/02/08/following-the-dalai-lhama-on-twitter/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/08/following-the-dalai-lhama-on-twitter/
+source: http://kinlane.com/2009/02/08/following-the-dalai-lhama-on-twitter/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I started following the Dalia Lhama on Twitter today. He already has 11K followers and they seem overwhelmed by the response somewhat. You can follow the Dalai Lhama at <a href="http://twitter.com/ohhdl">http://twitter.com/ohhdl</a><p></p>

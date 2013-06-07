@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Local Directory vs. Local Guide
-url: http://apievangelist.com/2012/02/01/local-directory-vs.-local-guide/
-source: http://apievangelist.com/2012/02/01/local-directory-vs.-local-guide/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/01/local-directory-vs.-local-guide/
+source: http://kinlane.com/2012/02/01/local-directory-vs.-local-guide/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Hipmunk-Hotel-Search-1.png
 ---
 {% include JB/setup %}<p><p><a title="Hipmunk Hotel Search" href="http://hipmunk.com/"><img class="aligncenter size-medium wp-image-577" title="Hipmunk-Hotel-Search-1" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/Hipmunk-Hotel-Search-1-300x259.png" alt="" width="300" height="259" align="right" /></a>When I started working with the&nbsp;<a title="CityGrid Places API" href="http://developer.citygridmedia.com/">CityGrid Places API</a>&nbsp;I needed a project to help me learning about how to use the API, and wrap my head around whats possible when building local web applications. I built&nbsp;<a title="Hyp3rL0cal" href="http://hyp3rl0cal.com/">Hyp3rL0cal</a>&nbsp;which is a local web directory, that I wrote in PHP, then created Python and Ruby versions as well.</p>

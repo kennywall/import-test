@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Art and Craft of Letterpress Printing on your iPad
-url: http://apievangelist.com/2011/07/25/the-art-and-craft-of-letterpress-printing-on-your-ipad/
-source: http://apievangelist.com/2011/07/25/the-art-and-craft-of-letterpress-printing-on-your-ipad/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/25/the-art-and-craft-of-letterpress-printing-on-your-ipad/
+source: http://kinlane.com/2011/07/25/the-art-and-craft-of-letterpress-printing-on-your-ipad/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMePress-Kickstarter.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMePress-Kickstarter.jpg" alt="" width="300" align="right" /><p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Proofing Print Documents From Box.net
-url: http://apievangelist.com/2011/02/02/proofing-print-documents-from-box-net/
-source: http://apievangelist.com/2011/02/02/proofing-print-documents-from-box-net/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/02/proofing-print-documents-from-box-net/
+source: http://kinlane.com/2011/02/02/proofing-print-documents-from-box-net/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
 ---
 {% include JB/setup %}<p>I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>.

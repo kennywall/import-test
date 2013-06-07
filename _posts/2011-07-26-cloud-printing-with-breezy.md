@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Printing with Breezy
-url: http://apievangelist.com/2011/07/26/cloud-printing-with-breezy/
-source: http://apievangelist.com/2011/07/26/cloud-printing-with-breezy/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/26/cloud-printing-with-breezy/
+source: http://kinlane.com/2011/07/26/cloud-printing-with-breezy/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/breezy/Breezy-Cloud-Printing.png
 ---
 {% include JB/setup %}<p><a title="Breezy" href="http://breezy.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/breezy/Breezy-Cloud-Printing.png" alt="" width="200" align="right" /></a><p></p>

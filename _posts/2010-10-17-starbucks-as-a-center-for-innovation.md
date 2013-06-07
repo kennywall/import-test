@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Starbucks as a Center for Innovation
-url: http://apievangelist.com/2010/10/17/starbucks-as-a-center-for-innovation/
-source: http://apievangelist.com/2010/10/17/starbucks-as-a-center-for-innovation/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/17/starbucks-as-a-center-for-innovation/
+source: http://kinlane.com/2010/10/17/starbucks-as-a-center-for-innovation/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/starbucks-coffee-shops.gif
 ---
 {% include JB/setup %}<p>I have been very fortunate in the past months to have attended some amazing tech community gatherings, featuring some very interesting minds of our time, including <a href="http://en.wikipedia.org/wiki/Elon_Musk" target="_blank">Elon Musk</a>, <a href="http://en.wikipedia.org/wiki/Andy_Bechtolsheim" target="_blank">Andy Bechtolsheim</a>, and <a href="http://en.wikipedia.org/wiki/Mark_Zuckerberg" target="_blank">Mark Zuckerberg</a>.<p></p>

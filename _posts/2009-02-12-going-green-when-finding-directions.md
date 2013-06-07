@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Going green when finding directions...
-url: http://apievangelist.com/2009/02/12/going-green-when-finding-directions/
-source: http://apievangelist.com/2009/02/12/going-green-when-finding-directions/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/12/going-green-when-finding-directions/
+source: http://kinlane.com/2009/02/12/going-green-when-finding-directions/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I just did it....I was googling an address of a table I"m buying off craigslist. I typed the address into <a class="zem_slink" title="Google Maps" rel="homepage" href="http://maps.google.com">Google Maps</a> and it already had my home address.<p></p>

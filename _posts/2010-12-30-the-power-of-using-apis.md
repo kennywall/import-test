@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Power of Using APIs
-url: http://apievangelist.com/2010/12/30/the-power-of-using-apis/
-source: http://apievangelist.com/2010/12/30/the-power-of-using-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/30/the-power-of-using-apis/
+source: http://kinlane.com/2010/12/30/the-power-of-using-apis/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Here is a brief example of how APIs can quickly deliver value in every day business.<p></p>

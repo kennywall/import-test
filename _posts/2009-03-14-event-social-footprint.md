@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Social Footprint
-url: http://apievangelist.com/2009/03/14/event-social-footprint/
-source: http://apievangelist.com/2009/03/14/event-social-footprint/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/14/event-social-footprint/
+source: http://kinlane.com/2009/03/14/event-social-footprint/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am playing around with different formulas for exploring and quantifying an event or conferences social media footprint.<p></p>

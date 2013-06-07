@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Platform for Your Small Business
-url: http://apievangelist.com/2009/04/26/open-platform-for-your-small-business/
-source: http://apievangelist.com/2009/04/26/open-platform-for-your-small-business/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/open-platform-for-your-small-business/
+source: http://kinlane.com/2009/04/26/open-platform-for-your-small-business/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Reading various posts about application development platforms for <a class="zem_slink" title="IPhone OS" rel="homepage" href="http://developer.apple.com/iphone/">IPhone</a>, Blackberry, <a class="zem_slink" title="Vodafone" rel="homepage" href="http://www.vodafone.com/">Vodafone</a>, Android and many others.<p></p>

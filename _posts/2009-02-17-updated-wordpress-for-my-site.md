@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Updated Wordpress for My Site
-url: http://apievangelist.com/2009/02/17/updated-wordpress-for-my-site/
-source: http://apievangelist.com/2009/02/17/updated-wordpress-for-my-site/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/17/updated-wordpress-for-my-site/
+source: http://kinlane.com/2009/02/17/updated-wordpress-for-my-site/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Updated my Wordpress version for www.kinlane.com and it killed my theme....so there was some custom work I had done that was lost.

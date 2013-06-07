@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Saving Money with Social Media and Social Networks
-url: http://apievangelist.com/2009/02/26/saving-money-with-social-media-and-social-networks/
-source: http://apievangelist.com/2009/02/26/saving-money-with-social-media-and-social-networks/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/26/saving-money-with-social-media-and-social-networks/
+source: http://kinlane.com/2009/02/26/saving-money-with-social-media-and-social-networks/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just did my taxes and broke down my spending for last year. I was newly divorced last year so I didn't have any restraing on my social spending budget. I won't give numbers on what I spent, but I was blown away what I spent wining and dining business customers as well as exploring the singles dating and partying scene.<p></p>

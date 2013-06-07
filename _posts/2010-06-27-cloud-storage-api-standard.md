@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Storage API Standard
-url: http://apievangelist.com/2010/06/27/cloud-storage-api-standard/
-source: http://apievangelist.com/2010/06/27/cloud-storage-api-standard/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/27/cloud-storage-api-standard/
+source: http://kinlane.com/2010/06/27/cloud-storage-api-standard/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud.jpeg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px; border-color: #000000;" title="Cloud Storage" src="http://kinlane-productions.s3.amazonaws.com/cloud.jpeg" border="1" alt="" width="250" align="right" />I was reviewing a <a href="http://www.kinlane.com/2010/06/cloud-storage-with-cloudberry-backup/">cloud backup product</a>, <a href="http://cloudberrylab.com/default.aspx?page=cloudberry-backup" target="_blank">CloudBerry Backup</a> yesterday. Each time I try a new cloud storage product I can't help think how we need interroperability between all the cloud storage providers.<p></p>

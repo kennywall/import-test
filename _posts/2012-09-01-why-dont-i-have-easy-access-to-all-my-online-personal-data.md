@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why Don't I Have Easy Access to all My Online Personal Data
-url: http://apievangelist.com/2012/09/01/why-dont-i-have-easy-access-to-all-my-online-personal-data/
-source: http://apievangelist.com/2012/09/01/why-dont-i-have-easy-access-to-all-my-online-personal-data/
-domain: apievangelist.com
+url: http://kinlane.com/2012/09/01/why-dont-i-have-easy-access-to-all-my-online-personal-data/
+source: http://kinlane.com/2012/09/01/why-dont-i-have-easy-access-to-all-my-online-personal-data/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/facebook/Facebook+Download+Your+Archive.png" alt="" width="300" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: LinkedIn Integration with Gmail
-url: http://apievangelist.com/2008/12/17/linkedin-integration-with-gmail/
-source: http://apievangelist.com/2008/12/17/linkedin-integration-with-gmail/
-domain: apievangelist.com
+url: http://kinlane.com/2008/12/17/linkedin-integration-with-gmail/
+source: http://kinlane.com/2008/12/17/linkedin-integration-with-gmail/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>While building my network on LinkedIn and searching for friends of course I came across the screen offering to use my Gmail, AOl or other address book to find people to connect with.<p></p>

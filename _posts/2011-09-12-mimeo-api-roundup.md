@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo API Roundup
-url: http://apievangelist.com/2011/09/12/mimeo-api-roundup/
-source: http://apievangelist.com/2011/09/12/mimeo-api-roundup/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/12/mimeo-api-roundup/
+source: http://kinlane.com/2011/09/12/mimeo-api-roundup/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="200" align="right" /></a>We added four new APIs, introducing a whole new type of APIs we'll be releasing from time to time here at Mimeo Connect. I'm calling them <a title="Document Printing APIs" href="http://mimeoconnect.3scale.net/">Document Printing APIs</a>, because they are focused around printing specific type of document.<p></p>

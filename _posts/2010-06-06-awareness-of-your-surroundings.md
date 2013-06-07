@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Awareness of Your Surroundings
-url: http://apievangelist.com/2010/06/06/awareness-of-your-surroundings/
-source: http://apievangelist.com/2010/06/06/awareness-of-your-surroundings/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/06/awareness-of-your-surroundings/
+source: http://kinlane.com/2010/06/06/awareness-of-your-surroundings/
+domain: kinlane.com
 image: http://menukarma.com/menus/files/rss-syndicate.png
 ---
 {% include JB/setup %}<p>I was re-reading a blog post I had starred called <a href="http://www.steverubel.com/the-situationally-aware-business?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+steverubel+%28The+Steve+Rubel+Stream%29&amp;utm_content=Google+Reader">The Situationally Aware Business</a>. Great post about a companies awareness of their brand, customers and world around them in real-time.<img style="padding: 20px;" title="RSS" src="http://menukarma.com/menus/files/rss-syndicate.png" alt="" width="200" align="right" /><p></p>

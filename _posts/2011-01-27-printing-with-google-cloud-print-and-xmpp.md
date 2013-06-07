@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Printing with Google Cloud Print and XMPP
-url: http://apievangelist.com/2011/01/27/printing-with-google-cloud-print-and-xmpp/
-source: http://apievangelist.com/2011/01/27/printing-with-google-cloud-print-and-xmpp/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/27/printing-with-google-cloud-print-and-xmpp/
+source: http://kinlane.com/2011/01/27/printing-with-google-cloud-print-and-xmpp/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png
 ---
 {% include JB/setup %}<p>The potential of decentralized technologies on the Internet is far greater than their counterparts.  One such technology is <a href="http://xmpp.org/" target="_blank">XMPP</a>,  Extensible Messaging and Presence Protocol or XMPP, is an open technology for real-time communication, which you find in instant messaging, multi-party chat, voice and video calls, collaboration, and content syndication applications.

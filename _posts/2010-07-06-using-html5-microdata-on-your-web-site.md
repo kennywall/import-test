@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Using HTML5 Microdata on Your Web Site
-url: http://apievangelist.com/2010/07/06/using-html5-microdata-on-your-web-site/
-source: http://apievangelist.com/2010/07/06/using-html5-microdata-on-your-web-site/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/06/using-html5-microdata-on-your-web-site/
+source: http://kinlane.com/2010/07/06/using-html5-microdata-on-your-web-site/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/microformats.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Microformats" src="http://kinlane-productions.s3.amazonaws.com/microformats.png" alt="" width="120" height="127" align="right" />When it comes to HTML5, for some reason the less visual and more functional aspects of HTML5 is what excites me. I was just reading more about the <a href="http://www.w3.org/TR/html5/microdata.html" target="_blank">HTML5 Microdata specification</a>.<p></p>

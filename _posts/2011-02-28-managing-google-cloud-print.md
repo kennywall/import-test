@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Managing Google Cloud Printers
-url: http://apievangelist.com/2011/02/28/managing-google-cloud-print/
-source: http://apievangelist.com/2011/02/28/managing-google-cloud-print/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/managing-google-cloud-print/
+source: http://kinlane.com/2011/02/28/managing-google-cloud-print/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png" alt="" width="325" align="right" />I have been getting a lot of questions from users regarding how to manage their <a title="Google Cloud Printers" href="http://www.google.com/landing/cloudprint/win-enable.html" target="_blank">Google Cloud Printers</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Getting Ready for DreamForce this week in San Francisco
-url: http://apievangelist.com/2011/08/28/getting-ready-for-dreamforce-this-week-in-san-francisco/
-source: http://apievangelist.com/2011/08/28/getting-ready-for-dreamforce-this-week-in-san-francisco/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/28/getting-ready-for-dreamforce-this-week-in-san-francisco/
+source: http://kinlane.com/2011/08/28/getting-ready-for-dreamforce-this-week-in-san-francisco/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events/dreamforce_logo.jpg
 ---
 {% include JB/setup %}<p><a title="Salesforce's cloud computing industry event, Dreamforce" href="http://www.salesforce.com/dreamforce/DF11/"><img src="http://kinlane-productions.s3.amazonaws.com/events/dreamforce_logo.jpg" alt="" width="150" align="right" /></a>I'm gearing up for<a title="Salesforce's cloud computing industry event, Dreamforce" href="http://www.salesforce.com/dreamforce/DF11/">Salesforce's cloud computing industry event, DreamForce</a>, this week. The event, titled "Welcome to the Social Enterprise" is happening at Moscone Center August 30th through September 2nd.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Claiming My Blog Posts and Social Profiles
-url: http://apievangelist.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
-source: http://apievangelist.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
+source: http://kinlane.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/rellinking.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/rellinking.png" alt="" width="350" align="right" />I made some more changes to my network over the holidays. I'm working to better tie together my blog(s) and my social network profiles using the <a title="rel= property" href="http://www.w3schools.com/jsref/prop_link_rel.asp">rel="" property</a>.<p></p>

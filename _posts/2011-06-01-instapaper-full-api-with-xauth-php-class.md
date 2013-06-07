@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instapaper Full API with XAuth - PHP Class
-url: http://apievangelist.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
-source: http://apievangelist.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
+source: http://kinlane.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}<p><a title="Instapaper API" href="http://www.instapaper.com/api/full"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png" alt="" width="175" align="right" /></a>I'm working my way through a list of projects I have, and currently the<a title="Instapaper API" href="http://www.instapaper.com/api/full">Instapaper API</a> is top of my list.<p></p>

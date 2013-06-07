@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter for Business
-url: http://apievangelist.com/2010/12/28/twitter-for-business/
-source: http://apievangelist.com/2010/12/28/twitter-for-business/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/28/twitter-for-business/
+source: http://kinlane.com/2010/12/28/twitter-for-business/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg" alt="" width="250" align="right" />Twitter has a <a href="http://business.twitter.com/">business center</a> setup to help people make the most of Twitter for their business.<p></p>

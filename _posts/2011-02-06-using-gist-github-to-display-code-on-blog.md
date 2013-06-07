@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Using Github Gists to Display Code on Blog
-url: http://apievangelist.com/2011/02/06/using-gist-github-to-display-code-on-blog/
-source: http://apievangelist.com/2011/02/06/using-gist-github-to-display-code-on-blog/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/06/using-gist-github-to-display-code-on-blog/
+source: http://kinlane.com/2011/02/06/using-gist-github-to-display-code-on-blog/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github/github-gist.png
 ---
 {% include JB/setup %}<p>Sometimes you notice things on the Internet and they just don't register for a while.  I've seen many sites displaying their code samples using a <a href="https://gist.github.com/" target="_blank">Gist by Github</a>, but it hasn't really registered in my head for some reason.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Docs Increases File Size Limit from 1GB to 10GB
-url: http://apievangelist.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
-source: http://apievangelist.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
+source: http://kinlane.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg" alt="" width="150" align="right" /><p></p>

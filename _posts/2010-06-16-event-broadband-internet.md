@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Broadband Internet
-url: http://apievangelist.com/2010/06/16/event-broadband-internet/
-source: http://apievangelist.com/2010/06/16/event-broadband-internet/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/16/event-broadband-internet/
+source: http://kinlane.com/2010/06/16/event-broadband-internet/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/broadband_pipe.jpg
 ---
 {% include JB/setup %}<p>I was reading <a href="http://www.cloudave.com/link/the-chaos-of-byow-bring-your-own-wi-fi?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+CloudAve+%28CloudAve%29&amp;utm_content=Google+Reader">The Chaos of BYOW (Bring Your Own Wi-F</a>i) on Cloud Ave yesterday. Several topics I've been talking about come to mind:<img style="padding: 15px;" title="Broadband Internet" src="http://kinlane-productions.s3.amazonaws.com/broadband_pipe.jpg" alt="" width="250" align="right" />

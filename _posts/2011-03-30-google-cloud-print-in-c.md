@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Submit Google Cloud Print Job Example in C#
-url: http://apievangelist.com/2011/03/30/google-cloud-print-in-c/
-source: http://apievangelist.com/2011/03/30/google-cloud-print-in-c/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/30/google-cloud-print-in-c/
+source: http://kinlane.com/2011/03/30/google-cloud-print-in-c/
+domain: kinlane.com
 image: http://pastie.org/1733781.js
 ---
 {% include JB/setup %}<p>I have been working on my <a title="Google Cloud Print Proxy in PHP" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy software in PHP</a> to make available for a wider audience.<p></p>

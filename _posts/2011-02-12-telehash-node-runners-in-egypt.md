@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TeleHash Node Runners in Egypt
-url: http://apievangelist.com/2011/02/12/telehash-node-runners-in-egypt/
-source: http://apievangelist.com/2011/02/12/telehash-node-runners-in-egypt/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/12/telehash-node-runners-in-egypt/
+source: http://kinlane.com/2011/02/12/telehash-node-runners-in-egypt/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/high-stakes-hackathon-egypt.jpg
 ---
 {% include JB/setup %}<p><em>I'm learning more about distributed technologies like <a href="http://www.telehash.org/" target="_blank">TeleHash</a> and <a class="zem_slink" title="Kademlia" rel="wikipedia" href="http://en.wikipedia.org/wiki/Kademlia">Kademlia</a> and matching with other wireless infrastructure knowledge I have.  Telling in fictional stories helps me apply and understand in my brain.   Here is one story from Egypt.</em>

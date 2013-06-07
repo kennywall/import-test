@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Editing of Google Spreadsheets in 45 Languages
-url: http://apievangelist.com/2011/03/02/editing-google-spreadsheets-in-45-languages/
-source: http://apievangelist.com/2011/03/02/editing-google-spreadsheets-in-45-languages/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/02/editing-google-spreadsheets-in-45-languages/
+source: http://kinlane.com/2011/03/02/editing-google-spreadsheets-in-45-languages/
+domain: kinlane.com
 image: http://1.bp.blogspot.com/-sRbuM8hc-5E/TW5nBf4LniI/AAAAAAAAAw0/hEmmYXoqGNQ/s320/nexus-screenshot-2.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://1.bp.blogspot.com/-sRbuM8hc-5E/TW5nBf4LniI/AAAAAAAAAw0/hEmmYXoqGNQ/s320/nexus-screenshot-2.jpg" alt="" width="130" align="right" />Google has enabled many of the same mobile editing capabilities in Google Docs, for Google Spreadsheets.<p></p>

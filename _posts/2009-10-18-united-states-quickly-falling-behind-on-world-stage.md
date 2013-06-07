@@ -1,9 +1,9 @@
 ---
 layout: post
 title: United States Quickly Falling Behind on World Stage
-url: http://apievangelist.com/2009/10/18/united-states-quickly-falling-behind-on-world-stage/
-source: http://apievangelist.com/2009/10/18/united-states-quickly-falling-behind-on-world-stage/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/18/united-states-quickly-falling-behind-on-world-stage/
+source: http://kinlane.com/2009/10/18/united-states-quickly-falling-behind-on-world-stage/
+domain: kinlane.com
 image: http://i.zdnet.com/blogs/internetaccess.png
 ---
 {% include JB/setup %}<p>The United States is going to continue falling behind on the world stage as we prioritize spending our money on wars, wall street bailouts and other unnecessary things that do not help us grow as a society.<img class="alignnone" title="Internet ACcess" src="http://i.zdnet.com/blogs/internetaccess.png" alt="" width="246" height="369" align="right" /><p></p>

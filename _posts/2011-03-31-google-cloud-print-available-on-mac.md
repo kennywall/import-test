@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print Available on Mac
-url: http://apievangelist.com/2011/03/31/google-cloud-print-available-on-mac/
-source: http://apievangelist.com/2011/03/31/google-cloud-print-available-on-mac/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/31/google-cloud-print-available-on-mac/
+source: http://kinlane.com/2011/03/31/google-cloud-print-available-on-mac/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png" alt="" width="300" align="right" />Google is steadily moving forward with releases around the Google Cloud Print Platform.<p></p>

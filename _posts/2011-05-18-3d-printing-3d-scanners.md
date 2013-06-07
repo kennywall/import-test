@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - 3D Scanners
-url: http://apievangelist.com/2011/05/18/3d-printing-3d-scanners/
-source: http://apievangelist.com/2011/05/18/3d-printing-3d-scanners/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-3d-scanners/
+source: http://kinlane.com/2011/05/18/3d-printing-3d-scanners/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-scanners.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-scanners.jpg" alt="" width="250" align="right" />3D printing doesn't always start with a <a title="human designer or creator" href="http://www.kinlane.com/2011/05/3d-printing-the-creators/">human designer or creator.</a> There are wide variety of 3D scanners that can be used in the 3D printing process.<p></p>

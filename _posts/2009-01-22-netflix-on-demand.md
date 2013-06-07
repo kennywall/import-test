@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Netflix on Demand
-url: http://apievangelist.com/2009/01/22/netflix-on-demand/
-source: http://apievangelist.com/2009/01/22/netflix-on-demand/
-domain: apievangelist.com
+url: http://kinlane.com/2009/01/22/netflix-on-demand/
+source: http://kinlane.com/2009/01/22/netflix-on-demand/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I finally signed up for Netflix again to get movies in the mail. What spurred me on was hearing they had done PLay on Deman.<p></p>

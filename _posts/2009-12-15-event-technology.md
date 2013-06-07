@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Technology
-url: http://apievangelist.com/2009/12/15/event-technology/
-source: http://apievangelist.com/2009/12/15/event-technology/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/15/event-technology/
+source: http://kinlane.com/2009/12/15/event-technology/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am doing a lot of research in applications and tools that are available out there for the event and conference industry.<p></p>

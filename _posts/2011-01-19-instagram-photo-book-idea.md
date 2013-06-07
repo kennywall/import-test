@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instagram Photo Book [Idea]
-url: http://apievangelist.com/2011/01/19/instagram-photo-book-idea/
-source: http://apievangelist.com/2011/01/19/instagram-photo-book-idea/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/19/instagram-photo-book-idea/
+source: http://kinlane.com/2011/01/19/instagram-photo-book-idea/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
 {% include JB/setup %}<p><em>This is another post in my <a href="http://www.apievangelist.com/">API</a> Ideas series, I'm posting all my ideas for applications that could be built using the <a href="http://www.mimeo.com">Mimeo</a> Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> API.</em><p></p>

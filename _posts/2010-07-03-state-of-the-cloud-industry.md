@@ -1,9 +1,9 @@
 ---
 layout: post
 title: State of the Cloud Industry
-url: http://apievangelist.com/2010/07/03/state-of-the-cloud-industry/
-source: http://apievangelist.com/2010/07/03/state-of-the-cloud-industry/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/03/state-of-the-cloud-industry/
+source: http://kinlane.com/2010/07/03/state-of-the-cloud-industry/
+domain: kinlane.com
 image: http://www.jackofallclouds.com/wp-content/uploads/2010/07/cloud_providers_snapshot.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="State of the Cloud" src="http://www.jackofallclouds.com/wp-content/uploads/2010/07/cloud_providers_snapshot.png" alt="" width="250" align="right" />I was just reading <a href="http://www.jackofallclouds.com/2010/07/state-of-the-cloud-july-2010/" target="_blank">State of the Cloud</a> over at <a href="http://www.jackofallclouds.com/2010/07/state-of-the-cloud-july-2010/" target="_blank">Jack of all Clouds</a>. They monitor the various players in the cloud game and who the movers and shakers are.<p></p>

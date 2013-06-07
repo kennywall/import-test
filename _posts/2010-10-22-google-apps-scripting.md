@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Apps Scripting
-url: http://apievangelist.com/2010/10/22/google-apps-scripting/
-source: http://apievangelist.com/2010/10/22/google-apps-scripting/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/22/google-apps-scripting/
+source: http://kinlane.com/2010/10/22/google-apps-scripting/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}<p>Google introduced <a href="http://googleenterprise.blogspot.com/2010/10/automating-business-processes-in-google.html" target="_blank">scripting for Google Sites</a> today.  <a href="http://code.google.com/googleapps/appsscript/index.html" target="_blank">Google Apps Script</a> uses JavaScript to allow automation across Google products and interaction with 3rd party services.<p></p>

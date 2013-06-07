@@ -1,9 +1,9 @@
 ---
 layout: post
 title: MIT Research Delivers Printed Solar Cells
-url: http://apievangelist.com/2011/07/11/mit-research-delivers-printed-solar-cells/
-source: http://apievangelist.com/2011/07/11/mit-research-delivers-printed-solar-cells/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/11/mit-research-delivers-printed-solar-cells/
+source: http://kinlane.com/2011/07/11/mit-research-delivers-printed-solar-cells/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/printed-solar-cells.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/printed-solar-cells.jpg" alt="" width="250" align="right" />A <a title="team of researchers at MIT have developed a way to print solar cells" href="http://web.mit.edu/newsoffice/2011/printable-solar-cells-0711.html">team of researchers at MIT have developed a way to print solar cells</a>, just like printing out of an office printer. Almost as inexpensive as printing a photo from your inkjet, the simple solar cell have been created on a flimsy sheet, formed from special inks deposited on the paper.<p></p>

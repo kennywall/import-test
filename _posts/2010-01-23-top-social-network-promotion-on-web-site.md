@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Top Social Network Promotion on Web Site
-url: http://apievangelist.com/2010/01/23/top-social-network-promotion-on-web-site/
-source: http://apievangelist.com/2010/01/23/top-social-network-promotion-on-web-site/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/23/top-social-network-promotion-on-web-site/
+source: http://kinlane.com/2010/01/23/top-social-network-promotion-on-web-site/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was setting up a demonstration event web site to show how events can become more social. I setup new accounts for the event at Facebook, Twitter, and LinkedIn.<p></p>

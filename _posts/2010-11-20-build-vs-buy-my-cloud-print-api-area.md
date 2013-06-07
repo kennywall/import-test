@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Build vs Buy my Cloud Print API Area
-url: http://apievangelist.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
-source: http://apievangelist.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
+source: http://kinlane.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/3Scale-Logo.jpg
 ---
 {% include JB/setup %}<p>I need to get an API area around my REST Cloud Print API.  I have a functional set of RESTful cloud print services, but not much else.<p></p>

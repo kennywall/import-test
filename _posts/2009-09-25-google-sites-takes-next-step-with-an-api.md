@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Sites Takes Next Step with an API
-url: http://apievangelist.com/2009/09/25/google-sites-takes-next-step-with-an-api/
-source: http://apievangelist.com/2009/09/25/google-sites-takes-next-step-with-an-api/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/25/google-sites-takes-next-step-with-an-api/
+source: http://kinlane.com/2009/09/25/google-sites-takes-next-step-with-an-api/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google recently <a href="http://googlecode.blogspot.com/2009/09/google-sites-now-with-api.html">opened up Google Site and introduced an API</a> as well as <a href="http://googleenterprise.blogspot.com/2009/09/import-export-and-more-with-new-google_24.html">import / export features for Google Sites</a>. I think this will increase the potential for enterprise and other business adoption.<p></p>

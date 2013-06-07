@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Depending on the Cloud
-url: http://apievangelist.com/2009/10/11/depending-on-the-cloud/
-source: http://apievangelist.com/2009/10/11/depending-on-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/11/depending-on-the-cloud/
+source: http://kinlane.com/2009/10/11/depending-on-the-cloud/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I had two ideas for stories that some day I would like to write. I generally start a new Google Doc and flush out the beginning of story or production that I would like to flush out more and eventually do something with.<p></p>

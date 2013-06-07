@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Programming with PDFs
-url: http://apievangelist.com/2011/01/20/programming-with-pdfs/
-source: http://apievangelist.com/2011/01/20/programming-with-pdfs/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/20/programming-with-pdfs/
+source: http://kinlane.com/2011/01/20/programming-with-pdfs/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png
 ---
 {% include JB/setup %}<p>When it comes to developing for <a href="http://www.kinlane.com/category/publishing/">Print</a> applications you need to be able to <a href="http://www.kinlane.com/2011/01/programming-with-images-using-imagemagick/">programmatically manipulate images</a>.  Currently with <a href="http://www.mimeo.com">Mimeo</a>, ultimately everything needs to be in a PDF format before it gets sent to the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>.

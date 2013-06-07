@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Personal Budgets
-url: http://apievangelist.com/2010/01/20/personal-budgets/
-source: http://apievangelist.com/2010/01/20/personal-budgets/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/20/personal-budgets/
+source: http://kinlane.com/2010/01/20/personal-budgets/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Just came across a cool web application called <a href="http://bundle.com/">Bundle</a> that lets you see how people like you save and spend their money?<p></p>

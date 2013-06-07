@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Scan and Digitize Papers and Books for Only $1
-url: http://apievangelist.com/2011/08/05/scan-and-digitize-papers-and-books-for-only-1/
-source: http://apievangelist.com/2011/08/05/scan-and-digitize-papers-and-books-for-only-1/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/05/scan-and-digitize-papers-and-books-for-only-1/
+source: http://kinlane.com/2011/08/05/scan-and-digitize-papers-and-books-for-only-1/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/1dollarscan/1DollarScan-Logo.png
 ---
 {% include JB/setup %}<p><a title="1dollarscan.com" href="http://1dollarscan.com/index.php"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/1dollarscan/1DollarScan-Logo.png" alt="" width="200" align="right" /></a><p></p>

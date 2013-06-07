@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Distributed Harvesting and Scraping
-url: http://apievangelist.com/2010/06/05/distributed-harvesting-and-scraping/
-source: http://apievangelist.com/2010/06/05/distributed-harvesting-and-scraping/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/05/distributed-harvesting-and-scraping/
+source: http://kinlane.com/2010/06/05/distributed-harvesting-and-scraping/
+domain: kinlane.com
 image: http://www.3idatascraping.com/images/data_scraping.jpg
 ---
 {% include JB/setup %}<p>Data is the center of my world. I enjoy that there are finally great  places on the Internet get open large data sets such as <a href="http://www.factual.com/">Factual</a> and <a href="../?p=1205">Google Fusion Tables</a>. However  much of the data I want for different purposes is not neatly organized  into an easily accessible data set or available on the Internet.<img class="alignnone" title="Harvesting and Scraping" src="http://www.3idatascraping.com/images/data_scraping.jpg" alt="" width="400" height="308" align="right" /><p></p>

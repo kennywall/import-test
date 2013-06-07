@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mashery - Evolution of Distribution
-url: http://apievangelist.com/2011/06/02/mashery-evolution-of-distribution/
-source: http://apievangelist.com/2011/06/02/mashery-evolution-of-distribution/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/02/mashery-evolution-of-distribution/
+source: http://kinlane.com/2011/06/02/mashery-evolution-of-distribution/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Print vs. Lulu
-url: http://apievangelist.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-source: http://apievangelist.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
+source: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg" alt="" width="200" align="right" /><p></p>

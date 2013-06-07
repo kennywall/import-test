@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Role of Women in Technology
-url: http://apievangelist.com/2010/07/04/role-of-women-in-technology/
-source: http://apievangelist.com/2010/07/04/role-of-women-in-technology/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/04/role-of-women-in-technology/
+source: http://kinlane.com/2010/07/04/role-of-women-in-technology/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>As a big dumb white guy, I often fall into the common trap that is set in our society. The trap that white men rule. I get to play dumb to the fact that there is injustice in the world.<p></p>

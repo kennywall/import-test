@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quick Walk Through World of Location & Places APIs
-url: http://apievangelist.com/2011/12/22/a-quick-walk-through-the-local-and-places-api-landscape/
-source: http://apievangelist.com/2011/12/22/a-quick-walk-through-the-local-and-places-api-landscape/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/22/a-quick-walk-through-the-local-and-places-api-landscape/
+source: http://kinlane.com/2011/12/22/a-quick-walk-through-the-local-and-places-api-landscape/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png
 ---
 {% include JB/setup %}<p><table align="right">

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Apps for My Domain - Gmail Contacts
-url: http://apievangelist.com/2008/11/13/google-apps-for-my-domain-gmail-contacts/
-source: http://apievangelist.com/2008/11/13/google-apps-for-my-domain-gmail-contacts/
-domain: apievangelist.com
+url: http://kinlane.com/2008/11/13/google-apps-for-my-domain-gmail-contacts/
+source: http://kinlane.com/2008/11/13/google-apps-for-my-domain-gmail-contacts/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Playing around and organizing my Google Contacts under my Google Apps for Your Domain account. Wish they would have collaboration features in here to share with the rest of my co-workers. <p></p>

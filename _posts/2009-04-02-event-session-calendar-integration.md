@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Session Calendar Integration
-url: http://apievangelist.com/2009/04/02/event-session-calendar-integration/
-source: http://apievangelist.com/2009/04/02/event-session-calendar-integration/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/02/event-session-calendar-integration/
+source: http://kinlane.com/2009/04/02/event-session-calendar-integration/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I have signed up for the Cloud Slam 09 Virtual Technology Conference. Looks like some greate speakers and sessions on the topic of Cloud Computing.<p></p>

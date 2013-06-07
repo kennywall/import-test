@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Alert cross referenced with my Google Reader
-url: http://apievangelist.com/2009/04/02/google-alert-cross-referenced-with-my-google-reader/
-source: http://apievangelist.com/2009/04/02/google-alert-cross-referenced-with-my-google-reader/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/02/google-alert-cross-referenced-with-my-google-reader/
+source: http://kinlane.com/2009/04/02/google-alert-cross-referenced-with-my-google-reader/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Hey Google! Can you guys please cross reference my Google Alert for blog searches with my Google Reader.<p></p>

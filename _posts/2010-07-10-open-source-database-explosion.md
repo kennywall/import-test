@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Source Database Explosion
-url: http://apievangelist.com/2010/07/10/open-source-database-explosion/
-source: http://apievangelist.com/2010/07/10/open-source-database-explosion/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/10/open-source-database-explosion/
+source: http://kinlane.com/2010/07/10/open-source-database-explosion/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Conferences/OreillyOscon.PNG
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Oscon" src="http://kinlane-productions.s3.amazonaws.com/Conferences/OreillyOscon.PNG" alt="" width="204" height="167" align="right" />I am spending some time researching various <a href="http://www.kinlane.com/category/open-source/" target="_blank">open source</a> and <a href="http://sites.google.com/a/kinlane.com/cloud-computing/players/zeus" target="_blank">cloud computing service providers</a> using the exhibitors list for <a href="http://www.oscon.com/oscon2010" target="_blank">OSCON 2010</a>. <a href="http://www.audreywatters.com" target="_blank">Audrey</a> needs some tech research done, before she attends the event. She wants to be prepared So I'm going through each exhibitor and learning and documenting as much as I can.<p></p>

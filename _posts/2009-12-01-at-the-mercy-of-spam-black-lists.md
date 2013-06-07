@@ -1,9 +1,9 @@
 ---
 layout: post
 title: At the mercy of SPAM black lists
-url: http://apievangelist.com/2009/12/01/at-the-mercy-of-spam-black-lists/
-source: http://apievangelist.com/2009/12/01/at-the-mercy-of-spam-black-lists/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/01/at-the-mercy-of-spam-black-lists/
+source: http://kinlane.com/2009/12/01/at-the-mercy-of-spam-black-lists/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>SPAM black lists come in very handy for filtering out servers that potentially are sending SPAM. However every once in a while I get a server listed and I get stuck in hell.<p></p>

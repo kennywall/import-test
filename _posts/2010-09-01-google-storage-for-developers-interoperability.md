@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Storage for Developers Interoperability
-url: http://apievangelist.com/2010/09/01/google-storage-for-developers-interoperability/
-source: http://apievangelist.com/2010/09/01/google-storage-for-developers-interoperability/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/01/google-storage-for-developers-interoperability/
+source: http://kinlane.com/2010/09/01/google-storage-for-developers-interoperability/
+domain: kinlane.com
 image: http://code.google.com/images/code_labs_logo.gif
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Google-Developer-Storage" src="http://code.google.com/images/code_labs_logo.gif" alt="" align="right" />I finally got my<a href="http://code.google.com/apis/storage/" target="_blank"> Google Storage for Developers</a> email invite the other day. They promised attendees of Google I/O would get them quicker, it took 3 months.<p></p>

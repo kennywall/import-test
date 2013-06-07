@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Developer Project History in Real-Time
-url: http://apievangelist.com/2011/02/28/project-history-in-real-time/
-source: http://apievangelist.com/2011/02/28/project-history-in-real-time/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/project-history-in-real-time/
+source: http://kinlane.com/2011/02/28/project-history-in-real-time/
+domain: kinlane.com
 image: http://careers.stackoverflow.com/Content/Img/logo-careers-2-so.png
 ---
 {% include JB/setup %}<p><a href="http://stackoverflow.com/" target="_blank"><img src="http://careers.stackoverflow.com/Content/Img/logo-careers-2-so.png" alt="" align="right" /></a>One of my biggest complaints about the concept of a resume is that you only update it when you need a job.<p></p>

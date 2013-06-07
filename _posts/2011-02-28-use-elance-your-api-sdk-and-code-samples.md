@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Use Elance To Developer Your API SDK and Code Samples
-url: http://apievangelist.com/2011/02/28/use-elance-your-api-sdk-and-code-samples/
-source: http://apievangelist.com/2011/02/28/use-elance-your-api-sdk-and-code-samples/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/use-elance-your-api-sdk-and-code-samples/
+source: http://kinlane.com/2011/02/28/use-elance-your-api-sdk-and-code-samples/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/elance/gears-code-samples.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/elance/gears-code-samples.jpg" alt="" width="200" align="right" />API code samples and software development kits (SDK) are among the most important tools for getting developers up and running with any API.<p></p>

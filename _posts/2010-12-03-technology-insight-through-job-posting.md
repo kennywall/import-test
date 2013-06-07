@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Technology Insight Through Job Posting
-url: http://apievangelist.com/2010/12/03/technology-insight-through-job-posting/
-source: http://apievangelist.com/2010/12/03/technology-insight-through-job-posting/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/03/technology-insight-through-job-posting/
+source: http://kinlane.com/2010/12/03/technology-insight-through-job-posting/
+domain: kinlane.com
 image: http://t0.gstatic.com/images?q=tbn:ANd9GcRrUyAOwIvtJMOZon86UKTOo5WcfYaJ719Sr4_d82j82Uujhsdg
 ---
 {% include JB/setup %}<p><img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRrUyAOwIvtJMOZon86UKTOo5WcfYaJ719Sr4_d82j82Uujhsdg" alt="" align="right" />A <a href="../2010/12/ideation-and-project-evolution/" target="_blank">project I'm moving off the back-burner and into the public domain</a> is a project I called Tech Job Analysis.<p></p>

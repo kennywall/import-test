@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Edit Google Docs with Box.net
-url: http://apievangelist.com/2011/06/22/edit-google-docs-with-box-net/
-source: http://apievangelist.com/2011/06/22/edit-google-docs-with-box-net/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/22/edit-google-docs-with-box-net/
+source: http://kinlane.com/2011/06/22/edit-google-docs-with-box-net/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.box.net/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="150" align="right" /></a><p></p>

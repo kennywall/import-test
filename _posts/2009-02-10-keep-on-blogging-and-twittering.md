@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Keep on Blogging and Twittering
-url: http://apievangelist.com/2009/02/10/keep-on-blogging-and-twittering/
-source: http://apievangelist.com/2009/02/10/keep-on-blogging-and-twittering/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/10/keep-on-blogging-and-twittering/
+source: http://kinlane.com/2009/02/10/keep-on-blogging-and-twittering/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am finding renewed energy for blogging and twittering lately...mostly because I have more time on my hands living way out in the woods.<p></p>

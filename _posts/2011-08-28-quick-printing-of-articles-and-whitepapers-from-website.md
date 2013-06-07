@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Quick Printing of Articles and Whitepapers from Website
-url: http://apievangelist.com/2011/08/28/quick-printing-of-articles-and-whitepapers-from-website/
-source: http://apievangelist.com/2011/08/28/quick-printing-of-articles-and-whitepapers-from-website/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/28/quick-printing-of-articles-and-whitepapers-from-website/
+source: http://kinlane.com/2011/08/28/quick-printing-of-articles-and-whitepapers-from-website/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/plos-computational-biology.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/plos-computational-biology.png" alt="" width="175" align="right" />I was reading an article today called, "<a title="What Do I Wat from te Publisher of the Future?" href="http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000787">What Do I Want from the Publisher of the Future?</a>" on PLoS computational Biology, a<a title="peer-reviewed open access journal" href="http://www.ploscompbiol.org/">peer-reviewed open-acccess journal</a>published by the<a title="Public Library of Science" href="http://www.plos.org/">Public Library of Science</a>.<p></p>

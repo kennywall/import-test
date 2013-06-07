@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bound Document Printer with Box.net and Mimeo Connect
-url: http://apievangelist.com/2011/04/30/bound-document-printer-with-box-net-and-mimeo-connect/
-source: http://apievangelist.com/2011/04/30/bound-document-printer-with-box-net-and-mimeo-connect/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/30/bound-document-printer-with-box-net-and-mimeo-connect/
+source: http://kinlane.com/2011/04/30/bound-document-printer-with-box-net-and-mimeo-connect/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="200" align="right" />As the <a title="Mimeo.com" href="http://www.mimeo.com">Mimeo.com</a> API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the <a title="Mimeo Connect Cloud Print API" href="../../">Mimeo Connect Cloud Print API</a>.<p></p>

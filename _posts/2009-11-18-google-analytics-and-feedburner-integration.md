@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Analytics and Feedburner Integration
-url: http://apievangelist.com/2009/11/18/google-analytics-and-feedburner-integration/
-source: http://apievangelist.com/2009/11/18/google-analytics-and-feedburner-integration/
-domain: apievangelist.com
+url: http://kinlane.com/2009/11/18/google-analytics-and-feedburner-integration/
+source: http://kinlane.com/2009/11/18/google-analytics-and-feedburner-integration/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google has just announced <a href="http://analytics.blogspot.com/2009/11/integration-with-feedburner.html">Feedburner integration with Google Analytics</a>.<p></p>

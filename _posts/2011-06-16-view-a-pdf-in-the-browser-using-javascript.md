@@ -1,9 +1,9 @@
 ---
 layout: post
 title: View a PDF in the Browser using JavaScript
-url: http://apievangelist.com/2011/06/16/view-a-pdf-in-the-browser-using-javascript/
-source: http://apievangelist.com/2011/06/16/view-a-pdf-in-the-browser-using-javascript/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/16/view-a-pdf-in-the-browser-using-javascript/
+source: http://kinlane.com/2011/06/16/view-a-pdf-in-the-browser-using-javascript/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg" alt="" width="100" align="right" /><p></p>

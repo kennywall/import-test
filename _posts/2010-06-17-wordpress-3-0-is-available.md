@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wordpress 3.0 is Available
-url: http://apievangelist.com/2010/06/17/wordpress-3-0-is-available/
-source: http://apievangelist.com/2010/06/17/wordpress-3-0-is-available/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/17/wordpress-3-0-is-available/
+source: http://kinlane.com/2010/06/17/wordpress-3-0-is-available/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/wordpress.jpg
 ---
 {% include JB/setup %}<p><a href="http://wordpress.org/"><img class="alignnone" style="padding: 15px;" title="Wordpress" src="http://kinlane-productions.s3.amazonaws.com/wordpress.jpg" alt="" width="282" height="180" align="right" />Wordpress</a> launched their <a href="http://wordpress.org/development/2010/06/thelonious/">Version 3.0 of the popular blogging and content management platform</a> today. I'm a big fan and user of Wordpress, so I follow their blog.<p></p>

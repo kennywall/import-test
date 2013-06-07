@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Printing from the SalesForce.com Platform
-url: http://apievangelist.com/2011/09/01/printing-from-the-salesforce-com-platform/
-source: http://apievangelist.com/2011/09/01/printing-from-the-salesforce-com-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/01/printing-from-the-salesforce-com-platform/
+source: http://kinlane.com/2011/09/01/printing-from-the-salesforce-com-platform/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events/dreamforce_logo.jpg
 ---
 {% include JB/setup %}<p><a title="Dreamforce" href="http://www.salesforce.com/dreamforce/DF11/"><img src="http://kinlane-productions.s3.amazonaws.com/events/dreamforce_logo.jpg" alt="" width="200" align="right" /></a>I spent the entire day today on the<a title="Dreamforce" href="http://www.salesforce.com/dreamforce/DF11/">Dreamforce</a>expo floor at Moscone Center in San Francisco. 45K in attendees, it was intense. There is a LOT of buzz around the platform.<p></p>

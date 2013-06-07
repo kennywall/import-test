@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to Zip and Unzip Files
-url: http://apievangelist.com/2009/10/20/how-to-zip-and-unzip-files/
-source: http://apievangelist.com/2009/10/20/how-to-zip-and-unzip-files/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/20/how-to-zip-and-unzip-files/
+source: http://kinlane.com/2009/10/20/how-to-zip-and-unzip-files/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/zip_thumb.png
 ---
 {% include JB/setup %}<p>I love helping people learn about tools I take for granite. Things I know and use everyday.<p></p>

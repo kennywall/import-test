@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building Network Around Common Interests
-url: http://apievangelist.com/2010/02/11/building-network-around-common-interests/
-source: http://apievangelist.com/2010/02/11/building-network-around-common-interests/
-domain: apievangelist.com
+url: http://kinlane.com/2010/02/11/building-network-around-common-interests/
+source: http://kinlane.com/2010/02/11/building-network-around-common-interests/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have explored the sharing and social networking options within my Google Reader. My network has not really grown or evolved. Ocasionally I found someone who had liked an article I really liked and I would add them to my Google Reader network.<p></p>

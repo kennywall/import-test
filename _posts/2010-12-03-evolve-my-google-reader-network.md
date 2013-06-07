@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evolve My Google Reader Network
-url: http://apievangelist.com/2010/12/03/evolve-my-google-reader-network/
-source: http://apievangelist.com/2010/12/03/evolve-my-google-reader-network/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/03/evolve-my-google-reader-network/
+source: http://kinlane.com/2010/12/03/evolve-my-google-reader-network/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg" alt="" width="300" align="right" />A <a href="../2010/12/ideation-and-project-evolution/" target="_blank">project I'm moving off the back-burner and into the public domain</a> is a project I called Google Reader Network.<p></p>

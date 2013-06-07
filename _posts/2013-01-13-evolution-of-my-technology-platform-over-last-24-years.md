@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evolution of My Technology Platform Over Last 24 Years
-url: http://apievangelist.com/2013/01/13/evolution-of-my-technology-platform-over-last-24-years/
-source: http://apievangelist.com/2013/01/13/evolution-of-my-technology-platform-over-last-24-years/
-domain: apievangelist.com
+url: http://kinlane.com/2013/01/13/evolution-of-my-technology-platform-over-last-24-years/
+source: http://kinlane.com/2013/01/13/evolution-of-my-technology-platform-over-last-24-years/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/cobol.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/cobol.jpeg" alt="" width="150" align="right" /></p>

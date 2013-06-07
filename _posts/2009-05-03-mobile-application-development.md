@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Application Development
-url: http://apievangelist.com/2009/05/03/mobile-application-development/
-source: http://apievangelist.com/2009/05/03/mobile-application-development/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/03/mobile-application-development/
+source: http://kinlane.com/2009/05/03/mobile-application-development/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Watching the recent explosion in growth around <a class="zem_slink" title="IPhone OS" rel="homepage" href="http://developer.apple.com/iphone/">IPhone</a> applications and seeing the potential for other mobile application development on Blackberry, <a class="zem_slink" title="Android" rel="homepage" href="http://code.google.com/android/">Android</a> and other platforms...I can't help but think how this is the future of computing.<p></p>

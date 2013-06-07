@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Data for Cities
-url: http://apievangelist.com/2009/09/30/open-data-for-cities/
-source: http://apievangelist.com/2009/09/30/open-data-for-cities/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/30/open-data-for-cities/
+source: http://kinlane.com/2009/09/30/open-data-for-cities/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading<a href="http://www.readwriteweb.com"> ReadWriteWebs</a> post on <a href="http://www.readwriteweb.com/cgi-bin/mt/mt-tb.cgi/13034">City of Portland, Oregon Officially Backs Open, Structured Data</a>. As a data professional and politically minded individual I feel this is a huge step. Especially since it is in my home state.<p></p>

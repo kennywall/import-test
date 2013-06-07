@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Profile and Dashboard
-url: http://apievangelist.com/2010/06/08/google-profile-and-dashboard/
-source: http://apievangelist.com/2010/06/08/google-profile-and-dashboard/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/08/google-profile-and-dashboard/
+source: http://kinlane.com/2010/06/08/google-profile-and-dashboard/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/GoogleProfile.PNG
 ---
 {% include JB/setup %}<p>I am looking around my Google Account Ecosystem and playing. Since the  addition of Google Buzz I spend more time looking at my profile page.<p></p>

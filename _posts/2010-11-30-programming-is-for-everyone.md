@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Programming is for Everyone
-url: http://apievangelist.com/2010/11/30/programming-is-for-everyone/
-source: http://apievangelist.com/2010/11/30/programming-is-for-everyone/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/30/programming-is-for-everyone/
+source: http://kinlane.com/2010/11/30/programming-is-for-everyone/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>One thing I'm really enjoying with all the web 2.0, social, cloudy, mobile goodness that is going on these days is the general democratization of computing.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google oAuth Calls
-url: http://apievangelist.com/2010/05/25/google-oauth-calls/
-source: http://apievangelist.com/2010/05/25/google-oauth-calls/
-domain: apievangelist.com
+url: http://kinlane.com/2010/05/25/google-oauth-calls/
+source: http://kinlane.com/2010/05/25/google-oauth-calls/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>While working with the Google API tonight I registered my primary research and development domain with them so that I could make oAuth calls to Google API.<p></p>

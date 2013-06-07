@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Information Curation with My Google Reader
-url: http://apievangelist.com/2011/01/15/information-curation-with-my-google-reader/
-source: http://apievangelist.com/2011/01/15/information-curation-with-my-google-reader/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/15/information-curation-with-my-google-reader/
+source: http://kinlane.com/2011/01/15/information-curation-with-my-google-reader/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/scrabble.jpg
 ---
 {% include JB/setup %}<p>I have a central keyword list that I use as a reference on a daily basis.

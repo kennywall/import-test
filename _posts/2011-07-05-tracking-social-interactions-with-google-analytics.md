@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tracking Social Interactions with Google Analytics
-url: http://apievangelist.com/2011/07/05/tracking-social-interactions-with-google-analytics/
-source: http://apievangelist.com/2011/07/05/tracking-social-interactions-with-google-analytics/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/05/tracking-social-interactions-with-google-analytics/
+source: http://kinlane.com/2011/07/05/tracking-social-interactions-with-google-analytics/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/analytics/Google-Analytics-Social-Engagment.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google/analytics/Google-Analytics-Social-Engagment.jpg" alt="" width="350" align="right" />I'm spending time this week <a title="updating my social sharing buttons" href="http://www.kinlane.com/2011/07/updated-blog-sharing/">updating my social sharing buttons</a>, <a title="claiming authorship of my blog posts, and linking with my Google profiles" href="http://www.kinlane.com/2011/07/claiming-my-blog-posts-and-social-profiles/">claiming authorship of my blog posts, and linking with my Google profiles</a>.<p></p>

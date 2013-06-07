@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Local, Geo Landscape Roundup - February 6th, 2012
-url: http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
-source: http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
+source: http://kinlane.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p><strong>From the&nbsp;<a title="Facebook Blog" href="http://developers.facebook.com/blog/feed">Facebook</a>&nbsp;Blog</strong></p>

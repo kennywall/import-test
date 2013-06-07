@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Finally caught up on inbox...
-url: http://apievangelist.com/2009/04/26/finally-caught-up-on-inbox/
-source: http://apievangelist.com/2009/04/26/finally-caught-up-on-inbox/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/finally-caught-up-on-inbox/
+source: http://kinlane.com/2009/04/26/finally-caught-up-on-inbox/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was able to find a couple hours today to read everything in my inbox regarding my <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud computing</a> research. Thanks for those of you who responded and are getting involved.<p></p>

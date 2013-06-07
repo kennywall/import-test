@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Launches New Web Analytics
-url: http://apievangelist.com/2011/09/13/twitter-launches-new-web-analytics/
-source: http://apievangelist.com/2011/09/13/twitter-launches-new-web-analytics/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/13/twitter-launches-new-web-analytics/
+source: http://kinlane.com/2011/09/13/twitter-launches-new-web-analytics/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png" alt="" width="300" align="right" />It can be difficult to truly measure with accuracy, the amount of traffic that is driven to your site from Twitter.<p></p>

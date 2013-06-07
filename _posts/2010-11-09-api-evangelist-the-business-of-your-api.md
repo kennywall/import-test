@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Evangelist - The Business of Your API
-url: http://apievangelist.com/2010/11/09/api-evangelist-the-business-of-your-api/
-source: http://apievangelist.com/2010/11/09/api-evangelist-the-business-of-your-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/09/api-evangelist-the-business-of-your-api/
+source: http://kinlane.com/2010/11/09/api-evangelist-the-business-of-your-api/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have launched a new site called <a href="http://www.apievangelist.com" target="_blank">API Evangelist</a>.  I have been operating in stealth mode because I'm not 100% done with all the API Ecosystem building block pages.  I've had a couple people ask if I'm a perfectionist, and why don't I just launch.  So here we go.<p></p>

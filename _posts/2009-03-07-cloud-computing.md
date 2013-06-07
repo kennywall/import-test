@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing
-url: http://apievangelist.com/2009/03/07/cloud-computing/
-source: http://apievangelist.com/2009/03/07/cloud-computing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/07/cloud-computing/
+source: http://kinlane.com/2009/03/07/cloud-computing/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=1be26a1b-4e37-4e35-b974-e5fec03d65d2
 ---
 {% include JB/setup %}<p>I just finished a big migration to <a class="zem_slink" title="Amazon" rel="homepage" href="http://amazon.com/">Amazon</a> <a class="zem_slink" title="Web service" rel="wikipedia" href="http://en.wikipedia.org/wiki/Web_service">Web Services</a> for my company. I am using Amazon <a class="zem_slink" title="Amazon EC2" rel="homepage" href="http://amazon.com">EC2</a> and Amazon <a class="zem_slink" title="Amazon S3" rel="homepage" href="http://aws.amazon.com/s3">S3</a> mainly for everything. We are pushing the futurue of scaling for an event, conference, or tradeshow and the strategy and marketing that goes with it.<p></p>

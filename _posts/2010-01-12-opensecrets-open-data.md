@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OpenSecrets Open Data
-url: http://apievangelist.com/2010/01/12/opensecrets-open-data/
-source: http://apievangelist.com/2010/01/12/opensecrets-open-data/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/12/opensecrets-open-data/
+source: http://kinlane.com/2010/01/12/opensecrets-open-data/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I love data. When I find great sources of data I have to record it.<p></p>

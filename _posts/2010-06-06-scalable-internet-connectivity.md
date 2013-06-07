@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Scalable Internet Connectivity
-url: http://apievangelist.com/2010/06/06/scalable-internet-connectivity/
-source: http://apievangelist.com/2010/06/06/scalable-internet-connectivity/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/06/scalable-internet-connectivity/
+source: http://kinlane.com/2010/06/06/scalable-internet-connectivity/
+domain: kinlane.com
 image: http://www.spcs.name.my/uploads/images/service/broadband02.jpg
 ---
 {% include JB/setup %}<p>Everyone is talking about cloud computing these days in the tech industry. I just stopped doing some more work on a comprehensive list of cloud computing service providers. <img class="alignnone" style="padding: 20px;" title="Broadband Internet" src="http://www.spcs.name.my/uploads/images/service/broadband02.jpg" alt="" width="242" height="238" align="right" /><p></p>

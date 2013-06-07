@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - 3D Modeling Software
-url: http://apievangelist.com/2011/05/18/3d-printing-3d-modeling-software/
-source: http://apievangelist.com/2011/05/18/3d-printing-3d-modeling-software/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-3d-modeling-software/
+source: http://kinlane.com/2011/05/18/3d-printing-3d-modeling-software/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-software.JPG
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-software.JPG" alt="" width="250" align="right" />When it comes to creating 3D models for 3D printing there are many types of software to choose from.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Plan A and Plan B Backup
-url: http://apievangelist.com/2009/03/20/plan-a-and-plan-b-backup/
-source: http://apievangelist.com/2009/03/20/plan-a-and-plan-b-backup/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/20/plan-a-and-plan-b-backup/
+source: http://kinlane.com/2009/03/20/plan-a-and-plan-b-backup/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I've learned a lot working in the clouds. One of the most important things I've learned is the need for backups. And not just one backup. Lots of them.<p></p>

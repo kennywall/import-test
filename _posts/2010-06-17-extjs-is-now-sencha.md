@@ -1,9 +1,9 @@
 ---
 layout: post
 title: ExtJS is now Sencha
-url: http://apievangelist.com/2010/06/17/extjs-is-now-sencha/
-source: http://apievangelist.com/2010/06/17/extjs-is-now-sencha/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/17/extjs-is-now-sencha/
+source: http://kinlane.com/2010/06/17/extjs-is-now-sencha/
+domain: kinlane.com
 image: http://www.sencha.com/assets/images/logo-sencha-sm.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 20px;" title="Sencha" src="http://www.sencha.com/assets/images/logo-sencha-sm.png" alt="" width="120" height="50" align="right" />The <a href="http://www.sencha.com/blog/tag/html5/">ExtJS team is really excited about HTML 5</a>. They see HTML 5 as the future. I definitely agree. <a href="http://www.sencha.com/products/js/">Ext JS</a>, <a href="http://www.jqtouch.com/">jQTouch</a>, and <a href="http://raphaeljs.com/">Raphaël</a> are combining into a new entity called <a href="http://www.sencha.com/blog/2010/06/14/ext-js-jqtouch-raphael-sencha/">Sencha</a>.<p></p>

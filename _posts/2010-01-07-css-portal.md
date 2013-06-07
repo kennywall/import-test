@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CSS Portal
-url: http://apievangelist.com/2010/01/07/css-portal/
-source: http://apievangelist.com/2010/01/07/css-portal/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/07/css-portal/
+source: http://kinlane.com/2010/01/07/css-portal/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was looking for some nice CSS styling for text and memo boxes tonight. I stumbled across <a href="http://www.cssportal.com/">CSS Portal</a>.<p></p>

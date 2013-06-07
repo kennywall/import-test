@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Poem of the Times
-url: http://apievangelist.com/2009/10/04/poem-of-the-times/
-source: http://apievangelist.com/2009/10/04/poem-of-the-times/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/04/poem-of-the-times/
+source: http://kinlane.com/2009/10/04/poem-of-the-times/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Since 2006 I have been gathering a <a href="http://www.poemofthetimes.com/">top headline from the top 20 newspapers in the country</a>. I pull these headlines using RSS feeds programatically every morning at 8:30 AM pacific time.<p></p>

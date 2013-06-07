@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Migrating Your Business Infrastructure Into the Clouds
-url: http://apievangelist.com/2009/03/26/migrating-your-business-infrastructure-into-the-clouds/
-source: http://apievangelist.com/2009/03/26/migrating-your-business-infrastructure-into-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/26/migrating-your-business-infrastructure-into-the-clouds/
+source: http://kinlane.com/2009/03/26/migrating-your-business-infrastructure-into-the-clouds/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just spent the last hour talking with a gentleman in Brazil about cloud computing. He is the IT director of a company owned by a friend of my boss. <p></p>

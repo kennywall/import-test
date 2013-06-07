@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building My API Community with Elance
-url: http://apievangelist.com/2011/01/19/building-my-api-community-with-elance/
-source: http://apievangelist.com/2011/01/19/building-my-api-community-with-elance/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/19/building-my-api-community-with-elance/
+source: http://kinlane.com/2011/01/19/building-my-api-community-with-elance/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>I'm building the <a href="http://www.apievangelist.com/">API</a> area for the <a href="http://www.mimeo.com">Mimeo</a> Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> API currently. When it is ready, I will need developers.<p></p>

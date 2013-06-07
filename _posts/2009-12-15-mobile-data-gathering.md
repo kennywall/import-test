@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Data Gathering
-url: http://apievangelist.com/2009/12/15/mobile-data-gathering/
-source: http://apievangelist.com/2009/12/15/mobile-data-gathering/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/15/mobile-data-gathering/
+source: http://kinlane.com/2009/12/15/mobile-data-gathering/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>While playing around with Google Fusion Tables tonight I came across the <a href="http://code.google.com/p/open-data-kit/">Open Data Kit</a> (ODK).<p></p>

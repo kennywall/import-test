@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Only 2 Complaints About Amazon EC2
-url: http://apievangelist.com/2009/02/28/my-only-2-complaints-about-amazon-ec2/
-source: http://apievangelist.com/2009/02/28/my-only-2-complaints-about-amazon-ec2/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/28/my-only-2-complaints-about-amazon-ec2/
+source: http://kinlane.com/2009/02/28/my-only-2-complaints-about-amazon-ec2/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Don't get me wrong...I love Amazon Web Services and EC2, it has changed the way I do business. I rocks.<p></p>

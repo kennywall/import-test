@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Platform - Google Alerts
-url: http://apievangelist.com/2010/09/06/platform-google-alerts/
-source: http://apievangelist.com/2010/09/06/platform-google-alerts/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/06/platform-google-alerts/
+source: http://kinlane.com/2010/09/06/platform-google-alerts/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Google Alerts" src="http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg" alt="" width="250" align="right" />I spend time each week to define the technology platform I use to accomplish business. One of the goals of this <a href="http://www.kinlane.com/platform/">platform definition</a> is to assist in my migration to the cloud.<p></p>

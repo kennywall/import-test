@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Printing
-url: http://apievangelist.com/2011/03/16/mimeo-cloud-printing/
-source: http://apievangelist.com/2011/03/16/mimeo-cloud-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/16/mimeo-cloud-printing/
+source: http://kinlane.com/2011/03/16/mimeo-cloud-printing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/MCP-Overview.png
 ---
 {% include JB/setup %}<p>The <a title="Mimeo.com" href="Mimeo.com">Mimeo.com</a> and <a title="Mimeo Connect" href="http://www.mimeo.com/solutions/mimeo-connect.php">Mimeo Connect</a> Cloud Print API allows anyone to print documents in the clouds and have them delivered to their home or business the next day.<p></p>

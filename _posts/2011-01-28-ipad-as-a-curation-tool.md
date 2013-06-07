@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IPad as a Curation Tool
-url: http://apievangelist.com/2011/01/28/ipad-as-a-curation-tool/
-source: http://apievangelist.com/2011/01/28/ipad-as-a-curation-tool/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/28/ipad-as-a-curation-tool/
+source: http://kinlane.com/2011/01/28/ipad-as-a-curation-tool/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/apple_ipad_2.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.kinlane.com/2011/01/information-curation-with-my-google-reader/" target="_blank">Google Reader is the primary application I use for information curation</a>.  I currently have 572 subscriptions that I stay on top of daily.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Has a Solid Vision of Cloud Printing
-url: http://apievangelist.com/2011/03/31/googles-vision-of-the-future-of-cloud-printing/
-source: http://apievangelist.com/2011/03/31/googles-vision-of-the-future-of-cloud-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/31/googles-vision-of-the-future-of-cloud-printing/
+source: http://kinlane.com/2011/03/31/googles-vision-of-the-future-of-cloud-printing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png" alt="" width="300" align="right" />Google is moving forward with their vision of Cloud Printing in a much larger, comprehensive and decisive way compared with <a title="HP ePrint" href="http://www.kinlane.com/2011/03/hp-eprint-web-connected-printers/">HP ePrint</a> or <a title="Apple Airprint" href="http://www.kinlane.com/2011/03/apple-airprint/">Apple Airprint</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Documents as Cloud Printing Objects
-url: http://apievangelist.com/2011/01/12/documents-as-cloud-printing-objects/
-source: http://apievangelist.com/2011/01/12/documents-as-cloud-printing-objects/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/12/documents-as-cloud-printing-objects/
+source: http://kinlane.com/2011/01/12/documents-as-cloud-printing-objects/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>I know very little about the <a href="http://www.kinlane.com/category/publishing/">Print</a> industry.  As I'm learning I find myself applying my programming and IT background to everything.

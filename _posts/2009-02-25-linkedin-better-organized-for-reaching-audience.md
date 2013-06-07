@@ -1,9 +1,9 @@
 ---
 layout: post
 title: LinkedIn Better Organized for Reaching Audience
-url: http://apievangelist.com/2009/02/25/linkedin-better-organized-for-reaching-audience/
-source: http://apievangelist.com/2009/02/25/linkedin-better-organized-for-reaching-audience/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/25/linkedin-better-organized-for-reaching-audience/
+source: http://kinlane.com/2009/02/25/linkedin-better-organized-for-reaching-audience/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am spending about 30 minutes each day extending my companies reach onto popular social networks LinkedIn and Facebook. I reallky find LinkedIn is much more organized for such business efforts.<p></p>

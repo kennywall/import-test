@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Flipbook Preview for PDF Print Files
-url: http://apievangelist.com/2011/02/04/flipbook-preview-for-pdf-print-file/
-source: http://apievangelist.com/2011/02/04/flipbook-preview-for-pdf-print-file/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/04/flipbook-preview-for-pdf-print-file/
+source: http://kinlane.com/2011/02/04/flipbook-preview-for-pdf-print-file/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/flipbook.jpg
 ---
 {% include JB/setup %}<p>When I am building a user interface for any print application I want to allow users to preview their PDF after upload.  The Mimeo Proofing Service is what I use.

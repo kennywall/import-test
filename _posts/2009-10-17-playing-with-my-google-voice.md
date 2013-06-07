@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Playing with my Google Voice
-url: http://apievangelist.com/2009/10/17/playing-with-my-google-voice/
-source: http://apievangelist.com/2009/10/17/playing-with-my-google-voice/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/17/playing-with-my-google-voice/
+source: http://kinlane.com/2009/10/17/playing-with-my-google-voice/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was playing with my<a href="https://www.google.com/voice/"> Google Voice</a> the last couple days. If I got more phone calls I could definitely see it being a bigger part of my life.<p></p>

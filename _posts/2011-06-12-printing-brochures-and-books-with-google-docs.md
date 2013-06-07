@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Printing Flyers and Books with Google Docs
-url: http://apievangelist.com/2011/06/12/printing-brochures-and-books-with-google-docs/
-source: http://apievangelist.com/2011/06/12/printing-brochures-and-books-with-google-docs/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/12/printing-brochures-and-books-with-google-docs/
+source: http://kinlane.com/2011/06/12/printing-brochures-and-books-with-google-docs/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-2.png
 ---
 {% include JB/setup %}<p><a href="http://developer.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-2.png" alt="" width="250" align="right" /></a><a title="Google Apps" href="http://www.google.com/apps/intl/en/business/index.html">Google Apps</a> provides a very powerful document management solution, <a title="Google Docs" href="https://docs.google.com">Google Docs</a>.<p></p>

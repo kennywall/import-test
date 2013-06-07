@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Is it noise or music?
-url: http://apievangelist.com/2009/03/15/is-it-noise-or-music/
-source: http://apievangelist.com/2009/03/15/is-it-noise-or-music/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/15/is-it-noise-or-music/
+source: http://kinlane.com/2009/03/15/is-it-noise-or-music/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was driving home tonight from Eugene....it was a real quiet drive.<p></p>

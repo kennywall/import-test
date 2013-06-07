@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Finishing School for Potential API Providers
-url: http://apievangelist.com/2011/05/24/finishing-school-for-potential-api-providers/
-source: http://apievangelist.com/2011/05/24/finishing-school-for-potential-api-providers/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/24/finishing-school-for-potential-api-providers/
+source: http://kinlane.com/2011/05/24/finishing-school-for-potential-api-providers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events/gluecon.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/events/gluecon.jpg" alt="" align="right" />I'm preparing for a talk tomorrow at the <a title="Glue Conference" href="http://gluecon.com/2011/">Glue conference</a> in Colorado. Glue is a conference that assists architects, developers, administrators and integrators in solving problems around web application integration.<p></p>

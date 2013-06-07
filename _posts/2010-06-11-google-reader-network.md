@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Reader Network
-url: http://apievangelist.com/2010/06/11/google-reader-network/
-source: http://apievangelist.com/2010/06/11/google-reader-network/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/11/google-reader-network/
+source: http://kinlane.com/2010/06/11/google-reader-network/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Google Reader RSS" src="http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg" alt="" width="250" align="right" />

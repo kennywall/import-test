@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building vs. Buying My API Area
-url: http://apievangelist.com/2011/03/20/building-vs-buying-my-api-area/
-source: http://apievangelist.com/2011/03/20/building-vs-buying-my-api-area/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/20/building-vs-buying-my-api-area/
+source: http://kinlane.com/2011/03/20/building-vs-buying-my-api-area/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png" alt="" width="250" align="right" />For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community.<p></p>

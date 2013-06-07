@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Security in the Cloud vs. ISP
-url: http://apievangelist.com/2009/05/01/security-in-the-cloud-vs-isp/
-source: http://apievangelist.com/2009/05/01/security-in-the-cloud-vs-isp/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/01/security-in-the-cloud-vs-isp/
+source: http://kinlane.com/2009/05/01/security-in-the-cloud-vs-isp/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have had several talks with small businesses about their comapnies infrastructure and what the next steps are. When I bring up <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud computing</a>, the first question I get is in regards to security. How secure is our data, our apps?<p></p>

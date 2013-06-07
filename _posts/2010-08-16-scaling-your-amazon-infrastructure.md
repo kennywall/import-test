@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Scaling Your Amazon Infrastructure
-url: http://apievangelist.com/2010/08/16/scaling-your-amazon-infrastructure/
-source: http://apievangelist.com/2010/08/16/scaling-your-amazon-infrastructure/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/16/scaling-your-amazon-infrastructure/
+source: http://kinlane.com/2010/08/16/scaling-your-amazon-infrastructure/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" />I am still processing a great post at <a href="http://highscalability.com/">High Scalability</a> called, <a href="http://highscalability.com/blog/2010/8/16/scaling-an-aws-infrastructure-tools-and-patterns.html" target="_blank">Scaling an AWS infrastructure - Tools and Patterns</a>. They cover several tools you can use to take advantage of Amazon's Web Service and suggest an architectural model you should adopt for a scalable infrastructure in the cloud.<p></p>

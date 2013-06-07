@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Screen Capture to FTP
-url: http://apievangelist.com/2010/06/11/screen-capture-to-ftp/
-source: http://apievangelist.com/2010/06/11/screen-capture-to-ftp/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/11/screen-capture-to-ftp/
+source: http://kinlane.com/2010/06/11/screen-capture-to-ftp/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/spgrab.PNG
 ---
 {% include JB/setup %}<p>I was just test driving the <a href="http://www.spgrab.com/">Free Screenshot Sharing Application</a> called <a href="http://www.spgrab.com/">SPGrab</a>. I like the idea of seamless sharing after you take a screenshot. They allow you to automatically upload to FTP location of your choice. Putting it in a ftp location you potentially have the ability to automatically share it.<img class="alignnone" style="padding: 15px;" title="SPGrab Screencapture" src="http://kinlane-productions.s3.amazonaws.com/spgrab.PNG" alt="" width="250" align="right" /><p></p>

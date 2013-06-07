@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tools You Should Offer With Your Application Programming Interface (API)
-url: http://apievangelist.com/2010/07/07/tools-you-should-offer-with-your-application-program-interface-api/
-source: http://apievangelist.com/2010/07/07/tools-you-should-offer-with-your-application-program-interface-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/07/tools-you-should-offer-with-your-application-program-interface-api/
+source: http://kinlane.com/2010/07/07/tools-you-should-offer-with-your-application-program-interface-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/shoveling-poop.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Shoveling Crap" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/shoveling-poop.jpg" alt="" width="300" align="right" />I am spending some time putting together some recommendations for a vendor on their API. They are a payment gateway, that offers something no other payment gateway offers. I really feel they could rock the market if they were better known.<p></p>

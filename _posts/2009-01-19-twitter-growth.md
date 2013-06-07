@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Growth
-url: http://apievangelist.com/2009/01/19/twitter-growth/
-source: http://apievangelist.com/2009/01/19/twitter-growth/
-domain: apievangelist.com
+url: http://kinlane.com/2009/01/19/twitter-growth/
+source: http://kinlane.com/2009/01/19/twitter-growth/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been getting a lot of twitter followers lately...been getting about 5 per day consistently. Growing my fan-base rapidly.<p></p>

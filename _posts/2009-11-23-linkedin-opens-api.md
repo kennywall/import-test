@@ -1,9 +1,9 @@
 ---
 layout: post
 title: LinkedIn Opens API
-url: http://apievangelist.com/2009/11/23/linkedin-opens-api/
-source: http://apievangelist.com/2009/11/23/linkedin-opens-api/
-domain: apievangelist.com
+url: http://kinlane.com/2009/11/23/linkedin-opens-api/
+source: http://kinlane.com/2009/11/23/linkedin-opens-api/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a href="http://64.74.98.87">LinkedIn finally opened up their API</a> to the world. It gives you authentication, profile, and network access to LinkedIn Profiles.<p></p>

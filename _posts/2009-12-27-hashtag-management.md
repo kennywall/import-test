@@ -1,9 +1,9 @@
 ---
 layout: post
 title: #Hashtag Management
-url: http://apievangelist.com/2009/12/27/hashtag-management/
-source: http://apievangelist.com/2009/12/27/hashtag-management/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/27/hashtag-management/
+source: http://kinlane.com/2009/12/27/hashtag-management/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Just doing some reading and organizing thoughts on <a href="http://www.twitter.com">Twitter</a> Hash Tags. Seems like hash tag management is becoming a regular occurrence in every day business.<p></p>

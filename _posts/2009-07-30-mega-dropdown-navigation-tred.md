@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mega Dropdown Navigation Tred
-url: http://apievangelist.com/2009/07/30/mega-dropdown-navigation-tred/
-source: http://apievangelist.com/2009/07/30/mega-dropdown-navigation-tred/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/30/mega-dropdown-navigation-tred/
+source: http://kinlane.com/2009/07/30/mega-dropdown-navigation-tred/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mega-dropdown/mega1.png
 ---
 {% include JB/setup %}<p>I have been seeing a trend in new navigation on top sites out there. I have heard this suggested from friends and colleagues who are graphic designers.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A new business social network.
-url: http://apievangelist.com/2009/07/11/a-new-business-social-network/
-source: http://apievangelist.com/2009/07/11/a-new-business-social-network/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/11/a-new-business-social-network/
+source: http://kinlane.com/2009/07/11/a-new-business-social-network/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Came across a blog posting for a <a href="http://smibs.com">new social network</a> / platform call <a href="Smibs">Smibs</a>. We ahead and signed up for it. I am always curious how fast these networks will grow.<p></p>

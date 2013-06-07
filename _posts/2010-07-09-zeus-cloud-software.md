@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Multi-Site, Global Load Balancing, and Traffic Management in the Clouds
-url: http://apievangelist.com/2010/07/09/zeus-cloud-software/
-source: http://apievangelist.com/2010/07/09/zeus-cloud-software/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/09/zeus-cloud-software/
+source: http://kinlane.com/2010/07/09/zeus-cloud-software/
+domain: kinlane.com
 image: http://www.zeus.com/assets/img/logo.gif
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Zeus Software" src="http://www.zeus.com/assets/img/logo.gif" alt="" width="156" height="50" align="right" />I was just reviewing the cloud tools offered by <a href="http://www.zeus.com/" target="_blank">Zeus</a>. I was researching <a href="http://www.kinlane.com/category/global-server-load-balancing/">Global server Load Balancing (Cloud Balancing)</a> software yesterday and they were on my list. Unfortunately I used an image from their software and neglected to mention them in my post. I just spent the last couple hours reviewing their tools and 3 specific products stand out:

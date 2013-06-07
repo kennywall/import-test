@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bundling Amazon Web Services EC2 Instances Kills Certificates
-url: http://apievangelist.com/2009/02/14/bundling-amazon-web-services-ec2-instances-kills-certificates/
-source: http://apievangelist.com/2009/02/14/bundling-amazon-web-services-ec2-instances-kills-certificates/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/14/bundling-amazon-web-services-ec2-instances-kills-certificates/
+source: http://kinlane.com/2009/02/14/bundling-amazon-web-services-ec2-instances-kills-certificates/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Yeah you heard me! Bundling Amazon Web Services EC2 Instances can kill poor innocent SSL certificates.<p></p>

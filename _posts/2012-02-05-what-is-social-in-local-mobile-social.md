@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What is Social in Local, Mobile, Social?
-url: http://apievangelist.com/2012/02/05/what-is-social-in-local-mobile-social/
-source: http://apievangelist.com/2012/02/05/what-is-social-in-local-mobile-social/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/05/what-is-social-in-local-mobile-social/
+source: http://kinlane.com/2012/02/05/what-is-social-in-local-mobile-social/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/mobile_local_social.png
 ---
 {% include JB/setup %}<p><p><a title="CityGrid Local, Mobile, Social Stack" href="http://www.citygridmedia.com/developer/blog/tag/stack/"><img title="mobile_local_social" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/mobile_local_social-300x222.png" alt="" width="250" align="right" /></a>I am working to define a&nbsp;<a title="CityGrid Local, Mobile, Social Stack" href="http://www.citygridmedia.com/developer/blog/tag/stack/">CityGrid Local, Mobile, Social stack</a>, to help CityGrid developers more efficiently build web and mobile apps. This definition will contain APIs, tools, platforms and other data sets that can be used along with&nbsp;<a title="CityGrid Places" href="http://docs.citygridmedia.com/display/citygridv2/Places+API">CityGrid Places</a>,&nbsp;<a title="CityGrid Offers" href="http://docs.citygridmedia.com/display/citygridv2/Offers+API">Offers</a>,&nbsp;<a title="Reviews" href="http://docs.citygridmedia.com/display/citygridv2/Reviews+API">Reviews</a>&nbsp;and&nbsp;<a title="Advertising" href="http://docs.citygridmedia.com/display/citygridv2/Ads+by+CityGrid">Advertising</a>.</p>

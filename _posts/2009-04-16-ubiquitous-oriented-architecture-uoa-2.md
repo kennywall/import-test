@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ubiquitous Oriented Architecture (UOA)
-url: http://apievangelist.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
-source: http://apievangelist.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
+source: http://kinlane.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
+domain: kinlane.com
 image: http://s3.amazonaws.com/Kin-Lane-My-Documents/Uniquitous Oriented Architecture/Uniquitous Oriented Architecture.jpg
 ---
 {% include JB/setup %}<p>A few weeks back I posted a blog entry on my philosophy of a <a href="http://www.kinlane.com/?p=449">Ubiquitous Oriented Architecture </a>(UOA). It represents my thoughts on developing software with two things in mind:

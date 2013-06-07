@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Do One Thing and Do it Well
-url: http://apievangelist.com/2009/03/04/do-one-thing-and-do-it-well/
-source: http://apievangelist.com/2009/03/04/do-one-thing-and-do-it-well/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/04/do-one-thing-and-do-it-well/
+source: http://kinlane.com/2009/03/04/do-one-thing-and-do-it-well/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have always preferred developing web applications that are simple. So many times a project gets blown out in scope and gets way too complicated.<p></p>

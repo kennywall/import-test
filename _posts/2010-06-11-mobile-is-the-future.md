@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile is the Future
-url: http://apievangelist.com/2010/06/11/mobile-is-the-future/
-source: http://apievangelist.com/2010/06/11/mobile-is-the-future/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/11/mobile-is-the-future/
+source: http://kinlane.com/2010/06/11/mobile-is-the-future/
+domain: kinlane.com
 image: http://www.elon.edu/predictions/images/pew.jpg
 ---
 {% include JB/setup %}<p>The future is cloudy and accessed through mobile platforms according to the <a href="http://pewinternet.org/Reports/2010/The-future-of-cloud-computing.aspx">Future of the Internet, Cloud Computing</a> report by the Pew Internet and American Life Project.<img class="alignnone" style="padding: 15px;" title="Imagining the Internet" src="http://www.elon.edu/predictions/images/pew.jpg" alt="" width="300" align="right" /><p></p>

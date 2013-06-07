@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Data Center Preparedness
-url: http://apievangelist.com/2009/04/26/data-center-preparedness/
-source: http://apievangelist.com/2009/04/26/data-center-preparedness/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/data-center-preparedness/
+source: http://kinlane.com/2009/04/26/data-center-preparedness/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have talked before about <a class="zem_slink" title="Data center" rel="wikipedia" href="http://en.wikipedia.org/wiki/Data_center">data centers</a> supporting the cloud and green data center construction strategies. I have heard comments on the amount of data center <a class="zem_slink" title="Infrastructure" rel="wikipedia" href="http://en.wikipedia.org/wiki/Infrastructure">infrastructure</a> we have is adequate for the next round of cloud growth.<p></p>

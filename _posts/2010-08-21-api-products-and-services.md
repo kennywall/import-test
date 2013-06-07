@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Products and Services
-url: http://apievangelist.com/2010/08/21/api-products-and-services/
-source: http://apievangelist.com/2010/08/21/api-products-and-services/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/21/api-products-and-services/
+source: http://kinlane.com/2010/08/21/api-products-and-services/
+domain: kinlane.com
 image: http://apigee.com/images/marketing/logo_large.png
 ---
 {% include JB/setup %}<p><a href="http://apigee.com/" target="_blank"><img class="alignnone" style="padding: 15px;" title="Apigee" src="http://apigee.com/images/marketing/logo_large.png" alt="" width="225" height="76" align="right" /></a>I'm seeing a lot of chatter on the Internets lately about API development and best practices. Like <a href="http://www.readwriteweb.com/cloud/2010/08/the-new-api-movement-may.php" target="_blank">10 Common Mistakes Made by API Providers</a> at RWW and <a href="http://blog.programmableweb.com/2010/08/12/apis-an-important-part-of-product-strategy/" target="_blank">APIs: an Important Part of Product Strategy</a> at ProgrammableWeb.<p></p>

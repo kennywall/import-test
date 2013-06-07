@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Printable Antenna Harvests Energy From Air
-url: http://apievangelist.com/2011/07/14/new-printable-antenna-harvests-energy-from-air/
-source: http://apievangelist.com/2011/07/14/new-printable-antenna-harvests-energy-from-air/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/14/new-printable-antenna-harvests-energy-from-air/
+source: http://kinlane.com/2011/07/14/new-printable-antenna-harvests-energy-from-air/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/printed-antenna-for-energy.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/printed-antenna-for-energy.jpg" alt="" width="250" align="right" /><p></p>

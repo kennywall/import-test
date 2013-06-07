@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kindle Print Replica Content for Books and Texbooks
-url: http://apievangelist.com/2011/08/28/kindle-print-replica-content-for-books-and-texbooks/
-source: http://apievangelist.com/2011/08/28/kindle-print-replica-content-for-books-and-texbooks/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/28/kindle-print-replica-content-for-books-and-texbooks/
+source: http://kinlane.com/2011/08/28/kindle-print-replica-content-for-books-and-texbooks/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/amazon/kindle-reader.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/amazon/kindle-reader.jpg" alt="" width="200" align="right" /><a title="Amazon has released a new eBook format" href="http://www.teleread.com/paul-biba/new-ebook-format-from-amazon/">Amazon has released a new eBook format</a>called<a title="Kindle Print Replica" href="http://www.amazon.com/gp/help/customer/display.html?nodeId=200738250">Kindle Print Replica</a>, which looks more like original print book format and can be read on the Kindle for PC and Mac.<p></p>

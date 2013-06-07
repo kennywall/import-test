@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wiki Publishing
-url: http://apievangelist.com/2008/09/30/wiki-publishing/
-source: http://apievangelist.com/2008/09/30/wiki-publishing/
-domain: apievangelist.com
+url: http://kinlane.com/2008/09/30/wiki-publishing/
+source: http://kinlane.com/2008/09/30/wiki-publishing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have used several wiki environments to develop projects and provide oversight for several social media marketing campaigns.<p></p>

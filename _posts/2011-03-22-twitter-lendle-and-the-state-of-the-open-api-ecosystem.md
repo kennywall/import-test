@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter, Lendle and the State of the Open API Ecosystem
-url: http://apievangelist.com/2011/03/22/twitter-lendle-and-the-state-of-the-open-api-ecosystem/
-source: http://apievangelist.com/2011/03/22/twitter-lendle-and-the-state-of-the-open-api-ecosystem/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/22/twitter-lendle-and-the-state-of-the-open-api-ecosystem/
+source: http://kinlane.com/2011/03/22/twitter-lendle-and-the-state-of-the-open-api-ecosystem/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg" alt="" width="250" align="right" />As such, there has been much discussion recently about <a title="Open APIs and whether or not third party developers are wise or follish to build their businesses on someones elses platform." href="http://blog.apievangelist.com/2011/03/22/twitter-lendle-and-the-state-of-the-open-api-ecosystem/">Open APIs and whether or not third party developers are wise or foolish to build their businesses on someone else's platform</a>.  The concern stems from a number of reasons, least of which being Twitter's pronouncements about the <a title="&quot;Rules of the Road&quot; for Its Ecosystem" href="http://dev.twitter.com/pages/api_terms">"rules of the road" for its ecosystem</a>, and now <a title="Lendles announcement that Amazon has revoked its access to the Amazon API" href="http://lendle.me/">Lendle's announcement that Amazon has revoked its access to the Amazon API</a>.<p></p>

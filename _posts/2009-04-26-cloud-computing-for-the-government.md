@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing for the Government
-url: http://apievangelist.com/2009/04/26/cloud-computing-for-the-government/
-source: http://apievangelist.com/2009/04/26/cloud-computing-for-the-government/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/cloud-computing-for-the-government/
+source: http://kinlane.com/2009/04/26/cloud-computing-for-the-government/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am conducting my <a href="http://cloud.kinlane.com">cloud computing research</a> and specifically focusing on:

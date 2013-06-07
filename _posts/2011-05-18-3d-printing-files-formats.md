@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - Files  Formats
-url: http://apievangelist.com/2011/05/18/3d-printing-files-formats/
-source: http://apievangelist.com/2011/05/18/3d-printing-files-formats/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-files-formats/
+source: http://kinlane.com/2011/05/18/3d-printing-files-formats/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg" alt="" width="250" align="right" />3D models used in 3D printing are stored in files.  These files can be a wide range of standard or specialized file formats.<p></p>

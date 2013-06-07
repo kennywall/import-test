@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Facebook Connect and Your Social Stream
-url: http://apievangelist.com/2009/07/17/facebook-connect-and-your-social-stream/
-source: http://apievangelist.com/2009/07/17/facebook-connect-and-your-social-stream/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/17/facebook-connect-and-your-social-stream/
+source: http://kinlane.com/2009/07/17/facebook-connect-and-your-social-stream/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Facebook is definitely a heavy player in the online world these days. I have Facebook open all day and spend moments interacting, posting and generally socializing with my network.<p></p>

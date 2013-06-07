@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Continuing the Migration of Projects Over To Github
-url: http://apievangelist.com/2013/03/21/continuing-the-migration-of-projects-over-to-github/
-source: http://apievangelist.com/2013/03/21/continuing-the-migration-of-projects-over-to-github/
-domain: apievangelist.com
+url: http://kinlane.com/2013/03/21/continuing-the-migration-of-projects-over-to-github/
+source: http://kinlane.com/2013/03/21/continuing-the-migration-of-projects-over-to-github/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-kin-lane.png
 ---
 {% include JB/setup %}<p><p><a href="https://github.com/kinlane" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-kin-lane.png" alt="" width="150" align="right" /></a></p>

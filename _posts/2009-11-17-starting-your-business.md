@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Starting Your Business in Oregon (Do It!)
-url: http://apievangelist.com/2009/11/17/starting-your-business/
-source: http://apievangelist.com/2009/11/17/starting-your-business/
-domain: apievangelist.com
+url: http://kinlane.com/2009/11/17/starting-your-business/
+source: http://kinlane.com/2009/11/17/starting-your-business/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been getting asked by friends for information on how to setup their own business. I think in these hard times getting a business going can be a very appealing alternative to finding another job.<p></p>

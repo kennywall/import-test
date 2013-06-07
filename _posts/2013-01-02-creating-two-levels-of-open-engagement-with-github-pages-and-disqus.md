@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Creating Two Levels of Open Engagement with Github Pages and Disqus
-url: http://apievangelist.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
-source: http://apievangelist.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
-domain: apievangelist.com
+url: http://kinlane.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
+source: http://kinlane.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-logo-basic.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png" alt="" width="125" align="right" /></p>

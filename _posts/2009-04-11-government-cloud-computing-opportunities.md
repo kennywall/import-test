@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Government Cloud Computing Opportunities
-url: http://apievangelist.com/2009/04/11/government-cloud-computing-opportunities/
-source: http://apievangelist.com/2009/04/11/government-cloud-computing-opportunities/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/11/government-cloud-computing-opportunities/
+source: http://kinlane.com/2009/04/11/government-cloud-computing-opportunities/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am really blown away by some of the opportunities for cloud computing growth and adoption within the federal goverment right now. With all the recovery money out there, there is a lot of of projects that just need a little cloud perspective.<p></p>

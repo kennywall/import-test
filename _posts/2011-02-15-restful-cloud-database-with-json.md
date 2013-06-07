@@ -1,9 +1,9 @@
 ---
 layout: post
 title: RESTful Cloud Database with JSON
-url: http://apievangelist.com/2011/02/15/restful-cloud-database-with-json/
-source: http://apievangelist.com/2011/02/15/restful-cloud-database-with-json/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/15/restful-cloud-database-with-json/
+source: http://kinlane.com/2011/02/15/restful-cloud-database-with-json/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/jasondb.png
 ---
 {% include JB/setup %}<p><a href="http://rest.jasondb.com/jasondb/jasondb.html" target="_blank">Jasondb</a> is a cloud-based, RESTful JSON database designed to replace <a href="http://www.kinlane.com/category/data-20/">MySQL</a> as the database in traditional web development

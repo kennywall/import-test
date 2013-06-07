@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rogue API Development
-url: http://apievangelist.com/2010/09/25/rogue-api-development/
-source: http://apievangelist.com/2010/09/25/rogue-api-development/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/25/rogue-api-development/
+source: http://kinlane.com/2010/09/25/rogue-api-development/
+domain: kinlane.com
 image: http://blog.programmableweb.com/wp-content/rroller.jpg
 ---
 {% include JB/setup %}<p>Application Programming Interfaces (API) are a necessity in today's fast paced business community. An API can encourage mobile application, web application, and desktop development by your most passionate users, partners and the public.<p></p>

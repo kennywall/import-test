@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Skype Desktop Sharing
-url: http://apievangelist.com/2009/07/23/skype-desktop-sharing/
-source: http://apievangelist.com/2009/07/23/skype-desktop-sharing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/23/skype-desktop-sharing/
+source: http://kinlane.com/2009/07/23/skype-desktop-sharing/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=53a7a563-e303-46b1-bf5a-cad9f813c8c2
 ---
 {% include JB/setup %}<p>

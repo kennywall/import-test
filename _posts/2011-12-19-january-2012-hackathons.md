@@ -1,9 +1,9 @@
 ---
 layout: post
 title: January 2012 Hackathons
-url: http://apievangelist.com/2011/12/19/january-2012-hackathons/
-source: http://apievangelist.com/2011/12/19/january-2012-hackathons/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/19/january-2012-hackathons/
+source: http://kinlane.com/2011/12/19/january-2012-hackathons/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>These are the hackathons I'm tracking on for January. You can view these on the events page and I have a<a title="Hackathons Google Calendar" href="http://blog.apievangelist.com/events_hackathon_calendar.php">Google Calendar</a>you can subscribe to.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: When Open Isn't Open
-url: http://apievangelist.com/2011/06/07/when-open-isnt-open/
-source: http://apievangelist.com/2011/06/07/when-open-isnt-open/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/07/when-open-isnt-open/
+source: http://kinlane.com/2011/06/07/when-open-isnt-open/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 ---
 {% include JB/setup %}<p><a title="Open Xerox" href="https://open.xerox.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/open-xerox.png" alt="" align="right" /></a>I spend time each day monitoring how technology is impacting various industries.   APIs are playing a major role in evolving how business is done in just about any sector.  In my search for new APIs and technologies for the print and publishing industry I came across a new community called <a title="Open Xerox" href="https://open.xerox.com/">Open Xerox</a>.<p></p>

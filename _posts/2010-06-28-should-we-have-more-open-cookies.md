@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Should We Have More Open Cookies?
-url: http://apievangelist.com/2010/06/28/should-we-have-more-open-cookies/
-source: http://apievangelist.com/2010/06/28/should-we-have-more-open-cookies/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/28/should-we-have-more-open-cookies/
+source: http://kinlane.com/2010/06/28/should-we-have-more-open-cookies/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cookie-monster.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Cookie Monster" src="http://kinlane-productions.s3.amazonaws.com/cookie-monster.jpg" alt="" width="250" align="right" />Cookies store information about us and our surfing habits (and they are yummy). One of the secure things about a cookie is that you can only access it within the web site to which the cookie belongs.<p></p>

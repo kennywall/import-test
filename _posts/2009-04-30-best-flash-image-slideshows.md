@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Best Flash Image Slideshows
-url: http://apievangelist.com/2009/04/30/best-flash-image-slideshows/
-source: http://apievangelist.com/2009/04/30/best-flash-image-slideshows/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/30/best-flash-image-slideshows/
+source: http://kinlane.com/2009/04/30/best-flash-image-slideshows/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am always looking for quality flash slidehows and image galleries to display products, people and nature pictures. There are some gr eat paid solutions out there.<p></p>

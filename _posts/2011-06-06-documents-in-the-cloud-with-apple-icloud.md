@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Documents in the Cloud with Apple iCloud
-url: http://apievangelist.com/2011/06/06/documents-in-the-cloud-with-apple-icloud/
-source: http://apievangelist.com/2011/06/06/documents-in-the-cloud-with-apple-icloud/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/06/documents-in-the-cloud-with-apple-icloud/
+source: http://kinlane.com/2011/06/06/documents-in-the-cloud-with-apple-icloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" alt="" width="200" align="right" /><p></p>

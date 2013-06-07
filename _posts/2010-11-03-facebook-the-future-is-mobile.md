@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Facebook - The Future is Mobile
-url: http://apievangelist.com/2010/11/03/facebook-the-future-is-mobile/
-source: http://apievangelist.com/2010/11/03/facebook-the-future-is-mobile/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/03/facebook-the-future-is-mobile/
+source: http://kinlane.com/2010/11/03/facebook-the-future-is-mobile/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook/fb_invite.jpg
 ---
 {% include JB/setup %}<p>I just finished attending the Facebook Mobile Event, a press conference to inform everyone about several new mobile initiatives coming out of Facebook.<p></p>

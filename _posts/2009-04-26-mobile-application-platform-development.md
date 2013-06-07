@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Application Platform Development
-url: http://apievangelist.com/2009/04/26/mobile-application-platform-development/
-source: http://apievangelist.com/2009/04/26/mobile-application-platform-development/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/mobile-application-platform-development/
+source: http://kinlane.com/2009/04/26/mobile-application-platform-development/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a class="zem_slink" title="iPhone" rel="homepage" href="http://www.apple.com/iphone">IPhone</a> applications are a success, no arguement here. With this success there are a lot of of mobile providers mimicking this. We saw the recent release of the Blackberry application directory and we see other mobile carriers talking of the same.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Affiliate Network API
-url: http://apievangelist.com/2011/12/17/google-affiliate-network-api/
-source: http://apievangelist.com/2011/12/17/google-affiliate-network-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/17/google-affiliate-network-api/
+source: http://kinlane.com/2011/12/17/google-affiliate-network-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/google/Google-Affiliate-Network-API.png
 ---
 {% include JB/setup %}<p><a title="Google Affiliate Network API" href="http://code.google.com/apis/gan/index.html"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/google/Google-Affiliate-Network-API.png" alt="" width="275" align="right" /></a><p></p>

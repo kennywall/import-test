@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Wave Embed
-url: http://apievangelist.com/2009/12/18/google-wave-embed/
-source: http://apievangelist.com/2009/12/18/google-wave-embed/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/google-wave-embed/
+source: http://kinlane.com/2009/12/18/google-wave-embed/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-wave_embed/Wave-CMS-Editor.jpg
 ---
 {% include JB/setup %}<p>I was playing with <a href="http://wave.google.com">Google Wave</a> tonight. I am curious to see how I can use it. I keep thinking about using Google Wave as a <a class="zem_slink" title="Content management system" rel="wikipedia" href="http://en.wikipedia.org/wiki/Content_management_system">content management system</a> (CMS).<p></p>

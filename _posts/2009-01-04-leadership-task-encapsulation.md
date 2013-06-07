@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Leadership Task Encapsulation
-url: http://apievangelist.com/2009/01/04/leadership-task-encapsulation/
-source: http://apievangelist.com/2009/01/04/leadership-task-encapsulation/
-domain: apievangelist.com
+url: http://kinlane.com/2009/01/04/leadership-task-encapsulation/
+source: http://kinlane.com/2009/01/04/leadership-task-encapsulation/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Wow...what a big title. I thought up that one all by myself. But I think i describes this random thought.<p></p>

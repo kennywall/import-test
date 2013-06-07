@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Office and Google Docs as System Indicator
-url: http://apievangelist.com/2009/02/08/office-and-google-docs-as-system-indicator/
-source: http://apievangelist.com/2009/02/08/office-and-google-docs-as-system-indicator/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/08/office-and-google-docs-as-system-indicator/
+source: http://kinlane.com/2009/02/08/office-and-google-docs-as-system-indicator/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Working with my current company I really notice you can use Google Docs and Office Docs that are setup and circulated regularly are a good indicator of potential systems that need developed or possible 3rd party systems that need researched.<p></p>

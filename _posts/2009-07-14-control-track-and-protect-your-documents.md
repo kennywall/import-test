@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Control, track and protect your documents
-url: http://apievangelist.com/2009/07/14/control-track-and-protect-your-documents/
-source: http://apievangelist.com/2009/07/14/control-track-and-protect-your-documents/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/14/control-track-and-protect-your-documents/
+source: http://kinlane.com/2009/07/14/control-track-and-protect-your-documents/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading through my Amazon Web Services Newsletter and came across a really cool service. It is something I've thought of doing a couple of times.<p></p>

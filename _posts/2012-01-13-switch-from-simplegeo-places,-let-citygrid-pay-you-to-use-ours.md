@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Switch From SimpleGeo Places, Let CityGrid Pay You to Use Ours
-url: http://apievangelist.com/2012/01/13/switch-from-simplegeo-places,-let-citygrid-pay-you-to-use-ours/
-source: http://apievangelist.com/2012/01/13/switch-from-simplegeo-places,-let-citygrid-pay-you-to-use-ours/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/13/switch-from-simplegeo-places,-let-citygrid-pay-you-to-use-ours/
+source: http://kinlane.com/2012/01/13/switch-from-simplegeo-places,-let-citygrid-pay-you-to-use-ours/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/simplegeo-to-citygrid.png
 ---
 {% include JB/setup %}<p><p><img class="aligncenter size-medium wp-image-493" title="simplegeo-to-citygrid" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-to-citygrid-300x132.png" alt="" width="300" height="132" align="right" />With&nbsp;<a title="Urban Airship shutting down SimpleGeo" href="http://www.citygridmedia.com/developer/blog/urban-airship-shutting-down-simplegeo/">Urban AirShip shutting down SimpleGeo</a>&nbsp;there are many developers left with the decision of where to go next, to get their places data, as well as context, storage and geocoding services.</p>

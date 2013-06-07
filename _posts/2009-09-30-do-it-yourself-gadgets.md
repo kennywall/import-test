@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Do It Yourself Gadgets
-url: http://apievangelist.com/2009/09/30/do-it-yourself-gadgets/
-source: http://apievangelist.com/2009/09/30/do-it-yourself-gadgets/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/30/do-it-yourself-gadgets/
+source: http://kinlane.com/2009/09/30/do-it-yourself-gadgets/
+domain: kinlane.com
 image: http://www.buglabs.net/assets/105/BUGbase_1.3_Product_Page.jpg
 ---
 {% include JB/setup %}<p>I was just checking out <a href="http://www.buglabs.net/">BUG Labs</a> <a href="http://www.buglabs.net/">do it yourself DIY gadgets</a>. They have created a sweet array of little open source <a href="http://www.buglabs.net/products">programmable gadgets</a>. For those of us who spent our youths taking apart stereos, tvs and anything that plugged in when we were little....these are cool.<img title="BUGbase" src="http://www.buglabs.net/assets/105/BUGbase_1.3_Product_Page.jpg" alt="" width="269" height="194" align="right" /><p></p>

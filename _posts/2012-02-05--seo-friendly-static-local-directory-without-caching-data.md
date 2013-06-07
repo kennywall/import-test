@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  SEO Friendly, Static Local Directory Without Caching Data
-url: http://apievangelist.com/2012/02/05/-seo-friendly-static-local-directory-without-caching-data/
-source: http://apievangelist.com/2012/02/05/-seo-friendly-static-local-directory-without-caching-data/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/05/-seo-friendly-static-local-directory-without-caching-data/
+source: http://kinlane.com/2012/02/05/-seo-friendly-static-local-directory-without-caching-data/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/seo-google-yahoo-bing.jpg
 ---
 {% include JB/setup %}<p><p><a href="http://www.citygridmedia.com/"><img class="aligncenter size-medium wp-image-619" title="CityGrid" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/CityGrid-300x155.png" alt="" width="300" height="155" align="right" /></a>I&rsquo;m working on several prototypes for building CityGrid local directories, demonstrating best practices when building web and mobile apps using CityGrid APIs. One question I&rsquo;ve gotten a lot lately is how are developers supposed to build SEO friendly local directories with static pages if they aren&rsquo;t allowed to cache businesses and places from the CityGrid API?</p>

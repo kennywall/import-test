@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Local Places Data Using CityGrid with Hyp3rL0cal
-url: http://apievangelist.com/2011/12/18/local-places-data-using-citygrid-with-hyp3rl0cal/
-source: http://apievangelist.com/2011/12/18/local-places-data-using-citygrid-with-hyp3rl0cal/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/18/local-places-data-using-citygrid-with-hyp3rl0cal/
+source: http://kinlane.com/2011/12/18/local-places-data-using-citygrid-with-hyp3rl0cal/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg
 ---
 {% include JB/setup %}<p><a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target=""><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg" alt="" width="250" align="right" /></a>I needed to learn more about the<a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target="">CityGrid APIs</a>. What better way than to actually build a prototype.<p></p>

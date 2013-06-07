@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Web Clipboard for Google Chrome
-url: http://apievangelist.com/2011/02/02/web-clipboard-for-google-chrome/
-source: http://apievangelist.com/2011/02/02/web-clipboard-for-google-chrome/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/02/web-clipboard-for-google-chrome/
+source: http://kinlane.com/2011/02/02/web-clipboard-for-google-chrome/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
 ---
 {% include JB/setup %}<p>I just installed the <a href="https://chrome.google.com/extensions/detail/idonmcopbgceobhkdbikbdellmdogkih?hl=en-US" target="_blank">Google Web Clipboard</a> in my Google Chrome browser.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg" alt="" width="250" align="right" /><p></p>

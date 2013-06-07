@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The API Evangelist Mission
-url: http://apievangelist.com/2012/10/12/the-api-evangelist-mission/
-source: http://apievangelist.com/2012/10/12/the-api-evangelist-mission/
-domain: apievangelist.com
+url: http://kinlane.com/2012/10/12/the-api-evangelist-mission/
+source: http://kinlane.com/2012/10/12/the-api-evangelist-mission/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-logo-400.png
 ---
 {% include JB/setup %}<p><p><a title="API Evangelist" href="http://apievangelist.com"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png" alt="" width="250" align="right" /></a></p>

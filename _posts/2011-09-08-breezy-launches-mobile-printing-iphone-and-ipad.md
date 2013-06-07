@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Breezy Launches Mobile Printing iPhone and iPad
-url: http://apievangelist.com/2011/09/08/breezy-launches-mobile-printing-iphone-and-ipad/
-source: http://apievangelist.com/2011/09/08/breezy-launches-mobile-printing-iphone-and-ipad/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/08/breezy-launches-mobile-printing-iphone-and-ipad/
+source: http://kinlane.com/2011/09/08/breezy-launches-mobile-printing-iphone-and-ipad/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>

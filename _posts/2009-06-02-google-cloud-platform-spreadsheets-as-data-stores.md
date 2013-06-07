@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Platform - Spreadsheets as Data Stores
-url: http://apievangelist.com/2009/06/02/google-cloud-platform-spreadsheets-as-data-stores/
-source: http://apievangelist.com/2009/06/02/google-cloud-platform-spreadsheets-as-data-stores/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/02/google-cloud-platform-spreadsheets-as-data-stores/
+source: http://kinlane.com/2009/06/02/google-cloud-platform-spreadsheets-as-data-stores/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I attended many great sessions while at <a class="zem_slink" title="Google I/O" rel="homepage" href="http://code.google.com/events/io/">Google I/O</a>. I really started to see the where they are going with using <a class="zem_slink" title="Google Docs" rel="homepage" href="http://docs.google.com/">Google Spreadsheets</a> as data stores.<p></p>

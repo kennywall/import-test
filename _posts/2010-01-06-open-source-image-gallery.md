@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Source Image Gallery
-url: http://apievangelist.com/2010/01/06/open-source-image-gallery/
-source: http://apievangelist.com/2010/01/06/open-source-image-gallery/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/06/open-source-image-gallery/
+source: http://kinlane.com/2010/01/06/open-source-image-gallery/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am trying to find to find an appropriate solution for a friend that will allow him to manage a photo collection. Rather than build something from scratch I thought I'd take a look to see whats out there.<p></p>

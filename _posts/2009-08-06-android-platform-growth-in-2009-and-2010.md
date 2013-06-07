@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Android Platform Growth in 2009 and 2010
-url: http://apievangelist.com/2009/08/06/android-platform-growth-in-2009-and-2010/
-source: http://apievangelist.com/2009/08/06/android-platform-growth-in-2009-and-2010/
-domain: apievangelist.com
+url: http://kinlane.com/2009/08/06/android-platform-growth-in-2009-and-2010/
+source: http://kinlane.com/2009/08/06/android-platform-growth-in-2009-and-2010/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=3a972411-e2ad-4dc6-8fa5-78e2030fc74f
 ---
 {% include JB/setup %}<p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Printing with Box.net
-url: http://apievangelist.com/2011/04/30/cloud-printing-with-box-net/
-source: http://apievangelist.com/2011/04/30/cloud-printing-with-box-net/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/30/cloud-printing-with-box-net/
+source: http://kinlane.com/2011/04/30/cloud-printing-with-box-net/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.box.net"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="125" align="right" /></a><p></p>

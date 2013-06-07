@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IPhone 4 Upgrade
-url: http://apievangelist.com/2011/02/11/iphone-4-upgrade/
-source: http://apievangelist.com/2011/02/11/iphone-4-upgrade/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/11/iphone-4-upgrade/
+source: http://kinlane.com/2011/02/11/iphone-4-upgrade/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg
 ---
 {% include JB/setup %}<p>I just made the upgrade from my IPhone 3GS to IPhone 4. I 've been waiting because it is really a luxury, not a need.<p></p>

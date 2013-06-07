@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evaluating Who You Should Build Relationships With
-url: http://apievangelist.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
-source: http://apievangelist.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
+source: http://kinlane.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
+domain: kinlane.com
 image: http://blog.postrank.com/images/PostRank_logo.png
 ---
 {% include JB/setup %}<p>Back when I ran my social media marketing company in 2008 I would help clients understand what blogs were important in their industry, and which blogs they should be working to build a relationship with.<img style="padding: 20px;" title="PostRank" src="http://blog.postrank.com/images/PostRank_logo.png" alt="" width="200" height="200" align="right" /></a><p></p>

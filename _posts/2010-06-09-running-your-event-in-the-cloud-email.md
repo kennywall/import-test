@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Running Your Event in the Cloud - Email
-url: http://apievangelist.com/2010/06/09/running-your-event-in-the-cloud-email/
-source: http://apievangelist.com/2010/06/09/running-your-event-in-the-cloud-email/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/09/running-your-event-in-the-cloud-email/
+source: http://kinlane.com/2010/06/09/running-your-event-in-the-cloud-email/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/email_icon.jpg
 ---
 {% include JB/setup %}<p>Email is still the number one tool for managing events and communicating  with attendees, speakers, and exhibitors. Social network is definitely  the future of the event communication, but until then email rules.<p></p>

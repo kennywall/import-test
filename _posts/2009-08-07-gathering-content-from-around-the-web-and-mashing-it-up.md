@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gathering content from around the web and mashing it up...
-url: http://apievangelist.com/2009/08/07/gathering-content-from-around-the-web-and-mashing-it-up/
-source: http://apievangelist.com/2009/08/07/gathering-content-from-around-the-web-and-mashing-it-up/
-domain: apievangelist.com
+url: http://kinlane.com/2009/08/07/gathering-content-from-around-the-web-and-mashing-it-up/
+source: http://kinlane.com/2009/08/07/gathering-content-from-around-the-web-and-mashing-it-up/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just answered a question for someone on the best <a class="zem_slink" title="Screen scraping" rel="wikipedia" href="http://en.wikipedia.org/wiki/Screen_scraping">screen scraping</a>, data gathering, <a class="zem_slink" title="Mashup (web application hybrid)" rel="wikipedia" href="http://en.wikipedia.org/wiki/Mashup_%28web_application_hybrid%29">mashup</a> tools out there. I couldn't remember the name of dapper for the life of me.<p></p>

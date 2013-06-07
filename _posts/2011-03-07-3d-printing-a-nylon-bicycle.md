@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing a Nylon Bicycle
-url: http://apievangelist.com/2011/03/07/3d-printing-a-nylon-bicycle/
-source: http://apievangelist.com/2011/03/07/3d-printing-a-nylon-bicycle/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/07/3d-printing-a-nylon-bicycle/
+source: http://kinlane.com/2011/03/07/3d-printing-a-nylon-bicycle/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg" alt="" width="260" align="right" /><a title="EADS Engineers in UK" href="http://www.eads.com/eads/int/en.html">Engineers in the UK</a> are using 3D printing with a nylon powder to create a really cool, <a title="3D Nylon Bicycle" href="http://www.popsci.com/technology/article/2011-03/3-d-laser-printing-builds-nylon-bike-strong-steel">futuristic bicycle</a>.<p></p>

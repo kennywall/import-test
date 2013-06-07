@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Multi-Domain Support in Google Apps
-url: http://apievangelist.com/2010/06/23/multi-domain-support-in-google-apps/
-source: http://apievangelist.com/2010/06/23/multi-domain-support-in-google-apps/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/23/multi-domain-support-in-google-apps/
+source: http://kinlane.com/2010/06/23/multi-domain-support-in-google-apps/
+domain: kinlane.com
 image: http://2.bp.blogspot.com/_JPTTyK3AMOQ/TCFx1eIJXmI/AAAAAAAAAJQ/SB-QTcN-mDk/Picture+9.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 20ppx;" title="Google Apps Multi Domain" src="http://2.bp.blogspot.com/_JPTTyK3AMOQ/TCFx1eIJXmI/AAAAAAAAAJQ/SB-QTcN-mDk/Picture+9.png" alt="" width="250" align="right" />Gooogle has opened upon support for companies to use <a href="http://googleenterprise.blogspot.com/2010/06/introducing-multi-domain-support-in.html">multiple domains when setting up their Google Apps</a>. The Google Apps control panel now allows administrators to manage multiple domains and assign to specific resources such as email, docs, and Google Sites.<p></p>

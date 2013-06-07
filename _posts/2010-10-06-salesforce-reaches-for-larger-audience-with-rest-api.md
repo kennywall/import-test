@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Salesforce Reaches for Larger Audience with REST API
-url: http://apievangelist.com/2010/10/06/salesforce-reaches-for-larger-audience-with-rest-api/
-source: http://apievangelist.com/2010/10/06/salesforce-reaches-for-larger-audience-with-rest-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/06/salesforce-reaches-for-larger-audience-with-rest-api/
+source: http://kinlane.com/2010/10/06/salesforce-reaches-for-larger-audience-with-rest-api/
+domain: kinlane.com
 image: http://www.developerforce.com/assets/developerforcesite/developerforce_home/images/developerforce_logo.png
 ---
 {% include JB/setup %}<p>Salesforce is gearing up for the <a href="http://blog.sforce.com/sforce/2010/10/rest-api-programmableweb-and-curl.html">upcoming release of their REST API</a> on October 26, with a <a href="https://www.developerforce.com/events/rest_developer_preview/registration.php?d=70130000000FV4U">REST API Developer Preview Webinar</a>.<p></p>

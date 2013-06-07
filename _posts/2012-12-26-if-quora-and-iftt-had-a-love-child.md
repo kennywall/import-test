@@ -1,9 +1,9 @@
 ---
 layout: post
 title: If Quora and IFTTT Had a Love Child
-url: http://apievangelist.com/2012/12/26/if-quora-and-iftt-had-a-love-child/
-source: http://apievangelist.com/2012/12/26/if-quora-and-iftt-had-a-love-child/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/26/if-quora-and-iftt-had-a-love-child/
+source: http://kinlane.com/2012/12/26/if-quora-and-iftt-had-a-love-child/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/IFTTT-logo.jpeg
 ---
 {% include JB/setup %}<p><p><a href="http://quora.com" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/quora-logo.jpg" alt="" width="175" align="right" /></a></p>

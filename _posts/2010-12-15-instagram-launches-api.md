@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instagram Launches API
-url: http://apievangelist.com/2010/12/15/instagram-launches-api/
-source: http://apievangelist.com/2010/12/15/instagram-launches-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/15/instagram-launches-api/
+source: http://kinlane.com/2010/12/15/instagram-launches-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG" alt="" width="250" align="right" />I wrote about <a href="http://www.kinlane.com/2010/10/instagram-doing-one-thing-well/" target="_blank">Instagram doing one thing really well</a>, and since then I have been getting a lot of searches for the key phrase: <strong><em>instagram api </em></strong>over the last couple months.<p></p>

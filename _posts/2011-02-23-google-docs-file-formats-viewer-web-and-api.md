@@ -1,9 +1,9 @@
 ---
 layout: post
 title: File Formats for Google Docs API
-url: http://apievangelist.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
-source: http://apievangelist.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
+source: http://kinlane.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/googleapps.jpg" alt="" width="240" align="right" />I am defining various aspects of the <a href="http://docs.google.com" target="_blank">Google Docs</a> platform in conjunction with my <a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Print Proxy</a> work.<p></p>

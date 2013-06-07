@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Generation of Web Applications
-url: http://apievangelist.com/2011/03/16/new-generation-of-web-applications/
-source: http://apievangelist.com/2011/03/16/new-generation-of-web-applications/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/16/new-generation-of-web-applications/
+source: http://kinlane.com/2011/03/16/new-generation-of-web-applications/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 ---
 {% include JB/setup %}<p>I'm noticing a pattern of simple new web applications that focus on solving a single problem.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instagram Terms of Use Change Represents a Lack of Imagination
-url: http://apievangelist.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
-source: http://apievangelist.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
+source: http://kinlane.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/instagram-logo.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png" alt="" width="250" align="right" /></p>

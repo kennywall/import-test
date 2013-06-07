@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Displaying Flickr Images as Polaroid Album
-url: http://apievangelist.com/2011/02/12/displaying-flickr-images-as-polaroid-album/
-source: http://apievangelist.com/2011/02/12/displaying-flickr-images-as-polaroid-album/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/12/displaying-flickr-images-as-polaroid-album/
+source: http://kinlane.com/2011/02/12/displaying-flickr-images-as-polaroid-album/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.flickr.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg" alt="" width="140" align="right" /></a>Next I wanted to merge my <a href="http://www.kinlane.com/2011/02/polaroid-photo-layout-in-css/" target="_blank">Polaroid Photo Layout in CSS</a> with my <a href="http://www.kinlane.com/2011/02/pull-images-from-flickr-with-zend/" target="_blank">images from Flickr with Zend</a>.<p></p>

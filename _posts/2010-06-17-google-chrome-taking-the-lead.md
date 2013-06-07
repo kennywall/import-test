@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Chrome Taking the Lead
-url: http://apievangelist.com/2010/06/17/google-chrome-taking-the-lead/
-source: http://apievangelist.com/2010/06/17/google-chrome-taking-the-lead/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/17/google-chrome-taking-the-lead/
+source: http://kinlane.com/2010/06/17/google-chrome-taking-the-lead/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
 ---
 {% include JB/setup %}<p>Google Chrome just keeps winning me over lately. My firefox seems to crash a lot, which seems to be related to my firebug, but not always. <img class="alignnone" style="padding: 15px;" title="Google Chrome" src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg" alt="" width="282" height="180" align="right" /><p></p>

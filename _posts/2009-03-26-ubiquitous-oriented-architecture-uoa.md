@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ubiquitous Oriented Architecture (UOA)
-url: http://apievangelist.com/2009/03/26/ubiquitous-oriented-architecture-uoa/
-source: http://apievangelist.com/2009/03/26/ubiquitous-oriented-architecture-uoa/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/26/ubiquitous-oriented-architecture-uoa/
+source: http://kinlane.com/2009/03/26/ubiquitous-oriented-architecture-uoa/
+domain: kinlane.com
 image: http://kin-lane-projects.s3.amazonaws.com/ubiquitous-oriented-architecture/Ubiquitous Oriented Architecture_Medium.jpg
 ---
 {% include JB/setup %}<p>I have been working real hard for the last couple of months to design a solid base for my companies architecture.<p></p>

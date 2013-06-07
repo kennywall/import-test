@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CityGrid Places API with Hyp3r0cal for Wordpress
-url: http://apievangelist.com/2012/02/18/hyp3r0cal-for-wordpress/
-source: http://apievangelist.com/2012/02/18/hyp3r0cal-for-wordpress/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/18/hyp3r0cal-for-wordpress/
+source: http://kinlane.com/2012/02/18/hyp3r0cal-for-wordpress/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/citygrid_logo_200.png
 ---
 {% include JB/setup %}<p><p><img class="alignnone" title="CityGrid Logo" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg" alt="" width="250" align="right" />I wanted a way to make the rich content available via&nbsp;<a title="CityGrid APIs" href="http://developer.citygridmedia.com/">CityGrid APIs</a>&nbsp;accessible to anyone, even if you weren't a developer.</p>

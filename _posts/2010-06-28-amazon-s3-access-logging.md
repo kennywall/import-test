@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon S3 - Access Logging
-url: http://apievangelist.com/2010/06/28/amazon-s3-access-logging/
-source: http://apievangelist.com/2010/06/28/amazon-s3-access-logging/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/28/amazon-s3-access-logging/
+source: http://kinlane.com/2010/06/28/amazon-s3-access-logging/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/amazon/Amazon-S3-Logging.PNG
 ---
 {% include JB/setup %}<p>I was mapping some subdomains to various <a href="http://www.kinlane.com/category/amazon/amazon-s3/">Amazon S3</a> buckets today. I decided to use the new Amazon S3 interface available in the <a href="http://www.kinlane.com/category/amazon/amazon-console/">Amazon Console</a>, instead of S3Fox for a change.<p></p>

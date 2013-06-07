@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Web 2.0 Cleaning House
-url: http://apievangelist.com/2009/03/07/web-20-cleaning-house/
-source: http://apievangelist.com/2009/03/07/web-20-cleaning-house/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/07/web-20-cleaning-house/
+source: http://kinlane.com/2009/03/07/web-20-cleaning-house/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>As Web 2.0 was being discovered and coming to a head one thing that came to mind was that eventual acquisition and consolidation was going to be necessary because there are so many applications and companies. 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Aviary Launches Image Effects API
-url: http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/
-source: http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/04/aviary-launches-image-effects-api/
+source: http://kinlane.com/2011/05/04/aviary-launches-image-effects-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png
 ---
 {% include JB/setup %}<p><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png" alt="" width="200" align="right" /><a title="Aviary" href="aviary.com">Aviary</a>, a creator of web-based image editing tools, <a title="launched a new Effects API" href="http://blog.aviary.com/aviarys-effects-api-and-new-developer-site/">launched a new Effects API</a> that can apply filters and utilities to photos via a RESTful interface.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: California State Budget
-url: http://apievangelist.com/2010/01/08/california-state-budget/
-source: http://apievangelist.com/2010/01/08/california-state-budget/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/08/california-state-budget/
+source: http://kinlane.com/2010/01/08/california-state-budget/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I came across a blog post in the Huffington Post called, "<a href="http://www.huffingtonpost.com/2010/01/08/schwarzenegger-proposes-b_n_416750.html">Schwarzenegger Proposes Budget For 'Tough Times</a>'". So I went and checked out the <a href="Schwarzenegger Proposes Budget For 'Tough Times'">California Proposed Budget for 2010 and 2011</a>.<p></p>

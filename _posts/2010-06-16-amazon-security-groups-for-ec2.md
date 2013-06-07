@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Security Groups for EC2
-url: http://apievangelist.com/2010/06/16/amazon-security-groups-for-ec2/
-source: http://apievangelist.com/2010/06/16/amazon-security-groups-for-ec2/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/16/amazon-security-groups-for-ec2/
+source: http://kinlane.com/2010/06/16/amazon-security-groups-for-ec2/
+domain: kinlane.com
 image: http://aws.typepad.com/.a/6a00d8341c534853ef0133f0fc1980970b-500wi
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 20px;" title="Three-Tier Architecture with Amazon" src="http://aws.typepad.com/.a/6a00d8341c534853ef0133f0fc1980970b-500wi" alt="" width="300" align="right" />I was working on the <a href="http://www.kinlane.com/2010/06/small-business-it-review/">review of my small business IT infrastructure</a> today, which includes our servers at Amazon EC2. As I was looking at my "server role" definitions and the corresponding Amazon EC2 Security Groups I saw a new blog post come in from Amazon Web Services.<p></p>

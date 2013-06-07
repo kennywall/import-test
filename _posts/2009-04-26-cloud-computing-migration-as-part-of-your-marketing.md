@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing Migration as Part of your Marketing
-url: http://apievangelist.com/2009/04/26/cloud-computing-migration-as-part-of-your-marketing/
-source: http://apievangelist.com/2009/04/26/cloud-computing-migration-as-part-of-your-marketing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/cloud-computing-migration-as-part-of-your-marketing/
+source: http://kinlane.com/2009/04/26/cloud-computing-migration-as-part-of-your-marketing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am encountering many companies that are putting together their cloud computing migration strategy for either their entire company or for specific programs. I see several companies posting comments and questions about this process which creates some transparency of their activities.<p></p>

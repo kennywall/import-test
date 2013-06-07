@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Storage with CloudBerry Backup
-url: http://apievangelist.com/2010/06/26/cloud-storage-with-cloudberry-backup/
-source: http://apievangelist.com/2010/06/26/cloud-storage-with-cloudberry-backup/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/26/cloud-storage-with-cloudberry-backup/
+source: http://kinlane.com/2010/06/26/cloud-storage-with-cloudberry-backup/
+domain: kinlane.com
 image: http://images.cloudberrylab.com/products/backup_box.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 10px;" title="Cloudberry Backup" src="http://images.cloudberrylab.com/products/backup_box.jpg" alt="" width="144" height="170" align="right" />I am always trying to keep an eye on various <a href="http://www.kinlane.com/2010/06/data-storage-in-the-clouds/">cloud storage solutions</a>. A company called <a href="http://cloudberrylab.com" target="_blank">Cloudberry</a> has been offering an <a href="http://www.kinlane.com/category/amazon/amazon-s3/">Amazon S3</a> storage client called <a href="http://www.kinlane.com/2009/04/amazon-s3-client-tool/">CloudBerry Explorer</a> for a while.<p></p>

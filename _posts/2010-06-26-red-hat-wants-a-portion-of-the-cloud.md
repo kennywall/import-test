@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Red Hat Wants a Portion of the Cloud
-url: http://apievangelist.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
-source: http://apievangelist.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
+source: http://kinlane.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/red-hat.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Red Hat Linux" src="http://kinlane-productions.s3.amazonaws.com/red-hat.jpg" alt="" width="250" align="right" />Red Hat has been part of the cloud with services like <a href="http://www.kinlane.com/category/amazon/amazon-ec2/">Amazon EC2</a> since the beginning, because they are a leading open source platform. Not be outdone by other technology providers, <a href="http://www.redhat.com/solutions/cloud/partners/" target="_blank">Red Hat is offering their own line of cloud computing tools and services</a>. When you choose Red Hat for your cloud, you get:

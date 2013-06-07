@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Social Budgets and Contributions
-url: http://apievangelist.com/2010/01/11/social-budgets-and-contributions/
-source: http://apievangelist.com/2010/01/11/social-budgets-and-contributions/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/11/social-budgets-and-contributions/
+source: http://kinlane.com/2010/01/11/social-budgets-and-contributions/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Many projects I do in my spare time are purely for the exercise and learning experience. I have been developing a tool I am calling social budgets.<p></p>

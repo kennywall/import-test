@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email in the Amazon Cloud Part 3 - Maintaining IP Addresses and DNS Quality
-url: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-3-maintaining-ip-addresses-and-dns-quality/
-source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-3-maintaining-ip-addresses-and-dns-quality/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-3-maintaining-ip-addresses-and-dns-quality/
+source: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-3-maintaining-ip-addresses-and-dns-quality/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Sending large amounts of email and ensuring they get received requires a lot of work and you need to make sure your mail framework is setup correctly and is healthy. This takes a lot of work and maintenance.<p></p>

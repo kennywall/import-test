@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Commercial Cloud Print Queue
-url: http://apievangelist.com/2011/03/13/commercial-print-queue/
-source: http://apievangelist.com/2011/03/13/commercial-print-queue/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/13/commercial-print-queue/
+source: http://kinlane.com/2011/03/13/commercial-print-queue/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>As I'm working on different cloud printing solutions I am considering the practical use of these technologies in conjunction with <a title="Mimeo Commercial Printing" href="http://www.mimeo.com">Mimeo commercial printing</a>.<p></p>

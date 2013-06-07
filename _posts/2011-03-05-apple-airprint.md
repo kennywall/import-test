@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Apple Airprint
-url: http://apievangelist.com/2011/03/05/apple-airprint/
-source: http://apievangelist.com/2011/03/05/apple-airprint/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/05/apple-airprint/
+source: http://kinlane.com/2011/03/05/apple-airprint/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple-airprint/Apple-Airprint-Overview.png
 ---
 {% include JB/setup %}<p><a title="Apple Airprint" href="http://support.apple.com/kb/ht4356">Apple AirPrint</a> enables printing on Apple products to HP printers over a wireless network.<p></p>

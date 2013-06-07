@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Video in the Cloud
-url: http://apievangelist.com/2010/01/11/video-in-the-cloud/
-source: http://apievangelist.com/2010/01/11/video-in-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/11/video-in-the-cloud/
+source: http://kinlane.com/2010/01/11/video-in-the-cloud/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was looking for an <a href="http://www.kinlane.com/?p=1154">open source image gallery solution</a> for a friend the other night. Tonight after reading <a href="http://www.techcrunch.com/2010/01/10/cloud-computing-enterprise/">The Coming Tornado: Cloud in the Enterprise</a>. I got into researching a couple of other areas of open source or cloud tools that I can add to my IT cloud stack.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Provide High Quality, Professional API Developers with Elance
-url: http://apievangelist.com/2011/02/28/provide-high-quality-professional-api-developers-with-elance/
-source: http://apievangelist.com/2011/02/28/provide-high-quality-professional-api-developers-with-elance/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/provide-high-quality-professional-api-developers-with-elance/
+source: http://kinlane.com/2011/02/28/provide-high-quality-professional-api-developers-with-elance/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/elance/elance-logo.jpg
 ---
 {% include JB/setup %}<p>Every API owner wants to ensure she or he has high quality, professional developers to refer to partners when building applications that use their API.  It can take years to cultivate an organic community of high quality developers for an API area.<p></p>

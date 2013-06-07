@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Data Visualization Tools - US Map
-url: http://apievangelist.com/2010/06/11/data-visualization-is-the-future/
-source: http://apievangelist.com/2010/06/11/data-visualization-is-the-future/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/11/data-visualization-is-the-future/
+source: http://kinlane.com/2010/06/11/data-visualization-is-the-future/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/US-Map.PNG
 ---
 {% include JB/setup %}<p>With the amount of data being made available every day, visualizing tools are increasingly important. <img class="alignnone" style="padding: 15px;" title="US Map Visualization" src="http://kinlane-productions.s3.amazonaws.com/US-Map.PNG" alt="" width="300" align="right" /><p></p>

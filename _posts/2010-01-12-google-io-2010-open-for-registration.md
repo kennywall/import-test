@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google I/O 2010 Open for Registration
-url: http://apievangelist.com/2010/01/12/google-io-2010-open-for-registration/
-source: http://apievangelist.com/2010/01/12/google-io-2010-open-for-registration/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/12/google-io-2010-open-for-registration/
+source: http://kinlane.com/2010/01/12/google-io-2010-open-for-registration/
+domain: kinlane.com
 image: http://code.google.com/events/io/2010/images/io-logo.png
 ---
 {% include JB/setup %}<p><img title="Google I/O 2010 Open for Registration" src="http://code.google.com/events/io/2010/images/io-logo.png" alt="" width="200" height="41" align="right" /><p></p>

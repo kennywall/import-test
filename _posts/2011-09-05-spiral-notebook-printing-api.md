@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Spiral Notebook Printing API
-url: http://apievangelist.com/2011/09/05/spiral-notebook-printing-api/
-source: http://apievangelist.com/2011/09/05/spiral-notebook-printing-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/05/spiral-notebook-printing-api/
+source: http://kinlane.com/2011/09/05/spiral-notebook-printing-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/Spiral-Notebook-Example-Image.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/Spiral-Notebook-Example-Image.png" alt="" width="250" align="right" />We've added a new<a title="API that provides spiral notebook printing for developers" href="http://mimeoconnect.3scale.net/wiki/spiral-notebook-printing-api">API that provides spiral notebook printing services for developers</a>. It enables you to price and order commercially printed notebooks in different sizes, covers, paper, color, with or without hole punches and binding from within your web and mobile applications.<p></p>

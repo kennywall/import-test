@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Software QA in the Clouds Using SkyTap
-url: http://apievangelist.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
-source: http://apievangelist.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
+source: http://kinlane.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I have been test driving a new <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud platform</a> or tool every couple days as I have time. I took a <a class="zem_slink" title="Test drive" rel="wikipedia" href="http://en.wikipedia.org/wiki/Test_drive">test drive</a> and demo of <a href="http://sites.google.com/a/kinlane.com/cloud-computing/players/skytap">SkyTap </a>last week. I wrote down some notes on it, but will be processing what I saw for some time.<p></p>

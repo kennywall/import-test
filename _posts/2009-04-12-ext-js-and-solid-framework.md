@@ -1,9 +1,9 @@
 ---
 layout: post
 title: EXT JS and Solid Framework
-url: http://apievangelist.com/2009/04/12/ext-js-and-solid-framework/
-source: http://apievangelist.com/2009/04/12/ext-js-and-solid-framework/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/12/ext-js-and-solid-framework/
+source: http://kinlane.com/2009/04/12/ext-js-and-solid-framework/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have blogged about my usage of EXT JS Framework. I am adopting it for usage at my company right now and plotting the next stages in our event management software products.<p></p>

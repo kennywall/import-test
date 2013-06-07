@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Web Services Outage Impact
-url: http://apievangelist.com/2011/04/22/amazon-web-services-outage-impact/
-source: http://apievangelist.com/2011/04/22/amazon-web-services-outage-impact/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/22/amazon-web-services-outage-impact/
+source: http://kinlane.com/2011/04/22/amazon-web-services-outage-impact/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I wrote a post yesterday on the Amazon outage, and half jokingly said<a title="Amazon should pull the plug regularly to show which companies do not have it together." href="http://www.kinlane.com/2011/04/amazon-should-pull-plug-regularly-to-show-which-companies-do-not-have-it-together/">Amazon Should Pull Plug Regularly to Show Which Companies Do Not Have It Together</a>. Of course I don't think Amazon should do this, but I wanted to highlight <a title="Clay Loveless post on Amazon Cloud Computing" href="http://claylo.com/post/4817029650/where-there-are-clouds-it-sometimes-rains">Clays great post on the topic</a>.<p></p>

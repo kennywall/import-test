@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Human v Computer
-url: http://apievangelist.com/2010/12/06/human-v-computer/
-source: http://apievangelist.com/2010/12/06/human-v-computer/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/06/human-v-computer/
+source: http://kinlane.com/2010/12/06/human-v-computer/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Who is the number one user of your web site? Humans or other computers?<p></p>

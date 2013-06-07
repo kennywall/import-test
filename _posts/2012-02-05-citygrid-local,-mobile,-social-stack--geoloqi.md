@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CityGrid Local, Mobile, Social Stack:  Geoloqi
-url: http://apievangelist.com/2012/02/05/citygrid-local,-mobile,-social-stack--geoloqi/
-source: http://apievangelist.com/2012/02/05/citygrid-local,-mobile,-social-stack--geoloqi/
-domain: apievangelist.com
+url: http://kinlane.com/2012/02/05/citygrid-local,-mobile,-social-stack--geoloqi/
+source: http://kinlane.com/2012/02/05/citygrid-local,-mobile,-social-stack--geoloqi/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Geoloqi_Logo.png
 ---
 {% include JB/setup %}<p><p><a title="Geoloqi" href="https://developers.geoloqi.com/"><img class="aligncenter size-full wp-image-589" title="Geoloqi_Logo" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/Geoloqi_Logo.png" alt="" width="300" height="100" align="right" /></a>In February I&rsquo;m spending more time building, what I&rsquo;ve dubbed the CityGrid Local, Mobile, Social Stack, a list of APIs, platforms and tools that you can use in your local-mobile applications.</p>

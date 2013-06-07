@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing and Green Data Centers
-url: http://apievangelist.com/2009/04/12/cloud-computing-and-green-data-centers/
-source: http://apievangelist.com/2009/04/12/cloud-computing-and-green-data-centers/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/12/cloud-computing-and-green-data-centers/
+source: http://kinlane.com/2009/04/12/cloud-computing-and-green-data-centers/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been reading up on data center operations lately and what goes into building a data center that a cloud / virtualization methodology could be deployed to provide various public or private cloud computing.<p></p>

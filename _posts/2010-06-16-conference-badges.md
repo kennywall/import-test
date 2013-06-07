@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Conference Badges
-url: http://apievangelist.com/2010/06/16/conference-badges/
-source: http://apievangelist.com/2010/06/16/conference-badges/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/16/conference-badges/
+source: http://kinlane.com/2010/06/16/conference-badges/
+domain: kinlane.com
 image: http://farm4.static.flickr.com/3578/3574278779_e26a7c1f3d.jpg
 ---
 {% include JB/setup %}<p>I see a lot of conference badges. <a href="http://www.webeventsglobal.com">WebEvents Global</a> specializes in print on demand badges that make the conference check-in experience a breeze. <img class="alignnone" style="padding: 15px;" title="Google I/O" src="http://farm4.static.flickr.com/3578/3574278779_e26a7c1f3d.jpg" alt="" width="250" align="right" /><p></p>

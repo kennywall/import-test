@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Try Cloud Printing Before Investing in Print Infrastructure
-url: http://apievangelist.com/2011/08/01/try-cloud-printing-before-investing-in-print-infrastructure/
-source: http://apievangelist.com/2011/08/01/try-cloud-printing-before-investing-in-print-infrastructure/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/01/try-cloud-printing-before-investing-in-print-infrastructure/
+source: http://kinlane.com/2011/08/01/try-cloud-printing-before-investing-in-print-infrastructure/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/Mimeo-Cloud-Print-1.png
 ---
 {% include JB/setup %}<p><a title="Mimeo" href="http://www.mimeo.com"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/Mimeo-Cloud-Print-1.png" alt="" width="250" align="right" /></a><p></p>

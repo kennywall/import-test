@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Brochure & Flyer Printer with Box.net and Mimeo Connect
-url: http://apievangelist.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
-source: http://apievangelist.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
+source: http://kinlane.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="200" align="right" /><p></p>

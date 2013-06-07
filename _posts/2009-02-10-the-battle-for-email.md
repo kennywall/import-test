@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Battle for Email
-url: http://apievangelist.com/2009/02/10/the-battle-for-email/
-source: http://apievangelist.com/2009/02/10/the-battle-for-email/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/10/the-battle-for-email/
+source: http://kinlane.com/2009/02/10/the-battle-for-email/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Email has become my number one enemy lately. It is sure tough to ensure the quality receipt of emails when your are doing large email blasts.<p></p>

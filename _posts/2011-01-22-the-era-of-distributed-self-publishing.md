@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Era of Distributed Self-Publishing
-url: http://apievangelist.com/2011/01/22/the-era-of-distributed-self-publishing/
-source: http://apievangelist.com/2011/01/22/the-era-of-distributed-self-publishing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/22/the-era-of-distributed-self-publishing/
+source: http://kinlane.com/2011/01/22/the-era-of-distributed-self-publishing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/open-book.jpg
 ---
 {% include JB/setup %}<p>Its interesting to watch <a href="http://www.kinlane.com/category/publishing/">self-publishing</a> move mainstream and gain more acceptance.  The conversation  seems to be moving from, Is self-publishing a viable option? to Self-publishing is the way to go!.<p></p>

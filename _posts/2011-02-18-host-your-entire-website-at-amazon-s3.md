@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Host Your Entire Website at Amazon S3
-url: http://apievangelist.com/2011/02/18/host-your-entire-website-at-amazon-s3/
-source: http://apievangelist.com/2011/02/18/host-your-entire-website-at-amazon-s3/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/18/host-your-entire-website-at-amazon-s3/
+source: http://kinlane.com/2011/02/18/host-your-entire-website-at-amazon-s3/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/amazon/Run-Website-On-Amazon-S3.png
 ---
 {% include JB/setup %}<p><a href="http://www.allthingsdistributed.com/" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/Run-Website-On-Amazon-S3.png" alt="" width="300" align="right" /></a>Amazon made some more tweaks to <a href="http://aws.amazon.com/s3/" target="_blank">Amazon S3</a> that make it even easier to <a href="http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html" target="_blank">host your entire static web site at Amazon S3</a>.<p></p>

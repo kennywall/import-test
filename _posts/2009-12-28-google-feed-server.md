@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Feed Server
-url: http://apievangelist.com/2009/12/28/google-feed-server/
-source: http://apievangelist.com/2009/12/28/google-feed-server/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/28/google-feed-server/
+source: http://kinlane.com/2009/12/28/google-feed-server/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google Feed Server is an open source <a title="Atom (standard)" rel="wikipedia" href="http://en.wikipedia.org/wiki/Atom_%28standard%29">Atom Publishing Protocol</a> server based on the <a title="Apache Abdera" rel="homepage" href="http://incubator.apache.org/abdera/">Apache Abdera</a> framework. Google Feed Server provides a simple back end for data adapters, which allows developers to quickly deploy a feed for an existing data source such as a database.<p></p>

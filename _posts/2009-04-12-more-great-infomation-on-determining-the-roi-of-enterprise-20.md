@@ -1,9 +1,9 @@
 ---
 layout: post
 title: More Great Infomation on Determining the ROI of Enterprise 2.0
-url: http://apievangelist.com/2009/04/12/more-great-infomation-on-determining-the-roi-of-enterprise-20/
-source: http://apievangelist.com/2009/04/12/more-great-infomation-on-determining-the-roi-of-enterprise-20/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/12/more-great-infomation-on-determining-the-roi-of-enterprise-20/
+source: http://kinlane.com/2009/04/12/more-great-infomation-on-determining-the-roi-of-enterprise-20/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Another great post from Dion Hinchliffe @ ZD Net.....<a href="http://blogs.zdnet.com/Hinchcliffe/?p=334">Determining the ROI of Entrpise 2.0</a><p></p>

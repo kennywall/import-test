@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Using Twitter Bootstrap for your Local Web Application
-url: http://apievangelist.com/2012/01/31/using-twitter-bootstrap-for-your-local-web-application/
-source: http://apievangelist.com/2012/01/31/using-twitter-bootstrap-for-your-local-web-application/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/31/using-twitter-bootstrap-for-your-local-web-application/
+source: http://kinlane.com/2012/01/31/using-twitter-bootstrap-for-your-local-web-application/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Twitter-Bootstrap-Bird.png
 ---
 {% include JB/setup %}<p><p><a title="Twitter Boostrap" href="http://twitter.github.com/bootstrap/" target="_blank"><img class="aligncenter size-full wp-image-563" title="Twitter-Bootstrap-Bird" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Twitter-Bootstrap-Bird.png" alt="" width="250" align="right" /></a>I&rsquo;m a web application developer. I can efficiently build web applications, but when it comes to the UI, I know what looks good, but I struggle to actually implement a consistent look and feel.</p>

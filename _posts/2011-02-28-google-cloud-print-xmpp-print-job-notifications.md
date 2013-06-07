@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print Job Notifications Using XMPP
-url: http://apievangelist.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
-source: http://apievangelist.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
+source: http://kinlane.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png" alt="" width="350" align="right" />I made it over the last hurdle building my <a title="Google Cloud Print Proxy" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy</a> in PHP.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: If You Build It(an API), They Will Come
-url: http://apievangelist.com/2011/02/28/if-you-build-it-they-will-come/
-source: http://apievangelist.com/2011/02/28/if-you-build-it-they-will-come/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/if-you-build-it-they-will-come/
+source: http://kinlane.com/2011/02/28/if-you-build-it-they-will-come/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-tag-cloud.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-tag-cloud.jpg" alt="" width="300" align="right" />One of the goals of any API is to catch the attention of developers and become a tool they depend on and integrate regularly into their applications.<p></p>

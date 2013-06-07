@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Brother Wants to Find a Tech Job - Get a Blog
-url: http://apievangelist.com/2010/10/13/my-brother-wants-to-find-a-tech-job-get-a-blog/
-source: http://apievangelist.com/2010/10/13/my-brother-wants-to-find-a-tech-job-get-a-blog/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/13/my-brother-wants-to-find-a-tech-job-get-a-blog/
+source: http://kinlane.com/2010/10/13/my-brother-wants-to-find-a-tech-job-get-a-blog/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/wordpress.jpg
 ---
 {% include JB/setup %}<p>The other day I talked about <a href="http://www.kinlane.com/2010/10/my-brother-wants-to-find-a-tech-job/" target="_blank">my brother Michael was looking for a tech job</a>. He's a .NET programmer with a Computer Science degree, and a working currently.<p></p>

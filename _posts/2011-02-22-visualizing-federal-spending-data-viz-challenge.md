@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Visualizing Federal Spending - Data Viz Challenge
-url: http://apievangelist.com/2011/02/22/visualizing-federal-spending-data-viz-challenge/
-source: http://apievangelist.com/2011/02/22/visualizing-federal-spending-data-viz-challenge/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/22/visualizing-federal-spending-data-viz-challenge/
+source: http://kinlane.com/2011/02/22/visualizing-federal-spending-data-viz-challenge/
+domain: kinlane.com
 image: http://3.bp.blogspot.com/-5SMO-mBHvg8/TWPvE6ASrxI/AAAAAAAAHmU/KvmqXR9IbxI/datavizchallenge-screenshot.png
 ---
 {% include JB/setup %}<p>Understanding how the federal government spends our money is on all of our minds, especially this time of year.  I recently pulled out an old tool I build last year to <a href="http://oregonbudget.laneworks.net/" target="_blank">visual the State of Oregon spending</a>, and reworked it to help <a href="http://federalbudget2011.laneworks.net/" target="_blank">visualize Obamas 2012 Federal Budget</a>.  I wanted to set what my priorities were regarding the federal budget. I'm not 100% finished, still have a little work to do on it.<p></p>

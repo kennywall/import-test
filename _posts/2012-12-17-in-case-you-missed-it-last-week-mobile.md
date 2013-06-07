@@ -1,9 +1,9 @@
 ---
 layout: post
 title: In Case You Missed It Last Week...(Mobile)
-url: http://apievangelist.com/2012/12/17/in-case-you-missed-it-last-week-mobile/
-source: http://apievangelist.com/2012/12/17/in-case-you-missed-it-last-week-mobile/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/17/in-case-you-missed-it-last-week-mobile/
+source: http://kinlane.com/2012/12/17/in-case-you-missed-it-last-week-mobile/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><table width="350">

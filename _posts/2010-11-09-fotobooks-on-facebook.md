@@ -1,9 +1,9 @@
 ---
 layout: post
 title: fotobooks on Facebook
-url: http://apievangelist.com/2010/11/09/fotobooks-on-facebook/
-source: http://apievangelist.com/2010/11/09/fotobooks-on-facebook/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/09/fotobooks-on-facebook/
+source: http://kinlane.com/2010/11/09/fotobooks-on-facebook/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/fotobooks.jpg
 ---
 {% include JB/setup %}<p>I'm going through the my list of existing and potential self-publishing and print-on-demand applications.   First on my list is the <a href="http://apps.facebook.com/fotobooks/">fotobooks the Facebook social print application</a>.<p></p>

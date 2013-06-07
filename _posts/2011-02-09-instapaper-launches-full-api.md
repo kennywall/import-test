@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instapaper Launches Full API
-url: http://apievangelist.com/2011/02/09/instapaper-launches-full-api/
-source: http://apievangelist.com/2011/02/09/instapaper-launches-full-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/09/instapaper-launches-full-api/
+source: http://kinlane.com/2011/02/09/instapaper-launches-full-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}<p><a href="http://www.instapaper.com/" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png" alt="" width="175" align="right" /></a><a href="http://www.instapaper.com/" target="_blank">Instapaper</a> just launched a <a href="http://www.instapaper.com/api/full" target="_blank">Full API</a> giving developers access to web pages that Instagram users have saved to read later.<p></p>

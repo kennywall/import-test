@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Financial Gains of Cloud Computing
-url: http://apievangelist.com/2009/04/26/financial-gains-of-cloud-computing/
-source: http://apievangelist.com/2009/04/26/financial-gains-of-cloud-computing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/financial-gains-of-cloud-computing/
+source: http://kinlane.com/2009/04/26/financial-gains-of-cloud-computing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I read probably 10-20 articles daily about the cost savings of cloud computing. So many of them. This is definitely an area of consideration when making the migration to the cloud for your business.<p></p>

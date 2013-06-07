@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Twitter Consumes Their Own API
-url: http://apievangelist.com/2010/09/14/new-twitter-consumes-their-own-api/
-source: http://apievangelist.com/2010/09/14/new-twitter-consumes-their-own-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/14/new-twitter-consumes-their-own-api/
+source: http://kinlane.com/2010/09/14/new-twitter-consumes-their-own-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://blog.twitter.com/2010/09/better-twitter.html" target="_blank">Twitter released a brand new twitter.com today</a> with all kinds of <a href="http://twitter.com/newtwitter" target="_blank">new features</a>. The feature that really stands out for me is now the main twitter.com web site runs off the <a href="http://dev.twitter.com/" target="_blank">Twitter API</a>.<p></p>

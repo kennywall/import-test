@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Small Business Online Presence
-url: http://apievangelist.com/2009/04/11/small-business-online-presence/
-source: http://apievangelist.com/2009/04/11/small-business-online-presence/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/11/small-business-online-presence/
+source: http://kinlane.com/2009/04/11/small-business-online-presence/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Hitting on a common problem I have, and just need to talk it out a little bit on here so I can continue finding the right approach.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: An Author Walk-Through of a Story in Audio
-url: http://apievangelist.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
-source: http://apievangelist.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
-domain: apievangelist.com
+url: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
+source: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traffic-and-Weather.png
 ---
 {% include JB/setup %}<p><p><a href="http://trafficandweather.io/" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png" alt="" width="200" align="right" /></a></p>

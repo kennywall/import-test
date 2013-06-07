@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Data Storage in the Clouds
-url: http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/
-source: http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/03/data-storage-in-the-clouds/
+source: http://kinlane.com/2010/06/03/data-storage-in-the-clouds/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been answering a lot of questions on <a href="http://www.linkedin.com">LinkedIn</a> and <a href="http://www.quora.com">Quora</a> lately about where the best place to store data in the clouds. There are a lot of answers to this question.<p></p>

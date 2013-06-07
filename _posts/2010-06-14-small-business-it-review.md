@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Small Business IT Review
-url: http://apievangelist.com/2010/06/14/small-business-it-review/
-source: http://apievangelist.com/2010/06/14/small-business-it-review/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/14/small-business-it-review/
+source: http://kinlane.com/2010/06/14/small-business-it-review/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/information-technology/ITmanagement2.jpg
 ---
 {% include JB/setup %}<p>I got really busy over April and May and neglected a some of my infrastructure.  I'm doing a thorough review / audit of all my Information Technology (IT) Infrastructure.<img class="alignnone" style="padding: 15px;" title="IT Management" src="http://kinlane-productions.s3.amazonaws.com/information-technology/ITmanagement2.jpg" alt="" width="250" align="right" /><p></p>

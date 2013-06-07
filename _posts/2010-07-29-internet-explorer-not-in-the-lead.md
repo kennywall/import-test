@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Internet Explorer NOT in the Lead
-url: http://apievangelist.com/2010/07/29/internet-explorer-not-in-the-lead/
-source: http://apievangelist.com/2010/07/29/internet-explorer-not-in-the-lead/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/29/internet-explorer-not-in-the-lead/
+source: http://kinlane.com/2010/07/29/internet-explorer-not-in-the-lead/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Check out these browser statistics taken from my blog for traffic over the last 30 days:

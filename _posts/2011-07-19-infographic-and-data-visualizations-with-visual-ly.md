@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Infographic and Data Visualizations with Visual.ly
-url: http://apievangelist.com/2011/07/19/infographic-and-data-visualizations-with-visual-ly/
-source: http://apievangelist.com/2011/07/19/infographic-and-data-visualizations-with-visual-ly/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/19/infographic-and-data-visualizations-with-visual-ly/
+source: http://kinlane.com/2011/07/19/infographic-and-data-visualizations-with-visual-ly/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.png" alt="" width="200" align="right" /><p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wordpress Plugin - WP-SpamFree
-url: http://apievangelist.com/2009/10/14/wordpress-plugin-wp-spamfree/
-source: http://apievangelist.com/2009/10/14/wordpress-plugin-wp-spamfree/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/14/wordpress-plugin-wp-spamfree/
+source: http://kinlane.com/2009/10/14/wordpress-plugin-wp-spamfree/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I started getting more traffic to my blog lately and with that came a bunch of SPAM. I dealt with for about a month than I began searching for a solution.<p></p>

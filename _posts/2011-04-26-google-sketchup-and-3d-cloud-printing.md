@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Sketchup and 3D Cloud Printing
-url: http://apievangelist.com/2011/04/26/google-sketchup-and-3d-cloud-printing/
-source: http://apievangelist.com/2011/04/26/google-sketchup-and-3d-cloud-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/26/google-sketchup-and-3d-cloud-printing/
+source: http://kinlane.com/2011/04/26/google-sketchup-and-3d-cloud-printing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-sketchup/Google-SketchUp.png
 ---
 {% include JB/setup %}<p>I'm doing a lot of researching and thinking about the future of commercial printing, 3D printing, and manufacturing.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - The Creators
-url: http://apievangelist.com/2011/05/18/3d-printing-the-creators/
-source: http://apievangelist.com/2011/05/18/3d-printing-the-creators/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-the-creators/
+source: http://kinlane.com/2011/05/18/3d-printing-the-creators/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-creators.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-creators.jpg" alt="" width="250" align="right" />3D printing starts with someones idea.  Someones idea to recreate an existing object, or a vision of an object they hold in their head.<p></p>

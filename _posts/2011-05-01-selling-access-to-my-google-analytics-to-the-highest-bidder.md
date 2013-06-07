@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Selling Access to My Google Analytics to the Highest Bidder
-url: http://apievangelist.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
-source: http://apievangelist.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
+source: http://kinlane.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
+domain: kinlane.com
 image: http://www.avc.com/.a/6a00d83451b2c969e201538e3180d2970b-500wi
 ---
 {% include JB/setup %}<p><img src="http://www.avc.com/.a/6a00d83451b2c969e201538e3180d2970b-500wi" alt="" width="290" align="right" />I'm an avid reader of <a title="A VC" href="http://www.avc.com">Fred Wilsons blog, A VC</a>.  He provides a "real" perspective into his world, and thus the world of VCs.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Increased Amazon Usage
-url: http://apievangelist.com/2010/07/27/increased-amazon-usage/
-source: http://apievangelist.com/2010/07/27/increased-amazon-usage/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/27/increased-amazon-usage/
+source: http://kinlane.com/2010/07/27/increased-amazon-usage/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" />Once again I'm pushing the limits of what I"m allowed within an Amazon Web Services account. I need more server instances and more reserved IP addresses. So I have to go to the form(s) Amazon provides to:

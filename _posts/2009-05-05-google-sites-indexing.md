@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Sites Indexing
-url: http://apievangelist.com/2009/05/05/google-sites-indexing/
-source: http://apievangelist.com/2009/05/05/google-sites-indexing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/05/google-sites-indexing/
+source: http://kinlane.com/2009/05/05/google-sites-indexing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I started doing some <a href="http://cloud.kinlane.com">research on cloud computing</a> a couple weeks ago. I have been watching the <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a> search results for my name to see how long it took for this research to float up in my profile.<p></p>

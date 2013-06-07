@@ -1,9 +1,9 @@
 ---
 layout: post
 title: File Version Control in the Clouds
-url: http://apievangelist.com/2010/06/25/file-version-control-in-the-clouds/
-source: http://apievangelist.com/2010/06/25/file-version-control-in-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/25/file-version-control-in-the-clouds/
+source: http://kinlane.com/2010/06/25/file-version-control-in-the-clouds/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Amazon S3" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="282" height="187" align="right" />I was just talking about using <a href="http://www.kinlane.com/2010/06/small-business-backup-and-recover-in-the-amazon-cloud/">Amazon for backing up your data in the clouds</a>. One feature that Amazon introduced recently was version control for <a href="http://www.kinlane.com/category/amazon/amazon-s3/">Amazon S3</a> data.<p></p>

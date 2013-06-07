@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Docs Adds Pagination and Native Printing
-url: http://apievangelist.com/2011/04/12/google-docs-adds-pagination-and-native-printing/
-source: http://apievangelist.com/2011/04/12/google-docs-adds-pagination-and-native-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/12/google-docs-adds-pagination-and-native-printing/
+source: http://kinlane.com/2011/04/12/google-docs-adds-pagination-and-native-printing/
+domain: kinlane.com
 image: http://1.bp.blogspot.com/-79yr3_VSy-0/TaNz_38-gDI/AAAAAAAAH4k/T2EtQ8ay7M0/Advice+to+youth_pic+1.png
 ---
 {% include JB/setup %}<p><img src="http://1.bp.blogspot.com/-79yr3_VSy-0/TaNz_38-gDI/AAAAAAAAH4k/T2EtQ8ay7M0/Advice+to+youth_pic+1.png" alt="" width="250" align="right" />Google took another major step forward in positioning <a href="http://www.kinlane.com/2011/02/google-docs-as-a-publishing-platform/" target="_bank">Google Apps as a document publishing platform</a>.<p></p>

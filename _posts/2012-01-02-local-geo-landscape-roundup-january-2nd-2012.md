@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Local, Geo Landscape Roundup - January 2nd, 2012
-url: http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
-source: http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
+source: http://kinlane.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><strong>From the <a title="Foursquare Blog" href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>

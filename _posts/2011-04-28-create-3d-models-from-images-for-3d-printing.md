@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Create 3D Models from Images for 3D Printing
-url: http://apievangelist.com/2011/04/28/create-3d-models-from-images-for-3d-printing/
-source: http://apievangelist.com/2011/04/28/create-3d-models-from-images-for-3d-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/28/create-3d-models-from-images-for-3d-printing/
+source: http://kinlane.com/2011/04/28/create-3d-models-from-images-for-3d-printing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways-drawing-to-3d-model.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways-drawing-to-3d-model.jpg" alt="" width="250" align="right" />3D printing innovators <a href="http://www.shapeways.com/blog/archives/816-Introducing-Image-Popper,-a-new-way-to-easily-3D-model-and-3D-print.html">Shapeways has released a new concept in 3D Printing</a>.<p></p>

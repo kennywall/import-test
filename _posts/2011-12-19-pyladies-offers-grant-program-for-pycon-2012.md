@@ -1,9 +1,9 @@
 ---
 layout: post
 title: PyLadies Offers Grant Program for PyCon 2012
-url: http://apievangelist.com/2011/12/19/pyladies-offers-grant-program-for-pycon-2012/
-source: http://apievangelist.com/2011/12/19/pyladies-offers-grant-program-for-pycon-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/19/pyladies-offers-grant-program-for-pycon-2012/
+source: http://kinlane.com/2011/12/19/pyladies-offers-grant-program-for-pycon-2012/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/pyladies_logo.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/pyladies_logo.jpg" alt="" width="250" align="right" /><a title="PyLadies" href="http://pyladies.com/">PyLadies</a>, an organization that works to bring women to the forefront of the open source world is now offering a grant program for women in the Python community.<p></p>

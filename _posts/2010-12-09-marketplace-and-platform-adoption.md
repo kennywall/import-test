@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Marketplace and Platform Adoption
-url: http://apievangelist.com/2010/12/09/marketplace-and-platform-adoption/
-source: http://apievangelist.com/2010/12/09/marketplace-and-platform-adoption/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/09/marketplace-and-platform-adoption/
+source: http://kinlane.com/2010/12/09/marketplace-and-platform-adoption/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/chrome-web-store.jpg
 ---
 {% include JB/setup %}<p>I am spending a couple hours today going through popular app marketplaces looking for document management and collaboration applications. I'm also comparing each marketplace as browse through them..

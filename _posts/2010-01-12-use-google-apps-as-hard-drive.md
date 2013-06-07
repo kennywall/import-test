@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Use Google Apps as Hard Drive
-url: http://apievangelist.com/2010/01/12/use-google-apps-as-hard-drive/
-source: http://apievangelist.com/2010/01/12/use-google-apps-as-hard-drive/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/12/use-google-apps-as-hard-drive/
+source: http://kinlane.com/2010/01/12/use-google-apps-as-hard-drive/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Over the next few weeks Google is rolling out the ability to upload all <a href="http://googleblog.blogspot.com/2010/01/upload-your-files-and-access-them.html">file types to the cloud through Google Docs</a>, giving you one place where you can upload and access your key files online.<p></p>

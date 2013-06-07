@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hackathons for Week of December 17th, 2012
-url: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
-source: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
+source: http://kinlane.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p>These are the hackathons we are tracking on at&nbsp;<a href="http://hackweekends.com/">Hack Weekends</a>. It looks like about 21 different events in the United States.</p>

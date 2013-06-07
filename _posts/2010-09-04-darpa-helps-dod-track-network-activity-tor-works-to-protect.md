@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DARPA Helps DoD Track Network Activity, TOR Works to Protect
-url: http://apievangelist.com/2010/09/04/darpa-helps-dod-track-network-activity-tor-works-to-protect/
-source: http://apievangelist.com/2010/09/04/darpa-helps-dod-track-network-activity-tor-works-to-protect/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/04/darpa-helps-dod-track-network-activity-tor-works-to-protect/
+source: http://kinlane.com/2010/09/04/darpa-helps-dod-track-network-activity-tor-works-to-protect/
+domain: kinlane.com
 image: http://advocacy.globalvoicesonline.org/wp-content/uploads/2009/12/tor_sticker.png
 ---
 {% include JB/setup %}<p>I learned about <a href="https://www.torproject.org/" target="_blank">TOR</a>, a free software helps you defend against network surveillance that threatens personal freedom and privacy, confidential business activities and relationships, and state security while reading the <a href="http://www.rollingstone.com/culture/news/17389/192242" target="_blank">Rolling Stone Article</a> about <a href="http://en.wikipedia.org/wiki/Jacob_Appelbaum" target="_blank">Jacob Appelbaum</a> and his <a href="https://www.torproject.org/" target="_blank">TOR</a> evangelism.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CitiBank Rant
-url: http://apievangelist.com/2009/03/09/citibank-rant/
-source: http://apievangelist.com/2009/03/09/citibank-rant/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/09/citibank-rant/
+source: http://kinlane.com/2009/03/09/citibank-rant/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Figure I would rant about Citibank while I am on hold. First of all CitiRetail is the only credit card service I have that I cannot pay digitally. Get with the times.<p></p>

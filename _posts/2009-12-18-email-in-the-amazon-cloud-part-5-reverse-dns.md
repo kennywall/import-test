@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email in the Amazon Cloud Part 5 - Reverse DNS
-url: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-5-reverse-dns/
-source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-5-reverse-dns/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-5-reverse-dns/
+source: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-5-reverse-dns/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was really excited when I got this email response on my ticket from <a href="http://aws.amazon.com/">Amazon Web Services</a>:<em>

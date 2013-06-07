@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Printing Building Blocks
-url: http://apievangelist.com/2011/04/02/mimeo-cloud-printing-building-blocks/
-source: http://apievangelist.com/2011/04/02/mimeo-cloud-printing-building-blocks/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/02/mimeo-cloud-printing-building-blocks/
+source: http://kinlane.com/2011/04/02/mimeo-cloud-printing-building-blocks/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/legos.jpg
 ---
 {% include JB/setup %}<p>In preparation of my new Mimeo Connect API area I am assembling what I consider to be the core building blocks of cloud printing.<p></p>

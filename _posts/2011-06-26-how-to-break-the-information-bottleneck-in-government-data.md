@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How to Break the Information Bottleneck in Government Data?
-url: http://apievangelist.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
-source: http://apievangelist.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
+source: http://kinlane.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg" alt="" width="250" align="right" />The New York Times just covered the problems faced when opening up government data, in the article, <a title="How to break an information bottleneck" href="http://www.nytimes.com/2011/06/26/business/26stream.html?_r=1">How to Break an Information Bottleneck</a>?<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Achieve an API Ecosystem with Powered by Elance
-url: http://apievangelist.com/2011/02/28/achieve-an-api-ecosystem-with-powered-by-elance/
-source: http://apievangelist.com/2011/02/28/achieve-an-api-ecosystem-with-powered-by-elance/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/achieve-an-api-ecosystem-with-powered-by-elance/
+source: http://kinlane.com/2011/02/28/achieve-an-api-ecosystem-with-powered-by-elance/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/ecosystem.png
 ---
 {% include JB/setup %}<p>Taking an API from area to community takes a lot of work.   It just doesn't happen overnight.  It takes a perfect balance of technology, developers, partners, resources and hard work.

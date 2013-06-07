@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Position - Backchannel Management
-url: http://apievangelist.com/2009/12/18/event-position-backchannel-management/
-source: http://apievangelist.com/2009/12/18/event-position-backchannel-management/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/event-position-backchannel-management/
+source: http://kinlane.com/2009/12/18/event-position-backchannel-management/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am doing a lot of research around using social tools in event and conference <a class="zem_slink" title="Planning" rel="wikipedia" href="http://en.wikipedia.org/wiki/Planning">planning</a> right now. I am researching usage of Twitter, Facebook, LinkedIn and other social tools in event presentation and speaking at the moment.<p></p>

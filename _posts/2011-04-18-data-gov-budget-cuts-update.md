@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Data.gov Budget Cuts Update
-url: http://apievangelist.com/2011/04/18/data-gov-budget-cuts-update/
-source: http://apievangelist.com/2011/04/18/data-gov-budget-cuts-update/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/18/data-gov-budget-cuts-update/
+source: http://kinlane.com/2011/04/18/data-gov-budget-cuts-update/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/government/SunlightFoundationLogo_500wide.gif
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/government/SunlightFoundationLogo_500wide.gif" alt="" width="250" align="right" /><a title="Sunlight Foundation" href="http://sunlightfoundation.com/">Sunlight Foundation</a> sent out an update on <a title="Data.gov, USASpending.gov and the IT Dashboard Budget Cuts" href="http://www.kinlane.com/2011/04/the-irony-of-cutting-budget-for-data-gov/">Data.gov, USASpending.gov and the IT Dashboard budget cuts</a> today.<p></p>

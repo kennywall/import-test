@@ -1,9 +1,9 @@
 ---
 layout: post
 title: White House Development 2.0 Challenge
-url: http://apievangelist.com/2009/11/20/white-house-development-2-0-challenge/
-source: http://apievangelist.com/2009/11/20/white-house-development-2-0-challenge/
-domain: apievangelist.com
+url: http://kinlane.com/2009/11/20/white-house-development-2-0-challenge/
+source: http://kinlane.com/2009/11/20/white-house-development-2-0-challenge/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>The <a class="zem_slink" title="White House" rel="geolocation" href="http://maps.google.com/maps?ll=38.89767,-77.03655&amp;spn=0.01,0.01&amp;q=38.89767,-77.03655%20%28White%20House%29&amp;t=h">White House</a> recently announced the <a href="http://www.whitehouse.gov/open/innovations/Development-2-point-0-Challenge">Development 2.0 Challenge</a>, a <a href="http://www.whitehouse.gov/open/innovations/Development-2-point-0-Challenge">Tech Competition for the Developing World</a>.<p></p>

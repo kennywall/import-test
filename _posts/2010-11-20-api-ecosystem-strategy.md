@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Ecosystem Strategy
-url: http://apievangelist.com/2010/11/20/api-ecosystem-strategy/
-source: http://apievangelist.com/2010/11/20/api-ecosystem-strategy/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/20/api-ecosystem-strategy/
+source: http://kinlane.com/2010/11/20/api-ecosystem-strategy/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am working on my <a href="http://www.apievangelist.com/ecosystem.php" target="_blank">API Ecosystem</a> Strategy. First I started with the <a href="http://www.kinlane.com/2010/11/essentials-for-my-rest-print-api-area/" target="_blank">essentials for my Mimeo Connect REST Cloud Print area</a>.  These are the building blocks I must have to get my API open for business.<p></p>

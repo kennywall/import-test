@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Worldmark Review / Response Time
-url: http://apievangelist.com/2009/03/16/worldmark-review-response-time/
-source: http://apievangelist.com/2009/03/16/worldmark-review-response-time/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/16/worldmark-review-response-time/
+source: http://kinlane.com/2009/03/16/worldmark-review-response-time/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Just thought I'd post that I can another "please continue holding" response from Worldmark.<p></p>

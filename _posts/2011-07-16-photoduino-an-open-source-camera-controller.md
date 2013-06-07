@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Photoduino, an Open Source Camera Controller
-url: http://apievangelist.com/2011/07/16/photoduino-an-open-source-camera-controller/
-source: http://apievangelist.com/2011/07/16/photoduino-an-open-source-camera-controller/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/16/photoduino-an-open-source-camera-controller/
+source: http://kinlane.com/2011/07/16/photoduino-an-open-source-camera-controller/
+domain: kinlane.com
 image: http://photoduino.googlecode.com/svn/wiki/_img/en/introduction.jpg
 ---
 {% include JB/setup %}<p><img src="http://photoduino.googlecode.com/svn/wiki/_img/en/introduction.jpg" alt="" width="350" align="right" /><strong><a title="Photoduino" href="http://code.google.com/p/photoduino/wiki/Introduction">Photoduino</a></strong>is an open source camera controller based on the<strong><a title="Arduino Platform" href="http://www.arduino.cc/">Arduino platform</a></strong>.<p></p>

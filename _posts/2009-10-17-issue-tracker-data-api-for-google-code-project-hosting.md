@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Issue Tracker Data API for Google Code Project Hosting
-url: http://apievangelist.com/2009/10/17/issue-tracker-data-api-for-google-code-project-hosting/
-source: http://apievangelist.com/2009/10/17/issue-tracker-data-api-for-google-code-project-hosting/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/17/issue-tracker-data-api-for-google-code-project-hosting/
+source: http://kinlane.com/2009/10/17/issue-tracker-data-api-for-google-code-project-hosting/
+domain: kinlane.com
 image: http://www.crunchbase.com/assets/images/resized/0001/2872/12872v1-max-450x450.png
 ---
 {% include JB/setup %}<p>I Was just reading on the <a href="http://code.google.com">Google Code</a> blog that they just released a new <a href="http://googlecode.blogspot.com/2009/10/issue-tracker-data-api-for-project.html">issue tracker data API for projects that you host on Google Code</a>.<img title="Image representing Google Code as depicted in ..." src="http://www.crunchbase.com/assets/images/resized/0001/2872/12872v1-max-450x450.png" alt="" width="153" height="55" align="right" /><p></p>

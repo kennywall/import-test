@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon EC2 Volume Types and Performance Testing
-url: http://apievangelist.com/2009/03/09/amazon-ec2-volume-types-and-performance-testing/
-source: http://apievangelist.com/2009/03/09/amazon-ec2-volume-types-and-performance-testing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/09/amazon-ec2-volume-types-and-performance-testing/
+source: http://kinlane.com/2009/03/09/amazon-ec2-volume-types-and-performance-testing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have not had much time to do performance testing on our recent <a class="zem_slink" title="Amazon EC2" rel="homepage" href="http://amazon.com">Amazon EC2</a> environment. We got our entire company migrated and stabilized in a completely <a class="zem_slink" title="Amazon Web Services" rel="wikipedia" href="http://en.wikipedia.org/wiki/Amazon_Web_Services">Amazon Web Services</a> based environment. And so far I love it..<p></p>

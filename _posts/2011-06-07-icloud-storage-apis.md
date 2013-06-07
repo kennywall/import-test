@@ -1,9 +1,9 @@
 ---
 layout: post
 title: iCloud Storage APIs
-url: http://apievangelist.com/2011/06/07/icloud-storage-apis/
-source: http://apievangelist.com/2011/06/07/icloud-storage-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/07/icloud-storage-apis/
+source: http://kinlane.com/2011/06/07/icloud-storage-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Steel.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Steel.jpg" alt="" width="150" align="right" /><a title="iCloud" href="http://www.apple.com/icloud/">iCloud</a> storage APIs allow IOS application developers to store documents and other data to a central location so userscan view or edit from any device without having to sync or transfer files.<p></p>

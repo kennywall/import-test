@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Class Wars Online
-url: http://apievangelist.com/2009/10/18/class-wars-online/
-source: http://apievangelist.com/2009/10/18/class-wars-online/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/18/class-wars-online/
+source: http://kinlane.com/2009/10/18/class-wars-online/
+domain: kinlane.com
 image: http://newzar.files.wordpress.com/2009/01/rich_poor.jpg?w=300&amp;h=210
 ---
 {% include JB/setup %}<p>I have seen a lot of data trying support the class distinction between different users of online applications and services.<p></p>

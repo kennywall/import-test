@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Generating HTML from PDF Files
-url: http://apievangelist.com/2011/07/14/generating-html-from-pdf-files/
-source: http://apievangelist.com/2011/07/14/generating-html-from-pdf-files/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/14/generating-html-from-pdf-files/
+source: http://kinlane.com/2011/07/14/generating-html-from-pdf-files/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdfmasher/pdfmasher.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdfmasher/pdfmasher.jpg" alt="" align="right" /><p></p>

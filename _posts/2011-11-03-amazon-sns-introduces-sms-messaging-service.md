@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon SNS Introduces SMS Messaging Service
-url: http://apievangelist.com/2011/11/03/amazon-sns-introduces-sms-messaging-service/
-source: http://apievangelist.com/2011/11/03/amazon-sns-introduces-sms-messaging-service/
-domain: apievangelist.com
+url: http://kinlane.com/2011/11/03/amazon-sns-introduces-sms-messaging-service/
+source: http://kinlane.com/2011/11/03/amazon-sns-introduces-sms-messaging-service/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/SMS-Updates.gif
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/SMS-Updates.gif" alt="" width="250" align="right" /><a title="amazon Simple Notification Service now supports SMS text messages" href="http://aws.amazon.com/sns/">Amazon Simple Notification Service now supports SMS text messages</a> as a new method for notifications. Now with support for SMS text messaging, Amazon SNS messages can be delivered to SMS-enabled phone.<p></p>

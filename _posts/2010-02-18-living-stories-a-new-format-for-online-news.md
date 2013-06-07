@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Living-Stories - A New Format for Online News
-url: http://apievangelist.com/2010/02/18/living-stories-a-new-format-for-online-news/
-source: http://apievangelist.com/2010/02/18/living-stories-a-new-format-for-online-news/
-domain: apievangelist.com
+url: http://kinlane.com/2010/02/18/living-stories-a-new-format-for-online-news/
+source: http://kinlane.com/2010/02/18/living-stories-a-new-format-for-online-news/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a href="http://code.google.com/p/living-stories/">Living Stories</a> are a new format for presenting and consuming online news. The basic idea of a living story is to combine all of the news coverage on a running story on a single page. Every day, instead of writing a new article on the story that sits at a new URL and contains some new developments and some old background, a living story resides at a permanent URL, that is updated regularly with new developments. This makes it easier for readers to get the latest updates on the stories that interest them, as well as to review deeper background materials that are relevant for a story's context.<p></p>

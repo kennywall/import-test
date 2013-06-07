@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - Marketplaces
-url: http://apievangelist.com/2011/05/18/3d-printing-marketplaces/
-source: http://apievangelist.com/2011/05/18/3d-printing-marketplaces/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-marketplaces/
+source: http://kinlane.com/2011/05/18/3d-printing-marketplaces/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-marketplace.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-marketplace.jpg" alt="" width="250" align="right" />Marketplaces are necessary to showcase and make 3D printing products and parts accessible by the public and other potential customers.<p></p>

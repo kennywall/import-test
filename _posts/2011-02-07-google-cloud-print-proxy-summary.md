@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print Proxy - Summary
-url: http://apievangelist.com/2011/02/07/google-cloud-print-proxy-summary/
-source: http://apievangelist.com/2011/02/07/google-cloud-print-proxy-summary/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/07/google-cloud-print-proxy-summary/
+source: http://kinlane.com/2011/02/07/google-cloud-print-proxy-summary/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png
 ---
 {% include JB/setup %}<p>Ok that concludes my <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Proxy</a> work from the week.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Dark Journey Into A Killer's 'Personal Effects'
-url: http://apievangelist.com/2009/08/15/a-dark-journey-into-a-killers-personal-effects/
-source: http://apievangelist.com/2009/08/15/a-dark-journey-into-a-killers-personal-effects/
-domain: apievangelist.com
+url: http://kinlane.com/2009/08/15/a-dark-journey-into-a-killers-personal-effects/
+source: http://kinlane.com/2009/08/15/a-dark-journey-into-a-killers-personal-effects/
+domain: kinlane.com
 image: http://media.npr.org/assets/artslife/books/2009/08/personal.jpg?t=1250271503&amp;s=2
 ---
 {% include JB/setup %}<p><p style="text-align: left;">I was listening to my NPR today and I just heard an episode called <a href="http://www.npr.org/templates/story/story.php?storyId=111892696">A Dark Journey Into A Killer's Personal Effects</a>. It is a thriller novel about a serial killer, however I find very interesting is the are creating what they call a "multiplatform transmedia experience."<p></p>

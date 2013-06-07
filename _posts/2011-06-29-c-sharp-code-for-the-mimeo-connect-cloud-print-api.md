@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Connect Cloud Print API in C#
-url: http://apievangelist.com/2011/06/29/c-sharp-code-for-the-mimeo-connect-cloud-print-api/
-source: http://apievangelist.com/2011/06/29/c-sharp-code-for-the-mimeo-connect-cloud-print-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/29/c-sharp-code-for-the-mimeo-connect-cloud-print-api/
+source: http://kinlane.com/2011/06/29/c-sharp-code-for-the-mimeo-connect-cloud-print-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/C-Sharp.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/C-Sharp.jpg" alt="" width="125" align="right" /><p></p>

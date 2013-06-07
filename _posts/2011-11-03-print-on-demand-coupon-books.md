@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Print on Demand Coupon Books
-url: http://apievangelist.com/2011/11/03/print-on-demand-coupon-books/
-source: http://apievangelist.com/2011/11/03/print-on-demand-coupon-books/
-domain: apievangelist.com
+url: http://kinlane.com/2011/11/03/print-on-demand-coupon-books/
+source: http://kinlane.com/2011/11/03/print-on-demand-coupon-books/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/coupon-cabin-logo.png
 ---
 {% include JB/setup %}<p><a title="Coupon Cabin" href="http://www.couponcabin.com/printable-coupons/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/coupon-cabin-logo.png" alt="" align="right" /></a><p></p>

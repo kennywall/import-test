@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Benefits of Transparency
-url: http://apievangelist.com/2011/01/20/benefits-of-transparency/
-source: http://apievangelist.com/2011/01/20/benefits-of-transparency/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/20/benefits-of-transparency/
+source: http://kinlane.com/2011/01/20/benefits-of-transparency/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg
 ---
 {% include JB/setup %}<p>One of the aspects of my current job that I enjoy, is the transparent nature of my role. My job is to generate attention for <a href="http://www.mimeo.com">Mimeo</a> and the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>.<p></p>

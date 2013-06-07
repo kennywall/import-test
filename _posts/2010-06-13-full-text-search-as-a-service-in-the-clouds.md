@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Full Text Search as a Service in the Clouds
-url: http://apievangelist.com/2010/06/13/full-text-search-as-a-service-in-the-clouds/
-source: http://apievangelist.com/2010/06/13/full-text-search-as-a-service-in-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/13/full-text-search-as-a-service-in-the-clouds/
+source: http://kinlane.com/2010/06/13/full-text-search-as-a-service-in-the-clouds/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/software-as-a-service/websolr.PNG
 ---
 {% include JB/setup %}<p>One trend I'm seeing more of lately, is the migration of existing open-source technologies into the clouds, transforming them into Software as a Service<img style="padding: 25px;" title="Full-Text Indexing" src="http://kinlane-productions.s3.amazonaws.com/software-as-a-service/websolr.PNG" alt="" width="113" height="50" align="right" /><p></p>

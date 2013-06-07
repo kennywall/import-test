@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Google Books API
-url: http://apievangelist.com/2011/05/15/new-google-books-api/
-source: http://apievangelist.com/2011/05/15/new-google-books-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/15/new-google-books-api/
+source: http://kinlane.com/2011/05/15/new-google-books-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg
 ---
 {% include JB/setup %}<p>Google <a title="released a new Google Books API" href="http://googlecode.blogspot.com/2011/05/new-books-api-for-developers.html">released a new Google Books API</a> this week. The new Books API will allow developers to build mobile and web applications using the more than 15 million books titles available on books.google.com.<p></p>

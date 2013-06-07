@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Deltacloud Universal Cloud API
-url: http://apievangelist.com/2010/08/28/deltacloud-universal-cloud-api/
-source: http://apievangelist.com/2010/08/28/deltacloud-universal-cloud-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/28/deltacloud-universal-cloud-api/
+source: http://kinlane.com/2010/08/28/deltacloud-universal-cloud-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/DeltaCloud.PNG
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="DeltaCloud" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/DeltaCloud.PNG" alt="" width="172" height="54" align="right" />I'm spending time going through <a href="http://www.redhat.com/" target="_blank">RedHat's</a> <a href="http://deltacloud.org/" target="_blank">Deltacloud set of cloud APIs</a>. They recently recently moved the project to the <a href="http://incubator.apache.org/deltacloud/index.html" target="_blank">Apache Incubator</a> and submitted it to the <a href="http://www.dmtf.org/" target="_blank">Distributed Management Task Force</a> (DMTF) .<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Foursquare Launches Web Version of Recommendations
-url: http://apievangelist.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
-source: http://apievangelist.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
+source: http://kinlane.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/foursquare-explore-recommendations.jpg
 ---
 {% include JB/setup %}<p><p><a title="Foursquare Explore" href="http://foursquare.com/explore"><img class="aligncenter size-medium wp-image-471" title="foursquare-explore-recommendations" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/foursquare-explore-recommendations-300x207.jpg" alt="" width="300" height="207" align="right" /></a>Foursquare just&nbsp;<a title="took another step in local recommendations" href="http://blog.foursquare.com/2012/01/12/anywhere-in-the-world-foursquare-explore-can-find-you-something-interesting-now-on-your-computer/">took another step with local recommendations</a>&nbsp;by launching a new web version of&nbsp;<a title="Foursquare Explore" href="http://foursquare.com/explore">Foursquare Explore</a>.</p>

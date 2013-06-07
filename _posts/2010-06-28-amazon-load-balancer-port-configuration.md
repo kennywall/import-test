@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Load Balancer - Port Configuration
-url: http://apievangelist.com/2010/06/28/amazon-load-balancer-port-configuration/
-source: http://apievangelist.com/2010/06/28/amazon-load-balancer-port-configuration/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/28/amazon-load-balancer-port-configuration/
+source: http://kinlane.com/2010/06/28/amazon-load-balancer-port-configuration/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/amazon/load-balancer/Configure-Ports.PNG
 ---
 {% include JB/setup %}<p><p style="text-align: left;">When setting up your Amazon Load Balancer you need to configure ports and protocols that the load balancer will route traffic for.

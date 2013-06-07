@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Regional Cloud Storage Centers
-url: http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/
-source: http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/24/regional-cloud-storage-centers/
+source: http://kinlane.com/2010/07/24/regional-cloud-storage-centers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter2.png
 ---
 {% include JB/setup %}<p><img title="Cloud Compute Centers" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter2.png" alt="" width="250" align="right" />This is a second post in a series about where cloud computing is headed.  In addition to <a href="http://www.kinlane.com/2010/07/regional-cloud-computer-centers/">regional cloud computing centers</a>, the need for  raw cloud storage is growing. A handful of providers are leading the charge in cloud  compute Infrastructure as a Service (IaaS):

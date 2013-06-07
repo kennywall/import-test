@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Helping Voters Register with the Cost of Freedom Project
-url: http://apievangelist.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
-source: http://apievangelist.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
+source: http://kinlane.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Cost-Of-Freedom-Map.png
 ---
 {% include JB/setup %}<p><div>

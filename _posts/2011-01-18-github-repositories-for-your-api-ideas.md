@@ -1,9 +1,9 @@
 ---
 layout: post
 title: github Repositories for Your API Ideas
-url: http://apievangelist.com/2011/01/18/github-repositories-for-your-api-ideas/
-source: http://apievangelist.com/2011/01/18/github-repositories-for-your-api-ideas/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/18/github-repositories-for-your-api-ideas/
+source: http://kinlane.com/2011/01/18/github-repositories-for-your-api-ideas/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}<p><a href="http://github.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/github-logo.png" alt="" align="right" /></a>I'm still working on the deployment of the Mimeo Connect Cloud Print API area. In the mean time I am preparing a lot of content to publish when its ready.<p></p>

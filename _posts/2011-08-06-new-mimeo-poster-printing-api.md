@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Mimeo Poster Printing API
-url: http://apievangelist.com/2011/08/06/new-mimeo-poster-printing-api/
-source: http://apievangelist.com/2011/08/06/new-mimeo-poster-printing-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/06/new-mimeo-poster-printing-api/
+source: http://kinlane.com/2011/08/06/new-mimeo-poster-printing-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png
 ---
 {% include JB/setup %}<p><a title="Mashape API Platform" href="http://www.mashape.com/"><img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png" alt="" width="200" align="right" /></a>When developers come to<a title="Mimeo Connect" href="http://developer.mimeo.com/">Mimeo Connect</a>, they tend to have one thing in mind--printing from their application. The<a title="Mimeo Cloud Print API" href="http://developer.mimeo.com/">Mimeo Connect Cloud Print API</a>allows you to print a lot of different type of business documents, but usually developers have a specific type in mind.<p></p>

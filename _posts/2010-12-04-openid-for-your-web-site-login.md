@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OpenID for Your Web Site Login
-url: http://apievangelist.com/2010/12/04/openid-for-your-web-site-login/
-source: http://apievangelist.com/2010/12/04/openid-for-your-web-site-login/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/04/openid-for-your-web-site-login/
+source: http://kinlane.com/2010/12/04/openid-for-your-web-site-login/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-openid-sample-site.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.openidsamplestore.com," target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/google-openid-sample-site.jpg" alt="" width="300" align="right" /></a><a href="http://openid.net/" target="_blank">OpenID</a> has become the standard for web site login, taking the authentication off your site and centralizing it using OpenID enabled accounts they use every day.<p></p>

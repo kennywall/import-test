@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Launched Instance in New Amazon Region - US West
-url: http://apievangelist.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
-source: http://apievangelist.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
+source: http://kinlane.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just launched my first Amazon EC2 instance in the new US West Region. They recently extended the cloud to a Northern California region.<p></p>

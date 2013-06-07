@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Digg API
-url: http://apievangelist.com/2009/12/03/new-digg-api/
-source: http://apievangelist.com/2009/12/03/new-digg-api/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/03/new-digg-api/
+source: http://kinlane.com/2009/12/03/new-digg-api/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am going through <a href="http://apidoc.digg.com/">Diggs new API</a> to see what added benefit it brings to the table. <a href="http://digg.com/">Digg</a> usually is lower on the radar of many of my clients when it comes to sharing their news and information.<p></p>

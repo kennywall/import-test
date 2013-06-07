@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DeltaCloud API as a Service
-url: http://apievangelist.com/2011/04/29/deltacloud-api-as-a-service/
-source: http://apievangelist.com/2011/04/29/deltacloud-api-as-a-service/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/29/deltacloud-api-as-a-service/
+source: http://kinlane.com/2011/04/29/deltacloud-api-as-a-service/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/delta-cloud-api.png
 ---
 {% include JB/setup %}<p>The <a title="DeltaCloud aPI" href="http://incubator.apache.org/deltacloud/">DeltaCloud API</a> provides a single API interface to work with multiple cloud computing providers.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Small Business Content Chain
-url: http://apievangelist.com/2009/05/03/small-business-content-chain/
-source: http://apievangelist.com/2009/05/03/small-business-content-chain/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/03/small-business-content-chain/
+source: http://kinlane.com/2009/05/03/small-business-content-chain/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am spending an hour or two each week and working with my mother and her business partner on growing their small business. Last weekend I spend some time in Ashland coming back from California and helped them talk through their business. We identified some problems in their <a class="zem_slink" title="Supply chain" rel="wikipedia" href="http://en.wikipedia.org/wiki/Supply_chain">supply chain</a>, however they are making great strides in documenting and streamlining this process.<p></p>

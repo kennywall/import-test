@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Ends Affiliate Program in California
-url: http://apievangelist.com/2011/06/30/amazon-end-affiliate-program-in-california/
-source: http://apievangelist.com/2011/06/30/amazon-end-affiliate-program-in-california/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/30/amazon-end-affiliate-program-in-california/
+source: http://kinlane.com/2011/06/30/amazon-end-affiliate-program-in-california/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affiliates.png
 ---
 {% include JB/setup %}<p><a title="Amazon Affiliate Program" href="https://affiliate-program.amazon.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affiliates.png" alt="" width="250" align="right" /></a>Amazon sent me an email about the recent <a title="signing of the online sales tax law, by California Governor Brown" href="http://www.mercurynews.com/top-stories/ci_18282733" target="_blank">signing of the online sales tax law by California Governor Brown</a>, which would force online retailers who have no physical presence in California, to collect the same levies as bricks-and-mortar stores.<p></p>

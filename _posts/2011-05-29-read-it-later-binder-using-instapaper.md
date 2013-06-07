@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Read It Later Binder Using Instapaper
-url: http://apievangelist.com/2011/05/29/read-it-later-binder-using-instapaper/
-source: http://apievangelist.com/2011/05/29/read-it-later-binder-using-instapaper/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/29/read-it-later-binder-using-instapaper/
+source: http://kinlane.com/2011/05/29/read-it-later-binder-using-instapaper/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/instapaper-logo-250.png
 ---
 {% include JB/setup %}<p><a title="Instapaper" href="http://www.instapaper.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/instapaper-logo-250.png" alt="" width="125" align="right" /></a><a title="Instapaper" href="http://www.instapaper.com/">Instapaper</a> is a dead simple tool to save web pages for reading later. It allows bookmarking of web pages, blog posts and any web or mobile content. Once bookmarked the content is available for reading on Instapaper web site and mobile.<p></p>

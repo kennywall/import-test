@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Abstract Away the Complexities of Print with an API
-url: http://apievangelist.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
-source: http://apievangelist.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
+source: http://kinlane.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>When I was being interviewed at Mimeo.com as the API evangelist, one big gap in my resume, that I was concerned about, was no print industry experience. Mimeo is a print company and naturally I should bring something to the table?<p></p>

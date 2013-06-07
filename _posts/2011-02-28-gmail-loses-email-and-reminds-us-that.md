@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gmail Loses Email and Reminds Us That...
-url: http://apievangelist.com/2011/02/28/gmail-loses-email-and-reminds-us-that/
-source: http://apievangelist.com/2011/02/28/gmail-loses-email-and-reminds-us-that/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/gmail-loses-email-and-reminds-us-that/
+source: http://kinlane.com/2011/02/28/gmail-loses-email-and-reminds-us-that/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/gmail-email-logo-envelope.plng.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google/gmail-email-logo-envelope.plng.png" alt="" width="250" align="right" />I'm reading all the posts, tweets and streams about <a title="Gmail Loses Email" href="http://www.google.com/support/forum/p/gmail/thread?tid=3064c61f77cd0f46&amp;hl=en&amp;start=240">Google losing the emails of a whole bunch of Gmail accounts</a>.<p></p>

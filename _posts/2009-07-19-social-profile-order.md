@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Social Profile Order
-url: http://apievangelist.com/2009/07/19/social-profile-order/
-source: http://apievangelist.com/2009/07/19/social-profile-order/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/19/social-profile-order/
+source: http://kinlane.com/2009/07/19/social-profile-order/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>For some reason I happen to go to my <a class="zem_slink" title="Twitter" rel="homepage" href="http://twitter.com">Twitter</a> profile today. I almost never pay attention to my Twitter stream. I have moments where I pay attention using <a class="zem_slink" title="Twhirl" rel="homepage" href="http://www.twhirl.org">twhirl</a>, but for the most part I just broadcast to it without paying much attention.<p></p>

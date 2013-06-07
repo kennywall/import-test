@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Federated Login for Google Account Users
-url: http://apievangelist.com/2008/12/17/federated-login-for-google-account-users/
-source: http://apievangelist.com/2008/12/17/federated-login-for-google-account-users/
-domain: apievangelist.com
+url: http://kinlane.com/2008/12/17/federated-login-for-google-account-users/
+source: http://kinlane.com/2008/12/17/federated-login-for-google-account-users/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been working on a prototype for using the Federated Google Account login that uses the OpenID 2.0 standard.  Really a nice concept to offer for users who are heavy users of Google, Yahoo or other 3rd party service providers that have adopted OpenID.<p></p>

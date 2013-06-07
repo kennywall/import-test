@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moment - Scheduled Jobs API
-url: http://apievangelist.com/2011/01/29/moment-scheduled-jobs-api/
-source: http://apievangelist.com/2011/01/29/moment-scheduled-jobs-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/29/moment-scheduled-jobs-api/
+source: http://kinlane.com/2011/01/29/moment-scheduled-jobs-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/moment-jobs-api.png
 ---
 {% include JB/setup %}<p>A big part of the web applications I build, is usually some sort of jobs management. Most functionality is triggered based upon user generated events. However there are many times where I need to schedule something as a job.<p></p>

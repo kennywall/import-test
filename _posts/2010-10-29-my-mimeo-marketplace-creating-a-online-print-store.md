@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Mimeo Marketplace - Creating a Online Print Store
-url: http://apievangelist.com/2010/10/29/my-mimeo-marketplace-creating-a-online-print-store/
-source: http://apievangelist.com/2010/10/29/my-mimeo-marketplace-creating-a-online-print-store/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/29/my-mimeo-marketplace-creating-a-online-print-store/
+source: http://kinlane.com/2010/10/29/my-mimeo-marketplace-creating-a-online-print-store/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>As I said in my last post <a href="http://www.kinlane.com/2010/10/my-mimeo-future-of-technology-and-printing/">My Mimeo - Future of Technology and Printing,</a> I am starting my new career as the Mimeo API Evangelst.  And before I can even talk about the API I really have to talk about the core products that the API gives you access to.<p></p>

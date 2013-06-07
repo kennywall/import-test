@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sencha Animator is an Alternative to Flash
-url: http://apievangelist.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
-source: http://apievangelist.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
+source: http://kinlane.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Sencha/sencha-animator
 ---
 {% include JB/setup %}<p><a href="http://www.sencha.com" target="_blank">Sencha</a> just released a new GUI desktop application that enables designers to create rich media animations for HTML5 capable browsers.<p></p>

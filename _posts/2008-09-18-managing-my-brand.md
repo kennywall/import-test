@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Managing My Brand
-url: http://apievangelist.com/2008/09/18/managing-my-brand/
-source: http://apievangelist.com/2008/09/18/managing-my-brand/
-domain: apievangelist.com
+url: http://kinlane.com/2008/09/18/managing-my-brand/
+source: http://kinlane.com/2008/09/18/managing-my-brand/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I am always working to get a better handle on how people view me and my personal brand.  My brand consists of my profile, work experience, technologies, blog, pics and just the general image of how people view me personally and professionally online.<p></p>

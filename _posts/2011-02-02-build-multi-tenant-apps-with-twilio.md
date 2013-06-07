@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Build Multi-Tenant Apps with Twilio
-url: http://apievangelist.com/2011/02/02/build-multi-tenant-apps-with-twilio/
-source: http://apievangelist.com/2011/02/02/build-multi-tenant-apps-with-twilio/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/02/build-multi-tenant-apps-with-twilio/
+source: http://kinlane.com/2011/02/02/build-multi-tenant-apps-with-twilio/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twilio.PNG
 ---
 {% include JB/setup %}<p><a href="http://blog.twilio.com/2011/02/announcing-twilio-subaccounts.html" target="_blank">Twilio now has subaccounts</a>. You can now build multi-tenant web applications that use the <a href="http://www.twilio.com/" target="_blank">Twilio Voice or SMS web service</a>s.

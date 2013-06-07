@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Adding Methods to my Amazon EC2 Object
-url: http://apievangelist.com/2010/08/23/adding-methods-to-my-amazon-ec2-object/
-source: http://apievangelist.com/2010/08/23/adding-methods-to-my-amazon-ec2-object/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/23/adding-methods-to-my-amazon-ec2-object/
+source: http://kinlane.com/2010/08/23/adding-methods-to-my-amazon-ec2-object/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" />I am needing more programmatic control over my <a href="http://www.kinlane.com/category/amazon/amazon-ec2/">Amazon EC2</a> environment. I am rebuilding all server instances on my Amazon Web Services network.<p></p>

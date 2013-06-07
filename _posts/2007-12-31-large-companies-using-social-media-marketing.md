@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Large Companies Using Social Media Marketing
-url: http://apievangelist.com/2007/12/31/large-companies-using-social-media-marketing/
-source: http://apievangelist.com/2007/12/31/large-companies-using-social-media-marketing/
-domain: apievangelist.com
+url: http://kinlane.com/2007/12/31/large-companies-using-social-media-marketing/
+source: http://kinlane.com/2007/12/31/large-companies-using-social-media-marketing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Just saw a commercial from Mountain Dew about their new soda creation web site, <a href="http://www.dewmocracy.com/">www.dewmocracy.com</a>.<br /><br />It was another interesting usage of Social Media Marketing that utilizes its pro-users or audience to facilitate research and development (R&amp;D).    They are encouraging customers to go to the web site and help decide certain characteristics of a new Mountain Dew soda.<br /><br />It is a pretty simple web site surrounding a kind of game / soda creation application.  The site is built in .NET, the application looks like Silverlight, but I am not sure.<br /><br />Not really impressed with the campaign overall but it is an interesting usage of these new methods.  <br /><br />Shows that the big co's are embracing these principles, now we need to see more of it in the smaller business arena.</p>

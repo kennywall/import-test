@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Trends - Application Programming Interface
-url: http://apievangelist.com/2010/12/27/google-trends-application-programming-interface/
-source: http://apievangelist.com/2010/12/27/google-trends-application-programming-interface/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/27/google-trends-application-programming-interface/
+source: http://kinlane.com/2010/12/27/google-trends-application-programming-interface/
+domain: kinlane.com
 image: http://www.google.com/trends/viz?q=application+programming+interface&amp;date=all&amp;geo=all&amp;graph=weekly_img&amp;sa=N
 ---
 {% include JB/setup %}<p>I thought the visualization of the search and news traffic for <a href="http://www.apievangelist.com/">Application Programming Interface</a> (<a href="http://www.apievangelist.com/">API</a>) at Google Trends was interesting enough to share.

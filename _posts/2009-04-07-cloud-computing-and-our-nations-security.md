@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing and Our Nations Security
-url: http://apievangelist.com/2009/04/07/cloud-computing-and-our-nations-security/
-source: http://apievangelist.com/2009/04/07/cloud-computing-and-our-nations-security/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/07/cloud-computing-and-our-nations-security/
+source: http://kinlane.com/2009/04/07/cloud-computing-and-our-nations-security/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>As we are all jumping on the Cloud Computing bandwagon we are considering the security implications of our decision to move our entire companies operations into the cloud.<p></p>

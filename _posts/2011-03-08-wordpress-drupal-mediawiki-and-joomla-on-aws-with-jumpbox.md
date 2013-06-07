@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wordpress, Drupal, MediaWiki, and Joomla on AWS with JumpBox
-url: http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
-source: http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
+source: http://kinlane.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><a title="Amazon Web Services" href="http://aws.amazon.com/">Amazon Web Services</a> has partnered with <a title="Jumpbox" href="http://www.jumpbox.com/">JumpBox</a> to deliver a suite of <a title="Hosted Applications Using Amazon Web Services" href="http://www.typepad.com/services/trackback/6a00d8341c534853ef0147e2634fa5970b">hosted applications using Amazon Web Services</a>.<p></p>

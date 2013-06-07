@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Proofing Print Documents From Amazon S3
-url: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-source: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
+source: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>.

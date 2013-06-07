@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Print a Book of Your Facebook Life
-url: http://apievangelist.com/2010/11/22/print-the-book-of-your-facebook-life/
-source: http://apievangelist.com/2010/11/22/print-the-book-of-your-facebook-life/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/22/print-the-book-of-your-facebook-life/
+source: http://kinlane.com/2010/11/22/print-the-book-of-your-facebook-life/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook/facebook_logo-icon.png
 ---
 {% include JB/setup %}<p>I spend a lot of time thinking about new ways to print as the Mimeo Connect Cloud Print API Evangelist.  During this time I see a common pattern; that print can create more meaningful, physical aspects of our online lives.<p></p>

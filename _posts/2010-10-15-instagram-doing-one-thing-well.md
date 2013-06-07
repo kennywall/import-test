@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instagram - Doing One Thing Well
-url: http://apievangelist.com/2010/10/15/instagram-doing-one-thing-well/
-source: http://apievangelist.com/2010/10/15/instagram-doing-one-thing-well/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/15/instagram-doing-one-thing-well/
+source: http://kinlane.com/2010/10/15/instagram-doing-one-thing-well/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG" alt="" width="250" align="right" />I have talked in the past about <a href="http://www.kinlane.com/2009/03/one-thing-well-crm-sync-tool/">doing one thing and doing it well</a> in the technology space.  A mistake I've made many times, and other developers make is trying to do too much when building applications.<p></p>

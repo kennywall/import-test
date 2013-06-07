@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Backing up my cloud with backupify
-url: http://apievangelist.com/2009/12/28/backing-up-my-cloud-with-backupify/
-source: http://apievangelist.com/2009/12/28/backing-up-my-cloud-with-backupify/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/28/backing-up-my-cloud-with-backupify/
+source: http://kinlane.com/2009/12/28/backing-up-my-cloud-with-backupify/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I came across a cloud backup tool the other day called <a href="http://www.backupify.com">backupify</a>. It runs in the cloud and backs up your cloud.<p></p>

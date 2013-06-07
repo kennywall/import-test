@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Alerts in Google Apps
-url: http://apievangelist.com/2010/11/30/google-alerts-in-google-apps/
-source: http://apievangelist.com/2010/11/30/google-alerts-in-google-apps/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/30/google-alerts-in-google-apps/
+source: http://kinlane.com/2010/11/30/google-alerts-in-google-apps/
+domain: kinlane.com
 image: http://2.bp.blogspot.com/_4S6buKKlhfQ/TPU-od0Zm5I/AAAAAAAAAFE/hsE-VYcv_HI/app_sphere_alerts.png
 ---
 {% include JB/setup %}<p>Google is rapidly retooling many of the FREE applications we've come to know, and launching within the <a href="http://www.google.com/a/" target="_blank">Google Apps</a> cloud platform.<p></p>

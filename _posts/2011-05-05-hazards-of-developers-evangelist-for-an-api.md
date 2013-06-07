@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hazards of Developers Evangelist for an API.
-url: http://apievangelist.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
-source: http://apievangelist.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
+source: http://kinlane.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg" alt="" width="250" align="right" />I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API.<p></p>

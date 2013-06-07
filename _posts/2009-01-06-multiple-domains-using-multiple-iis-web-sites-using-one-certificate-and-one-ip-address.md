@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Multiple Domains using Multiple IIS Web Sites using One Certificate and One IP Address
-url: http://apievangelist.com/2009/01/06/multiple-domains-using-multiple-iis-web-sites-using-one-certificate-and-one-ip-address/
-source: http://apievangelist.com/2009/01/06/multiple-domains-using-multiple-iis-web-sites-using-one-certificate-and-one-ip-address/
-domain: apievangelist.com
+url: http://kinlane.com/2009/01/06/multiple-domains-using-multiple-iis-web-sites-using-one-certificate-and-one-ip-address/
+source: http://kinlane.com/2009/01/06/multiple-domains-using-multiple-iis-web-sites-using-one-certificate-and-one-ip-address/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I haven't researched this one in a while, I am glad I had the chance to research for a new project.<p></p>

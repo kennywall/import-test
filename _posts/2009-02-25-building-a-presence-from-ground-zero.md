@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building a presence from ground zero
-url: http://apievangelist.com/2009/02/25/building-a-presence-from-ground-zero/
-source: http://apievangelist.com/2009/02/25/building-a-presence-from-ground-zero/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/25/building-a-presence-from-ground-zero/
+source: http://kinlane.com/2009/02/25/building-a-presence-from-ground-zero/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>After I deal with all emails, fires, top requests, and spend a large amount of time on all my top projects I try to work on areas that are going to move my company forward.<p></p>

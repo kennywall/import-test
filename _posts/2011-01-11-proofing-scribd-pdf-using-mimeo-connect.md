@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Proofing a Scribd PDF Using Mimeo Connect
-url: http://apievangelist.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
-source: http://apievangelist.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
+source: http://kinlane.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>

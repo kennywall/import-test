@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing and Manufacturing Supply Chain
-url: http://apievangelist.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
-source: http://apievangelist.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
+source: http://kinlane.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_supply_chain.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_supply_chain.jpg" alt="" width="200" align="right" />In preparation for <a title="Maker Faire" href="http://makerfaire.com/">Maker Faire</a> this weekend I'm collecting more of my thoughts around 3D printing.<p></p>

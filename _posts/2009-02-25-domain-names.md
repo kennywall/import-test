@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Domain Names
-url: http://apievangelist.com/2009/02/25/domain-names/
-source: http://apievangelist.com/2009/02/25/domain-names/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/25/domain-names/
+source: http://kinlane.com/2009/02/25/domain-names/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p style="text-align: left;">So I am continuing cleaning up my world. I recently let probably 20-30 domains expire. In the past I have had a domain adiction....I just buy them thinking...someday I will do something with that.

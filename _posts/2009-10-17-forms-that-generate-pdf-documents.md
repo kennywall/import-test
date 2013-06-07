@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Forms that Generate PDF Documents
-url: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
-source: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
+source: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just checking out a cool service called <a href="http://www.doculicious.com">doculicious</a>. It allows people to create <a href="http://www.doculicious.com">HTML forms that generate PDF</a> and email them to you when the form is submitted.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud EcoSystems and Interroperability
-url: http://apievangelist.com/2009/04/07/cloud-ecosystems-and-interroperability/
-source: http://apievangelist.com/2009/04/07/cloud-ecosystems-and-interroperability/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/07/cloud-ecosystems-and-interroperability/
+source: http://kinlane.com/2009/04/07/cloud-ecosystems-and-interroperability/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading a post while some files upload on Intacct which is an Accounting Ecosystem that groups together various accounting focused services together under one umbrella.<p></p>

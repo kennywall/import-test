@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Places I Traveled in 2012
-url: http://apievangelist.com/2012/12/28/the-places-i-traveled-in-2012/
-source: http://apievangelist.com/2012/12/28/the-places-i-traveled-in-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/28/the-places-i-traveled-in-2012/
+source: http://kinlane.com/2012/12/28/the-places-i-traveled-in-2012/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/2012-Kin-Lane-US-Map.png
 ---
 {% include JB/setup %}<p><p>The end of the year is a great time for reflection. 2012 was kind of a blur, and with the amount of API Evangelism I did, I had little time to reflect on where I went and the places I enjoyed.</p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Learning Management System (LMS) APIs
-url: http://apievangelist.com/2011/10/02/learning-management-system-lms-apis/
-source: http://apievangelist.com/2011/10/02/learning-management-system-lms-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/10/02/learning-management-system-lms-apis/
+source: http://kinlane.com/2011/10/02/learning-management-system-lms-apis/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p></p>

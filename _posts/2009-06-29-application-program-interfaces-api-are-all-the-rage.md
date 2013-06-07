@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Application Program Interfaces (API) are All the Rage...
-url: http://apievangelist.com/2009/06/29/application-program-interfaces-api-are-all-the-rage/
-source: http://apievangelist.com/2009/06/29/application-program-interfaces-api-are-all-the-rage/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/29/application-program-interfaces-api-are-all-the-rage/
+source: http://kinlane.com/2009/06/29/application-program-interfaces-api-are-all-the-rage/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was reading a post on Programmable Web today about <a href="http://blog.programmableweb.com/2009/06/29/sprint-opens-api-gets-openly-restful/">Sprint opening up a set of REST API</a> to work with the Sprint mobile platform.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: StatusNet, an Open and Distributed Microblogging Platform
-url: http://apievangelist.com/2011/03/18/statusnet-an-open-and-distributed-microblogging-platform/
-source: http://apievangelist.com/2011/03/18/statusnet-an-open-and-distributed-microblogging-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/18/statusnet-an-open-and-distributed-microblogging-platform/
+source: http://kinlane.com/2011/03/18/statusnet-an-open-and-distributed-microblogging-platform/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/statusnet-logo-500x300.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/statusnet-logo-500x300.png" alt="" width="250" align="right" /><a title="StatusNet" href="http://status.net/">StatusNet</a> is a microblogging platform that can be installed on any server.<p></p>

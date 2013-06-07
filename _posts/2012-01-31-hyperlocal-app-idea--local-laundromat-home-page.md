@@ -1,9 +1,9 @@
 ---
 layout: post
 title: HyperLocal App Idea:  Local Laundromat Home Page
-url: http://apievangelist.com/2012/01/31/hyperlocal-app-idea--local-laundromat-home-page/
-source: http://apievangelist.com/2012/01/31/hyperlocal-app-idea--local-laundromat-home-page/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/31/hyperlocal-app-idea--local-laundromat-home-page/
+source: http://kinlane.com/2012/01/31/hyperlocal-app-idea--local-laundromat-home-page/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/laundromat.JPG
 ---
 {% include JB/setup %}<p><p><a href="http://losangeles.citysearch.com/profile/140772/manhattan_beach_ca/wash_tub.html"><img class="aligncenter size-medium wp-image-568" title="laundromat" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/laundromat-300x240.jpg" alt="" width="250" align="right" /></a>I am sitting at the&nbsp;<a title="Wash Tub Laundromat in Manhattan Beach, CA" href="http://losangeles.citysearch.com/profile/140772/manhattan_beach_ca/wash_tub.html">Wash Tub Laundromat in Manhattan Beach, CA</a>&nbsp;doing my laundry tonight. I was working on my Macbook and the owner of the laundromat asked me if I was able to get wifi on my laptop?</p>

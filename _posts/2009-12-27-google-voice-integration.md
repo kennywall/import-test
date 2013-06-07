@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Voice Integration
-url: http://apievangelist.com/2009/12/27/google-voice-integration/
-source: http://apievangelist.com/2009/12/27/google-voice-integration/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/27/google-voice-integration/
+source: http://kinlane.com/2009/12/27/google-voice-integration/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>My Firefox browser opens all my <a href="http://www.kinlane.com/?p=1005">default tabs</a> when it opens and gives me quick access to all my core web applications. One of these is <a href="https://www.google.com/voice/">Google Voice</a>.<p></p>

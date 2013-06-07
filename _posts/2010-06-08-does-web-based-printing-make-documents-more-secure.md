@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Does Web Based Printing Make Documents More Secure?
-url: http://apievangelist.com/2010/06/08/does-web-based-printing-make-documents-more-secure/
-source: http://apievangelist.com/2010/06/08/does-web-based-printing-make-documents-more-secure/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/08/does-web-based-printing-make-documents-more-secure/
+source: http://kinlane.com/2010/06/08/does-web-based-printing-make-documents-more-secure/
+domain: kinlane.com
 image: http://code.google.com/apis/cloudprint/images/overview.gif
 ---
 {% include JB/setup %}<p>I've been paying attention to the <a href="http://code.google.com/apis/cloudprint/">Google Cloud Print</a> project at Google  Code. With Google Cloud Print you can:

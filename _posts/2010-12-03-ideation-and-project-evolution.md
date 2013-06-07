@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Ideation and Project Evolution
-url: http://apievangelist.com/2010/12/03/ideation-and-project-evolution/
-source: http://apievangelist.com/2010/12/03/ideation-and-project-evolution/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/03/ideation-and-project-evolution/
+source: http://kinlane.com/2010/12/03/ideation-and-project-evolution/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>During my 20 years in the technology industry and many failed entrepreneurial endeavors I have gained some wisdom around managing my ideas and evolving them into projects.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Social Network Signup
-url: http://apievangelist.com/2008/10/16/social-network-signup/
-source: http://apievangelist.com/2008/10/16/social-network-signup/
-domain: apievangelist.com
+url: http://kinlane.com/2008/10/16/social-network-signup/
+source: http://kinlane.com/2008/10/16/social-network-signup/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I just signed up for a family social network my mom sent to me. I clicked on link which provided me a simple email / password signup.<p></p>

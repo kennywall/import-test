@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Real-Time API Updates with XMPP
-url: http://apievangelist.com/2011/02/20/real-time-api-updates-with-xmpp/
-source: http://apievangelist.com/2011/02/20/real-time-api-updates-with-xmpp/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/20/real-time-api-updates-with-xmpp/
+source: http://kinlane.com/2011/02/20/real-time-api-updates-with-xmpp/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png
 ---
 {% include JB/setup %}<p><a href="http://xmpp.org/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png" alt="" align="right" /></a>I'm working on my prototype for a <a href="http://www.kinlane.com/category/google/">Google</a> cloud printer that runs on a server.<p></p>

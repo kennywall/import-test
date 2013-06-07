@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Where Does My Money Go?
-url: http://apievangelist.com/2010/01/11/where-does-my-money-go/
-source: http://apievangelist.com/2010/01/11/where-does-my-money-go/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/11/where-does-my-money-go/
+source: http://kinlane.com/2010/01/11/where-does-my-money-go/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I found a much more colorful visual of where government spending goes. It is in the UK, but still very cool.<p></p>

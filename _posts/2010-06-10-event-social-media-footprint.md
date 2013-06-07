@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Social Media Footprint
-url: http://apievangelist.com/2010/06/10/event-social-media-footprint/
-source: http://apievangelist.com/2010/06/10/event-social-media-footprint/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/10/event-social-media-footprint/
+source: http://kinlane.com/2010/06/10/event-social-media-footprint/
+domain: kinlane.com
 image: http://staynalive.com/files/2009/11/OpenID-Logo.gif
 ---
 {% include JB/setup %}<p>

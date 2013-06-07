@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Gliffy Diagram API
-url: http://apievangelist.com/2011/07/14/the-gliffy-diagram-api/
-source: http://apievangelist.com/2011/07/14/the-gliffy-diagram-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/14/the-gliffy-diagram-api/
+source: http://kinlane.com/2011/07/14/the-gliffy-diagram-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-logo.gif
 ---
 {% include JB/setup %}<p><a href="http://www.gliffy.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-logo.gif" alt="" width="150" align="right" /></a><p></p>

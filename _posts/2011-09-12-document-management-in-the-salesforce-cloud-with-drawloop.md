@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Document Management in the Salesforce Cloud with Drawloop
-url: http://apievangelist.com/2011/09/12/document-management-in-the-salesforce-cloud-with-drawloop/
-source: http://apievangelist.com/2011/09/12/document-management-in-the-salesforce-cloud-with-drawloop/
-domain: apievangelist.com
+url: http://kinlane.com/2011/09/12/document-management-in-the-salesforce-cloud-with-drawloop/
+source: http://kinlane.com/2011/09/12/document-management-in-the-salesforce-cloud-with-drawloop/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/drawloop/Drawloop-Logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.drawloop.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/drawloop/Drawloop-Logo.jpg" alt="" width="250" align="right" /></a>I'm going through my notes and materials from the<a title="Dreamforce" href="http://www.kinlane.com/2011/08/getting-ready-for-dreamforce-this-week-in-san-francisco/">Dreamforce</a>event, and doing some research into different possibilities for<a title="Mimeo print integration" href="http://developer.mimeo.com/">Mimeo print integration</a>with<a href="http://www.salesforce.com/">Salesforce.com</a>. One of the more established document management solutions for Salesforce.com is Drawloop.<p></p>

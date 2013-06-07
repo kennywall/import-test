@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Save Money and Environment with Print Friendly
-url: http://apievangelist.com/2011/08/28/save-money-and-environment-with-print-friendly/
-source: http://apievangelist.com/2011/08/28/save-money-and-environment-with-print-friendly/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/28/save-money-and-environment-with-print-friendly/
+source: http://kinlane.com/2011/08/28/save-money-and-environment-with-print-friendly/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/printfriendly/print-friendly.png
 ---
 {% include JB/setup %}<p><a title="Print Friendly" href="http://www.printfriendly.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/printfriendly/print-friendly.png" alt="" width="200" align="right" /></a><p></p>

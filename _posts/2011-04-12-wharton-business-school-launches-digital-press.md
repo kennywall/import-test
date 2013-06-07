@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wharton Business School Launches Digital Press
-url: http://apievangelist.com/2011/04/12/wharton-business-school-launches-digital-press/
-source: http://apievangelist.com/2011/04/12/wharton-business-school-launches-digital-press/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/12/wharton-business-school-launches-digital-press/
+source: http://kinlane.com/2011/04/12/wharton-business-school-launches-digital-press/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/universities/wharton-digital-press.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/universities/wharton-digital-press.png" alt="" width="200" align="right" />The <a title="Wharton School of the University of Pennsylvania" href="http://executiveeducation.wharton.upenn.edu/">Wharton School of the University of Pennsylvania</a> and its online business journal <a title="Knowledge@Wharton" href="http://knowledge.wharton.upenn.edu/">Knowledge@Wharton</a> has launched the <a title="Wharton Digital Press" href="http://wdp.wharton.upenn.edu/">Wharton Digital Press</a>.<p></p>

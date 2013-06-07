@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Best Selection of Wordpress Themes
-url: http://apievangelist.com/2010/06/10/best-selection-of-wordpress-themes/
-source: http://apievangelist.com/2010/06/10/best-selection-of-wordpress-themes/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/10/best-selection-of-wordpress-themes/
+source: http://kinlane.com/2010/06/10/best-selection-of-wordpress-themes/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/wordpress.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" title="Wordpress" src="http://kinlane-productions.s3.amazonaws.com/wordpress.jpg" alt="" width="282" height="180" align="right" />I've set up quite a few <a href="http://www.wordpress.org">Wordpress</a> blogs in my day. I've spent hours and hours looking for a theme for various <a href="http://www.kinlane.com/?cat=186">Wordpress</a> installations.<p></p>

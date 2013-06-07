@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing Opportunities
-url: http://apievangelist.com/2009/04/29/cloud-computing-opportunities/
-source: http://apievangelist.com/2009/04/29/cloud-computing-opportunities/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/29/cloud-computing-opportunities/
+source: http://kinlane.com/2009/04/29/cloud-computing-opportunities/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been spending time <a href="http://cloud.kinlane.com">researching different aspects of cloud computing</a> and opportunities out there to evangelize about it.<p></p>

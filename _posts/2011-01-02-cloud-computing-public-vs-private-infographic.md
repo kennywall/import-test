@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing: Public vs Private [Infographic]
-url: http://apievangelist.com/2011/01/02/cloud-computing-public-vs-private-infographic/
-source: http://apievangelist.com/2011/01/02/cloud-computing-public-vs-private-infographic/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/02/cloud-computing-public-vs-private-infographic/
+source: http://kinlane.com/2011/01/02/cloud-computing-public-vs-private-infographic/
+domain: kinlane.com
 image: http://wikibon.org/blog/wp-content/uploads/2010/05/public-private-970.png
 ---
 {% include JB/setup %}<p>There are as many definitions of cloud as there are technology bloggers. However, the major theme is that a Public Cloud provides IT resources that are provisioned remotely from the consumer and operated by a third party.<p></p>

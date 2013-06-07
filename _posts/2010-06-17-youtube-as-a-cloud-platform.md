@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Youtube as a Cloud Platform
-url: http://apievangelist.com/2010/06/17/youtube-as-a-cloud-platform/
-source: http://apievangelist.com/2010/06/17/youtube-as-a-cloud-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/17/youtube-as-a-cloud-platform/
+source: http://kinlane.com/2010/06/17/youtube-as-a-cloud-platform/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/youtube-250x250.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Youtube" src="http://kinlane-productions.s3.amazonaws.com/youtube-250x250.jpg" alt="" width="250" align="right" /><a href="http://www.youtube.com/">YouTube</a> is an amazing site. I spend a lot of time there browsing mostly music and training videos. I am impressed with the number of features they have introduced over the years.<p></p>

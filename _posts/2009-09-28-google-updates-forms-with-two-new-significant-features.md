@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Updates Forms with Two New Significant Features
-url: http://apievangelist.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
-source: http://apievangelist.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
+source: http://kinlane.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google added <a href="http://googleenterprise.blogspot.com/2009/09/add-page-break-and-go-to-page-in-forms.html">two new features into their Google Docs - Forms tool</a>. You can now:

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Power of the People Demonstrated Using the Internet
-url: http://apievangelist.com/2012/01/21/the-power-of-the-people-and-the-internet-demonstrated/
-source: http://apievangelist.com/2012/01/21/the-power-of-the-people-and-the-internet-demonstrated/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/21/the-power-of-the-people-and-the-internet-demonstrated/
+source: http://kinlane.com/2012/01/21/the-power-of-the-people-and-the-internet-demonstrated/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/sopa-opera-count.png
 ---
 {% include JB/setup %}<p><p>A recent image from <a href="http://projects.propublica.org/sopa/">ProPublica.org</a> demonstrates the power of the people via the Internet, when it came to influencing our Government. &nbsp;The image shows which members of Congress changed their position after the blackout protest of January 18, 2012. &nbsp;</p>

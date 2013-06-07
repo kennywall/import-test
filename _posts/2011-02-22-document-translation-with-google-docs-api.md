@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Document Translation with Google Docs API
-url: http://apievangelist.com/2011/02/22/document-translation-with-google-docs-api/
-source: http://apievangelist.com/2011/02/22/document-translation-with-google-docs-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/22/document-translation-with-google-docs-api/
+source: http://kinlane.com/2011/02/22/document-translation-with-google-docs-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jpg
 ---
 {% include JB/setup %}<p><a href="http://code.google.com/apis/documents/" target="_blank">Google Docs Listing API</a> provides document translation at file upload.

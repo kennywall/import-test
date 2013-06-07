@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Contacts Feature Suggestion
-url: http://apievangelist.com/2009/04/15/google-contacts-feature-suggestion/
-source: http://apievangelist.com/2009/04/15/google-contacts-feature-suggestion/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/15/google-contacts-feature-suggestion/
+source: http://kinlane.com/2009/04/15/google-contacts-feature-suggestion/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have had my Gmail account since the early days. I begged people to give me invites and finally got one. Ohhhh the early days. So my contact list is pretty large, and now that Google has expanded it beyond just a list of email addresses into an actual contact management system.<p></p>

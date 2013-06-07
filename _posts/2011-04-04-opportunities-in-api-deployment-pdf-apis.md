@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Opportunities in API Deployment, PDF APIs
-url: http://apievangelist.com/2011/04/04/opportunities-in-api-deployment-pdf-apis/
-source: http://apievangelist.com/2011/04/04/opportunities-in-api-deployment-pdf-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/04/opportunities-in-api-deployment-pdf-apis/
+source: http://kinlane.com/2011/04/04/opportunities-in-api-deployment-pdf-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Tag-Cloud-API-PDF.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Tag-Cloud-API-PDF.png" alt="" width="350" align="right" />I'm spending time evaluating different types of APIs in various categories.<p></p>

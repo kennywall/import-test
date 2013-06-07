@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Battle for Your API Proxy
-url: http://apievangelist.com/2011/06/12/the-battle-for-your-api-proxy/
-source: http://apievangelist.com/2011/06/12/the-battle-for-your-api-proxy/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/12/the-battle-for-your-api-proxy/
+source: http://kinlane.com/2011/06/12/the-battle-for-your-api-proxy/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/traffic-lights.jpg
 ---
 {% include JB/setup %}<p>Every Web API is designed to receive requests from and respond to the outside world.<p></p>

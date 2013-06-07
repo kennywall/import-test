@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Urban Airship Shutting Down SimpleGeo
-url: http://apievangelist.com/2012/01/12/urban-airship-shutting-down-simplegeo/
-source: http://apievangelist.com/2012/01/12/urban-airship-shutting-down-simplegeo/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/12/urban-airship-shutting-down-simplegeo/
+source: http://kinlane.com/2012/01/12/urban-airship-shutting-down-simplegeo/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/simplegeo (1).jpg
 ---
 {% include JB/setup %}<p><p><a title="SimpleGeo" href="https://simplegeo.com/"><img class="aligncenter size-full wp-image-481" title="simplegeo (1)" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-1.jpg" alt="" width="200" align="right" /></a>Just three months after&nbsp;<a title="Urban Airship" href="http://urbanairship.com/">Urban Airship</a>&nbsp;acquired&nbsp;<a title="SimpleGeo" href="https://simplegeo.com/">SimpleGeo</a>, they are&nbsp;<a title="shutting down the places, context and storage service" href="http://urbanairship.com/blog/2012/01/12/update-on-our-plan-to-integrate-location-and-context-services-into-our-push-messaging-platform/">shutting down the places, context and storage service</a>.</p>

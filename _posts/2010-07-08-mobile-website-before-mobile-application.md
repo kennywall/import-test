@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Website Before Mobile Application
-url: http://apievangelist.com/2010/07/08/mobile-website-before-mobile-application/
-source: http://apievangelist.com/2010/07/08/mobile-website-before-mobile-application/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/08/mobile-website-before-mobile-application/
+source: http://kinlane.com/2010/07/08/mobile-website-before-mobile-application/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/iphone.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="IPHone" src="http://kinlane-productions.s3.amazonaws.com/iphone.jpg" alt="" width="284" height="180" align="right" />I see many companies and clients jumping on the "developing an IPhone Application bandwagon". Its definitely a hot medium for delivering your web application, content, products and services to.<p></p>

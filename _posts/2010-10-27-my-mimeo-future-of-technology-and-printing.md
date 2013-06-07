@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Mimeo - Future of Technology and Printing
-url: http://apievangelist.com/2010/10/27/my-mimeo-future-of-technology-and-printing/
-source: http://apievangelist.com/2010/10/27/my-mimeo-future-of-technology-and-printing/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/27/my-mimeo-future-of-technology-and-printing/
+source: http://kinlane.com/2010/10/27/my-mimeo-future-of-technology-and-printing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>I am in New York City this week kicking off my new career as the API Evangelist for <a href="http://www.mimeo.com/solutions/mimeo-connect.php" target="_blank">Mimeo Connect</a>.<p></p>

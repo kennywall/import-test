@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Charlie Rose and Technology
-url: http://apievangelist.com/2009/03/11/charlie-rose-and-technology/
-source: http://apievangelist.com/2009/03/11/charlie-rose-and-technology/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/11/charlie-rose-and-technology/
+source: http://kinlane.com/2009/03/11/charlie-rose-and-technology/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am really impressed with the Charlie Rose show lately. I have always enjoyed his show and his lineup of guests.<p></p>

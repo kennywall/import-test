@@ -1,9 +1,9 @@
 ---
 layout: post
 title: APIs Move Beyond Developers
-url: http://apievangelist.com/2011/03/15/apis-move-beyond-developers/
-source: http://apievangelist.com/2011/03/15/apis-move-beyond-developers/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/15/apis-move-beyond-developers/
+source: http://kinlane.com/2011/03/15/apis-move-beyond-developers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png" alt="" width="300" align="right" />REST is simplifying APIs. Its opening up APIs to casual developers and beyond.<p></p>

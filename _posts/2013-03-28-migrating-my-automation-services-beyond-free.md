@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Migrating My Automation Services Beyond Free
-url: http://apievangelist.com/2013/03/28/migrating-my-automation-services-beyond-free/
-source: http://apievangelist.com/2013/03/28/migrating-my-automation-services-beyond-free/
-domain: apievangelist.com
+url: http://kinlane.com/2013/03/28/migrating-my-automation-services-beyond-free/
+source: http://kinlane.com/2013/03/28/migrating-my-automation-services-beyond-free/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/IFTTT-logo.jpeg
 ---
 {% include JB/setup %}<p><p><a href="https://ifttt.com/"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-logo.jpeg" alt="" width="225" align="right" /></a></p>

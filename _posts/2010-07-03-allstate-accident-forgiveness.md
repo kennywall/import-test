@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Allstate Accident Forgiveness
-url: http://apievangelist.com/2010/07/03/allstate-accident-forgiveness/
-source: http://apievangelist.com/2010/07/03/allstate-accident-forgiveness/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/03/allstate-accident-forgiveness/
+source: http://kinlane.com/2010/07/03/allstate-accident-forgiveness/
+domain: kinlane.com
 image: http://thesettlementchannel.squarespace.com/storage/allstate%20logo.jpeg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Allstate Auto Insurance" src="http://thesettlementchannel.squarespace.com/storage/allstate%20logo.jpeg" alt="" width="265" height="240" align="right" />Its not often I blog about non technical issues and just rant and rave. This is one of those moments. This particular rant is about <a href="http://www.allstate.com" target="_blank">Allstate</a>, and cutting through the hype.<p></p>

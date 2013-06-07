@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Wave Sandbox Accounts
-url: http://apievangelist.com/2009/07/17/google-wave-sandbox-accounts/
-source: http://apievangelist.com/2009/07/17/google-wave-sandbox-accounts/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/17/google-wave-sandbox-accounts/
+source: http://kinlane.com/2009/07/17/google-wave-sandbox-accounts/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I received a Google Wave Sandbox account because I attended the Google IO Conference back in May. They have limited access to the API and Sandbox until it stabilized.<p></p>

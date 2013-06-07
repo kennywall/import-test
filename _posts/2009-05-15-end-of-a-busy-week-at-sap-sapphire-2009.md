@@ -1,9 +1,9 @@
 ---
 layout: post
 title: End of a Busy Week at SAP SAPPHIRE 2009
-url: http://apievangelist.com/2009/05/15/end-of-a-busy-week-at-sap-sapphire-2009/
-source: http://apievangelist.com/2009/05/15/end-of-a-busy-week-at-sap-sapphire-2009/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/15/end-of-a-busy-week-at-sap-sapphire-2009/
+source: http://kinlane.com/2009/05/15/end-of-a-busy-week-at-sap-sapphire-2009/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Finished up a very busy week yesterday at the SAP SAPPHIRE 2009 conference in Orlando, FL.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Image to CSS Conversion
-url: http://apievangelist.com/2011/06/29/image-to-css-conversion/
-source: http://apievangelist.com/2011/06/29/image-to-css-conversion/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/29/image-to-css-conversion/
+source: http://kinlane.com/2011/06/29/image-to-css-conversion/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am playing around with a cool new web application that converts image files into HTML / CSS, appropriately called <a title="IMG to CSS" href="http://www.imgtocss.com/">IMG to CSS</a>.<p></p>

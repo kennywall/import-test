@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Tools of the CityGrid Los Angeles Hackathon
-url: http://apievangelist.com/2012/04/25/tools-of-the-citygrid-los-angeles-hackathon/
-source: http://apievangelist.com/2012/04/25/tools-of-the-citygrid-los-angeles-hackathon/
-domain: apievangelist.com
+url: http://kinlane.com/2012/04/25/tools-of-the-citygrid-los-angeles-hackathon/
+source: http://kinlane.com/2012/04/25/tools-of-the-citygrid-los-angeles-hackathon/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/citygrid-los-angeles.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/events/citygrid-la-hackathon/citygrid-los-angeles.png" alt="" width="200" align="right" /></p>

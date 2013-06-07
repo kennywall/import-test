@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Publisher Claims Ownership of Time-Zone Data
-url: http://apievangelist.com/2011/10/25/publisher-claims-ownership-of-time-zone-data/
-source: http://apievangelist.com/2011/10/25/publisher-claims-ownership-of-time-zone-data/
-domain: apievangelist.com
+url: http://kinlane.com/2011/10/25/publisher-claims-ownership-of-time-zone-data/
+source: http://kinlane.com/2011/10/25/publisher-claims-ownership-of-time-zone-data/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/time-zone-data.jpeg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/time-zone-data.jpeg" alt="" width="250" align="right" />I've been following the latest <a title="copyright infringement lawsuit" href="http://www.wired.com/threatlevel/2011/10/time-zone-data-lawsuit/">copyrightinfringementlawsuit</a> againstArthur Olson, a computer scientist at the National Institutes of Health, and Paul Eggert, a computer scientist at the University of California at Los Angeles. <a title="Astrolabe" href="http://alabe.com/">Astrolabe</a>, an Astrology site claims theyhave unlawfully reproduced the works and distributed them without their permission.<p></p>

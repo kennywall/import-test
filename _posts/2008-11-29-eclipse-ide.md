@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Eclipse IDE
-url: http://apievangelist.com/2008/11/29/eclipse-ide/
-source: http://apievangelist.com/2008/11/29/eclipse-ide/
-domain: apievangelist.com
+url: http://kinlane.com/2008/11/29/eclipse-ide/
+source: http://kinlane.com/2008/11/29/eclipse-ide/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been using a combination of Dreamweaver and Notepad to do my code editing for a few years now. I use Dreamweaver because of employers mandating it mostly. I really don't like the application, or use many of the features.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mining of Massive Data Sets
-url: http://apievangelist.com/2010/12/30/mining-of-massive-data-sets/
-source: http://apievangelist.com/2010/12/30/mining-of-massive-data-sets/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/30/mining-of-massive-data-sets/
+source: http://kinlane.com/2010/12/30/mining-of-massive-data-sets/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/database/mining-data-sets.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/database/mining-data-sets.jpg" alt="" width="250" align="right" />Mining of Massive Data Sets is a book evolved from material developed over several years by Anand Raja- raman and Jeff Ullman for a one-quarter course at <a href="http://www.stanford.edu/" target="_blank">Stanford</a>. The course titled Web Mining, was designed as an advanced graduate course, although it has become accessible and interesting to advanced undergraduates.<p></p>

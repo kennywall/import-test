@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google API Access with OAuth 2.0
-url: http://apievangelist.com/2011/03/14/google-api-access-with-oauth-2-0/
-source: http://apievangelist.com/2011/03/14/google-api-access-with-oauth-2-0/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/14/google-api-access-with-oauth-2-0/
+source: http://kinlane.com/2011/03/14/google-api-access-with-oauth-2-0/
+domain: kinlane.com
 image: http://3.bp.blogspot.com/-ruRNTrvU__M/TX5Rrj3cXZI/AAAAAAAAAHw/t6n8Ayv6JUE/s400/image00.png
 ---
 {% include JB/setup %}<p><img src="http://3.bp.blogspot.com/-ruRNTrvU__M/TX5Rrj3cXZI/AAAAAAAAAHw/t6n8Ayv6JUE/s400/image00.png" alt="" width="280" align="right" />Google has evolved their <a title="API Authentication with OAuth 2.0" href="http://googlecode.blogspot.com/2011/03/making-auth-easier-oauth-20-for-google.html">API authentication to embrace OAuth 2.0</a>.<p></p>

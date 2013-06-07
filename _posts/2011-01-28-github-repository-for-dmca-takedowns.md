@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Github Repository for DMCA Takedowns
-url: http://apievangelist.com/2011/01/28/github-repository-for-dmca-takedowns/
-source: http://apievangelist.com/2011/01/28/github-repository-for-dmca-takedowns/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/28/github-repository-for-dmca-takedowns/
+source: http://kinlane.com/2011/01/28/github-repository-for-dmca-takedowns/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}<p>You can tell we are in a seriously volatile time, and the Internet is the center of it.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Users are in the drivers seat for the next round of UI and user experience development
-url: http://apievangelist.com/2009/04/02/users-are-in-the-drivers-seat-for-the-next-round-of-ui-and-user-experience-development/
-source: http://apievangelist.com/2009/04/02/users-are-in-the-drivers-seat-for-the-next-round-of-ui-and-user-experience-development/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/02/users-are-in-the-drivers-seat-for-the-next-round-of-ui-and-user-experience-development/
+source: http://kinlane.com/2009/04/02/users-are-in-the-drivers-seat-for-the-next-round-of-ui-and-user-experience-development/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Users are quickly moving into the drivers seat when it comes to determining how a web application should look, feel and function.<p></p>

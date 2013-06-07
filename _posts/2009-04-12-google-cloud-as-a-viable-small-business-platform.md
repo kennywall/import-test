@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud as a Viable Small Business Platform
-url: http://apievangelist.com/2009/04/12/google-cloud-as-a-viable-small-business-platform/
-source: http://apievangelist.com/2009/04/12/google-cloud-as-a-viable-small-business-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/12/google-cloud-as-a-viable-small-business-platform/
+source: http://kinlane.com/2009/04/12/google-cloud-as-a-viable-small-business-platform/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>So I have used Google as a platform for a while. I did several large scale social media marketing campaigns completely using Google as a platform.<p></p>

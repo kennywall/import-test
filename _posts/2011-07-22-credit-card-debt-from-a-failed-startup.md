@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Credit Card Debt from a Failed Startup
-url: http://apievangelist.com/2011/07/22/credit-card-debt-from-a-failed-startup/
-source: http://apievangelist.com/2011/07/22/credit-card-debt-from-a-failed-startup/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/22/credit-card-debt-from-a-failed-startup/
+source: http://kinlane.com/2011/07/22/credit-card-debt-from-a-failed-startup/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/startup-credit-card-payments.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/startup-credit-card-payments.png" alt="" width="300" align="right" />Here is a little reminder for all the startup hungry folks out there.<p></p>

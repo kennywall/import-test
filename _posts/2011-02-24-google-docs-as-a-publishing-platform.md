@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Docs as a Publishing Platform
-url: http://apievangelist.com/2011/02/24/google-docs-as-a-publishing-platform/
-source: http://apievangelist.com/2011/02/24/google-docs-as-a-publishing-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/24/google-docs-as-a-publishing-platform/
+source: http://kinlane.com/2011/02/24/google-docs-as-a-publishing-platform/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg" alt="" align="right" />As I'm spending a lot of time with Google Docs lately, I'm getting to see it in a different perspective.<p></p>

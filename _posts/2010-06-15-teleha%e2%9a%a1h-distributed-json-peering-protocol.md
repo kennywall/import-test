@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TeleHa?h - Distributed JSON Peering Protocol
-url: http://apievangelist.com/2010/06/15/teleha%e2%9a%a1h-distributed-json-peering-protocol/
-source: http://apievangelist.com/2010/06/15/teleha%e2%9a%a1h-distributed-json-peering-protocol/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/15/teleha%e2%9a%a1h-distributed-json-peering-protocol/
+source: http://kinlane.com/2010/06/15/teleha%e2%9a%a1h-distributed-json-peering-protocol/
+domain: kinlane.com
 image: http://jeremie.com/i/810c8079d4a77e514296b3a58710c903.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="TeleHash" src="http://jeremie.com/i/810c8079d4a77e514296b3a58710c903.png" alt="" width="284" height="180" align="right" />TeleHash is a new wire protocol for exchanging <a href="http://www.json.org/">JSON</a> in a real-time and fully  decentralized manner, enabling applications to connect directly and  participate as servers on the edge of the network.  It is designed to  efficiently route and distribute small bits of data in order for  applications to discover each other directly or in relation to events  around piece of shared content.  The core benefits of TeleHash over  other similar platforms and protocols is that it is both generic (not  tied to any specific application or content structures) and is radically  decentralized with no servers or points of central control.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Do You Know Where Your Data Is In The Cloud?
-url: http://apievangelist.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
-source: http://apievangelist.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
+source: http://kinlane.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map.PNG
 ---
 {% include JB/setup %}<p>I was just reading about<a href="http://www.centrilogic.com/services/cloud/" target="_blank"> CentriLogic's new cloud hosting services.</a> They store your data across data centers in <a href="http://www.centrilogic.com/services/facilities/roc.php" target="_blank">Rochester NY</a>, <a href="http://www.centrilogic.com/services/facilities/buff.php" target="_blank">Buffalo NY</a>, <a href="http://www.centrilogic.com/services/facilities/tor.php" target="_blank">Toronto ON</a>, and <a href="http://www.centrilogic.com/services/facilities/miss.php">Mississauga, ON</a>.<p></p>

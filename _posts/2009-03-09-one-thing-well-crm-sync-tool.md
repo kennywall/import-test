@@ -1,9 +1,9 @@
 ---
 layout: post
 title: One Thing Well - CRM Sync Tool
-url: http://apievangelist.com/2009/03/09/one-thing-well-crm-sync-tool/
-source: http://apievangelist.com/2009/03/09/one-thing-well-crm-sync-tool/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/09/one-thing-well-crm-sync-tool/
+source: http://kinlane.com/2009/03/09/one-thing-well-crm-sync-tool/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>In my theme of doing one thing and doing it well....I am going to start proposing business ideas that I either come across or come up with myself.<p></p>

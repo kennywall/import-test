@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Network Device Discovery with Fing.
-url: http://apievangelist.com/2011/03/14/network-device-discovery-with-fing/
-source: http://apievangelist.com/2011/03/14/network-device-discovery-with-fing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/14/network-device-discovery-with-fing/
+source: http://kinlane.com/2011/03/14/network-device-discovery-with-fing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/overlook-fing.png
 ---
 {% include JB/setup %}<p><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/overlook-fing.png" alt="" width="300" align="right" />I was looking for a network device discovery tool.<p></p>

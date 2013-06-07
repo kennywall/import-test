@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Creating "Contaxt"
-url: http://apievangelist.com/2010/05/25/creating-contaxt-on-my-platform/
-source: http://apievangelist.com/2010/05/25/creating-contaxt-on-my-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2010/05/25/creating-contaxt-on-my-platform/
+source: http://kinlane.com/2010/05/25/creating-contaxt-on-my-platform/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Using <a href="http://www.kinlane.com/?p=1336">oAuth I've pulled my email from my Gmail Inbox</a>. Then using AuthSub I pulled my <a href="http://code.google.com/apis/contacts/">Google Contacts</a>. I will replicate what I've done and pull mail and contacts from my <a href="http://www.kinlane.com">kinlane.com</a> Google Apps domain.<p></p>

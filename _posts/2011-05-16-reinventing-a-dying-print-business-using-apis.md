@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reinventing a Dying Print Business Using APIs
-url: http://apievangelist.com/2011/05/16/reinventing-a-dying-print-business-using-apis/
-source: http://apievangelist.com/2011/05/16/reinventing-a-dying-print-business-using-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/16/reinventing-a-dying-print-business-using-apis/
+source: http://kinlane.com/2011/05/16/reinventing-a-dying-print-business-using-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-pages-group.png
 ---
 {% include JB/setup %}<p><a href="http://www.ypg.com/en/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-pages-group.png" alt="" width="250" align="right" /></a><p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Re-inventing Pearson Publishing using APIs
-url: http://apievangelist.com/2011/08/16/re-inventing-pearson-publishing-using-apis/
-source: http://apievangelist.com/2011/08/16/re-inventing-pearson-publishing-using-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/16/re-inventing-pearson-publishing-using-apis/
+source: http://kinlane.com/2011/08/16/re-inventing-pearson-publishing-using-apis/
+domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/pearson/Pearson-Plug-And-Play-API-Screenshot.png
 ---
 {% include JB/setup %}<p><a title="Pearson Plug &amp; Play Developer Platform" href="http://developer.pearson.com/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/pearson/Pearson-Plug-And-Play-API-Screenshot.png" alt="" width="300" align="right" /></a>We hear about the struggles of newspapers, magazines, and book publishers to stay relevant in the digital age on almost a daily basis these days. Many of these publishers are sitting on a treasure chest of content, but are unable to understand how to unlock them -- to make the content accessible in a way that allows them to retain control, adhere to existing licensing agreements, and make money in a world quickly being dominated by the iPad and Kindle.<p></p>

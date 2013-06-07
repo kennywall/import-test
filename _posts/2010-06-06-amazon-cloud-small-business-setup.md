@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Cloud Small Business Setup
-url: http://apievangelist.com/2010/06/06/amazon-cloud-small-business-setup/
-source: http://apievangelist.com/2010/06/06/amazon-cloud-small-business-setup/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/06/amazon-cloud-small-business-setup/
+source: http://kinlane.com/2010/06/06/amazon-cloud-small-business-setup/
+domain: kinlane.com
 image: http://awsmedia.s3.amazonaws.com/logo_aws.gif
 ---
 {% include JB/setup %}<p><img style="padding: 10px;" title="Amazon Web  Services" src="http://awsmedia.s3.amazonaws.com/logo_aws.gif" alt="" width="164" height="60" align="right" />I have been in the <a href="http://aws.amazon.com/console/">Amazon Console</a> all night scaling down infrastructure after 3 months of events and conferences.  This year our Amazon spend was double during the event season.  Last year I pushed what my budget would allow to achieve better performance, it paid off.  This year I got the thumbs up to push even further (even though I think I may have pushed a little further than I should have), with the amount to spend on processor power.<p></p>

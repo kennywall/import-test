@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Dedicated Internet Network for the Occupy Movement
-url: http://apievangelist.com/2011/11/03/dedicated-internet-network-for-the-occupy-movement/
-source: http://apievangelist.com/2011/11/03/dedicated-internet-network-for-the-occupy-movement/
-domain: apievangelist.com
+url: http://kinlane.com/2011/11/03/dedicated-internet-network-for-the-occupy-movement/
+source: http://kinlane.com/2011/11/03/dedicated-internet-network-for-the-occupy-movement/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Occupy-Freedom-Towers.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Occupy-Freedom-Towers.png" alt="" align="right" />As reported by <a title="Adrianne Jeffries" href="http://twitter.com/#!/ADRjeffries">Adrianne Jeffries</a> of <a title="BetaBeat" href="http://www.betabeat.com/">BetaBeat</a>, the <a title="Free Network Foundation is building a private network for Occupy Wall Street" href="http://www.betabeat.com/2011/11/02/occupy-wall-street-could-get-occupation-to-occupation-vpn/">Free Network Foundation is building a private network for Occupy Wall Street</a>and its affiliated movements in other cities.<p></p>

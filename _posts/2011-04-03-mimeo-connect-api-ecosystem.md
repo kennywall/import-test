@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Connect API Ecosystem
-url: http://apievangelist.com/2011/04/03/mimeo-connect-api-ecosystem/
-source: http://apievangelist.com/2011/04/03/mimeo-connect-api-ecosystem/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/03/mimeo-connect-api-ecosystem/
+source: http://kinlane.com/2011/04/03/mimeo-connect-api-ecosystem/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>As I'm preparing to launch my new Mimeo Connect Cloud Print API area, I'm taking inventory of my ecosystem.<p></p>

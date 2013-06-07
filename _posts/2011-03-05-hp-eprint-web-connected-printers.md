@@ -1,9 +1,9 @@
 ---
 layout: post
 title: HP ePrint
-url: http://apievangelist.com/2011/03/05/hp-eprint-web-connected-printers/
-source: http://apievangelist.com/2011/03/05/hp-eprint-web-connected-printers/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/05/hp-eprint-web-connected-printers/
+source: http://kinlane.com/2011/03/05/hp-eprint-web-connected-printers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/HP-ePrint/HP-ePrint-Overview.png
 ---
 {% include JB/setup %}<p><a title="ePrint" href="http://h30495.www3.hp.com/?jumpid=in_R11549/eprintcenter">ePrint</a> is a service from HP that allows printing to select HP printers over the Internet.<p></p>

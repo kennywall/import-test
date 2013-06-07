@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google clears up a few things on Google Buzz
-url: http://apievangelist.com/2010/02/11/google-clears-up-a-few-things-on-google-buzz/
-source: http://apievangelist.com/2010/02/11/google-clears-up-a-few-things-on-google-buzz/
-domain: apievangelist.com
+url: http://kinlane.com/2010/02/11/google-clears-up-a-few-things-on-google-buzz/
+source: http://kinlane.com/2010/02/11/google-clears-up-a-few-things-on-google-buzz/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google responded to everyone on the Gmail blog about some of the <a href="http://gmailblog.blogspot.com/2010/02/millions-of-buzz-users-and-improvements.html">open questions around Google Buzz</a>. They addressed some of the privacy concerns around your Google Contacts and how your Buzz network operates.<p></p>

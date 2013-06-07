@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Sensible Approach to the Twitter API Ecosystem
-url: http://apievangelist.com/2011/03/27/a-sensible-approach-to-the-twitter-api-ecosystem/
-source: http://apievangelist.com/2011/03/27/a-sensible-approach-to-the-twitter-api-ecosystem/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/27/a-sensible-approach-to-the-twitter-api-ecosystem/
+source: http://kinlane.com/2011/03/27/a-sensible-approach-to-the-twitter-api-ecosystem/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg" alt="" align="right" />I just finished reading two more posts on the recent changes to the <a title="Twitter API Terms of Service" href="http://dev.twitter.com/pages/api_terms">Twitter API terms of service</a>.  There are a lot of opinions on whether Twitter was right or wrong in their approach to reign in their developer community.<p></p>

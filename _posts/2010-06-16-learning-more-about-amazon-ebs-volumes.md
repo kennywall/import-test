@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Using Amazon EBS Volumes
-url: http://apievangelist.com/2010/06/16/learning-more-about-amazon-ebs-volumes/
-source: http://apievangelist.com/2010/06/16/learning-more-about-amazon-ebs-volumes/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/16/learning-more-about-amazon-ebs-volumes/
+source: http://kinlane.com/2010/06/16/learning-more-about-amazon-ebs-volumes/
+domain: kinlane.com
 image: http://d1nqddva888cns.cloudfront.net/EBS_Free_Monitoring_Console.png
 ---
 {% include JB/setup %}<p><img title="Amazon EBS Volume Metrics" src="http://d1nqddva888cns.cloudfront.net/EBS_Free_Monitoring_Console.png" alt="" width="300" align="right" style="padding: 15px;" />I'm increasing my usage of Amazon EBS volumes. I tend to use objects I've written in PHP or ColdFusion for writing data to Amazon S3. I haven't historically used EBS volumes much, because data tends to be needed across multiple instances.<p></p>

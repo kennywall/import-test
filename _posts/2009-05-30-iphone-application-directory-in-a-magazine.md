@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IPhone Application Directory in a Magazine
-url: http://apievangelist.com/2009/05/30/iphone-application-directory-in-a-magazine/
-source: http://apievangelist.com/2009/05/30/iphone-application-directory-in-a-magazine/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/30/iphone-application-directory-in-a-magazine/
+source: http://kinlane.com/2009/05/30/iphone-application-directory-in-a-magazine/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was browsing the magazine rack at borders books this morning as I often do. I notice an IPhone Application directory magazine. Besides the fact that Mac and I everything seems to dominate the technology section of the magazine rack, Apple really is on it when it comes to publishing.<p></p>

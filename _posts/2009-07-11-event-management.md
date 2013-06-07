@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Event Management
-url: http://apievangelist.com/2009/07/11/event-management/
-source: http://apievangelist.com/2009/07/11/event-management/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/11/event-management/
+source: http://kinlane.com/2009/07/11/event-management/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>We just launched a new web site for our company <a href="http://www.webeventsglobal.com">WebEvents Global</a>. It is a new start for our web presence. We do not really have a need for a web site to market our <a href="http://www.webeventsglobal.com">event management products and services</a>.<p></p>

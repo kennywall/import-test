@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Where Cloud Computing Growth Will Slow
-url: http://apievangelist.com/2011/06/20/where-cloud-computing-growth-will-slow/
-source: http://apievangelist.com/2011/06/20/where-cloud-computing-growth-will-slow/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/20/where-cloud-computing-growth-will-slow/
+source: http://kinlane.com/2011/06/20/where-cloud-computing-growth-will-slow/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /><a title="Cloud computing" href="http://www.kinlane.com/category/cloud-computing/">Cloud computing</a> holds the promise of infinite scalability and capacity.  We hust pay for what we use, and whatever capacity you need is there.<p></p>

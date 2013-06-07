@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google IO Wrapup
-url: http://apievangelist.com/2009/05/31/google-io-wrapup/
-source: http://apievangelist.com/2009/05/31/google-io-wrapup/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/31/google-io-wrapup/
+source: http://kinlane.com/2009/05/31/google-io-wrapup/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am still processing my notes and information from the <a class="zem_slink" title="Google I/O" rel="homepage" href="http://code.google.com/events/io/">Google I/O</a> conference in San Francisco last week. I will be making some individual posts on different sessions I attended.<p></p>

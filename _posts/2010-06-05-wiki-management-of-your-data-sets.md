@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wiki Management of Your Data Sets
-url: http://apievangelist.com/2010/06/05/wiki-management-of-your-data-sets/
-source: http://apievangelist.com/2010/06/05/wiki-management-of-your-data-sets/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/05/wiki-management-of-your-data-sets/
+source: http://kinlane.com/2010/06/05/wiki-management-of-your-data-sets/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was reviewing the <a href="http://code.google.com/apis/sites/docs/1.0/developers_guide_protocol.html#CreatingContent">Google Sites API</a> today. I have a Google Site / Wiki that I was maintaining last year about <a href="http://sites.google.com/a/kinlane.com/cloud-computing/Home">cloud computing</a>. Like other side projects of mine that don't directly have funding it fell to the wayside, however I've been still bookmarking and gathering relevant data that still applies to this <a href="http://sites.google.com/a/kinlane.com/cloud-computing/Home">Cloud Computing Wik</a>. I would like to find a way to refresh it.<p></p>

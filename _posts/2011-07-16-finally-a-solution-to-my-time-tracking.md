@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Finally a Solution to My Time Tracking
-url: http://apievangelist.com/2011/07/16/finally-a-solution-to-my-time-tracking/
-source: http://apievangelist.com/2011/07/16/finally-a-solution-to-my-time-tracking/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/16/finally-a-solution-to-my-time-tracking/
+source: http://kinlane.com/2011/07/16/finally-a-solution-to-my-time-tracking/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg" alt="" width="200" align="right" />Like everyone else, I struggle with keeping track of my time. What projects did I work on, how much time did I spend researching, reading and writing each day.<p></p>

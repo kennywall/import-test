@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Refining Data with Google Refine
-url: http://apievangelist.com/2011/08/14/refining-data-with-google-refine/
-source: http://apievangelist.com/2011/08/14/refining-data-with-google-refine/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/14/refining-data-with-google-refine/
+source: http://kinlane.com/2011/08/14/refining-data-with-google-refine/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.jpg
 ---
 {% include JB/setup %}<p><a title="Google Refine" href="http://code.google.com/p/google-refine/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.jpg" alt="" width="250" align="right" /></a>I stumbled across <a title="Google Refine" href="http://code.google.com/p/google-refine/">Google Refine</a> yesterday while writing a story on a <a title="Famers Market API" href="http://blog.apievangelist.com/2011/08/13/united-states-farmers-market-api/">Famers Market API</a>. Google Refine is the rebirth of what was formerly known as Freebase Gridworks, in which Google picked up in their <a title="2010 acquisition of Metaweb" href="http://googleblog.blogspot.com/2010/07/deeper-understanding-with-metaweb.html">2010 acquisition of Metaweb</a>.<p></p>

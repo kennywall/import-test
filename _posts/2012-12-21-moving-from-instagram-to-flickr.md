@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Moving From Instagram to Flickr
-url: http://apievangelist.com/2012/12/21/moving-from-instagram-to-flickr/
-source: http://apievangelist.com/2012/12/21/moving-from-instagram-to-flickr/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/21/moving-from-instagram-to-flickr/
+source: http://kinlane.com/2012/12/21/moving-from-instagram-to-flickr/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/instagram-logo.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png" alt="" width="175" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Impermanence and the Cloud
-url: http://apievangelist.com/2010/06/08/impermanence-and-the-cloud/
-source: http://apievangelist.com/2010/06/08/impermanence-and-the-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/08/impermanence-and-the-cloud/
+source: http://kinlane.com/2010/06/08/impermanence-and-the-cloud/
+domain: kinlane.com
 image: http://tapchisonghuong.com.vn/Image/Image/buddha-cloud.jpg
 ---
 {% include JB/setup %}<p>I was reminded today that nothing is permanent in the cloud. I accidentally terminated my primary database instance running on Amazon EC2. 319 databases, 100 GB of data running on SQL Server 2008.<p></p>

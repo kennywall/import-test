@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Operating System
-url: http://apievangelist.com/2010/07/24/cloud-operating-system/
-source: http://apievangelist.com/2010/07/24/cloud-operating-system/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/24/cloud-operating-system/
+source: http://kinlane.com/2010/07/24/cloud-operating-system/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-operating-system.png
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Cloud Operating System" src="http://kinlane-productions.s3.amazonaws.com/cloud-operating-system.png" alt="" width="300" align="right" />I thoroughly enjoy my career right now. It is exciting being part of where technology and computing is going right now. I'm a total cloud computing fanboy, I admit. I do try to keep it realistic and focused on how it influences business and IT operations.<p></p>

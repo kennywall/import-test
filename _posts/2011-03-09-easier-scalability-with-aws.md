@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon EC2 Adds Change Instance Type and Shutdown Behavior
-url: http://apievangelist.com/2011/03/09/easier-scalability-with-aws/
-source: http://apievangelist.com/2011/03/09/easier-scalability-with-aws/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/09/easier-scalability-with-aws/
+source: http://kinlane.com/2011/03/09/easier-scalability-with-aws/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /><strong>Amazon Web Services</strong> just released two pretty <a title="Amazon EC2 Enhancements" href="http://aws.typepad.com/aws/2011/03/even-more-ec2-goodies-in-the-aws-management-console.html">significationenhancementsto the Amazon EC2 infrastructure</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Internet and Network at Technology Conference
-url: http://apievangelist.com/2009/06/03/internet-and-network-at-technology-conference/
-source: http://apievangelist.com/2009/06/03/internet-and-network-at-technology-conference/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/03/internet-and-network-at-technology-conference/
+source: http://kinlane.com/2009/06/03/internet-and-network-at-technology-conference/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I'm not being to formal about my posts coming together from the <a class="zem_slink" title="Google I/O" rel="homepage" href="http://code.google.com/events/io/">Google I/O</a> conference. A lot of work this week so I haven't had time to pull together.<p></p>

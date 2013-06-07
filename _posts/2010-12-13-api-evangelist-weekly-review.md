@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Evangelist Weekly Review
-url: http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/
-source: http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
+source: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Here is the coverage for the week from <a href="http://www.apievangelist.com" target="_blank">API Evangelist</a>.

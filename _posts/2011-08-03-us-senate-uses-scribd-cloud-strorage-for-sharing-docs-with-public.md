@@ -1,9 +1,9 @@
 ---
 layout: post
 title: US Senate Uses Scribd Cloud Strorage for Sharing Docs with Public
-url: http://apievangelist.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
-source: http://apievangelist.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
+source: http://kinlane.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/us-senate-logo.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/us-senate-logo.jpg" alt="" width="150" align="right" /><p></p>

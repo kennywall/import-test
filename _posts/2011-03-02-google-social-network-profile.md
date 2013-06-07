@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Social Network Profile
-url: http://apievangelist.com/2011/03/02/google-social-network-profile/
-source: http://apievangelist.com/2011/03/02/google-social-network-profile/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/02/google-social-network-profile/
+source: http://kinlane.com/2011/03/02/google-social-network-profile/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/Kin-Lane-Google-Profile.png
 ---
 {% include JB/setup %}<p>I like my new <a title="Google Profile" href="https://profiles.google.com/kinlane/about">Google Profile</a>.  Its a cleaner, more organized version of its former self.

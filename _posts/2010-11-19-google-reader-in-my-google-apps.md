@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Reader in my Google Apps
-url: http://apievangelist.com/2010/11/19/google-reader-in-my-google-apps/
-source: http://apievangelist.com/2010/11/19/google-reader-in-my-google-apps/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/19/google-reader-in-my-google-apps/
+source: http://kinlane.com/2010/11/19/google-reader-in-my-google-apps/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-reader-icons.jpg
 ---
 {% include JB/setup %}<p>I have two Google Apps accounts.  One for <a href="http://www.kinlane.com" target="_blank">kinlane.com</a> and one for <a href="http://www.apievangelist.com" target="_blank">apievangelist.com</a>.  I primarily have these Google Apps for the email.  So I just route info@kinlane.com and info@apievangelist.com to my kinlane@gmail.com account.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Writing documents for an Application Program Interface (API)
-url: http://apievangelist.com/2009/07/17/writing-documents-for-an-application-program-interface-api/
-source: http://apievangelist.com/2009/07/17/writing-documents-for-an-application-program-interface-api/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/17/writing-documents-for-an-application-program-interface-api/
+source: http://kinlane.com/2009/07/17/writing-documents-for-an-application-program-interface-api/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am not an expert in writing documentation for application program interfaces (API). I do play one on TV though.<p></p>

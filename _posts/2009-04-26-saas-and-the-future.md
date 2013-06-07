@@ -1,9 +1,9 @@
 ---
 layout: post
 title: SaaS and the Future
-url: http://apievangelist.com/2009/04/26/saas-and-the-future/
-source: http://apievangelist.com/2009/04/26/saas-and-the-future/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/saas-and-the-future/
+source: http://kinlane.com/2009/04/26/saas-and-the-future/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was reading this post on, <a href="http://www.ubikwiti.com/blog/?p=576">90% of SaaS companies and Most I.T. Major Players will not exist in present form by recession's end</a>.<p></p>

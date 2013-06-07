@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Should Pull Plug Regularly to Show Which Companies Do Not Have It Together
-url: http://apievangelist.com/2011/04/21/amazon-should-pull-plug-regularly-to-show-which-companies-do-not-have-it-together/
-source: http://apievangelist.com/2011/04/21/amazon-should-pull-plug-regularly-to-show-which-companies-do-not-have-it-together/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/21/amazon-should-pull-plug-regularly-to-show-which-companies-do-not-have-it-together/
+source: http://kinlane.com/2011/04/21/amazon-should-pull-plug-regularly-to-show-which-companies-do-not-have-it-together/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/storm-warning.jpg
 ---
 {% include JB/setup %}<p><a title="what it takes to operate in the cloud" href="http://claylo.com/post/4817029650/where-there-are-clouds-it-sometimes-rains"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/storm-warning.jpg" alt="" width="250" align="right" /></a>I am by no means an IT architecture specialist, although I have a lot of experience in this area.<p></p>

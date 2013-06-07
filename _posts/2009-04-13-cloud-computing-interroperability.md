@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Computing Interroperability
-url: http://apievangelist.com/2009/04/13/cloud-computing-interroperability/
-source: http://apievangelist.com/2009/04/13/cloud-computing-interroperability/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/13/cloud-computing-interroperability/
+source: http://kinlane.com/2009/04/13/cloud-computing-interroperability/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I read every day about the need for cloud computing interroperability between providers. Just about all of it is talk.<p></p>

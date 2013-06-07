@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3-D Print a Figurine of Yourself
-url: http://apievangelist.com/2011/04/09/3-d-print-a-figurine-of-yourself/
-source: http://apievangelist.com/2011/04/09/3-d-print-a-figurine-of-yourself/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/09/3-d-print-a-figurine-of-yourself/
+source: http://kinlane.com/2011/04/09/3-d-print-a-figurine-of-yourself/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-souveniers.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-souveniers.png" alt="" width="125" align="right" />A group of innovators called <a title="BlablabLAB" href="http://www.facebook.com/pages/blablabLAB/204092786276896?sk=wall">BlablabLAB</a> have integrated a Kinect with a 3-D printer to print personalized statues.<p></p>

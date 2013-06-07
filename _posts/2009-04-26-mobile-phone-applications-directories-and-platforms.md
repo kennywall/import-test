@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Phone Applications, Directories and Platforms
-url: http://apievangelist.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
-source: http://apievangelist.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
+source: http://kinlane.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading about Research in Montion and their innovation in <a class="zem_slink" title="Fast Company (magazine)" rel="homepage" href="http://www.fastcompany.com">Fast Company</a> and about their applicaiton directory in <a class="zem_slink" title="BusinessWeek" rel="homepage" href="http://www.businessweek.com/">Business Week</a>.<p></p>

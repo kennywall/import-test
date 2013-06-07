@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon EC2 Down for 30 Minutes
-url: http://apievangelist.com/2009/12/09/amazon-ec2-down-for-30-minutes/
-source: http://apievangelist.com/2009/12/09/amazon-ec2-down-for-30-minutes/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/09/amazon-ec2-down-for-30-minutes/
+source: http://kinlane.com/2009/12/09/amazon-ec2-down-for-30-minutes/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>We were trying to finish up a major email blast tonight and all of a sudden our main blast server stopped working.<p></p>

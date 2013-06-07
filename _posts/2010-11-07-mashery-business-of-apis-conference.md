@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mashery Business of APIs Conference
-url: http://apievangelist.com/2010/11/07/mashery-business-of-apis-conference/
-source: http://apievangelist.com/2010/11/07/mashery-business-of-apis-conference/
-domain: apievangelist.com
+url: http://kinlane.com/2010/11/07/mashery-business-of-apis-conference/
+source: http://kinlane.com/2010/11/07/mashery-business-of-apis-conference/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events/Business-of-APIs-2010.jpg
 ---
 {% include JB/setup %}<p>I attended <a href="http://apiconference.com/" target="_blank">Mashery's Business of APIs Conference</a> in San Francisco on Thursday.<p></p>

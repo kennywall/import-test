@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Dropbox Launches API
-url: http://apievangelist.com/2010/07/03/dropbox-launches-api/
-source: http://apievangelist.com/2010/07/03/dropbox-launches-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/03/dropbox-launches-api/
+source: http://kinlane.com/2010/07/03/dropbox-launches-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/DropBox-Developers.PNG
 ---
 {% include JB/setup %}<p><a href="http://kinlane-productions.s3.amazonaws.com/cloud-computing/DropBox-Developers.PNG" target="_blank"><img class="alignnone" style="padding: 15px;" title="Dropbox" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/DropBox-Developers.PNG" alt="" width="250" height="97" align="right" />Dropbox just launched a new application programming interface (API)</a> for their popular cloud storage platform. The <a href="http://en.wikipedia.org/wiki/Representational_State_Transfer" target="_blank">RESTful API</a> allows you to exchange, distribute or access files on a user's desktop.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rediscovering Zend Framework
-url: http://apievangelist.com/2010/05/24/rediscovering-zend-framework/
-source: http://apievangelist.com/2010/05/24/rediscovering-zend-framework/
-domain: apievangelist.com
+url: http://kinlane.com/2010/05/24/rediscovering-zend-framework/
+source: http://kinlane.com/2010/05/24/rediscovering-zend-framework/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am working with several Google APIs this evening. I am pulling my<a href="http://code.google.com/apis/gmail/oauth/code.html"> Gmail Messages using Oauth</a>. In the Google Code samples they use <a href="http://framework.zend.com">Zend Framework</a>.<p></p>

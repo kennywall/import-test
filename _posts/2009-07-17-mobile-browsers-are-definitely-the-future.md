@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Browsers are Definitely the Future
-url: http://apievangelist.com/2009/07/17/mobile-browsers-are-definitely-the-future/
-source: http://apievangelist.com/2009/07/17/mobile-browsers-are-definitely-the-future/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/17/mobile-browsers-are-definitely-the-future/
+source: http://kinlane.com/2009/07/17/mobile-browsers-are-definitely-the-future/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just reading a post on <a href="http://mashable.com/">Mashable</a> about <a href="http://mashable.com/2009/07/17/google-browser-platform/">Google: Browser is the Platform of the Future, Even on Mobiles</a>.<p></p>

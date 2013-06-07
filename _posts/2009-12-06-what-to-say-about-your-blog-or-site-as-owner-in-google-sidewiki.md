@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What to say about your blog or site as owner, in Google Sidewiki?
-url: http://apievangelist.com/2009/12/06/what-to-say-about-your-blog-or-site-as-owner-in-google-sidewiki/
-source: http://apievangelist.com/2009/12/06/what-to-say-about-your-blog-or-site-as-owner-in-google-sidewiki/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/06/what-to-say-about-your-blog-or-site-as-owner-in-google-sidewiki/
+source: http://kinlane.com/2009/12/06/what-to-say-about-your-blog-or-site-as-owner-in-google-sidewiki/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just viewing my last blog post and noticed the Google Sidewiki that I had installed recently.<p></p>

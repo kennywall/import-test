@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Spreadsheet as Real-Time Data Source
-url: http://apievangelist.com/2010/06/08/google-spreadsheet-as-real-time-data-source/
-source: http://apievangelist.com/2010/06/08/google-spreadsheet-as-real-time-data-source/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/08/google-spreadsheet-as-real-time-data-source/
+source: http://kinlane.com/2010/06/08/google-spreadsheet-as-real-time-data-source/
+domain: kinlane.com
 image: http://d35fa85q7j6dnm.cloudfront.net/google-fusion-tables.PNG
 ---
 {% include JB/setup %}<p>I was just talking with<a href="http://code.google.com/events/io/2010/"> Google I/O</a> events team about keeping events sessions up to date on the conference and event sessions page. Sessions change rapidly and updates are needed by multiple teams in real-time.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Github Releases New API Version
-url: http://apievangelist.com/2011/04/28/github-releases-new-api-version/
-source: http://apievangelist.com/2011/04/28/github-releases-new-api-version/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/28/github-releases-new-api-version/
+source: http://kinlane.com/2011/04/28/github-releases-new-api-version/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github/github-round.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/github/github-round.png" alt="" width="200" align="right" /><a title="Github" href="https://github.com/">Github</a> has <a title="released version 3.0 of their API" href="https://github.com/blog/846-new-issues-and-gist-api">released version 3.0 of their API</a>.<p></p>

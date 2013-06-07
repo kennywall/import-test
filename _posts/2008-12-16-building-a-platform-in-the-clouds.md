@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Building a Platform in the Clouds
-url: http://apievangelist.com/2008/12/16/building-a-platform-in-the-clouds/
-source: http://apievangelist.com/2008/12/16/building-a-platform-in-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2008/12/16/building-a-platform-in-the-clouds/
+source: http://kinlane.com/2008/12/16/building-a-platform-in-the-clouds/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am currently taking a company and reconstructing its entire server and infrastructure platform to operate in the clouds.<p></p>

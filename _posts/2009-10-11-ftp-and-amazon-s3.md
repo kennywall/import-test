@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FTP and Amazon S3
-url: http://apievangelist.com/2009/10/11/ftp-and-amazon-s3/
-source: http://apievangelist.com/2009/10/11/ftp-and-amazon-s3/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/11/ftp-and-amazon-s3/
+source: http://kinlane.com/2009/10/11/ftp-and-amazon-s3/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just playing with a "cross FTP" tool that allows you to setup your <a href="http://www.crossftp.com/">FTP and Amazon S3</a> connections side by side in the same client.<p></p>

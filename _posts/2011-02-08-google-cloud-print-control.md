@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print - Control
-url: http://apievangelist.com/2011/02/08/google-cloud-print-control/
-source: http://apievangelist.com/2011/02/08/google-cloud-print-control/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/08/google-cloud-print-control/
+source: http://kinlane.com/2011/02/08/google-cloud-print-control/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>The whole point of deploying a <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Proxy</a> is to be able to manage print jobs.<p></p>

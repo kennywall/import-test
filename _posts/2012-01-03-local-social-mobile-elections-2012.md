@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Local, Social, Mobile Elections 2012
-url: http://apievangelist.com/2012/01/03/local-social-mobile-elections-2012/
-source: http://apievangelist.com/2012/01/03/local-social-mobile-elections-2012/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/03/local-social-mobile-elections-2012/
+source: http://kinlane.com/2012/01/03/local-social-mobile-elections-2012/
+domain: kinlane.com
 image: http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/iowa-caucus-2012-300x281.jpg
 ---
 {% include JB/setup %}<p><img title="iowa-caucus-2012" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/iowa-caucus-2012-300x281.jpg" alt="" width="275" align="right" />As the Iowa caucuses, the first official vote of the 2012 primary season, come to a head, the republican candidates are working are to make their case to communities across the state.<p></p>

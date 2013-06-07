@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Backup My Cloudy World
-url: http://apievangelist.com/2009/07/20/backup-my-cloudy-world/
-source: http://apievangelist.com/2009/07/20/backup-my-cloudy-world/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
+source: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I came across a post about a new web service. It is a <a href="http://backupmy.net/">cloud backup tool</a>. Something I have talked about needing several times. Handy backup utility for all my favorite cloud based applications.<p></p>

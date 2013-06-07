@@ -1,9 +1,9 @@
 ---
 layout: post
 title: After the Event and Conference is Over
-url: http://apievangelist.com/2010/06/13/after-the-event-and-conference-is-over/
-source: http://apievangelist.com/2010/06/13/after-the-event-and-conference-is-over/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/13/after-the-event-and-conference-is-over/
+source: http://kinlane.com/2010/06/13/after-the-event-and-conference-is-over/
+domain: kinlane.com
 image: http://code.google.com/events/images/io2010logo.png
 ---
 {% include JB/setup %}<p>I review how a lot of events are managed to keep an eye out for best practices. One of the most valuable things an event can do is to video tape each one of its sessions. I'm sure this can be a fairly costly endeavor, but is money well spent.<img style="padding: 15px;" title="Google I/O" src="http://code.google.com/events/images/io2010logo.png" alt="" width="250" align="right" /><p></p>

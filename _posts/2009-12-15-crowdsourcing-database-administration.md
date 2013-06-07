@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Crowdsourcing Database Administration
-url: http://apievangelist.com/2009/12/15/crowdsourcing-database-administration/
-source: http://apievangelist.com/2009/12/15/crowdsourcing-database-administration/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/15/crowdsourcing-database-administration/
+source: http://kinlane.com/2009/12/15/crowdsourcing-database-administration/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>A while back Google released Fusion Tables allowing you to aggregate data from many data sources. Today they released an <a href="http://googlecode.blogspot.com/2009/12/google-fusion-tables-api.html">API for Google Fusion Tables</a>.<p></p>

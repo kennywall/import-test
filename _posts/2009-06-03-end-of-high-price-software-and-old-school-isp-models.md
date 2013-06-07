@@ -1,9 +1,9 @@
 ---
 layout: post
 title: End of High Price Software and Old School ISP Models
-url: http://apievangelist.com/2009/06/03/end-of-high-price-software-and-old-school-isp-models/
-source: http://apievangelist.com/2009/06/03/end-of-high-price-software-and-old-school-isp-models/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/03/end-of-high-price-software-and-old-school-isp-models/
+source: http://kinlane.com/2009/06/03/end-of-high-price-software-and-old-school-isp-models/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>This month we are done with a hostage internet service provider (ISP) at WebEvents Global where I work. When I started we were already under contract with this ISP.<p></p>

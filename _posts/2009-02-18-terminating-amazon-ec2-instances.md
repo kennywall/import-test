@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Terminating Amazon EC2 Instances
-url: http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/
-source: http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/18/terminating-amazon-ec2-instances/
+source: http://kinlane.com/2009/02/18/terminating-amazon-ec2-instances/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>There are many features that operating in the clouds using Amazon EC2 brings to the table.

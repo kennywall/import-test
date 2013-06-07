@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Australian Broadband Infrastructure
-url: http://apievangelist.com/2009/04/07/australian-broadband-infrastructure/
-source: http://apievangelist.com/2009/04/07/australian-broadband-infrastructure/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/07/australian-broadband-infrastructure/
+source: http://kinlane.com/2009/04/07/australian-broadband-infrastructure/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just reading the post on Wired about the <a href="http://blog.wired.com/business/2009/04/aussies-announc.html">Australian broadband initiatiave</a>. Makes me wish our government would really get on the ball with this issue.<p></p>

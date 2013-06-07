@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Denial of Service Attacks
-url: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
-source: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/13/denial-of-service-attacks/
+source: http://kinlane.com/2009/04/13/denial-of-service-attacks/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just reading this post on CloudPundit - <a href="http://cloudpundit.com/2009/04/13/ddos-season/">DDoS season regarding several high profile distributed denial of service (DDoS) attacks</a>.<p></p>

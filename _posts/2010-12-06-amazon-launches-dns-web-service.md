@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Launches DNS Web Service
-url: http://apievangelist.com/2010/12/06/amazon-launches-dns-web-service/
-source: http://apievangelist.com/2010/12/06/amazon-launches-dns-web-service/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/06/amazon-launches-dns-web-service/
+source: http://kinlane.com/2010/12/06/amazon-launches-dns-web-service/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="300" align="right" />Amazon added a DNS service to their stack of web services today The service is called Amazon Route 53.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Polaroid Photo Layout in CSS
-url: http://apievangelist.com/2011/02/11/polaroid-photo-layout-in-css/
-source: http://apievangelist.com/2011/02/11/polaroid-photo-layout-in-css/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/11/polaroid-photo-layout-in-css/
+source: http://kinlane.com/2011/02/11/polaroid-photo-layout-in-css/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid-photo-layout.png
 ---
 {% include JB/setup %}<p><a href="http://working.laneworks.net/instagram/step1.php" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid-photo-layout.png" alt="" width="130" align="right" /></a>I'm working on several print photobook projects right now and I'm always on the lookout for good CSS photo layouts.<p></p>

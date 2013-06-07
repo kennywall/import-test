@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wordpress as a Content Development Platform
-url: http://apievangelist.com/2009/06/29/wordpress-as-a-content-development-platform/
-source: http://apievangelist.com/2009/06/29/wordpress-as-a-content-development-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/29/wordpress-as-a-content-development-platform/
+source: http://kinlane.com/2009/06/29/wordpress-as-a-content-development-platform/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been using wordpress installations for <a class="zem_slink" title="Content development (web)" rel="wikipedia" href="http://en.wikipedia.org/wiki/Content_development_%28web%29">content development</a>. I am working on a couple of books and whitepapers.<p></p>

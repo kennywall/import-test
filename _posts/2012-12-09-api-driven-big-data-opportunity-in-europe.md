@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Driven, Big Data Opportunity in Europe
-url: http://apievangelist.com/2012/12/09/api-driven-big-data-opportunity-in-europe/
-source: http://apievangelist.com/2012/12/09/api-driven-big-data-opportunity-in-europe/
-domain: apievangelist.com
+url: http://kinlane.com/2012/12/09/api-driven-big-data-opportunity-in-europe/
+source: http://kinlane.com/2012/12/09/api-driven-big-data-opportunity-in-europe/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/europe-api-big-data.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/europe-api-big-data.jpg" alt="" width="250" align="right" /></p>

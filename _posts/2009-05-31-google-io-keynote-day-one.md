@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google IO Keynote - Day One
-url: http://apievangelist.com/2009/05/31/google-io-keynote-day-one/
-source: http://apievangelist.com/2009/05/31/google-io-keynote-day-one/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/31/google-io-keynote-day-one/
+source: http://kinlane.com/2009/05/31/google-io-keynote-day-one/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am not <a class="zem_slink" title="Blog" rel="wikipedia" href="http://en.wikipedia.org/wiki/Blog">blogging</a> to among the A list bloggers or drive large amounts of traffic to my blog. I do this primarily for myself and as a result I tend to have some readers and followers. At conferences I tend to take notes and when I find time and get in the blogging spirit I will blog about these topics.<p></p>

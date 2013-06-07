@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Data Science Toolkit
-url: http://apievangelist.com/2011/03/23/the-data-science-toolkit/
-source: http://apievangelist.com/2011/03/23/the-data-science-toolkit/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/23/the-data-science-toolkit/
+source: http://kinlane.com/2011/03/23/the-data-science-toolkit/
+domain: kinlane.com
 image: http://petewarden.typepad.com/.a/6a00d83454428269e20147e36ce562970b-800wi
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://petewarden.typepad.com/.a/6a00d83454428269e20147e36ce562970b-800wi" alt="" width="275" align="right" />The <a title="Data Science Toolkit" href="http://www.datasciencetoolkit.org/">Data Science Toolkit</a> is a collection of open source tools wrapped in an easy-to-use REST/JSON interface, and available for download as a virtual machine image.<p></p>

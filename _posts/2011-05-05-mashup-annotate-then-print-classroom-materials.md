@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mashup, Annotate Then Print Classroom Materials
-url: http://apievangelist.com/2011/05/05/mashup-annotate-then-print-classroom-materials/
-source: http://apievangelist.com/2011/05/05/mashup-annotate-then-print-classroom-materials/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/05/mashup-annotate-then-print-classroom-materials/
+source: http://kinlane.com/2011/05/05/mashup-annotate-then-print-classroom-materials/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png" alt="" width="250" align="right" />APIs are transforming the way we print.   I'm always looking for other APIs that compliment the <a title="Mimeo Connect Cloud Print API" href="http://developer.mimeo.com">Mimeo Connect Cloud Print API</a>.<p></p>

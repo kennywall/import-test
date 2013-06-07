@@ -1,9 +1,9 @@
 ---
 layout: post
 title: High Stakes Hackathon
-url: http://apievangelist.com/2011/02/11/high-stakes-hackathon/
-source: http://apievangelist.com/2011/02/11/high-stakes-hackathon/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/11/high-stakes-hackathon/
+source: http://kinlane.com/2011/02/11/high-stakes-hackathon/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/high-stakes-hackathon-egypt.jpg
 ---
 {% include JB/setup %}<p>We think the hackathons that we do in Silicon Valley are intense, checkout this photo from Egypt.<p></p>

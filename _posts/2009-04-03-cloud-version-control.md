@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Version Control
-url: http://apievangelist.com/2009/04/03/cloud-version-control/
-source: http://apievangelist.com/2009/04/03/cloud-version-control/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/03/cloud-version-control/
+source: http://kinlane.com/2009/04/03/cloud-version-control/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just did some investigation into some verisoning issues with a system we are developing. Something I do regularly. As I was waiting for the SVN repository to update I was reading some Cloud Computing articles.<p></p>

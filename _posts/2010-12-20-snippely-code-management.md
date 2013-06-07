@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Snippely - Code Management
-url: http://apievangelist.com/2010/12/20/snippely-code-management/
-source: http://apievangelist.com/2010/12/20/snippely-code-management/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/20/snippely-code-management/
+source: http://kinlane.com/2010/12/20/snippely-code-management/
+domain: kinlane.com
 image: http://mootools.net/snippely.png
 ---
 {% include JB/setup %}<p><img src="http://mootools.net/snippely.png" alt="" width="250" align="right" />As a programmer I am constantly looking for new ways to manage my code libraries and make myself more efficient.<p></p>

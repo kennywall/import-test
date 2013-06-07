@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Kin Lane is the API Evangelist for CityGrid
-url: http://apievangelist.com/2011/12/16/kin-lane-is-the-api-evangelist-for-citygrid/
-source: http://apievangelist.com/2011/12/16/kin-lane-is-the-api-evangelist-for-citygrid/
-domain: apievangelist.com
+url: http://kinlane.com/2011/12/16/kin-lane-is-the-api-evangelist-for-citygrid/
+source: http://kinlane.com/2011/12/16/kin-lane-is-the-api-evangelist-for-citygrid/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg
 ---
 {% include JB/setup %}<p><a title="CityGrid" href="http://www.citygrid.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg" alt="" width="250" align="right" /></a><p></p>

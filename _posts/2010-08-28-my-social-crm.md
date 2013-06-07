@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Social CRM
-url: http://apievangelist.com/2010/08/28/my-social-crm/
-source: http://apievangelist.com/2010/08/28/my-social-crm/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/28/my-social-crm/
+source: http://kinlane.com/2010/08/28/my-social-crm/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Gist.PNG
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Gist" src="http://kinlane-productions.s3.amazonaws.com/Gist.PNG" alt="" width="165" height="79" align="right" />I have successfully integrated <a href="http://gist.com/" target="_blank">social CRM service</a> <a href="http://gist.com/" target="_blank">Gist</a> into <a href="http://www.kinlane.com/platform/" target="_self">my platform</a>. I have bee using it on a daily basis for about a month now.<p></p>

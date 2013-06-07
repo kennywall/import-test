@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Upload Any File Type to Google Docs with API
-url: http://apievangelist.com/2011/05/02/upload-any-file-type-to-google-docs-with-api/
-source: http://apievangelist.com/2011/05/02/upload-any-file-type-to-google-docs-with-api/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/02/upload-any-file-type-to-google-docs-with-api/
+source: http://kinlane.com/2011/05/02/upload-any-file-type-to-google-docs-with-api/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-upload-any-file-type.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-upload-any-file-type.png" alt="" width="300" align="right" />Over the next few days google will be rolling out the <a title="ability to upload any file type to Google Documents List API" href="http://googleappsdeveloper.blogspot.com/2011/05/upload-all-file-types-to-any-google.html">ability to upload any file type to Google Documents List API</a> for all accounts.<p></p>

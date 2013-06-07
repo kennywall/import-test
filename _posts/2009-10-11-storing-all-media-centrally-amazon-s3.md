@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Storing all Media Centrally @ Amazon S3
-url: http://apievangelist.com/2009/10/11/storing-all-media-centrally-amazon-s3/
-source: http://apievangelist.com/2009/10/11/storing-all-media-centrally-amazon-s3/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/11/storing-all-media-centrally-amazon-s3/
+source: http://kinlane.com/2009/10/11/storing-all-media-centrally-amazon-s3/
+domain: kinlane.com
 image: http://kinlane-com-wordpress.s3.amazonaws.com/amazon_web_services.gif
 ---
 {% include JB/setup %}<p>People are always talking about putting your faith into the cloud. I am definitely worried about putting all my data online, and think about the repercussions of it.<p></p>

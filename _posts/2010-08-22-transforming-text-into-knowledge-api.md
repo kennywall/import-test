@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Transforming Text Into Knowledge API
-url: http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api/
-source: http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/22/transforming-text-into-knowledge-api/
+source: http://kinlane.com/2010/08/22/transforming-text-into-knowledge-api/
+domain: kinlane.com
 image: http://www.alchemyapi.com/images/alchemyAPI.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.alchemyapi.com/" target="_blank"><img class="alignnone" style="padding: 20px;" title="AlchemyAPI" src="http://www.alchemyapi.com/images/alchemyAPI.jpg" alt="" width="259" height="57" align="right" /></a>I had a chance to play with the <a href="http://www.alchemyapi.com/" target="_blank">AlchemyAPI</a> I came across today. <a href="http://www.alchemyapi.com/" target="_blank">AlchemyAPI</a> is a semantic tagging and text mining Application Programming Interface (API).<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pull Images from Flickr with Zend
-url: http://apievangelist.com/2011/02/11/pull-images-from-flickr-with-zend/
-source: http://apievangelist.com/2011/02/11/pull-images-from-flickr-with-zend/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/11/pull-images-from-flickr-with-zend/
+source: http://kinlane.com/2011/02/11/pull-images-from-flickr-with-zend/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.flickr.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg" alt="" width="140" align="right" /></a>This code sample is something you can find easily on the Internet, but I want to include it in my series about creating a photo book with Flickr.<p></p>

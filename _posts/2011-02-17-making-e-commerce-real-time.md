@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Making E-Commerce Real-Time
-url: http://apievangelist.com/2011/02/17/making-e-commerce-real-time/
-source: http://apievangelist.com/2011/02/17/making-e-commerce-real-time/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/17/making-e-commerce-real-time/
+source: http://kinlane.com/2011/02/17/making-e-commerce-real-time/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png
 ---
 {% include JB/setup %}<p>I haven't seen much movement forward in the e-commerce / payment services space for a few years now. Granted there are a lot of players in this space, but nothing that has been game changing.<p></p>

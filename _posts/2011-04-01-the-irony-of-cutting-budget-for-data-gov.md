@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Irony of Cutting Budget for Data.gov
-url: http://apievangelist.com/2011/04/01/the-irony-of-cutting-budget-for-data-gov/
-source: http://apievangelist.com/2011/04/01/the-irony-of-cutting-budget-for-data-gov/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/01/the-irony-of-cutting-budget-for-data-gov/
+source: http://kinlane.com/2011/04/01/the-irony-of-cutting-budget-for-data-gov/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/government/data_gov.jpg
 ---
 {% include JB/setup %}<p>I refuse to align myself with any political party. When I vote for president its always a vote for the lesser of two evils.

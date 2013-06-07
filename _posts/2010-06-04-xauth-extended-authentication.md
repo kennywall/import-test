@@ -1,9 +1,9 @@
 ---
 layout: post
 title: xAuth - Extended Authentication
-url: http://apievangelist.com/2010/06/04/xauth-extended-authentication/
-source: http://apievangelist.com/2010/06/04/xauth-extended-authentication/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/04/xauth-extended-authentication/
+source: http://kinlane.com/2010/06/04/xauth-extended-authentication/
+domain: kinlane.com
 image: http://developer.yahoo.net/blog/xAuth.png
 ---
 {% include JB/setup %}<p>XAuth is a standard that is going to help make the social web smarter and more relevant. The goal of XAuth is to create a more relevant social experience across the web, and it is truly exciting that all of our partners are united on this front.<img title="xAuth" src="http://developer.yahoo.net/blog/xAuth.png" alt="" width="250" align="right" /><p></p>

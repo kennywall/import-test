@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Social Media Marketers Who Comment on Blog
-url: http://apievangelist.com/2009/06/26/social-media-marketers-who-comment-on-blog/
-source: http://apievangelist.com/2009/06/26/social-media-marketers-who-comment-on-blog/
-domain: apievangelist.com
+url: http://kinlane.com/2009/06/26/social-media-marketers-who-comment-on-blog/
+source: http://kinlane.com/2009/06/26/social-media-marketers-who-comment-on-blog/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>This is a message to all you <a class="zem_slink" title="Social media" rel="wikinvest" href="http://www.wikinvest.com/concept/Social_media">social media</a> marketers who comment on my blog.<p></p>

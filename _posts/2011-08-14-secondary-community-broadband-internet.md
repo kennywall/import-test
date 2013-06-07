@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Community Broadband Internet
-url: http://apievangelist.com/2011/08/14/secondary-community-broadband-internet/
-source: http://apievangelist.com/2011/08/14/secondary-community-broadband-internet/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/14/secondary-community-broadband-internet/
+source: http://kinlane.com/2011/08/14/secondary-community-broadband-internet/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-broadband.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-broadband.jpg" alt="" width="300" align="right" />I was reading a great <a title="post in Gigaom about community broadband" href="http://gigaom.com/broadband/cool-idea-communal-broadband/">post in Gigaom about community broadband</a>. In short, this company called <a title="netBlazr" href="http://netblazr.com/">netBlazr</a> wants to create a <a title="community supported broadband network" href="http://stopthecap.com/2011/07/19/free-communal-broadband-boston-firm-says-share-and-share-alike-and-get-service-for-free/">community supported broadband network</a> using a <a title="commercially available and industry-tested radio access and networking equipment" href="http://netblazr.com/services/access-equipment/">commercially available and industry-tested radio access and networking equipment</a>. They are doing this in Boston, but could be implemented anywhere.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Management as a Service (MaaS)
-url: http://apievangelist.com/2010/08/04/management-as-a-service/
-source: http://apievangelist.com/2010/08/04/management-as-a-service/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/04/management-as-a-service/
+source: http://kinlane.com/2010/08/04/management-as-a-service/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have been reviewing as many Cloud Service providers as I can get my hands on. I am building a database right now of them and their products, locations, and types of providers. I am breaking them into the following types:

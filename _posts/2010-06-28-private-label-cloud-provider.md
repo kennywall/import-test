@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Private Label Cloud Provider
-url: http://apievangelist.com/2010/06/28/private-label-cloud-provider/
-source: http://apievangelist.com/2010/06/28/private-label-cloud-provider/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/28/private-label-cloud-provider/
+source: http://kinlane.com/2010/06/28/private-label-cloud-provider/
+domain: kinlane.com
 image: http://www.elasticstack.com/images/elasticstack.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Elastic Stack" src="http://www.elasticstack.com/images/elasticstack.jpg" alt="" width="222" height="50" align="right" />Tired of sending people to Amazon, Rackspace, or GoGrid. You can now start your own cloud computing provider.<p></p>

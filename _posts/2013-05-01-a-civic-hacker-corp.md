@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Civic Hacker Corp
-url: http://apievangelist.com/2013/05/01/a-civic-hacker-corp/
-source: http://apievangelist.com/2013/05/01/a-civic-hacker-corp/
-domain: apievangelist.com
+url: http://kinlane.com/2013/05/01/a-civic-hacker-corp/
+source: http://kinlane.com/2013/05/01/a-civic-hacker-corp/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/hacker-corps.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/hacker-corps.png" alt="" width="250" align="right" /></p>

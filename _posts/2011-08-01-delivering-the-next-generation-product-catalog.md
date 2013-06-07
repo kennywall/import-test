@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Delivering the Next Generation Product Catalog
-url: http://apievangelist.com/2011/08/01/delivering-the-next-generation-product-catalog/
-source: http://apievangelist.com/2011/08/01/delivering-the-next-generation-product-catalog/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/01/delivering-the-next-generation-product-catalog/
+source: http://kinlane.com/2011/08/01/delivering-the-next-generation-product-catalog/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iphone.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iphone.jpg" alt="" width="200" align="right" />I'm spending some time brainstorming the next generation of product catalogs with a new platform partner <a title="Moodstocks" href="http://www.moodstocks.com/">Moodstocks</a>. These are just a few of my preliminary thoughts on the subject.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Data and Transparency for the Government
-url: http://apievangelist.com/2009/05/25/open-data-and-transparency-for-the-government/
-source: http://apievangelist.com/2009/05/25/open-data-and-transparency-for-the-government/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/25/open-data-and-transparency-for-the-government/
+source: http://kinlane.com/2009/05/25/open-data-and-transparency-for-the-government/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am excited about the recent launch of Data.gov. I am very passionate about what API and open data access can do for companies and belive the same is true about Government.<p></p>

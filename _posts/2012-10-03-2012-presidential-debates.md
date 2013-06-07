@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 2012 Presidential Debates
-url: http://apievangelist.com/2012/10/03/2012-presidential-debates/
-source: http://apievangelist.com/2012/10/03/2012-presidential-debates/
-domain: apievangelist.com
+url: http://kinlane.com/2012/10/03/2012-presidential-debates/
+source: http://kinlane.com/2012/10/03/2012-presidential-debates/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p>While your all reasserting and protecting your already existing position on your political views based upon what you saw on TV tonight&hellip;please try to step back and look at the bigger picture.</p>

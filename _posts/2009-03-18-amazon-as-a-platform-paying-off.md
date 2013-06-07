@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon as a Platform Paying Off
-url: http://apievangelist.com/2009/03/18/amazon-as-a-platform-paying-off/
-source: http://apievangelist.com/2009/03/18/amazon-as-a-platform-paying-off/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/18/amazon-as-a-platform-paying-off/
+source: http://kinlane.com/2009/03/18/amazon-as-a-platform-paying-off/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>My boss passed on a compliment today she received from our customer. We have a legacy CRM / Customer Care Tool that we launch every year. This system uses a large amount of data and is very web server and data server intensive.<p></p>

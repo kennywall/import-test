@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Computing Power for Our Future City and State Governments
-url: http://apievangelist.com/2009/04/06/computing-power-for-our-future-city-and-state-governments/
-source: http://apievangelist.com/2009/04/06/computing-power-for-our-future-city-and-state-governments/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/06/computing-power-for-our-future-city-and-state-governments/
+source: http://kinlane.com/2009/04/06/computing-power-for-our-future-city-and-state-governments/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading a great post on O'reilly Radar called <a href="http://radar.oreilly.com/2009/04/the-future-of-our-cities-open.html">The Future of Our Cities: Open, Crowdsourced, and Participatory</a>, and it got my brain flowing in a direction I have already been thinking about.<p></p>

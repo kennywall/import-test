@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Reputation Management Advice from Google
-url: http://apievangelist.com/2009/10/16/reputation-management-advice-from-google/
-source: http://apievangelist.com/2009/10/16/reputation-management-advice-from-google/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/16/reputation-management-advice-from-google/
+source: http://kinlane.com/2009/10/16/reputation-management-advice-from-google/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I provide reputation management advice to many of my friends and colleagues and have lots of theories on how to best achieve desired results.<p></p>

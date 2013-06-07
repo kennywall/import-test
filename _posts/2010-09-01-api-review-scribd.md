@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Review - Scribd
-url: http://apievangelist.com/2010/09/01/api-review-scribd/
-source: http://apievangelist.com/2010/09/01/api-review-scribd/
-domain: apievangelist.com
+url: http://kinlane.com/2010/09/01/api-review-scribd/
+source: http://kinlane.com/2010/09/01/api-review-scribd/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
 {% include JB/setup %}<p><a href="http://www.scribd.com/developers" target="_blank"><img class="alignnone" style="padding: 15px;" title="Scribd" src="http://kinlane-productions.s3.amazonaws.com/Scribd.PNG" alt="" width="132" height="46" align="right" /></a>I have been <a href="http://www.kinlane.com/2010/08/application-programming-interfaces-api/">reviewing a lot of APIs</a> lately. I"m evaluating their potential for integration into applications.<p></p>

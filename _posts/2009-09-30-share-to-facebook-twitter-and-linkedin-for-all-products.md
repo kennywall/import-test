@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Share to Facebook, Twitter, and LinkedIn for all Products
-url: http://apievangelist.com/2009/09/30/share-to-facebook-twitter-and-linkedin-for-all-products/
-source: http://apievangelist.com/2009/09/30/share-to-facebook-twitter-and-linkedin-for-all-products/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/30/share-to-facebook-twitter-and-linkedin-for-all-products/
+source: http://kinlane.com/2009/09/30/share-to-facebook-twitter-and-linkedin-for-all-products/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>As I was browsing Bug Labs listing of little programmable gadgets I was getting all excited and immediately wanted to share with my other geeky friends on Facebook.<p></p>

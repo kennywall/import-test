@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print is Available
-url: http://apievangelist.com/2010/12/07/google-cloud-print-is-available/
-source: http://apievangelist.com/2010/12/07/google-cloud-print-is-available/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/07/google-cloud-print-is-available/
+source: http://kinlane.com/2010/12/07/google-cloud-print-is-available/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloudprint.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/cloudprint.jpg" alt="" width="300" align="right" />Google finally released the long awaited <a href="http://www.google.com/chrome/intl/en/p/cloudprint.html" target="_blank">Google Cloud Print with Chrome.</a> You will need to download the <a href="http://www.google.com/chrome" target="_blank">latest version of Chrome</a> to take advantage of Cloud Print.<p></p>

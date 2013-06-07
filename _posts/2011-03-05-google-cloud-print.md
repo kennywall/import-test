@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print
-url: http://apievangelist.com/2011/03/05/google-cloud-print/
-source: http://apievangelist.com/2011/03/05/google-cloud-print/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/05/google-cloud-print/
+source: http://kinlane.com/2011/03/05/google-cloud-print/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/GCP-Overview.png
 ---
 {% include JB/setup %}<p><a title="Google Cloud Print" href="http://code.google.com/apis/cloudprint/docs/overview.html">Google Cloud Print</a> provides a printing platform that allow printers to be accessed over the Internet by mobile phone, tables and computers.<p></p>

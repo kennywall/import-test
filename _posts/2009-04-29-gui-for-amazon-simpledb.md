@@ -1,9 +1,9 @@
 ---
 layout: post
 title: GUI for Amazon SimpleDB
-url: http://apievangelist.com/2009/04/29/gui-for-amazon-simpledb/
-source: http://apievangelist.com/2009/04/29/gui-for-amazon-simpledb/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/29/gui-for-amazon-simpledb/
+source: http://kinlane.com/2009/04/29/gui-for-amazon-simpledb/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I really love the <a href="http://aws.amazon.com/simpledb/">Amazon </a><a rel="wikipedia" href="http://aws.amazon.com/simpledb/">SimpleDB</a> tool. The concept is great. Many of the web applications I build use only very basic database functionality.<p></p>

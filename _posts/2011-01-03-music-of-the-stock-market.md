@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Music of the Stock Market
-url: http://apievangelist.com/2011/01/03/music-of-the-stock-market/
-source: http://apievangelist.com/2011/01/03/music-of-the-stock-market/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/03/music-of-the-stock-market/
+source: http://kinlane.com/2011/01/03/music-of-the-stock-market/
+domain: kinlane.com
 image: http://www.popsci.com/files/imagecache/article_image_large/articles/Picture%202_25.png
 ---
 {% include JB/setup %}<p><a href="http://money.cnn.com/markets/storysupplement/dow_piano/"><img style="padding: 20px;" src="http://www.popsci.com/files/imagecache/article_image_large/articles/Picture%202_25.png" alt="" width="250" align="right" /></a>I am intrigued of any patterns or art you can extract from <a href="http://www.kinlane.com/category/data-20/">Big Data</a>.  I have been fascinated by the art of fractal mathematics since my 7th grade social studies teacher introduced me to them in 1984.  Her boyfriend was an early pioneer in this field.<p></p>

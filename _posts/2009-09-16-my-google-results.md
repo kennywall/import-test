@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Google Results
-url: http://apievangelist.com/2009/09/16/my-google-results/
-source: http://apievangelist.com/2009/09/16/my-google-results/
-domain: apievangelist.com
+url: http://kinlane.com/2009/09/16/my-google-results/
+source: http://kinlane.com/2009/09/16/my-google-results/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I guess Facebook beating out my blog when searching for my name "Kin Lane" @ Google was a temporary thing . The results are fairly normal now.<p></p>

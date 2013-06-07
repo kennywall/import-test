@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Cloud Platform as a Service (PaaS)
-url: http://apievangelist.com/2010/06/10/cloud-platform-as-a-service-paas/
-source: http://apievangelist.com/2010/06/10/cloud-platform-as-a-service-paas/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/10/cloud-platform-as-a-service-paas/
+source: http://kinlane.com/2010/06/10/cloud-platform-as-a-service-paas/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Squarespace.PNG
 ---
 {% include JB/setup %}<p><img style="padding: 25px;" title="Squarespace" src="http://kinlane-productions.s3.amazonaws.com/Squarespace.PNG" alt="" width="300" align="right" />

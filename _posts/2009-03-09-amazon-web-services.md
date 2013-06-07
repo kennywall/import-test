@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Web Services
-url: http://apievangelist.com/2009/03/09/amazon-web-services/
-source: http://apievangelist.com/2009/03/09/amazon-web-services/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/09/amazon-web-services/
+source: http://kinlane.com/2009/03/09/amazon-web-services/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I figured I had better posting something technology related or my blog is gonna start looking like some sort of consumer report or rant and raves blog.<p></p>

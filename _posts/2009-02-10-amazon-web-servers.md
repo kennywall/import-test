@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Web Servers
-url: http://apievangelist.com/2009/02/10/amazon-web-servers/
-source: http://apievangelist.com/2009/02/10/amazon-web-servers/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/10/amazon-web-servers/
+source: http://kinlane.com/2009/02/10/amazon-web-servers/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I really love the Amazon Web Services platform. It brings some really valuable tools to the table for deploying a companies infrastructure.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Print Widgets
-url: http://apievangelist.com/2011/05/17/mimeo-cloud-print-widgets/
-source: http://apievangelist.com/2011/05/17/mimeo-cloud-print-widgets/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/17/mimeo-cloud-print-widgets/
+source: http://kinlane.com/2011/05/17/mimeo-cloud-print-widgets/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-widget.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-widget.png" alt="" width="325" align="right" />Widgets and other embeddable objects are the number one request we get at <a title="Mimeo Connect" href="http://developer.mimeo.com/">Mimeo Connect</a>.<p></p>

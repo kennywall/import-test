@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Plug and Play API Developer Area with Elance
-url: http://apievangelist.com/2011/02/28/plug-and-play-api-developer-area-with-elance/
-source: http://apievangelist.com/2011/02/28/plug-and-play-api-developer-area-with-elance/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/plug-and-play-api-developer-area-with-elance/
+source: http://kinlane.com/2011/02/28/plug-and-play-api-developer-area-with-elance/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/elance/elance-api-developer-area-screenshot.png
 ---
 {% include JB/setup %}<p>One way to make sure your API has qualified and reputable developers from day one is to tap into an existing freelance developer community.<p></p>

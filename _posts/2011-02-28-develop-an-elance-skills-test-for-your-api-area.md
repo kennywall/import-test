@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Develop an Elance Skills Test for Your API Area
-url: http://apievangelist.com/2011/02/28/develop-an-elance-skills-test-for-your-api-area/
-source: http://apievangelist.com/2011/02/28/develop-an-elance-skills-test-for-your-api-area/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/28/develop-an-elance-skills-test-for-your-api-area/
+source: http://kinlane.com/2011/02/28/develop-an-elance-skills-test-for-your-api-area/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/elance/test-taking.jpg
 ---
 {% include JB/setup %}<p>Integrating with APIs requires a wide variety of skills.  Depending on the technology an API uses, integration may require knowledge of OAuth, REST, SOAP, XML, JSON, and mobile platforms.<p></p>

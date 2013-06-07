@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Wave Server
-url: http://apievangelist.com/2009/12/18/google-wave-server/
-source: http://apievangelist.com/2009/12/18/google-wave-server/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/google-wave-server/
+source: http://kinlane.com/2009/12/18/google-wave-server/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was going through the different areas of my Google Wave research this evening. It was time to learn more about the <a href="http://www.waveprotocol.org/">Google Wave Federated Protocol</a>. I just haven't had enough time to keep reading on the subject.<p></p>

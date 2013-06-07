@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Enterprise Integregation
-url: http://apievangelist.com/2009/05/01/google-cloud-enterprise-integregation/
-source: http://apievangelist.com/2009/05/01/google-cloud-enterprise-integregation/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/01/google-cloud-enterprise-integregation/
+source: http://kinlane.com/2009/05/01/google-cloud-enterprise-integregation/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Google continued maturing their cloud offerings for the enterprise world yesterday with a <a href="http://googleenterprise.blogspot.com/2009/04/sync-google-apps-user-accounts-with.html"><span class="zem_slink">Google Apps</span> <span class="zem_slink">LDAP</span></a> <a href="http://googleenterprise.blogspot.com/2009/04/sync-google-apps-user-accounts-with.html">integration tool</a>.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Wordpress Plugin - Booking Calendar
-url: http://apievangelist.com/2009/10/14/wordpress-plugin-booking-calendar/
-source: http://apievangelist.com/2009/10/14/wordpress-plugin-booking-calendar/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/14/wordpress-plugin-booking-calendar/
+source: http://kinlane.com/2009/10/14/wordpress-plugin-booking-calendar/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=5e615de5-af8b-48e8-9cff-0bf0bf9f7b05
 ---
 {% include JB/setup %}<p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Service Offered by Local, Social, Mobile API Providers
-url: http://apievangelist.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
-source: http://apievangelist.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
-domain: apievangelist.com
+url: http://kinlane.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
+source: http://kinlane.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png" alt="" width="250" align="right" />To kick-off my role as <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> at <a title="CityGrid" href="http://developer.citygridmedia.com/">CityGrid</a>, I took a <a title="quick walk through of locations and places data APIs" href="http://blog.apievangelist.com/2011/12/22/quick-walk-through-the-world-of-location-&amp;-places-apis/">quick walk through the world of location and places API</a>.<p></p>

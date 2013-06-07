@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Activism 2.0, Cloud Computing, Mobile Technology
-url: http://apievangelist.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
-source: http://apievangelist.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
+source: http://kinlane.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Just finished reading <a href="http://www.huffingtonpost.com/chrissie-brodigan/activism-20-creating-casa_b_404860.html" target="_blank">Activism 2.0: Creating Casablanca in Copenhagen, The Fresh Air Center</a> by <a href="http://www.huffingtonpost.com/chrissie-brodigan">Chrissie Brodigan</a>.<p></p>

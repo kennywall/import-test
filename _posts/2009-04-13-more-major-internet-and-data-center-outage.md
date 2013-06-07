@@ -1,9 +1,9 @@
 ---
 layout: post
 title: More major Internet and Data Center Outage
-url: http://apievangelist.com/2009/04/13/more-major-internet-and-data-center-outage/
-source: http://apievangelist.com/2009/04/13/more-major-internet-and-data-center-outage/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/13/more-major-internet-and-data-center-outage/
+source: http://kinlane.com/2009/04/13/more-major-internet-and-data-center-outage/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just reading this post about a <a href="http://www.cloudave.com/link/left-in-the-dark">major Australian Internet outage</a> that left the entire top end of the country without telephone, internet or mobile communications for about 10 hours.<p></p>

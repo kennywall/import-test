@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Changing Times
-url: http://apievangelist.com/2009/03/10/changing-times/
-source: http://apievangelist.com/2009/03/10/changing-times/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/10/changing-times/
+source: http://kinlane.com/2009/03/10/changing-times/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I watched a special on Oregon Public Broadcasting the other night about the history of the Columbia River Gorge. It showcased the history of the gorge through the photography available from various people.<p></p>

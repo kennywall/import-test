@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - Virtual Warehousing
-url: http://apievangelist.com/2011/05/18/3d-printing-virtual-warehousing/
-source: http://apievangelist.com/2011/05/18/3d-printing-virtual-warehousing/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-virtual-warehousing/
+source: http://kinlane.com/2011/05/18/3d-printing-virtual-warehousing/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-warehousing.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-warehousing.jpg" alt="" width="250" align="right" />With the growing number of 3D models used in 3D printing there is a building need for warehouse space to store these virtual products, and parts.<p></p>

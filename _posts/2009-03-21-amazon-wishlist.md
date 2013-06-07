@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Wishlist
-url: http://apievangelist.com/2009/03/21/amazon-wishlist/
-source: http://apievangelist.com/2009/03/21/amazon-wishlist/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/21/amazon-wishlist/
+source: http://kinlane.com/2009/03/21/amazon-wishlist/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>There are two Amazon EC service features I am eagerly waiting for.<p></p>

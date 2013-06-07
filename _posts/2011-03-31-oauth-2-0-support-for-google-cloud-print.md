@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OAuth 2.0 Support for Google Cloud Print
-url: http://apievangelist.com/2011/03/31/oauth-2-0-support-for-google-cloud-print/
-source: http://apievangelist.com/2011/03/31/oauth-2-0-support-for-google-cloud-print/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/31/oauth-2-0-support-for-google-cloud-print/
+source: http://kinlane.com/2011/03/31/oauth-2-0-support-for-google-cloud-print/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/OAuth2.png
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/OAuth2.png" alt="" width="200" align="right" />Up until now Google Cloud Print has only support the <a title="Coogle Client Login" href="http://code.google.com/apis/accounts/docs/AuthForInstalledApps.html">Google Client Login</a>.<p></p>

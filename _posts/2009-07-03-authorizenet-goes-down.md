@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Authorize.net Goes Down
-url: http://apievangelist.com/2009/07/03/authorizenet-goes-down/
-source: http://apievangelist.com/2009/07/03/authorizenet-goes-down/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/03/authorizenet-goes-down/
+source: http://kinlane.com/2009/07/03/authorizenet-goes-down/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Was just reading a blog post on Techcrunch about <a href="http://www.techcrunch.com/2009/07/03/authorizenet-goes-under-e-commerce-vendors-left-hanging/">Authorize.net going down due to a fire in Seattle</a>. Crazy stuff.<p></p>

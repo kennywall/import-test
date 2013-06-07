@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evolving Our Government
-url: http://apievangelist.com/2009/04/29/evolving-our-government/
-source: http://apievangelist.com/2009/04/29/evolving-our-government/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/29/evolving-our-government/
+source: http://kinlane.com/2009/04/29/evolving-our-government/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Lately I am very interested in the Government usage of social media and cloud computing (<a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">SaaS</a>, <a class="zem_slink" title="Infrastructure as a service" rel="wikipedia" href="http://en.wikipedia.org/wiki/Infrastructure_as_a_service">IaaS</a>, and <a class="zem_slink" title="Platform as a service" rel="wikipedia" href="http://en.wikipedia.org/wiki/Platform_as_a_service">PaaS</a>) . I have been reading and doing a lot of research in this area lately.<p></p>

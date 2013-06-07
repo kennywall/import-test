@@ -1,9 +1,9 @@
 ---
 layout: post
 title: A Programmers Need for an Application Programming Interface (API)
-url: http://apievangelist.com/2010/08/22/a-programmers-need-for-an-application-programming-interface-api/
-source: http://apievangelist.com/2010/08/22/a-programmers-need-for-an-application-programming-interface-api/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/22/a-programmers-need-for-an-application-programming-interface-api/
+source: http://kinlane.com/2010/08/22/a-programmers-need-for-an-application-programming-interface-api/
+domain: kinlane.com
 image: http://www.alchemyapi.com/images/alchemyAPI.jpg
 ---
 {% include JB/setup %}<p>I have a "hobby" harvesting project going on right now. I'm am harvesting several thousand web pages from various locations on a certain topic.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Printing - Document Builder
-url: http://apievangelist.com/2011/03/16/mimeo-cloud-printing-document-builder/
-source: http://apievangelist.com/2011/03/16/mimeo-cloud-printing-document-builder/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/16/mimeo-cloud-printing-document-builder/
+source: http://kinlane.com/2011/03/16/mimeo-cloud-printing-document-builder/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Builder.png
 ---
 {% include JB/setup %}<p><a title="Mimeo.com" href="http://www.Mimeo.com">Mimeo.com</a> is an innovator of online, on-demand document printing and distribution.<p></p>

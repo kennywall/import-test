@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mashape Improves API Security and Language Libraries
-url: http://apievangelist.com/2011/03/07/mashape-improves-api-security-and-language-libraries/
-source: http://apievangelist.com/2011/03/07/mashape-improves-api-security-and-language-libraries/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/07/mashape-improves-api-security-and-language-libraries/
+source: http://kinlane.com/2011/03/07/mashape-improves-api-security-and-language-libraries/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mashape-logo.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mashape-logo.png" alt="" align="right" /><a title="Mashape" href="http://www.mashape.com/">Mashape</a>, the <a title="API Framework and Marketplace" href="http://www.mashape.com/">API framework and marketplace</a> service provider has recently released some new features and resources for developers.<p></p>

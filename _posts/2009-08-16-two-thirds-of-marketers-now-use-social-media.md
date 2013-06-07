@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Two-Thirds of Marketers Now Use Social Media
-url: http://apievangelist.com/2009/08/16/two-thirds-of-marketers-now-use-social-media/
-source: http://apievangelist.com/2009/08/16/two-thirds-of-marketers-now-use-social-media/
-domain: apievangelist.com
+url: http://kinlane.com/2009/08/16/two-thirds-of-marketers-now-use-social-media/
+source: http://kinlane.com/2009/08/16/two-thirds-of-marketers-now-use-social-media/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><strong>I am just gonna paste this article I came across on <a href="http://mashable.com/">Mashable</a>, called <a href="http://mashable.com/2009/08/14/social-media-marketers/">Two-Thirds of Marketers Now Use Social Media</a> because it says it all:</strong><p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printing - Delivery
-url: http://apievangelist.com/2011/05/18/3d-printing-delivery/
-source: http://apievangelist.com/2011/05/18/3d-printing-delivery/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printing-delivery/
+source: http://kinlane.com/2011/05/18/3d-printing-delivery/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-delivery.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-delivery.jpg" alt="" width="175" align="right" />3D printing is about delivering a virtual object as a physical object, on demand.<p></p>

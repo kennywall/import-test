@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print Proxy (Cloud Printer)
-url: http://apievangelist.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
-source: http://apievangelist.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
+source: http://kinlane.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>I have some working code for a <a href="http://www.kinlane.com/2011/02/introduction-to-the-google-cloud-print-services-interface/" target="_blank">Google Cloud Print Proxy</a>.  It is currently written in PHP and uses the <a href="http://framework.zend.com/" target="_blank">Zend framework</a>.<p></p>

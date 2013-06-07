@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introduction to the Google Cloud Print Services Interface
-url: http://apievangelist.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
-source: http://apievangelist.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
+source: http://kinlane.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}<p>The <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print services interface</a> or <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print API</a> is where the whole cloud print thing starts getting cool.<p></p>

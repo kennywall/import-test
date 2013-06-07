@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Facebook Deleted
-url: http://apievangelist.com/2010/05/10/facebook-deleted/
-source: http://apievangelist.com/2010/05/10/facebook-deleted/
-domain: apievangelist.com
+url: http://kinlane.com/2010/05/10/facebook-deleted/
+source: http://kinlane.com/2010/05/10/facebook-deleted/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>

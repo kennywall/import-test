@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bulk SMS Gateway API and Email to SMS
-url: http://apievangelist.com/2009/10/17/bulk-sms-gateway-api-and-email-to-sms/
-source: http://apievangelist.com/2009/10/17/bulk-sms-gateway-api-and-email-to-sms/
-domain: apievangelist.com
+url: http://kinlane.com/2009/10/17/bulk-sms-gateway-api-and-email-to-sms/
+source: http://kinlane.com/2009/10/17/bulk-sms-gateway-api-and-email-to-sms/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Stumbling across several cool tools tonight. Came across this <a href="http://api.textmagic.com/">Bulk SMS Gateway</a>.<p></p>

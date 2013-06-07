@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Billing Structure for Amazon Web Services (AWS)
-url: http://apievangelist.com/2010/02/12/new-billing-structure-for-amazon-web-services-aws/
-source: http://apievangelist.com/2010/02/12/new-billing-structure-for-amazon-web-services-aws/
-domain: apievangelist.com
+url: http://kinlane.com/2010/02/12/new-billing-structure-for-amazon-web-services-aws/
+source: http://kinlane.com/2010/02/12/new-billing-structure-for-amazon-web-services-aws/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a href="http://aws.amazon.com/">Amazon Web Services</a> has added a new and more flexible way to manage an account. They have added the ability for:

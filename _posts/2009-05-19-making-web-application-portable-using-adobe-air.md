@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Making Web Application Portable Using Adobe Air
-url: http://apievangelist.com/2009/05/19/making-web-application-portable-using-adobe-air/
-source: http://apievangelist.com/2009/05/19/making-web-application-portable-using-adobe-air/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/19/making-web-application-portable-using-adobe-air/
+source: http://kinlane.com/2009/05/19/making-web-application-portable-using-adobe-air/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am enjoying taking a current web application and making it run in <a class="zem_slink" title="Adobe Integrated Runtime" rel="homepage" href="http://www.adobe.com/products/air/">Adobe Air</a>. So far I have quickly ported an existing <a class="zem_slink" title="ColdFusion" rel="homepage" href="http://www.adobe.com/products/coldfusion">ColdFusion</a> web application over to run within a downloadable <a class="zem_slink" title="Adobe Systems" rel="homepage" href="http://www.adobe.com/">Adobe</a> Air application.<p></p>

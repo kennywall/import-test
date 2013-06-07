@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Key-Value Data Store in iCloud
-url: http://apievangelist.com/2011/06/14/key-value-data-store-in-icloud/
-source: http://apievangelist.com/2011/06/14/key-value-data-store-in-icloud/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/14/key-value-data-store-in-icloud/
+source: http://kinlane.com/2011/06/14/key-value-data-store-in-icloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devices-key-value.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devices-key-value.png" alt="" width="275" align="right" />Apple's new <a title="iCloud platform" href="http://www.apple.com/icloud/">iCloud platform</a> includes a new <a class="zem_slink" title="Associative array" rel="wikipedia" href="http://en.wikipedia.org/wiki/Associative_array">key-value data</a> store, along side its <a title="document storage" href="http://www.kinlane.com/2011/06/document-management-in-icloud/">document storage</a>.<p></p>

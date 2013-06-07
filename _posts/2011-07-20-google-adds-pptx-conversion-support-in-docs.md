@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Adds PPTX Conversion Support in Docs
-url: http://apievangelist.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
-source: http://apievangelist.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
+source: http://kinlane.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg" alt="" width="100" align="right" /><p></p>

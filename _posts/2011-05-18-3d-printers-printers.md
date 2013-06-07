@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 3D Printers - Printers
-url: http://apievangelist.com/2011/05/18/3d-printers-printers/
-source: http://apievangelist.com/2011/05/18/3d-printers-printers/
-domain: apievangelist.com
+url: http://kinlane.com/2011/05/18/3d-printers-printers/
+source: http://kinlane.com/2011/05/18/3d-printers-printers/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-printers.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-printers.jpg" alt="" width="200" align="right" />A 3D printer works by taking a 3D model, then by making a series of slices that are printed one on top of the other to create a 3D object of the model.<p></p>

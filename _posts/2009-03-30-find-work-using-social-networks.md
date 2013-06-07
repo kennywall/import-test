@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Find work using social networks...
-url: http://apievangelist.com/2009/03/30/find-work-using-social-networks/
-source: http://apievangelist.com/2009/03/30/find-work-using-social-networks/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/30/find-work-using-social-networks/
+source: http://kinlane.com/2009/03/30/find-work-using-social-networks/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>People are always looking for proof that you can find work or business through social media marketing. Just like with traditional search engine marketing people are looking for the instant gratification. A click through conversion, etc.<p></p>

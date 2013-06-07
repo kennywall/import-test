@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Spreadsheet Visualization
-url: http://apievangelist.com/2009/04/09/google-spreadsheet-visualization/
-source: http://apievangelist.com/2009/04/09/google-spreadsheet-visualization/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/09/google-spreadsheet-visualization/
+source: http://kinlane.com/2009/04/09/google-spreadsheet-visualization/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I came across a cool tool that allows you to visual data in Google Spreadsheets, using the Secure Data Connector.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email in the Amazon Cloud Part 2 - Scaling Email for Large Blasts
-url: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-2-scaling-email-for-large-blasts/
-source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-2-scaling-email-for-large-blasts/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-2-scaling-email-for-large-blasts/
+source: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-2-scaling-email-for-large-blasts/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I needed to send a large amounts of email. We are talking 500,000 to 1 million emails in each send. These are emails being sent to encourage event attendance or interaction, so they need to go out quickly. The powers that be wanted to have emails go out in 24 hours.<p></p>

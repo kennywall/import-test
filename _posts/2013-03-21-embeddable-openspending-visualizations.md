@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Embeddable OpenSpending Visualizations
-url: http://apievangelist.com/2013/03/21/embeddable-openspending-visualizations/
-source: http://apievangelist.com/2013/03/21/embeddable-openspending-visualizations/
-domain: apievangelist.com
+url: http://kinlane.com/2013/03/21/embeddable-openspending-visualizations/
+source: http://kinlane.com/2013/03/21/embeddable-openspending-visualizations/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/openspending-bubble-tree-visualization.png
 ---
 {% include JB/setup %}<p><p><a href="http://openspending.org/blog/2013/03/20/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website.html"><img src="https://s3.amazonaws.com/kinlane-productions/openspending/openspending-bubble-tree-visualization.png" alt="" width="250" align="right" /></a></p>

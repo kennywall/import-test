@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Data in the US or EU Cloud
-url: http://apievangelist.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
-source: http://apievangelist.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
+source: http://kinlane.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><p id="__mce">I was sitting in a pub last night drinking a beer and organizing my home photos so I could share with my ex-wife.<p></p>

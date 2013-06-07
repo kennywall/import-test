@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Visualize Big Data with BigQuery and Google Spreadsheets
-url: http://apievangelist.com/2011/01/09/visualize-big-data-with-bigquery-and-google-spreadsheets/
-source: http://apievangelist.com/2011/01/09/visualize-big-data-with-bigquery-and-google-spreadsheets/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/09/visualize-big-data-with-bigquery-and-google-spreadsheets/
+source: http://kinlane.com/2011/01/09/visualize-big-data-with-bigquery-and-google-spreadsheets/
+domain: kinlane.com
 image: http://2.bp.blogspot.com/__kILdkKyUIk/TST1AS9mHyI/AAAAAAAAAGA/kKfyJZ0GaT0/s400/graph-demo.jpg
 ---
 {% include JB/setup %}<p>Being the big data geek I am, I'm pretty excited that Google has integrated <a href="http://code.google.com/apis/bigquery">BigQuery</a> with <a href="http://code.google.com/googleapps/appsscript/">Google Apps Script</a> and <a href="http://docs.google.com/">Google Spreadsheets</a>.<p></p>

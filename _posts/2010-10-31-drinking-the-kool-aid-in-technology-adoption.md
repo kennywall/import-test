@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Drinking the Kool-Aid in Technology Adoption
-url: http://apievangelist.com/2010/10/31/drinking-the-kool-aid-in-technology-adoption/
-source: http://apievangelist.com/2010/10/31/drinking-the-kool-aid-in-technology-adoption/
-domain: apievangelist.com
+url: http://kinlane.com/2010/10/31/drinking-the-kool-aid-in-technology-adoption/
+source: http://kinlane.com/2010/10/31/drinking-the-kool-aid-in-technology-adoption/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/microsoft-silverlight.jpg
 ---
 {% include JB/setup %}<p>I feel I have a decent perspective of <a href="http://www.kinlane.com/2010/10/2237/">riding the waves of technological change</a>,  wisdom that has come from playing in the Internet world from day one.<p></p>

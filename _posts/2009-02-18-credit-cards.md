@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Credit Cards
-url: http://apievangelist.com/2009/02/18/credit-cards/
-source: http://apievangelist.com/2009/02/18/credit-cards/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/18/credit-cards/
+source: http://kinlane.com/2009/02/18/credit-cards/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I have to admit things are getting tight.  I have taken all my credit cards out of my wallet so I don't spend on them.  I pretend they don't exist.<p></p>

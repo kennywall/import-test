@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Document Management in the iCloud
-url: http://apievangelist.com/2011/06/08/document-management-in-icloud/
-source: http://apievangelist.com/2011/06/08/document-management-in-icloud/
-domain: apievangelist.com
+url: http://kinlane.com/2011/06/08/document-management-in-icloud/
+source: http://kinlane.com/2011/06/08/document-management-in-icloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage.png" alt="" width="270" align="right" />Apple's new <a title="iCloud Platform" href="http://www.apple.com/icloud/">iCloud platform</a> provides a centralized cloud storage solution for managing documents from any computer and iOS device.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Rapleaf Ends Conference Room Abuse with Google Calendar + Arduino
-url: http://apievangelist.com/2011/08/06/rapleaf-ends-conference-room-abuse-with-google-calendar-arduino/
-source: http://apievangelist.com/2011/08/06/rapleaf-ends-conference-room-abuse-with-google-calendar-arduino/
-domain: apievangelist.com
+url: http://kinlane.com/2011/08/06/rapleaf-ends-conference-room-abuse-with-google-calendar-arduino/
+source: http://kinlane.com/2011/08/06/rapleaf-ends-conference-room-abuse-with-google-calendar-arduino/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/rapleaf-roominator.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/rapleaf-roominator.jpg" alt="" width="250" align="right" />Consumer information technology company, <a title="Rapleaf" href="http://www.rapleaf.com/">Rapleaf</a>, uses Google Calendar to schedule meetings in their nine conference rooms, but despite this organization they still suffer from Conference Room Abuse!"<p></p>

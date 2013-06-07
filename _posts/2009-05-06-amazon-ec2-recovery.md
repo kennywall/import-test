@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon EC2 Recovery
-url: http://apievangelist.com/2009/05/06/amazon-ec2-recovery/
-source: http://apievangelist.com/2009/05/06/amazon-ec2-recovery/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/06/amazon-ec2-recovery/
+source: http://kinlane.com/2009/05/06/amazon-ec2-recovery/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I just finished a recovery of an amazon EC2 instance that failed. It failed not due to anything related to the Amazon EC2 instance. It was something Java related in the ColdFusion environment, and still trying to figure out.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Worldmark - Billing
-url: http://apievangelist.com/2009/03/09/worldmark-billing/
-source: http://apievangelist.com/2009/03/09/worldmark-billing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/09/worldmark-billing/
+source: http://kinlane.com/2009/03/09/worldmark-billing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Trying cover every pain point I have with Worldmark as I go through it to hopefully help someone from making the same mistake as me.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print - List
-url: http://apievangelist.com/2011/02/06/google-cloud-print-list/
-source: http://apievangelist.com/2011/02/06/google-cloud-print-list/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/06/google-cloud-print-list/
+source: http://kinlane.com/2011/02/06/google-cloud-print-list/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="200" align="right" /></a>In addition to <a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">registering a Google Cloud Printer</a> you may want to list what cloud printers you have registered with a specific Google Account.<p></p>

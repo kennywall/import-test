@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introduction to Logic in Computing Science
-url: http://apievangelist.com/2011/01/28/introduction-to-logic-in-computing-science/
-source: http://apievangelist.com/2011/01/28/introduction-to-logic-in-computing-science/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/28/introduction-to-logic-in-computing-science/
+source: http://kinlane.com/2011/01/28/introduction-to-logic-in-computing-science/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/logic.jpg
 ---
 {% include JB/setup %}<p>This course is based on the following philosophical principle:

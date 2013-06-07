@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon S3 Client Tool
-url: http://apievangelist.com/2009/04/15/amazon-s3-client-tool/
-source: http://apievangelist.com/2009/04/15/amazon-s3-client-tool/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/15/amazon-s3-client-tool/
+source: http://kinlane.com/2009/04/15/amazon-s3-client-tool/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am constantly looking for better tools to manage my cloud environments. I have been using Amazon S3 since it first came out. I really saw the potential Amazon S3 had early on, as storage for all my web applications.<p></p>

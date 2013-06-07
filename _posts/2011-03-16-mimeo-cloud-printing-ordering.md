@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mimeo Cloud Printing - Document Ordering
-url: http://apievangelist.com/2011/03/16/mimeo-cloud-printing-ordering/
-source: http://apievangelist.com/2011/03/16/mimeo-cloud-printing-ordering/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/16/mimeo-cloud-printing-ordering/
+source: http://kinlane.com/2011/03/16/mimeo-cloud-printing-ordering/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Order.png
 ---
 {% include JB/setup %}<p>Mimeo Cloud Printers support PDF print files stored in the clouds, and the building of print documents with these files.<p></p>

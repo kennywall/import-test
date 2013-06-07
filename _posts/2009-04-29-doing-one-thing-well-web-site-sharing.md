@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Doing One Thing Well - Web Site Sharing
-url: http://apievangelist.com/2009/04/29/doing-one-thing-well-web-site-sharing/
-source: http://apievangelist.com/2009/04/29/doing-one-thing-well-web-site-sharing/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/29/doing-one-thing-well-web-site-sharing/
+source: http://kinlane.com/2009/04/29/doing-one-thing-well-web-site-sharing/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am always talking about how many software and service providers out there should really focus on doing one thing and doing it very well.<p></p>

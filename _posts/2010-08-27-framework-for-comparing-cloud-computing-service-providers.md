@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Framework for Comparing Cloud Computing Service Providers
-url: http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
-source: http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
+source: http://kinlane.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
+domain: kinlane.com
 image: http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif
 ---
 {% include JB/setup %}<p><a href="http://www.cloudcommons.com/web/guest/home" target="_blank"><img class="alignnone" style="padding: 15px;" title="CloudCommons" src="http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif" alt="" width="195" height="48" align="right" /></a><p></p>

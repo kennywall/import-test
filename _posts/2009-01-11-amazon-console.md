@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Console
-url: http://apievangelist.com/2009/01/11/amazon-console/
-source: http://apievangelist.com/2009/01/11/amazon-console/
-domain: apievangelist.com
+url: http://kinlane.com/2009/01/11/amazon-console/
+source: http://kinlane.com/2009/01/11/amazon-console/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I've been using the new Amazon Web Service (AWS) console. It is a pretty sweet little interface. AWS Console allows me to easily manage my Amazon EC2 instances and related elements.<p></p>

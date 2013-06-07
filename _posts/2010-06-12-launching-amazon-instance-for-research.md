@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Launching Amazon Instance for Research
-url: http://apievangelist.com/2010/06/12/launching-amazon-instance-for-research/
-source: http://apievangelist.com/2010/06/12/launching-amazon-instance-for-research/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/12/launching-amazon-instance-for-research/
+source: http://kinlane.com/2010/06/12/launching-amazon-instance-for-research/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>I'm launching a new Amazon EC2 instance. Its running Windows + PHP + MySQL. Its a preset up instance AMI I have for harvesting data.<img class="alignnone" style="padding: 15px;" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /><p></p>

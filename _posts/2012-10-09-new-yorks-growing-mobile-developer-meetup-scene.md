@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New York's Growing Mobile Developer Meetup Scene
-url: http://apievangelist.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
-source: http://apievangelist.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
-domain: apievangelist.com
+url: http://kinlane.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
+source: http://kinlane.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meetup_logo.gif
 ---
 {% include JB/setup %}<p><p><a title="Meetup" href="http://www.meetup.com/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif" alt="" width="250" align="right" /></a></p>

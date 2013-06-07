@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Current Platform
-url: http://apievangelist.com/2010/07/27/my-current-platform/
-source: http://apievangelist.com/2010/07/27/my-current-platform/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/27/my-current-platform/
+source: http://kinlane.com/2010/07/27/my-current-platform/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Every once in a while I like to take inventory of my personal IT platform. It helps me pull together all the tools I use to "make the magic happen". Here is a current break down:<p></p>

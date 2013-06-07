@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Facebook vs. Google Social Network
-url: http://apievangelist.com/2011/03/31/facebook-vs-google-social-network/
-source: http://apievangelist.com/2011/03/31/facebook-vs-google-social-network/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/31/facebook-vs-google-social-network/
+source: http://kinlane.com/2011/03/31/facebook-vs-google-social-network/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook-v-google.jpg
 ---
 {% include JB/setup %}<p>I see a lot of speculation and talk about Google's social efforts compared to Facebook.<p></p>

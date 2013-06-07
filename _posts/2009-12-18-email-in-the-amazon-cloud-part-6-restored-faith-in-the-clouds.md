@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email in the Amazon Cloud Part 6 - Restored Faith in the Clouds
-url: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-6-restored-faith-in-the-clouds/
-source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-6-restored-faith-in-the-clouds/
-domain: apievangelist.com
+url: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-6-restored-faith-in-the-clouds/
+source: http://kinlane.com/2009/12/18/email-in-the-amazon-cloud-part-6-restored-faith-in-the-clouds/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I strongly believe in the cloud, and more specifically in <a class="zem_slink" title="Amazon" rel="homepage" href="http://amazon.com/">Amazon</a>'s approach to <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud computing</a>. I constantly battle people on my decision to use the cloud for my core IT infrastructure. It allows me to scale my infrastructure as needed and gave a completely new face to my IT strategy and operations.<p></p>

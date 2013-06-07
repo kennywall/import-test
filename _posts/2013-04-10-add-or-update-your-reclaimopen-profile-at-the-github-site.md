@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Add Or Update Your #ReclaimOpen Profile At The Github Site
-url: http://apievangelist.com/2013/04/10/add-or-update-your-reclaimopen-profile-at-the-github-site/
-source: http://apievangelist.com/2013/04/10/add-or-update-your-reclaimopen-profile-at-the-github-site/
-domain: apievangelist.com
+url: http://kinlane.com/2013/04/10/add-or-update-your-reclaimopen-profile-at-the-github-site/
+source: http://kinlane.com/2013/04/10/add-or-update-your-reclaimopen-profile-at-the-github-site/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-logo-basic.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/github-logo.png" alt="" width="150" align="right" /></p>

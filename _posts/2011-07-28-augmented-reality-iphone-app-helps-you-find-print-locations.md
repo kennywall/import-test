@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Augmented Reality iPhone App Helps You Find Print Locations
-url: http://apievangelist.com/2011/07/28/augmented-reality-iphone-app-helps-you-find-print-locations/
-source: http://apievangelist.com/2011/07/28/augmented-reality-iphone-app-helps-you-find-print-locations/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/28/augmented-reality-iphone-app-helps-you-find-print-locations/
+source: http://kinlane.com/2011/07/28/augmented-reality-iphone-app-helps-you-find-print-locations/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/worksnug/worksnug-iphone-print-locations.jpg
 ---
 {% include JB/setup %}<p><a title="download WorkSnug Pro" href="http://itunes.apple.com/gb/app/worksnug-pro/id367331923?mt=8"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/worksnug/worksnug-iphone-print-locations.jpg" alt="" width="250" align="right" /></a>Print is an important part of our hectic business world, and when we are preparing for an important meeting or that up-coming training session, we often find ourselves needing to print from unplanned locations. Every mobile worker in today's today's fast paced world has been there.<p></p>

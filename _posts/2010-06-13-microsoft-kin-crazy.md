@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Microsoft Kin Crazy
-url: http://apievangelist.com/2010/06/13/microsoft-kin-crazy/
-source: http://apievangelist.com/2010/06/13/microsoft-kin-crazy/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/13/microsoft-kin-crazy/
+source: http://kinlane.com/2010/06/13/microsoft-kin-crazy/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Microsoft-Kin.jpg
 ---
 {% include JB/setup %}<p>I'm getting a little annoyed by Microsoft using my name in their new products. A while back they released their mobile technology and platform targeting the youth, called <a href="http://www.kin.com/">Kin</a>. (taking a pretty sweet domain name)<p></p>

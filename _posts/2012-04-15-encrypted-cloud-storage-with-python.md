@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Encrypted Cloud Storage with Python
-url: http://apievangelist.com/2012/04/15/encrypted-cloud-storage-with-python/
-source: http://apievangelist.com/2012/04/15/encrypted-cloud-storage-with-python/
-domain: apievangelist.com
+url: http://kinlane.com/2012/04/15/encrypted-cloud-storage-with-python/
+source: http://kinlane.com/2012/04/15/encrypted-cloud-storage-with-python/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/python-logo.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-python.png" alt="" width="200" align="right" /></p>

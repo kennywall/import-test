@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OExchange - Sharing Standard
-url: http://apievangelist.com/2010/06/04/oexchange-sharing-standard/
-source: http://apievangelist.com/2010/06/04/oexchange-sharing-standard/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/04/oexchange-sharing-standard/
+source: http://kinlane.com/2010/06/04/oexchange-sharing-standard/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a href="http://www.oexchange.org/">OExchange</a> is an open protocol for sharing any URL with any service on the web.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Facebook is #1
-url: http://apievangelist.com/2009/08/24/facebook-is-1/
-source: http://apievangelist.com/2009/08/24/facebook-is-1/
-domain: apievangelist.com
+url: http://kinlane.com/2009/08/24/facebook-is-1/
+source: http://kinlane.com/2009/08/24/facebook-is-1/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Alright, what gives? My Facebook profile just beat out my blog www.kinlane.com for the number #1 search position for "kin lane" at Google.<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: AT&T Rants and Raves
-url: http://apievangelist.com/2010/06/03/att-rants-and-raves/
-source: http://apievangelist.com/2010/06/03/att-rants-and-raves/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/03/att-rants-and-raves/
+source: http://kinlane.com/2010/06/03/att-rants-and-raves/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p><a href="http://www.readwriteweb.com/archives/poll_are_you_concerned_about_atts_new_data_limits.php">ATT decided to stop offering unlimited data plans to new customers  today</a>. I'm going to ride the Anti ATT sentiment for a bit.<p></p>

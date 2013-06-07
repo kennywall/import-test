@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Leaving Facebook
-url: http://apievangelist.com/2010/05/09/leaving-facebook/
-source: http://apievangelist.com/2010/05/09/leaving-facebook/
-domain: apievangelist.com
+url: http://kinlane.com/2010/05/09/leaving-facebook/
+source: http://kinlane.com/2010/05/09/leaving-facebook/
+domain: kinlane.com
 image: http://img.zemanta.com/reblog_e.png?x-id=8bbc9f64-c1a9-4065-a4a5-338260d36e6e
 ---
 {% include JB/setup %}<p>

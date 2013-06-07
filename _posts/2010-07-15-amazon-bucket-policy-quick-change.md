@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Amazon Bucket Policy Quick Change
-url: http://apievangelist.com/2010/07/15/amazon-bucket-policy-quick-change/
-source: http://apievangelist.com/2010/07/15/amazon-bucket-policy-quick-change/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/15/amazon-bucket-policy-quick-change/
+source: http://kinlane.com/2010/07/15/amazon-bucket-policy-quick-change/
+domain: kinlane.com
 image: http://images.cloudberrylab.com/Content_01.gif
 ---
 {% include JB/setup %}<p><img class="alignnone" title="Cloudberry Labs" src="http://images.cloudberrylab.com/Content_01.gif" alt="" width="209" height="54" align="right" />I have several Amazon Buckets I quickly want to use for public viewing of images and other files for clients. I haven't had time to integrate the <a href="http://www.kinlane.com/2010/07/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/">bucket policy API</a> into our code base. I just need the buckets updated right away for GETOBJECT for all public users.<p></p>

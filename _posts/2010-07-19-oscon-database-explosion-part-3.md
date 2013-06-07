@@ -1,9 +1,9 @@
 ---
 layout: post
 title: OSCON: Database Explosion Part 3
-url: http://apievangelist.com/2010/07/19/oscon-database-explosion-part-3/
-source: http://apievangelist.com/2010/07/19/oscon-database-explosion-part-3/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/19/oscon-database-explosion-part-3/
+source: http://kinlane.com/2010/07/19/oscon-database-explosion-part-3/
+domain: kinlane.com
 image: http://info.northscale.com/rs/northscale/images/ns-logo.gif
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" title="Schooner Information Technology" src="http://info.northscale.com/rs/northscale/images/ns-logo.gif" alt="" align="right" />After spending some time  last weekend reviewing the exhibitors at the upcoming <a href="http://www.oscon.com/oscon2010/" target="_blank">OSCON - Open  Source Convention</a> I noticed a pattern:

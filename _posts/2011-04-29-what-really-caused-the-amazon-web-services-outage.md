@@ -1,9 +1,9 @@
 ---
 layout: post
 title: What Really Caused the Amazon Web Services Outage?
-url: http://apievangelist.com/2011/04/29/what-really-caused-the-amazon-web-services-outage/
-source: http://apievangelist.com/2011/04/29/what-really-caused-the-amazon-web-services-outage/
-domain: apievangelist.com
+url: http://kinlane.com/2011/04/29/what-really-caused-the-amazon-web-services-outage/
+source: http://kinlane.com/2011/04/29/what-really-caused-the-amazon-web-services-outage/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.jpg
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.jpg" alt="" width="300" align="right" />Amazon released a summary of the <a href="http://aws.amazon.com/message/65648/">Amazon EC2 and Amazon RDS service disruption in the US East Region</a> today.<p></p>

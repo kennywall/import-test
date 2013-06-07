@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Asking the right question...
-url: http://apievangelist.com/2010/01/12/asking-the-right-question/
-source: http://apievangelist.com/2010/01/12/asking-the-right-question/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/12/asking-the-right-question/
+source: http://kinlane.com/2010/01/12/asking-the-right-question/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Keep hearing discussion discussion on my social networks about whether or not global warming or global climate change is real.

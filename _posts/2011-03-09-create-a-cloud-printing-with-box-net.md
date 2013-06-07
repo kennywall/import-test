@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Create a Cloud Printer with Box.net
-url: http://apievangelist.com/2011/03/09/create-a-cloud-printing-with-box-net/
-source: http://apievangelist.com/2011/03/09/create-a-cloud-printing-with-box-net/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/09/create-a-cloud-printing-with-box-net/
+source: http://kinlane.com/2011/03/09/create-a-cloud-printing-with-box-net/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
 ---
 {% include JB/setup %}<p><a href="&quot;http://www.box.net"></a><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg" alt="" width="250" align="right" />A while back I was playing around with the <a title="Box.net API" href="http://developers.box.net/w/page/12923958/FrontPage">Box.net API</a>, I wanted to see what services they offered.<p></p>

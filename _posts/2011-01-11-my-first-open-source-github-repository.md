@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My First Open Source Github Repository
-url: http://apievangelist.com/2011/01/11/my-first-open-source-github-repository/
-source: http://apievangelist.com/2011/01/11/my-first-open-source-github-repository/
-domain: apievangelist.com
+url: http://kinlane.com/2011/01/11/my-first-open-source-github-repository/
+source: http://kinlane.com/2011/01/11/my-first-open-source-github-repository/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}<p>I have checked out and downloaded code from plenty of <a href="http://github.com">github</a> repositories. I've even help manage a couple of private repositories for clients.

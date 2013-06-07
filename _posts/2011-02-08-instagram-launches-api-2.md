@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Instagram Launches API
-url: http://apievangelist.com/2011/02/08/instagram-launches-api-2/
-source: http://apievangelist.com/2011/02/08/instagram-launches-api-2/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/08/instagram-launches-api-2/
+source: http://kinlane.com/2011/02/08/instagram-launches-api-2/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
 {% include JB/setup %}<p><a href="http://instagr.am/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG" alt="" width="250" align="right" /></a>The mobile photo sharing site <a href="http://instagr.am/blog/40/instagram-api" target="_blank">Instagram officially launched an API this evening</a>.<p></p>

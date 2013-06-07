@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Understanding How People View Your Conference Schwag
-url: http://apievangelist.com/2009/03/13/understanding-how-people-view-your-conference-schwag/
-source: http://apievangelist.com/2009/03/13/understanding-how-people-view-your-conference-schwag/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/13/understanding-how-people-view-your-conference-schwag/
+source: http://kinlane.com/2009/03/13/understanding-how-people-view-your-conference-schwag/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I am spending time evaluating and understanding the social footprint of conferences and events.  One event I am monitoring right now is the SXSW 2009 event. It is a great candidate because there is a alot of online and social activity around this show.<p></p>

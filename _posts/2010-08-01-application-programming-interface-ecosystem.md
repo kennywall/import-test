@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Application Programming Interface Ecosystem
-url: http://apievangelist.com/2010/08/01/application-programming-interface-ecosystem/
-source: http://apievangelist.com/2010/08/01/application-programming-interface-ecosystem/
-domain: apievangelist.com
+url: http://kinlane.com/2010/08/01/application-programming-interface-ecosystem/
+source: http://kinlane.com/2010/08/01/application-programming-interface-ecosystem/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>Last night I went through 25 of the top <a href="http://www.kinlane.com/2010/08/application-programming-interfaces-api/" target="_blank">Application Programming Interfaces (API)</a>, and documented what type of services they offer as part of their API Ecoystem. I'm trying to get a handle on best approaches to delivering an API. I'm still processing this information but so far I have these API Ecosystem building blocks:

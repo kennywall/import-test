@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Reader Curation
-url: http://apievangelist.com/2010/12/04/google-reader-curation/
-source: http://apievangelist.com/2010/12/04/google-reader-curation/
-domain: apievangelist.com
+url: http://kinlane.com/2010/12/04/google-reader-curation/
+source: http://kinlane.com/2010/12/04/google-reader-curation/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg" alt="" width="300" align="right" />It is time to curate my Google Reader subscriptions again. I try to keep my daily blog reading as efficient as possible. To do this I change up my Google Reader in three different ways:

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Securing Global Content With Amazon S3 Bucket Policies
-url: http://apievangelist.com/2010/07/08/securing-global-content-with-amazon-s3-bucket-policies/
-source: http://apievangelist.com/2010/07/08/securing-global-content-with-amazon-s3-bucket-policies/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/08/securing-global-content-with-amazon-s3-bucket-policies/
+source: http://kinlane.com/2010/07/08/securing-global-content-with-amazon-s3-bucket-policies/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/global-digital_delivery.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="padding: 15px;" title="Secure Global Content Delivery" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/global-digital_delivery.jpg" alt="" width="275" align="right" />I'm spending a lot of time lately looking at more efficient and secure ways of delivery web applications and content globally. I am refining my DNS strategy using <a href="http://www.kinlane.com/2010/07/cloud-balancing-with-global-server-load-balancer-gslb/">Global Server Load Balancing</a> (GSLB), and refining my file and <a href="http://www.kinlane.com/2010/07/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/">content management policies now that Amazon Web Services is offering Bucket Policies</a>.<p></p>

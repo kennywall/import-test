@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Running Your Event in the Cloud - Site Hosting
-url: http://apievangelist.com/2010/06/09/running-your-event-in-the-cloud-site-hosting/
-source: http://apievangelist.com/2010/06/09/running-your-event-in-the-cloud-site-hosting/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/09/running-your-event-in-the-cloud-site-hosting/
+source: http://kinlane.com/2010/06/09/running-your-event-in-the-cloud-site-hosting/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/clouds.jpg
 ---
 {% include JB/setup %}<p>Hosting a web site for an event or conference can be costly. Traffic to  the web site spikes around email campaigns, call for papers,  registration opening, before and during the event.<img style="padding: 15px;" title="Events in the Clouds" src="http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/clouds.jpg" alt="" width="200" align="right" /><p></p>

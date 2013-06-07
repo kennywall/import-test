@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Smarter Printing with Cloud Printing
-url: http://apievangelist.com/2011/03/13/smarter-printing-with-google-cloud-print/
-source: http://apievangelist.com/2011/03/13/smarter-printing-with-google-cloud-print/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/13/smarter-printing-with-google-cloud-print/
+source: http://kinlane.com/2011/03/13/smarter-printing-with-google-cloud-print/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>I was attracted to my current job as the Mimeo Connect API evangelist because of the challenges associated with a print API.<p></p>

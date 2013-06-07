@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google APIs Now Support SSL
-url: http://apievangelist.com/2011/03/15/google-apis-now-support-ssl/
-source: http://apievangelist.com/2011/03/15/google-apis-now-support-ssl/
-domain: apievangelist.com
+url: http://kinlane.com/2011/03/15/google-apis-now-support-ssl/
+source: http://kinlane.com/2011/03/15/google-apis-now-support-ssl/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-ssl.jpg
 ---
 {% include JB/setup %}<p><img src="http://kinlane-productions.s3.amazonaws.com/google/google-ssl.jpg" alt="" width="250" align="right" />Google will <a title="start supporting use of SSL in APIs" href="http://googlecode.blogspot.com/2011/03/improving-security-of-google-apis-with.html">start supporting the use of SSL in many of their APIs</a>.<p></p>

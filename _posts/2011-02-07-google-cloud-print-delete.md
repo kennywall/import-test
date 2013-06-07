@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Google Cloud Print - Delete
-url: http://apievangelist.com/2011/02/07/google-cloud-print-delete/
-source: http://apievangelist.com/2011/02/07/google-cloud-print-delete/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/07/google-cloud-print-delete/
+source: http://kinlane.com/2011/02/07/google-cloud-print-delete/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p><a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="200" align="right" /></a>Now that you have a <a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">Google Cloud Printer registered with the Google Cloud Print</a> (GCP) registry, at some point you will need to remove that printer from a users GCP registry.<p></p>

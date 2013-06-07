@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Mobile Browsers Dominating Over Mobile Applications
-url: http://apievangelist.com/2009/07/20/mobile-browsers-dominating-over-mobile-applications/
-source: http://apievangelist.com/2009/07/20/mobile-browsers-dominating-over-mobile-applications/
-domain: apievangelist.com
+url: http://kinlane.com/2009/07/20/mobile-browsers-dominating-over-mobile-applications/
+source: http://kinlane.com/2009/07/20/mobile-browsers-dominating-over-mobile-applications/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}<p>I was just reading an article on Wired magazing called, "<a href="http://www.wired.com/gadgetlab/2009/07/google-app-store">Google Says Mobile App Stores Have No Future</a>". It reflects the same thought I was having last week of the importance of making sure your <a href="http://www.kinlane.com/?p=814">web application is mobile browser compatible</a>.<p></p>

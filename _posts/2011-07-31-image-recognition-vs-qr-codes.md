@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Image Recognition vs. QR Codes
-url: http://apievangelist.com/2011/07/31/image-recognition-vs-qr-codes/
-source: http://apievangelist.com/2011/07/31/image-recognition-vs-qr-codes/
-domain: apievangelist.com
+url: http://kinlane.com/2011/07/31/image-recognition-vs-qr-codes/
+source: http://kinlane.com/2011/07/31/image-recognition-vs-qr-codes/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png
 ---
 {% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png" alt="" align="right" />I wrote a post last month called, <a title="Are QR Codes Relevant Anymore" href="http://www.kinlane.com/2011/06/are-qr-codes-relevant-anymore/">Are QR Codes Relevant Anymore</a>? In a world where everyone has a camera phone, and with image recognition technology like <a title="Google Googles" href="http://www.google.com/mobile/goggles/">Google Googles</a>, are QR codes a realistic way to bridge the physical world with our online lives?<p></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Email Infrastructure in the Amazon Cloud
-url: http://apievangelist.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
-source: http://apievangelist.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
-domain: apievangelist.com
+url: http://kinlane.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
+source: http://kinlane.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/email_icon.jpg
 ---
 {% include JB/setup %}<p><img class="alignnone" style="paddiing: 15px;" title="Email in the Clouds" src="http://kinlane-productions.s3.amazonaws.com/email_icon.jpg" alt="" width="250" align="right" />I am playing with different ways of monetizing my skills and knowledge. I wrote a white paper on how to setup your core email infrastructure in the Amazon cloud. I haven't spent a lot of time polishing, because I am not a writer. I have spent hundreds of hours polishing the approach.<p></p>
