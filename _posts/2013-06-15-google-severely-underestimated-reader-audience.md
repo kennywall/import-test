@@ -4,11 +4,9 @@ title: Google Severely Underestimated the Reader Audience
 url: http://kinlane.com/2013/06/15/google-several-understimated-read-audience/
 source: http://kinlane.com/2013/06/15/google-several-understimated-read-audience/
 domain: kinlane.com
-image: 
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-reader-logo.jpeg
 ---
-{% include JB/setup %}
-
-<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/google-reader/google-reader-logo.jpeg" alt="" width="250" align="right" /></p>
+{% include JB/setup %}<p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/google-reader/google-reader-logo.jpeg" alt="" width="250" align="right" /></p>
 <p>I really think Google underestimated the Google Reader audience when they decided to shut down the popular RSS feed reader.</p>
 <p>Sure, Google Reader didn't have a growing audience.  Sure, RSS is never going to be something the masses adopt.  But Google Reader was the favorite tool of the very vocal, alpha geeks.</p>
 <p>Us power geeks used Google Reader to manage our feeds, curate information and data and used its index as a valuable story archive.  We wrte stories from this process and built massive mainstream audiences over the last 6 years.  We are the curators, bloggers and geeks that deliver messages to the masses.</p>
