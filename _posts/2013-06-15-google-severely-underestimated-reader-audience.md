@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Google Severely Underestimated the Reader Audience
-url: http://kinlane.com/2013/06/15/google-several-understimated-read-audience/
-source: http://kinlane.com/2013/06/15/google-several-understimated-read-audience/
+url: http://kinlane.com/2013/06/15/google-severely-underestimated-reader-audience/
+source: http://kinlane.com/2013/06/15/google-severely-underestimated-reader-audience/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-reader-logo.jpeg
 ---
