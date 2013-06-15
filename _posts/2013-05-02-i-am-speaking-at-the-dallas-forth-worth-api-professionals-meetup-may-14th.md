@@ -19,5 +19,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
 <td align="center"><a title="Proxomo" href="http://www.proxomo.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Proxomo-Logo.png" alt="" width="200" /></a></td>
 </tr>
 </tbody>
-</table></p>
+</table>
 
