@@ -1,0 +1,11 @@
+---
+layout: post
+title: Liveblogging, Reminders, Tasking and Calling Myself
+url: http://apievangelist.com/2008/03/19/liveblogging-reminders-tasking-and-calling-myself/
+source: http://apievangelist.com/2008/03/19/liveblogging-reminders-tasking-and-calling-myself/
+domain: apievangelist.com
+image: [Image]
+---
+{% include JB/setup %}<p>I have been using Jott for that last few months to record tasks, record events, publish blogs, and other general communications by calling Jott and leaving a voice mail or jott and it translates and sends to the link that I dictate.I am pioneering using this for live blogging of events and sending out user generate reporters.Today I came across Utterz which is a simlar to Jott, but adds in the pictures and videos but utilizes a larger list of links you can post to.Utterz seems like a true live blogging tool, where Jott seems like a personal assistant and publishing tool.</p>
+<center><p><a href="http://apievangelist.com/2008/03/19/liveblogging-reminders-tasking-and-calling-myself/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

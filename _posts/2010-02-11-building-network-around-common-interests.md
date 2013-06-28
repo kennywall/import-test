@@ -1,0 +1,11 @@
+---
+layout: post
+title: Building Network Around Common Interests
+url: http://apievangelist.com/2010/02/11/building-network-around-common-interests/
+source: http://apievangelist.com/2010/02/11/building-network-around-common-interests/
+domain: apievangelist.com
+image: [Image]
+---
+{% include JB/setup %}<p>I have explored the sharing and social networking options within my Google Reader.My network has not really grown or evolved.Ocasionally I found someone who had liked an article I really liked and I would add them to my Google Reader network.Since I started using Google Buzz it has brought this social network out in front.It is forcing me to clean up my Google Contacts and starting grouping my network.</p>
+<center><p><a href="http://apievangelist.com/2010/02/11/building-network-around-common-interests/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
