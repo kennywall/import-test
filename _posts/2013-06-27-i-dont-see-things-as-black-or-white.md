@@ -20,7 +20,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table class="c">
      
           <tr>
-               <th style="text-align: left;" width="15%">
+               <th width="15%">
                     black
                </th>
                <th width="5%">
@@ -38,7 +38,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table class="c">
      
           <tr>
-               <th style="text-align: left;" width="15%">
+               <th width="15%">
                     white
                </th>
                <th width="5%">

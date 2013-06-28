@@ -23,7 +23,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
 <p>
      Look forward to seeing you there and connecting.
 </p>
-<table style="padding: 15px;" cellspacing="1" cellpadding="5" width="95%">
+<table cellspacing="1" cellpadding="5" width="95%">
      
           <tr>
                <td align="center">
