@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I Have An Idea, Lets Launch an Analytics Platform
+title: I Have An Idea Lets Launch an Analytics Platform
 url: http://kinlane.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/analytics-trend.jpg
 ---

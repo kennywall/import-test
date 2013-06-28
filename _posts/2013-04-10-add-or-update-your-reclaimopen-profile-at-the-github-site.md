@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add Or Update Your #ReclaimOpen Profile At The Github Site
+title: Add Or Update Your ReclaimOpen Profile At The Github Site
 url: http://kinlane.com/2013/04/10/add-or-update-your-reclaimopen-profile-at-the-github-site/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-logo-basic.png
 ---
