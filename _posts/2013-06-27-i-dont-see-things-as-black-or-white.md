@@ -11,22 +11,19 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>When it comes to the tech, business and politics of APIs I don't see things as:</p>
 <table>
 <tr>
-<th style="text-align: left;" width="15%">black</th><th width="5%">#000000</th>
+<th width="15%">black</th><th width="5%">#000000</th>
 <td bgcolor="#000000">&nbsp;</td>
 </tr>
 </table>
 <p>OR</p>
 <table>
-
 <tr>
-<th style="text-align: left;" width="15%">white</th><th width="5%">#FFFFFF</th>
+<th width="15%">white</th><th width="5%">#FFFFFF</th>
 <td bgcolor="#FFFFFF">&nbsp;</td>
 </tr>
-
 </table>
 <p>I see things as grey, and try to empathize and understand with all the shades of grey:</p>
 <table>
-
 <tr>
 <th>gray3</th><th>#080808</th>
 <td bgcolor="#080808">&nbsp;</td>
@@ -322,7 +319,6 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <td bgcolor="#FFFFFF">&nbsp;</td>
 <th>&nbsp;</th><th>&nbsp;</th>
 </tr>
-
 </table>
 <p>This iapproach to monitoring the API universe has allowed me to better understand the differences between APIs and the companie or individauls behind them. &nbsp;</p>
 <p>I feel this will help me understand how Washington works, and continue to find, simple, meaningful, API driven approaches to helping our government innovate.</p>
