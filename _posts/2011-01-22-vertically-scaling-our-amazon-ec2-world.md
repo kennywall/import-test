@@ -1,0 +1,10 @@
+---
+layout: post
+title: Vertically Scaling Our Amazon EC2 World
+url: http://kinlane.com/2011/01/22/vertically-scaling-our-amazon-ec2-world/
+source: http://kinlane.com/2011/01/22/vertically-scaling-our-amazon-ec2-world/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p></p>
+
