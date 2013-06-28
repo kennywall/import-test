@@ -5,5 +5,5 @@ url: http://kinlane.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Kin-Lane-2010-2012-2.png
 ---
 {% include JB/setup %}
-<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" alt="" width="200" align="right" /><p>&nbsp;<p>
+<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" alt="" width="200" align="right" /><p>&nbsp;<p>
 
