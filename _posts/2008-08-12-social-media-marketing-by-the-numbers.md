@@ -6,4 +6,4 @@ source: http://kinlane.com/2008/08/12/social-media-marketing-by-the-numbers/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}</div>
+{% include JB/setup %}

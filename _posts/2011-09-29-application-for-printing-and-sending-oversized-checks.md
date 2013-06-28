@@ -7,4 +7,3 @@ domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}
-</div>

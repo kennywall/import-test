@@ -6,6 +6,4 @@ source: http://kinlane.com/2011/06/30/all-apps-should-experience-data-liberation
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/Google-Data-Liberation.png
 ---
-{% include JB/setup %}I like how my Google account settings have evolved. Off the top toolbar, I click on my name, then account settings, you then get an option called data liberation.  All apps accounts should have a <a title="data liberation" href="http://www.dataliberation.org/">data liberation</a> option!<p></p>
-<img class="aligncenter" src="http://kinlane-productions.s3.amazonaws.com/google/Google-Data-Liberation.png" alt="" width="600" /><p></p>
-Even better, sync to my<a title="The Locker Project" href="https://github.com/quartzjer/Locker#readme">Locker Project</a>.
+{% include JB/setup %}I like how my Google account settings have evolved. Off the top toolbar, I click on my name, then account settings, you then get an option called data liberation. All apps accounts should have a <a title="data liberation" href="http://www.dataliberation.org/">data liberation</a> option! <img class="aligncenter" src="http://kinlane-productions.s3.amazonaws.com/google/Google-Data-Liberation.png" alt="" width="600" /> Even better, sync to my<a title="The Locker Project" href="https://github.com/quartzjer/Locker#readme">Locker Project</a>.
