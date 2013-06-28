@@ -15,19 +15,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                     <strong>Ann Arbor, MI</strong>
                </td>
           </tr>
-          <tr>
-               <td width="5%">
-                     
-               </td>
-               <td>
-                    <ul>
-                         <li>01/24/2013 - <a href="http://windows8-unleashed-srch.eventbrite.com/"><strong>Windows 8 Dev Unleashed - Ann Arbor</strong></a>
-                         </li>
-                         <li>02/01/2013 - <a href="http://mhacks-srch.eventbrite.com/"><strong>MHacks - Hackathon at University of Michigan</strong></a>
-                         </li>
-                    </ul>
-               </td>
-          </tr>
+
 
 </table>
 <p>
