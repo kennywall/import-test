@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gmail is a Resource Hog Today
-url: http://apievangelist.com/2009/02/26/gmail-is-a-resource-hog-today/
-source: http://apievangelist.com/2009/02/26/gmail-is-a-resource-hog-today/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/26/gmail-is-a-resource-hog-today/
+source: http://kinlane.com/2009/02/26/gmail-is-a-resource-hog-today/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}What is the deal with Gmail today?   Both my free gmail and google apps for my domain are total resource hogs.

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Changes and Evolving
-url: http://apievangelist.com/2009/04/15/changes-and-evolving/
-source: http://apievangelist.com/2009/04/15/changes-and-evolving/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/15/changes-and-evolving/
+source: http://kinlane.com/2009/04/15/changes-and-evolving/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}Been pissed off for a couple days because my new browser tab in Firefox doesn't fit up there anymore because of some new search box.  

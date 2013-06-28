@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Firefox 3.6 and Flash
-url: http://apievangelist.com/2010/06/28/firefox-3-6-and-flash/
-source: http://apievangelist.com/2010/06/28/firefox-3-6-and-flash/
-domain: apievangelist.com
+url: http://kinlane.com/2010/06/28/firefox-3-6-and-flash/
+source: http://kinlane.com/2010/06/28/firefox-3-6-and-flash/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/browser/firefox3point6.PNG
 ---
-{% include JB/setup %}I'm waiting for a server to finish installing some updates. I close my Firefox...then try to open.
-Then once I open I'm given option to upgrade my Firefox, why sure.
+{% include JB/setup %}I'm waiting for a server to finish installing some updates. I close my Firefox...then try to open.<p></p>
+Then once I open I'm given option to upgrade my Firefox, why sure.<p></p>
 Once I restart I get:
-
-Chrome embraces Flash even further and Firefox thinks I should update my Adobe Flash Player right now!!
+<p style="text-align: center;"><img class="aligncenter" title="Firefox" src="http://kinlane-productions.s3.amazonaws.com/browser/firefox3point6.PNG" alt="" width="600" />
+<a href="http://www.kinlane.com/2010/06/google-chrome-embraces-flash-even-more/">Chrome embraces Flash </a>even further and <a href="http://www.mozilla.com/en-US/firefox/personal.html" target="_blank">Firefox</a> thinks I should <a href="http://get.adobe.com/flashplayer/" target="_blank">update my Adobe Flash Player right now</a>!!

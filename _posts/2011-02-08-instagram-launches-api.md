@@ -1,24 +1,13 @@
 ---
 layout: post
 title: Instagram Launches API
-url: http://apievangelist.com/2011/02/08/instagram-launches-api-2/
-source: http://apievangelist.com/2011/02/08/instagram-launches-api-2/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/08/instagram-launches-api-2/
+source: http://kinlane.com/2011/02/08/instagram-launches-api-2/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
-{% include JB/setup %}The mobile photo sharing site Instagram officially launched an API this evening.
-This comes just under a month after the company asked developers to stop using a rogue API that was reverse engineered by an outside developer.
-Instagram is accepting signups for access to their new API at:
-
-	http://instagr.am/developer/
-
-Developers will be notified when they open up access.
-Kevin Systrom, Instagram CEO says, That the first step to creating a lasting company is to work with the many talented developers out there in the world.
-Instagram addreses image security and reassures that users will retain full ownership and privacy controls over all images.
-The Instagram API merely allows talented developers to create really neat and useful apps for you to get more out of your images.
-Related articles
-
-	Instagram Releases API to Expand Beyond iPhone (mashable.com)
-	Instagram API Accepting Sign-ups for Public Beta (programmableweb.com)
-	Instagram Shifting Focus to an Open Platform With API (macstories.net)
-
+{% include JB/setup %}<img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG" alt="" width="250" align="right" />I wrote about <a href="http://www.kinlane.com/2010/10/instagram-doing-one-thing-well/" target="_blank">Instagram doing one thing really well</a>, and since then I have been getting a lot of searches for the key phrase: <strong><em>instagram api </em></strong>over the last couple months.<p></p>
+I was going to blog about it, but <a href="http://instagr.am/" target="_blank">Instragram</a> beat me to the punch and <a href="https://github.com/mislav/instagram/wiki" target="_blank">launched an API</a>. You can now access your Instagram account through an API and integrate it with other applications.<p></p>
+I would like to see a photo book generated from <a href="http://instagr.am" target="_blank">Instragram</a> photos. You could make some real cool artwork for the covers....and a layout that really compliments the Instagram photos.<p></p>
+With the Instragram API it would be easy to pull photos, merge them with a layout template and generate a PDF. You can then pass along with cover art to the Mimeo Cloud Print API for printing as a photobook.<p></p>
+Excited about the Instagram API and the potential for print.

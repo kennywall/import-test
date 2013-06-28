@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gmail Threaded Conversation
-url: http://apievangelist.com/2009/03/05/gmail-threaded-conversation/
-source: http://apievangelist.com/2009/03/05/gmail-threaded-conversation/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/05/gmail-threaded-conversation/
+source: http://kinlane.com/2009/03/05/gmail-threaded-conversation/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I have been using my company outlook for the day because for some reason my left hand menu in Gmail (Apps for my Domain) takes up 3/4 of the screen?  I can't figure out why, anyways it gives me a headache.

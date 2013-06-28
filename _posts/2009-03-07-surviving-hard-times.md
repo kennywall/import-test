@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Surviving Hard Times
-url: http://apievangelist.com/2009/03/07/surviving-hard-times/
-source: http://apievangelist.com/2009/03/07/surviving-hard-times/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/07/surviving-hard-times/
+source: http://kinlane.com/2009/03/07/surviving-hard-times/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I have been noticing more and more web services either going down or having severe latency because they are overloaded.

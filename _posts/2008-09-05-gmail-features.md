@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Gmail Features
-url: http://apievangelist.com/2008/09/05/gmail-features/
-source: http://apievangelist.com/2008/09/05/gmail-features/
-domain: apievangelist.com
+url: http://kinlane.com/2008/09/05/gmail-features/
+source: http://kinlane.com/2008/09/05/gmail-features/
+domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}I just want to say I really like how my Google Talk conversations show up right with all my Gmail email conversations as well.Closer to how I have my SMS, Email, Chats, Phone Calls in one listing on my Blackberry.
+{% include JB/setup %}I just want to say I really like how my Google Talk conversations show up right with all my Gmail email conversations as well.<br /><br />Closer to how I have my SMS, Email, Chats, Phone Calls in one listing on my Blackberry.

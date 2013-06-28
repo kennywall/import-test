@@ -1,9 +1,9 @@
 ---
 layout: post
 title: JavaScript Array Size Limitation
-url: http://apievangelist.com/2009/04/17/javascript-array-size-limitation/
-source: http://apievangelist.com/2009/04/17/javascript-array-size-limitation/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/17/javascript-array-size-limitation/
+source: http://kinlane.com/2009/04/17/javascript-array-size-limitation/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I was just working on an EXTJS datarid and it wouldn't appear in Chrome no matter what I did.  

@@ -1,17 +1,16 @@
 ---
 layout: post
 title: Does The Way I Look Make You Uncomfortable?  Ok Now You're Ready for APIs!
-url: http://apievangelist.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok-now-youre-ready-for-apis/
-source: http://apievangelist.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok-now-youre-ready-for-apis/
-domain: apievangelist.com
+url: http://kinlane.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok-now-youre-ready-for-apis/
+source: http://kinlane.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok-now-youre-ready-for-apis/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Kin-Lane-2010-2012-2.png
 ---
-{% include JB/setup %}<p>I&rsquo;ve been getting more comments lately about my appearance, as my API evangelism penetrates the enterprise and government.  Specifically regarding my beard.</p>
-<p>An executive at a leading API service provider reminded me the other day, that I will be the only one with a beard at the <a href="http://www.gartner.com/technology/summits/na/applications/">Gartner AADI</a> event in November.</p>
-<p>My appearance for me is natural.   When I look in the mirror and I see my beard and long hair it feels more like me than the properly groomed version.  It  is also deliberate.  I know it makes some people feel a little uncomfortable--but that is something you will need to accept.</p>
-<p>As I see it, to play in this new world of web APIs you have to be able to accept being out of your comfort zone.  APIs are about giving up a little control, in order to let in new ideas and innvoation.</p>
-<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/Kin-Lane-2010-2012-2.png" alt="" width="400" /></p>
-<p>As you can see in the before (2010) and after (2012) photo, back when I was VP of Technology at <a href="http://www.webeventsglobal.com/">WebEvents Global</a> and running SAP and Google events I played the game, but now as API Evangelist--not so much.</p>
-<p>If my new look makes you a little uncomfortable, that is a good thing.  It&rsquo;s just a little taste of what it will take for you to leave your comfort zone and successful open up your companies assets and resources via APIs.</p>
-<p>My goal isn&rsquo;t to offend anyone, but make you think a little bit about what you are getting into.  I hope you can quickly get past my appearance, hear what I have to say about APIs.  I definitely have a lot more to say than I did in 2010 when I looked &ldquo;normal&rdquo;, and I think once you listen to my evangelism for a little while--I&rsquo;ll win you over.</p>
-<p>If nothing else, I think you will at least remember me. &nbsp;</p>
+{% include JB/setup %}<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" alt="" width="200" align="right" /><p></p>
+Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.<p></p>
+<span>We saw major enhancements coming down the pipes with IOS 5 and Mac OS X Lion. What really stood out was their new <a title="iCloud" href="http://www.apple.com/icloud/">iCloud</a>.</span><p></p>
+<span>iCloud is free, seamless storage in the cloud for documents and everything else you use on your Mac and IOS devices.</span><p></p>
+<span>This means documents you've written, presentations you've prepared are available on any IOS device. You can view and edit the same document, in its latest state, on all your devices. And since iCloud automatically updates any changes you make, you don't even have to remember to save your work. </span><p></p>
+<span>iCloud will also have a full set of APIs for developers to take advantage of, allowing them to implement iCloud storage, sync, and backup for documents into any application.</span><p></p>
+<span>Apple's iCloud represents a continued evolution of the file system from being local to existing on the Internet and available on any device. This means that all design, collaboration, publishing and printing will move off the desktop as well. </span><p></p>
+<span>More to come on iClouds role in <a title="self publishing and print on demand integration" href="http://developer.mimeo.com">self publishing and print on demand integration</a>.</span>

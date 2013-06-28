@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Is it noise or music?
-url: http://apievangelist.com/2009/03/15/is-it-noise-or-music/
-source: http://apievangelist.com/2009/03/15/is-it-noise-or-music/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/15/is-it-noise-or-music/
+source: http://kinlane.com/2009/03/15/is-it-noise-or-music/
+domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}I was driving home tonight from Eugene....it was a real quiet drive.
-About half way home I decided to turn on the radio.
-At first it all sounded like clutter and noise, not music.
-Then once my senses adjusted I was able to tell it was music.
-I was about to shut it off.
+{% include JB/setup %}I was driving home tonight from Eugene....it was a real quiet drive.<p></p>
+About half way home I decided to turn on the radio.<p></p>
+At first it all sounded like clutter and noise, not music.<p></p>
+Then once my senses adjusted I was able to tell it was music.<p></p>
+I was about to shut it off.<p></p>
 I wonder how much else I shut off before I recognize its music.

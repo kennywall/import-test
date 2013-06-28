@@ -1,9 +1,9 @@
 ---
 layout: post
 title: LinkedIn Notes
-url: http://apievangelist.com/2009/03/02/linkedin-notes/
-source: http://apievangelist.com/2009/03/02/linkedin-notes/
-domain: apievangelist.com
+url: http://kinlane.com/2009/03/02/linkedin-notes/
+source: http://kinlane.com/2009/03/02/linkedin-notes/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I just answered a question on LinkedIn...shortly thereafter I received a connection request from the QA thread.   

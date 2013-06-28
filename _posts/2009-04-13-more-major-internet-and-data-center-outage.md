@@ -1,11 +1,11 @@
 ---
 layout: post
 title: More major Internet and Data Center Outage
-url: http://apievangelist.com/2009/04/13/more-major-internet-and-data-center-outage/
-source: http://apievangelist.com/2009/04/13/more-major-internet-and-data-center-outage/
-domain: apievangelist.com
+url: http://kinlane.com/2009/04/13/more-major-internet-and-data-center-outage/
+source: http://kinlane.com/2009/04/13/more-major-internet-and-data-center-outage/
+domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}Was just reading this post about a major Australian Internet outage that left the entire top end of the country without telephone, internet or mobile communications for about 10 hours.
-Definitely brings attention to a MAJOR problem we will continue facing with our nations infrastructure. I wrote about the outage in San Jose the other day, that affected our company.
+{% include JB/setup %}Was just reading this post about a <a href="http://www.cloudave.com/link/left-in-the-dark">major Australian Internet outage</a> that left the entire top end of the country without telephone, internet or mobile communications for about 10 hours.<p></p>
+Definitely brings attention to a MAJOR problem we will continue facing with our nations infrastructure. I wrote about the <a href="http://www.kinlane.com/?p=514">outage in San Jose the other day</a>, that affected our company.<p></p>
 There needs to be more auditing of our infrastructure and development of redundant fiber rings as well as make sure data center providers build in redundancy between data centers.

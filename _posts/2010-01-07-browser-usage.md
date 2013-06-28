@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Browser Usage
-url: http://apievangelist.com/2010/01/07/browser-usage/
-source: http://apievangelist.com/2010/01/07/browser-usage/
-domain: apievangelist.com
+url: http://kinlane.com/2010/01/07/browser-usage/
+source: http://kinlane.com/2010/01/07/browser-usage/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I just realized a funny thing.  I use 3 different browsers on a daily basis now.

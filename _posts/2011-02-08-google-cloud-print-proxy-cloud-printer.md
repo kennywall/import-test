@@ -1,48 +1,48 @@
 ---
 layout: post
 title: Google Cloud Print Proxy (Cloud Printer)
-url: http://apievangelist.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
-source: http://apievangelist.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
-domain: apievangelist.com
+url: http://kinlane.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
+source: http://kinlane.com/2011/02/08/google-cloud-print-proxy-cloud-printer/
+domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
-{% include JB/setup %}I have some working code for a Google Cloud Print Proxy.  It is currently written in PHP and uses the Zend framework.
-I have written specific blog posts for each service endpoint, and to finish up I wanted to do a complete walk-through.
-First I authenticate against a users Google Account with Google ClientLogin API.
-Then using the Google Cloud Print Services Interface:
-
-	http://www.google.com/cloudprint/interface/
-
+{% include JB/setup %}<a href="http://mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>I have some working code for a <a href="http://www.kinlane.com/2011/02/introduction-to-the-google-cloud-print-services-interface/" target="_blank">Google Cloud Print Proxy</a>.  It is currently written in PHP and uses the <a href="http://framework.zend.com/" target="_blank">Zend framework</a>.<p></p>
+I have written specific blog posts for each service endpoint, and to finish up I wanted to do a complete walk-through.<p></p>
+First I authenticate against a users Google Account with <a href="http://code.google.com/apis/accounts/docs/AuthForInstalledApps.html" target="_blank">Google ClientLogin API</a>.<p></p>
+Then using the <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Services Interface</a>:
+<ul class="mainlist">
+	<li><a href="http://www.google.com/cloudprint/interface/" target="_blank">http://www.google.com/cloudprint/interface/</a></li>
+</ul>
 I can make calls to the following end points to manage printers:
-
-	/register
-	/list
-	/update
-	/delete
-
+<ul class="mainlist">
+	<li><a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">/register</a></li>
+	<li><a href="http://www.kinlane.com/2011/02/google-cloud-print-list/" target="_blank">/list</a></li>
+	<li><a href="http://www.kinlane.com/2011/02/google-cloud-print-update/" target="_blank">/update</a></li>
+	<li><a href="http://www.kinlane.com/2011/02/google-cloud-print-delete/" target="_blank">/delete</a></li>
+</ul>
 I can make calls to the following end points to manage cloud print jobs:
-
-	/fetch
-	/control
-
+<ul class="mainlist">
+	<li><a href="http://www.kinlane.com/2011/02/2822/" target="_blank">/fetch</a></li>
+	<li><a href="http://www.kinlane.com/2011/02/google-cloud-print-control/" target="_blank">/control</a></li>
+</ul>
 You can receive print job notifications via persistent XMPP connection:
-
-	XMPP Print Job Notifications
-
+<ul class="mainlist">
+	<li><a title="XMPP Print Job Notifications" href="http://www.kinlane.com/2011/02/google-cloud-print-xmpp-print-job-notifications/">XMPP Print Job Notifications</a></li>
+</ul>
 If you want to download the sample code for my Google Cloud Print Proxy work, you can download in the following formats:
-
-	git - Github
-	svn - Google Code
-
-If you have any thoughts or ideas for an innovative Cloud Print Proxy, let me know.
-
-
-
-&nbsp;
-UPDATE 2/28/2011 - I have finished the first prototype for the XMPP print job notification service.  This is critical piece to eliminate constant polling of /fetch service.
-Related articles
-
-	Cloud Print "Coming Soon" to Google Docs (readwriteweb.com)
-	Google sees printing in the cloud (go.theregister.com)
-	Google Cloud Print is now available (downloadsquad.switched.com)
-
+<ul class="mainlist">
+	<li><a href="https://github.com/mimeoconnect/Google-Cloud-Print-Proxy#readme" target="_blank">git - Github</a></li>
+	<li><a href="http://code.google.com/p/google-cloud-print-proxy/" target="_blank">svn - Google Code</a></li>
+</ul>
+If you have any thoughts or ideas for an innovative Cloud Print Proxy, let me know.<p></p>
+<a href="http://www.mimeo.com/">
+<img style="padding: 3px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png" alt="" width="500" align="center" />
+</a><p></p>
+&nbsp;<p></p>
+<strong>UPDATE 2/28/2011 -</strong> I have finished the first prototype for the <a title="XMPP Print Job Notification Service" href="http://www.kinlane.com/2011/02/google-cloud-print-xmpp-print-job-notifications/">XMPP print job notification service</a>.  This is critical piece to eliminate constant polling of /fetch service.
+<h6 class="zemanta-related-title" style="font-size: 1em;">Related articles</h6>
+<ul class="zemanta-article-ul">
+	<li class="zemanta-article-ul-li"><a href="http://www.readwriteweb.com/archives/cloud_print_coming_soon_to_google_docs.php">Cloud Print "Coming Soon" to Google Docs</a> (readwriteweb.com)</li>
+	<li class="zemanta-article-ul-li"><a href="http://go.theregister.com/feed/www.theregister.co.uk/2010/12/08/google_cloud_print/">Google sees printing in the cloud</a> (go.theregister.com)</li>
+	<li class="zemanta-article-ul-li"><a href="http://downloadsquad.switched.com/2010/12/07/google-cloud-print-is-now-available/">Google Cloud Print is now available</a> (downloadsquad.switched.com)</li>
+</ul>

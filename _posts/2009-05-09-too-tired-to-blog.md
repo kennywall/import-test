@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Too tired to Blog...
-url: http://apievangelist.com/2009/05/09/too-tired-to-blog/
-source: http://apievangelist.com/2009/05/09/too-tired-to-blog/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/09/too-tired-to-blog/
+source: http://kinlane.com/2009/05/09/too-tired-to-blog/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}Haven't had much time lately to blog.  Currently getting ready  for the SAP SAPPHIRE event in Orlando.

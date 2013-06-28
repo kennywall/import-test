@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Living the Life in the Country
-url: http://apievangelist.com/2009/02/18/living-the-life-in-the-country/
-source: http://apievangelist.com/2009/02/18/living-the-life-in-the-country/
-domain: apievangelist.com
+url: http://kinlane.com/2009/02/18/living-the-life-in-the-country/
+source: http://kinlane.com/2009/02/18/living-the-life-in-the-country/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I have moved out to the woods to live for a while.   After living last summer in Bend, OR I have decided to live a little more remote.

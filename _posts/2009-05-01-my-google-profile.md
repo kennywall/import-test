@@ -1,9 +1,9 @@
 ---
 layout: post
 title: My Google Profile
-url: http://apievangelist.com/2009/05/01/my-google-profile/
-source: http://apievangelist.com/2009/05/01/my-google-profile/
-domain: apievangelist.com
+url: http://kinlane.com/2009/05/01/my-google-profile/
+source: http://kinlane.com/2009/05/01/my-google-profile/
+domain: kinlane.com
 image: 
 ---
 {% include JB/setup %}I was waiting for my Google Profile to float up in my listings.  I watch the top 20 Google search results for my name fairly often. It is important to me what shows there.
