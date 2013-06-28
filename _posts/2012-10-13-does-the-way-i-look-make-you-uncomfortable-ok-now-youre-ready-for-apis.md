@@ -5,7 +5,7 @@ url: http://kinlane.com/2012/10/13/does-the-way-i-look-make-you-uncomfortable-ok
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Kin-Lane-2010-2012-2.png
 ---
 {% include JB/setup %}
-<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" width="200" align="right" /><p>&nbsp;<p>
+<img src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png" width="200" align="right" /><p>&nbsp;<p>
 Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.<p>&nbsp;<p>
 <span>We saw major enhancements coming down the pipes with IOS 5 and Mac OS X Lion. What really stood out was their new <a title="iCloud" href="http://www.apple.com/icloud/">iCloud</a>.</span><p>&nbsp;<p>
 <span>iCloud is free, seamless storage in the cloud for documents and everything else you use on your Mac and IOS devices.</span><p>&nbsp;<p>
