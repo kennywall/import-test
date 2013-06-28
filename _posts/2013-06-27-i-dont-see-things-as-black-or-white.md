@@ -7,7 +7,6 @@ domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-reader-logo.jpeg
 ---
 {% include JB/setup %}<p><img style="padding: 15p;" src="https://s3.amazonaws.com/kinlane-productions/pif/pif-smaller.jpg" alt="" align="right" /></p>
-<style>
 <p>As I prepare to go to Washington DC, to work with the Department of Veterans Affiars (VA), I'm spending a lot of time thinking about how I'll prepare for my year, working within the federal government. &nbsp;</p>
 <p>While working for the White House, and at the VA, will most definitely be an entirely new experience for me, I feel my approach and experience within the API space will benefit me greatly.&nbsp;</p>
 <p>When it comes to the tech, business and politics of APIs I don't see things as:</p>
