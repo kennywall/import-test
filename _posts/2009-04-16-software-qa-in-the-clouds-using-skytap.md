@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Software QA in the Clouds Using SkyTap
-url: http://kinlane.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
-source: http://kinlane.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
+source: http://apievangelist.com/2009/04/16/software-qa-in-the-clouds-using-skytap/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,20 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    So I have been test driving a new <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud platform</a> or tool every couple days
-    as I have time. I took a <a class="zem_slink" title="Test drive" rel="wikipedia" href="http://en.wikipedia.org/wiki/Test_drive">test drive</a> and demo of <a href=
-    "http://sites.google.com/a/kinlane.com/cloud-computing/players/skytap">SkyTap</a> last week. I wrote down some notes on it, but will be processing what I saw for some time. It is a very
-    innovative platform that allows you to deploy Infrastructure as a Service for <a class="zem_slink" title="Software prototyping" rel="wikipedia" href=
-    "http://en.wikipedia.org/wiki/Software_prototyping">prototyping</a>, test, and laboratory environments. One use I saw for it was Software <a class="zem_slink" title="Quality assurance" rel=
-    "wikipedia" href="http://en.wikipedia.org/wiki/Quality_assurance">QA</a> for either desktop or web applications. You can quickly create base <a class="zem_slink" title="Server (computing)" rel=
-    "wikipedia" href="http://en.wikipedia.org/wiki/Server_%28computing%29">server</a> images of different platforms you wish to test on. You can deploy these server images all at once and access
-    through a single tab interface and test your product. Once you encounter errors you can even package it up as it was left and share with a developer. That server image is shut down until that
-    developer fires back up and they can leave off right where the QA person left it. Very powerful stuff for <a class="zem_slink" title="Computer software" rel="wikipedia" href=
-    "http://en.wikipedia.org/wiki/Computer_software">software</a> QA process. Definitely something any software or web development firms should check out. Would make their processes much more
-    efficient and make it so you can find time to reach out to new platforms configurations. Check them out at <a href="http://www.skytap.com">SkyTap</a>.
-    <form>
-      <input id="gwProxy" type="hidden" /><!--Session data--><input id="jsProxy" onclick="jsCall();" type="hidden" />
-    </form>
+    So I have been test driving a new cloud platform or tool every couple days as I have time.I took a test drive and demo of SkyTap last week.I wrote down some notes on it, but will be processing
+    what I saw for some time.It is a very innovative platform that allows you to deploy Infrastructure as a Service for prototyping, test, and laboratory environments.One use I saw for it was
+    Software QA for either desktop or web applications.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/04/16/software-qa-in-the-clouds-using-skytap/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

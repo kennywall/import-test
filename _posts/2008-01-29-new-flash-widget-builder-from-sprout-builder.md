@@ -1,10 +1,10 @@
 ---
 layout: post
 title: New Flash Widget Builder from Sprout Builder
-url: http://kinlane.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
-source: http://kinlane.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
-domain: kinlane.com
-image: http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s320/screen+shot+home+page.jpg
+url: http://apievangelist.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
+source: http://apievangelist.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,10 @@ image: http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s
     <title></title>
   </head>
   <body>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s1600-h/screen+shot+home+page.jpg"><img style=
-    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s320/screen+shot+home+page.jpg" alt="" id=
-    "BLOGGER_PHOTO_ID_5161086199689796514" border="0" name="BLOGGER_PHOTO_ID_5161086199689796514" /></a>I was just playing around with the new widget builder from <a href=
-    "http://sproutbuilder.com/">Sprout Builder</a>, I found it over on Techcrunch - <a href="http://www.techcrunch.com/2008/01/29/sprout-the-online-wysiwyg-editor-for-flash/">Sprout: The Online
-    WYSIWYG Editor for Flash</a>.<br />
-    <br />
-    It is a damn sexy flash tool for building widgets. It is to do and obviously targeting the non programmer wishing to deploy and syndicate their content and brand.<br />
-    <br />
-    It is a nice drag and drop interface and you can create, deploy, and track all the widgets you deploy.<br />
-    <br />
-    These tools are really going to come into play in 2008 when the average business starts integrating widget syndication into their social media marketing strategies.<br />
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_9OGzs28s_k4/R5_cqNOuW7I/AAAAAAAAAwE/-F-rOLwYUAM/s1600-h/Screen+Shot+1.jpg"><img style=
-    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp3.blogger.com/_9OGzs28s_k4/R5_cqNOuW7I/AAAAAAAAAwE/-F-rOLwYUAM/s320/Screen+Shot+1.jpg" alt="" id=
-    "BLOGGER_PHOTO_ID_5161086315653913522" border="0" name="BLOGGER_PHOTO_ID_5161086315653913522" /></a><br />
-    I am going to build a couple of them tonight and see what I can create.<br />
-    <br />
-    I will post some more once I get one deployed.
+    I was just playing around with the new widget builder from Sprout Builder, I found it over on Techcrunch - Sprout: The Online WYSIWYG Editor for Flash.It is a damn sexy flash tool for building
+    widgets.It is to do and obviously targeting the non programmer wishing to deploy and syndicate their content and brand.It is a nice drag and drop interface and you can create, deploy, and track
+    all the widgets you deploy.These tools are really going to come into play in 2008 when the average business starts integrating widget syndication into their social media marketing strategies.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

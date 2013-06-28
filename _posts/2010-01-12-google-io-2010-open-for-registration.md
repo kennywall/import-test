@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Google I/O 2010 Open for Registration
-url: http://kinlane.com/2010/01/12/google-io-2010-open-for-registration/
-source: http://kinlane.com/2010/01/12/google-io-2010-open-for-registration/
-domain: kinlane.com
-image: http://code.google.com/events/io/2010/images/io-logo.png
+url: http://apievangelist.com/2010/01/12/google-io-2010-open-for-registration/
+source: http://apievangelist.com/2010/01/12/google-io-2010-open-for-registration/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,12 +13,10 @@ image: http://code.google.com/events/io/2010/images/io-logo.png
     <title></title>
   </head>
   <body>
-    <img title="Google I/O 2010 Open for Registration" src="http://code.google.com/events/io/2010/images/io-logo.png" alt="" width="200" height="41" align="right" /> We launched <a href=
-    "http://googleblog.blogspot.com/2010/01/google-io-2010-now-open-for.html">registration for Google I/O</a> this morning. The third annual developer conference will be at Moscone West in San
-    Francisco on May 19-20, 2010 You can <a href="http://code.google.com/events/io/2010/">register for Google I/O here</a>. Checkout the <a href=
-    "http://code.google.com/events/io/2010/schedule.html">schedule</a>, <a href="http://code.google.com/events/io/2010/sessions.html">sessions</a>, and more at: <a href=
-    "http://code.google.com/events/io/2010/">http://code.google.com/events/io/2010/</a> The event was a blast last year with the Android Phone giveaway and the Google Wave Announcement during the
-    keynote.
+    We launched registration for Google I/O this morning.The third annual developer conference will be at Moscone West in San Francisco on May 19-20, 2010 You can register for Google I/O
+    here.Checkout the schedule, sessions, and more at: http://code.google.com/events/io/2010/ The event was a blast last year with the Android Phone giveaway and the Google Wave Announcement during
+    the keynote.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/01/12/google-io-2010-open-for-registration/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

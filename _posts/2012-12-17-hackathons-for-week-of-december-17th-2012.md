@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hackathons for Week of December 17th, 2012
-url: http://kinlane.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
-source: http://kinlane.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
+source: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,224 +13,15 @@ image:
     <title></title>
   </head>
   <body>
-    <p>
-      These are the hackathons we are tracking on at&nbsp;<a href="http://hackweekends.com/">Hack Weekends</a>. It looks like about 21 different events in the United States.
-    </p>
-    <table width="90%">
-      <tbody>
-        <tr>
-          <td colspan="2">
-            <strong>Ann Arbor, MI</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/24/2013 -&nbsp;<a href="http://windows8-unleashed-srch.eventbrite.com/"><strong>Windows 8 Dev Unleashed - Ann Arbor</strong></a>
-              </li>
-              <li>02/01/2013 -&nbsp;<a href="http://mhacks-srch.eventbrite.com/"><strong>MHacks - Hackathon at University of Michigan</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Bloomington, IN</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>12/21/2012 -&nbsp;<a href="http://bloomingtonilhackathon2-srch.eventbrite.com/"><strong>Sprout - Hackathon 2</strong></a>
-              </li>
-              <li>12/28/2012 -&nbsp;<a href="http://bloomingtonilhackathon3-srch.eventbrite.com/"><strong>Sprout - Hackathon 3</strong></a>
-              </li>
-              <li>01/04/2013 -&nbsp;<a href="http://bloomingtonilhackathon4-srch.eventbrite.com/"><strong>Sprout - Hackathon 4</strong></a>
-              </li>
-              <li>01/11/2013 -&nbsp;<a href="http://bloomingtonilhackathon5-srch.eventbrite.com/"><strong>Sprout - Hackathon 5</strong></a>
-              </li>
-              <li>01/18/2013 -&nbsp;<a href="http://bloomingtonilhackathon6-srch.eventbrite.com/"><strong>Sprout - Hackathon 6</strong></a>
-              </li>
-              <li>01/25/2013 -&nbsp;<a href="http://bloomingtonilhackathon7-srch.eventbrite.com/"><strong>Sprout - Hackathon 7</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Cambridge, MA</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/25/2013 -&nbsp;<a href="http://hackbeanpot-srch.eventbrite.com/"><strong>Beanpot Hackathon: Boston Student Hackers</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Las Vegas, NV</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/05/2013 -&nbsp;<a href="https://www.2013devsummit.com/Registration/Hackathon.aspx"><strong>ATT Developer Summit Hackathon</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Los Angeles, CA</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/19/2013 -&nbsp;<a href="http://gitlawindows8unleashed-srch.eventbrite.com/"><strong>Windows 8 Unleashed brought to you by Microsoft and GITLA</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>New York, NY</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>12/17/2012 -&nbsp;<a href="http://anatomyofahackathon-srch.eventbrite.com/"><strong>The Anatomy of a Hackathon</strong></a>
-              </li>
-              <li>01/19/2013 -&nbsp;<a href="http://musichackathonjan2012-srch.eventbrite.com/"><strong>Monthly Music Hackathon NYC January 2013</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Providence, RI</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>02/02/2013 -&nbsp;<a href="http://downcityjs2013-srch.eventbrite.com/"><strong>DowncityJS</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Redwood City, CA</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/25/2013 -&nbsp;<a href="http://mobileapppa4-srch.eventbrite.com/"><strong>AT&amp;T Mobile App Hackathon - Palo Alto</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>San Francisco, CA</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/24/2013 -&nbsp;<a href="http://gddf12-srch.eventbrite.com/"><strong>AngelHack Global Demo Day Fall 2012</strong></a>
-              </li>
-              <li>02/02/2013 -&nbsp;<a href="http://dw13hack-srch.eventbrite.com/"><strong>DeveloperWeek 2013 Hackathon!</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Shaker Heights, OH</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>01/25/2013 -&nbsp;<a href="http://clevelandggj2013-srch.eventbrite.com/"><strong>Cleveland Global Game Jam 2013</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Tampa,</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>12/21/2012 -&nbsp;<a href="http://www.eventbrite.com/event/4970876024/SRCH"><strong>Sixth Annual Tampa Winter Games and NETMF Hackathon</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2">
-            <strong>Washington, DC</strong>
-          </td>
-        </tr>
-        <tr>
-          <td width="5%">
-            &nbsp;
-          </td>
-          <td>
-            <ul>
-              <li>02/23/2013 -&nbsp;<a href="http://opendataday2013dc-srch.eventbrite.com/"><strong>Open Data Day 2013 Hackathon - DC Metro Area</strong></a>
-              </li>
-            </ul>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-    <p>
-      If we missed one please let us know, and for a full calendar of hackathon events visit the&nbsp;<a title="Hackathon Calendar" href="http://hackweekends.com/">main hackathon calendar</a>.
-    </p>
+    These are the hackathons we are tracking on at&nbsp;Hack Weekends.It looks like about 21 different events in the United States.Ann Arbor, MI &nbsp; 01/24/2013 -&nbsp;Windows 8 Dev Unleashed - Ann
+    Arbor 02/01/2013 -&nbsp;MHacks - Hackathon at University of Michigan Bloomington, IN &nbsp; 12/21/2012 -&nbsp;Sprout - Hackathon 2 12/28/2012 -&nbsp;Sprout - Hackathon 3 01/04/2013 -&nbsp;Sprout
+    - Hackathon 4 01/11/2013 -&nbsp;Sprout - Hackathon 5 01/18/2013 -&nbsp;Sprout - Hackathon 6 01/25/2013 -&nbsp;Sprout - Hackathon 7 Cambridge, MA &nbsp; 01/25/2013 -&nbsp;Beanpot Hackathon: Boston
+    Student Hackers Las Vegas, NV &nbsp; 01/05/2013 -&nbsp;ATT Developer Summit Hackathon Los Angeles, CA &nbsp; 01/19/2013 -&nbsp;Windows 8 Unleashed brought to you by Microsoft and GITLA New York,
+    NY &nbsp; 12/17/2012 -&nbsp;The Anatomy of a Hackathon 01/19/2013 -&nbsp;Monthly Music Hackathon NYC January 2013 Providence, RI &nbsp; 02/02/2013 -&nbsp;DowncityJS Redwood City, CA &nbsp;
+    01/25/2013 -&nbsp;AT&amp;T Mobile App Hackathon - Palo Alto San Francisco, CA &nbsp; 01/24/2013 -&nbsp;AngelHack Global Demo Day Fall 2012 02/02/2013 -&nbsp;DeveloperWeek 2013 Hackathon!Shaker
+    Heights, OH &nbsp; 01/25/2013 -&nbsp;Cleveland Global Game Jam 2013 Tampa, &nbsp; 12/21/2012 -&nbsp;Sixth Annual Tampa Winter Games and NETMF Hackathon Washington, DC &nbsp; 02/23/2013
+    -&nbsp;Open Data Day 2013 Hackathon - DC Metro Area If we missed one please let us know, and for a full calendar of hackathon events visit the&nbsp;main hackathon calendar.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

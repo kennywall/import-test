@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Social Programming Platform
-url: http://kinlane.com/2007/10/25/social-programming-platform/
-source: http://kinlane.com/2007/10/25/social-programming-platform/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2007/10/25/social-programming-platform/
+source: http://apievangelist.com/2007/10/25/social-programming-platform/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,16 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Ok. Now that I have been blogging somewhat successfully (what is successfully), I am starting to develop a rhythm. It is pretty erratic, but it is starting to flow and develop a voice. Well at
-    least to me.<br />
-    <br />
-    So if you wish to read this blog it is more for my head to keep track and formulate some of the thoughts I am having about my evolution in the <a href="http://www.web20squad.us/">Social Media
-    Space</a>.<br />
-    <br />
-    This blog is based upon a mind map I am creating in MindMeister, and will be publishing it to my <a href="http://www.kinlane.com/">Kin Lane</a> web site as soon as it matures a little bit.<br />
-    <br />
-    So these are going to be pretty random, as I can I will link off the mind map as I publish it and / or I will try to outline off my site and link to each blog in some organized fashion, as I make
-    sense of it.
+    Ok.Now that I have been blogging somewhat successfully (what is successfully), I am starting to develop a rhythm.It is pretty erratic, but it is starting to flow and develop a voice.Well at least
+    to me.So if you wish to read this blog it is more for my head to keep track and formulate some of the thoughts I am having about my evolution in the Social Media Space.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2007/10/25/social-programming-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

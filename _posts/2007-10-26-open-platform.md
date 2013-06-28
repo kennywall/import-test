@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Open Platform
-url: http://kinlane.com/2007/10/26/open-platform/
-source: http://kinlane.com/2007/10/26/open-platform/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2007/10/26/open-platform/
+source: http://apievangelist.com/2007/10/26/open-platform/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,22 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    To achieve the perfect platform for how I operate and think I don't think one company can deliver by themselves.<br />
-    <br />
-    To create the perfect suite or set of tools that I need to operate on a daily basis I need different applications that interact and operate on a common standard and interface.<br />
-    <br />
-    I need to be able to try different perspectives and approaches.<br />
-    <br />
-    If an application doesn't work for me I need to be able to say NO! This doesn't work dammit, and show me others like it so I can try more.<br />
-    <br />
-    I don't want to have to worry about my data, it stays with me!<br />
-    <br />
-    I fire up the new application and it works for me, and my data is all in there.<br />
-    <br />
-    Sure the bigs boyz can fight over who will give me my base platform. Google works for me, but Yahoo may for you. Windows Live maybe be a better option.<br />
-    <br />
-    However you need to let vendors share their warez and offer them to me in a safe environment. They can peddle whole systems or just objects and features. Maybe they can perform a service for me.
-    Something like Salesforce Appshare with a more Firefox Add-on feel.
+    To achieve the perfect platform for how I operate and think I dont think one company can deliver by themselves.To create the perfect suite or set of tools that I need to operate on a daily basis
+    I need different applications that interact and operate on a common standard and interface.I need to be able to try different perspectives and approaches.If an application doesnt work for me I
+    need to be able to say NO!This doesnt work dammit, and show me others like it so I can try more.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2007/10/26/open-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

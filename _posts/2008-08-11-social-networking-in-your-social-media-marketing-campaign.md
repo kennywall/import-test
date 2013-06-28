@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Social Networking in Your Social Media Marketing Campaign
-url: http://kinlane.com/2008/08/11/social-networking-in-your-social-media-marketing-campaign/
-source: http://kinlane.com/2008/08/11/social-networking-in-your-social-media-marketing-campaign/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/08/11/social-networking-in-your-social-media-marketing-campaign/
+source: http://apievangelist.com/2008/08/11/social-networking-in-your-social-media-marketing-campaign/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,11 @@ image:
     <title></title>
   </head>
   <body>
-    Social Networks are a phenomenon amongst the younger generation of Internet uses, and has continue to grow in popularity amongst old users as well. The next growth in social network sites and
-    usage will be among business users with networks such as LinkedIn. The business usage of social networks is still in its infancy and many small and large companies are struggling to understand
-    how to best leverage for their own uses as well as being able to sanction usage by their employees.There are many large successful social network sites that give you access to millions of users
-    in various demographic ranges. These large social networks provide a great opportunity for you business to setup and maintain a healthy presence and network with many users.There are also many
-    niche social networks popping up on the Internet today which cater to very specific demographic audience usually in a very focused topical area. These niche social network sites provide a very
-    targeted opportunity for you to reach and interact with your audience.Social Networks provide a wonderful opportunity for you to monitor and participate in the conversation, build knowledge and
-    wisdom from that conversation and also stream your presence back out to your audience increasing the awareness of your company its products, services and brand.
-    <ul class="servicelist">
-      <li>Launch Social Network
-      </li>
-      <li>Major Social Network Profile Management
-      </li>
-      <li>Niche Social Network Profile management
-      </li>
-      <li>Social Network Application Development
-      </li>
-    </ul>Choose from our services above to get more details on specific social media marketing services areas.
+    Social Networks are a phenomenon amongst the younger generation of Internet uses, and has continue to grow in popularity amongst old users as well.The next growth in social network sites and
+    usage will be among business users with networks such as LinkedIn.The business usage of social networks is still in its infancy and many small and large companies are struggling to understand how
+    to best leverage for their own uses as well as being able to sanction usage by their employees.There are many large successful social network sites that give you access to millions of users in
+    various demographic ranges.These large social networks provide a great opportunity for you business to setup and maintain a healthy presence and network with many users.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/08/11/social-networking-in-your-social-media-marketing-campaign/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

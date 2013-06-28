@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Work Management vs. Social Networking
-url: http://kinlane.com/2008/12/30/work-management-vs-social-networking/
-source: http://kinlane.com/2008/12/30/work-management-vs-social-networking/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/12/30/work-management-vs-social-networking/
+source: http://apievangelist.com/2008/12/30/work-management-vs-social-networking/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,38 +13,11 @@ image:
     <title></title>
   </head>
   <body>
-    When I start working I tend to open a handful of work-based applications that I need open all the time while I work. A few of the must have applications are:
-    <ul class="mainlist">
-      <li>Google Home Page
-      </li>
-      <li>GMail
-      </li>
-      <li>Google Calendar
-      </li>
-      <li>Eclipse
-      </li>
-      <li>SQL Server Manager
-      </li>
-      <li>Remote Desktop
-      </li>
-    </ul>A few applications that I open up that are not critical, but allow me to communicate and manage my network are:
-    <ul class="mainlist">
-      <li>Skype
-      </li>
-      <li>Windows Live Messenger
-      </li>
-      <li>Yahoo
-      </li>
-      <li>Facebook
-      </li>
-      <li>Myspace
-      </li>
-      <li>LinkedIn
-      </li>
-      <li>Twitter
-      </li>
-    </ul>Just shows how some applicaitons become business critical for me and others are not. Seems I could get more done business wise within my Facebook or LinkedIn profiles. Need more applications
-    and tools for doing this.
+    When I start working I tend to open a handful of work-based applications that I need open all the time while I work.A few of the must have applications are: Google Home Page GMail Google Calendar
+    Eclipse SQL Server Manager Remote Desktop A few applications that I open up that are not critical, but allow me to communicate and manage my network are: Skype Windows Live Messenger Yahoo
+    Facebook Myspace LinkedIn Twitter Just shows how some applicaitons become business critical for me and others are not.Seems I could get more done business wise within my Facebook or LinkedIn
+    profiles.Need more applications and tools for doing this.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/12/30/work-management-vs-social-networking/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

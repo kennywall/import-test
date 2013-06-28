@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Facebook Application Development
-url: http://kinlane.com/2007/12/07/facebook-application-development/
-source: http://kinlane.com/2007/12/07/facebook-application-development/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2007/12/07/facebook-application-development/
+source: http://apievangelist.com/2007/12/07/facebook-application-development/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,18 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    Been spending more time lately thinking about Facebook Application Development for small businesses.<br />
-    <br />
-    Was reading Andrew McAfee talking about <a class="title" href="http://blog.hbs.edu/faculty/amcafee">The Impact of Information Technology (IT) on Businesses and their Leaders</a> and talking about
-    <span class="blogcontenthead">Facebook AS the Intranet.<br />
-    <br />
-    Was also talking with another acquaintance about the usage of Facebook as a learning platform for K-12.<br />
-    <br />
-    I really feel Facebook as a big role to play in the next generation of business and learning. The youth have adopted it and I think it will grow from there.<br />
-    <br />
-    Has a lot of potential because you can still retain some level of control over your application and leverage the Facebook community to reach your audience.<br />
-    <br />
-    More to come...<br /></span>
+    Been spending more time lately thinking about Facebook Application Development for small businesses.Was reading Andrew McAfee talking about The Impact of Information Technology (IT) on Businesses
+    and their Leaders and talking about Facebook AS the Intranet.Was also talking with another acquaintance about the usage of Facebook as a learning platform for K-12.I really feel Facebook as a big
+    role to play in the next generation of business and learning.The youth have adopted it and I think it will grow from there.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2007/12/07/facebook-application-development/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

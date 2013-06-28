@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Twitter Redirect
-url: http://kinlane.com/2008/08/16/twitter-redirect/
-source: http://kinlane.com/2008/08/16/twitter-redirect/
-domain: kinlane.com
-image: http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s320/Twit+Redirect+1.jpg
+url: http://apievangelist.com/2008/08/16/twitter-redirect/
+source: http://apievangelist.com/2008/08/16/twitter-redirect/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,22 +13,9 @@ image: http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo
     <title></title>
   </head>
   <body>
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s1600-h/Twit+Redirect+1.jpg"><img style=
-    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 272px; height: 175px;" src="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s320/Twit+Redirect+1.jpg"
-    alt="" id="BLOGGER_PHOTO_ID_5235343435752994194" border="0" name="BLOGGER_PHOTO_ID_5235343435752994194" /></a><br />
-    I was just reading a Techcrunch blog post on the the local services market Workstir.com.<br />
-    <br />
-    I went and signed up to be notified for the private beta.<br />
-    <br />
-    Then after I signed up it gave me the following option on the thank you page:<br />
-    <br />
-    <span style="font-style: italic;">In the meantime, if you could help us out by tweeting about Workstir, that would be amazing!</span><br />
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetNrKtmEI/AAAAAAAAA3o/wqysqB904EA/s1600-h/Twit+Redirect+2.jpg"><img style=
-    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer; width: 269px; height: 258px;" src="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetNrKtmEI/AAAAAAAAA3o/wqysqB904EA/s320/Twit+Redirect+2.jpg"
-    alt="" id="BLOGGER_PHOTO_ID_5235343542279051330" border="0" name="BLOGGER_PHOTO_ID_5235343542279051330" /></a><br />
-    It gave me a twitter login, then took me to the twitter site.<br />
-    <br />
-    Pretty smooth move, I just helped them in their social media marketing.
+    I was just reading a Techcrunch blog post on the the local services market Workstir.com.I went and signed up to be notified for the private beta.Then after I signed up it gave me the following
+    option on the thank you page:In the meantime, if you could help us out by tweeting about Workstir, that would be amazing!It gave me a twitter login, then took me to the twitter site.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/08/16/twitter-redirect/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

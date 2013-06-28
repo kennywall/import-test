@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Alltop...Guys Latest...
-url: http://kinlane.com/2008/03/06/alltopguys-latest/
-source: http://kinlane.com/2008/03/06/alltopguys-latest/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/03/06/alltopguys-latest/
+source: http://apievangelist.com/2008/03/06/alltopguys-latest/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,17 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Was just checking out <a href="http://www.guykawasaki.com/">Guy Kawasaki's</a> latest project <a href="http://alltop.com/">Alltop</a>.<br />
-    <br />
-    The site layout instantly sucked me in.<br />
-    <br />
-    Couldn't get past the grey bar layer at first. Actually after i got over it....it forced me to really focus on the content.....interesting approach.<br />
-    <br />
-    The sites that are already in my sights within the categories I care about were nothing new. However the introduction to a few new categories was nice.<br />
-    <br />
-    Fresh information....fresh approach.<br />
-    <br />
-    Thanks.
+    Was just checking out Guy Kawasakis latest project Alltop.The site layout instantly sucked me in.Couldnt get past the grey bar layer at first.Actually after i got over it.it forced me to really
+    focus on the content.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/03/06/alltopguys-latest/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

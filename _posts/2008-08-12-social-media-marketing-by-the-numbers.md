@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Social Media Marketing By The Numbers
-url: http://kinlane.com/2008/08/12/social-media-marketing-by-the-numbers/
-source: http://kinlane.com/2008/08/12/social-media-marketing-by-the-numbers/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/08/12/social-media-marketing-by-the-numbers/
+source: http://apievangelist.com/2008/08/12/social-media-marketing-by-the-numbers/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -15,4 +15,5 @@ image:
   <body>
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/08/12/social-media-marketing-by-the-numbers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

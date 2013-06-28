@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Migrating My Automation Services Beyond Free
-url: http://kinlane.com/2013/03/28/migrating-my-automation-services-beyond-free/
-source: http://kinlane.com/2013/03/28/migrating-my-automation-services-beyond-free/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/IFTTT-logo.jpeg
+url: http://apievangelist.com/2013/03/28/migrating-my-automation-services-beyond-free/
+source: http://apievangelist.com/2013/03/28/migrating-my-automation-services-beyond-free/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,34 +13,10 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/IFTT
     <title></title>
   </head>
   <body>
-    <p>
-      <a href="https://ifttt.com/"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-logo.jpeg" alt="" width="225" align="right" /></a>
-    </p>
-    <p>
-      I depend on <a href="https://ifttt.com/">If This Then That (IFTTT)</a> to move data around the cloud. &nbsp;I syndicate blog posts from <a href="http://apievangelist.com">API Evangelist</a> to
-      Blogger and Tumblr. &nbsp;This isn't just blind syndication, it is SEO and also plan B scenarios to make sure my content exists in multiple areas.
-    </p>
-    <p>
-      When it comes to the IT decisions for API Evangelist, I carefully evaluate what services I use. &nbsp;If I begin to depend on an account, after 6 months I need to start paying a fee to secure
-      some sort of quality of service (QOS). &nbsp;This is how I roll.
-    </p>
-    <p>
-      Not all platorms allow for this. &nbsp;In my opinion, all FREE platforms should have <a href="http://apievangelist.com/2012/05/31/provide-release-valves-for-api-rate-limits/">relief valves for
-      users</a> like me, who want to move to some sort of paid account, assuring me some sort of service level agreement (SLA) or I'll move away.
-    </p>
-    <p>
-      For example: Once I started using Evernote regularly, I moved to the premium level. &nbsp;I bought into Pinboard at an early rate, once I was hooked. &nbsp;Inversely, I can't pay for Twitter,
-      Facebook and some Google services. &nbsp;Today it is about IFTT.
-    </p>
-    <p>
-      In light of me losing Google Reader I'm taking a hard look at all my services. &nbsp;IFTT is on the chopping block.
-    </p>
-    <p>
-      I have about 20-30 jobs running at IFTTT, moving data around between my cloud services, in a way I depend on. &nbsp;I need to move this into the realm of premium or paid services. &nbsp;
-    </p>
-    <p>
-      What are your thoughts? &nbsp;Sell me on your service.
-    </p>
+    I depend on If This Then That (IFTTT) to move data around the cloud.&nbsp;I syndicate blog posts from API Evangelist to Blogger and Tumblr.&nbsp;This isnt just blind syndication, it is SEO and
+    also plan B scenarios to make sure my content exists in multiple areas.When it comes to the IT decisions for API Evangelist, I carefully evaluate what services I use.&nbsp;If I begin to depend on
+    an account, after 6 months I need to start paying a fee to secure some sort of quality of service (QOS).
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2013/03/28/migrating-my-automation-services-beyond-free/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

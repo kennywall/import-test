@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Claiming My Blog Posts and Social Profiles
-url: http://kinlane.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
-source: http://kinlane.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/rellinking.png
+url: http://apievangelist.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
+source: http://apievangelist.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,17 +13,10 @@ image: http://kinlane-productions.s3.amazonaws.com/rellinking.png
     <title></title>
   </head>
   <body>
-    <img src="http://kinlane-productions.s3.amazonaws.com/rellinking.png" alt="" width="350" align="right" />I made some more changes to my network over the holidays. I'm working to better tie
-    together my blog(s) and my social network profiles using the <a title="rel= property" href="http://www.w3schools.com/jsref/prop_link_rel.asp">rel="" property</a>. The process is a three part
-    process, meant to link the various places I write with my author brand, that is represented in my social network profiles, most importantly Google +. I write on several blogs and I want the
-    authorship of my work to be linked back to my <a title="Google + Profile" href="https://plus.google.com/106460238807821851374/">Google + profile</a>. I'm very Google centric, so in my network
-    this is the most important profile in my network. This also feeds into my overall SEO strategy which is another story. I started by created two separate author pages on my two blogs. <a title=
-    "Kin Lane" href="http://www.kinlane.com/about/">Kin Lane</a> and <a title="API Evangelist" href="http://blog.apievangelist.com/about/">API Evangelist</a>. Then I updated all of my blog posts
-    within those domains to link my author name to those respective about pages, and include the rel='author' link. This attributes each post to me, the author. Then on those about me pages I listed
-    my social network profiles, most importantly Google +, and included the link rel='me'. This attributes each of these social network profiles as my profile pages. The final link is on my Google +
-    Profile page I make sure and add link to both my blogs, and include the option "This page is specifically about me", which automatically includes the rel='me' property for each of the links. All
-    of this completes a circle showing that I am the author of my blog posts, and associating these blog posts with my Google Profile. Google will now recongize that these profile pages and blog
-    posts are associated with my Google Profile. This all results in improving my author brand in eyes of Google, and since Google dominates the web, the eyes of the Internet.
+    I made some more changes to my network over the holidays.Im working to better tie together my blog(s) and my social network profiles using the rel= property.The process is a three part process,
+    meant to link the various places I write with my author brand, that is represented in my social network profiles, most importantly Google +.I write on several blogs and I want the authorship of
+    my work to be linked back to my Google + profile.Im very Google centric, so in my network this is the most important profile in my network.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/07/05/claiming-my-blog-posts-and-social-profiles/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

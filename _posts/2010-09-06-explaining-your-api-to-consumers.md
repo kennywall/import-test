@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Explaining Your API to Consumers
-url: http://kinlane.com/2010/09/06/explaining-your-api-to-consumers/
-source: http://kinlane.com/2010/09/06/explaining-your-api-to-consumers/
-domain: kinlane.com
-image: http://sdkbridge.com/images/ui/SDKBridge-logo.gif
+url: http://apievangelist.com/2010/09/06/explaining-your-api-to-consumers/
+source: http://apievangelist.com/2010/09/06/explaining-your-api-to-consumers/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,27 +13,11 @@ image: http://sdkbridge.com/images/ui/SDKBridge-logo.gif
     <title></title>
   </head>
   <body>
-    The ability to explain your API to developers and potential consumers is critical to the success of your API Ecosystem. Whether its core API docs, samples, training materials or marketing
-    materials your documentation needs to tell the story of your API and the business problems it solves. <img class="alignnone" style="padding: 15px;" title="SDK Bridge" src=
-    "http://sdkbridge.com/images/ui/SDKBridge-logo.gif" alt="" width="250" align="right" />I was just reviewing services offered by <a href="http://sdkbridge.com/index.php" target="_blank">SDK
-    Bridge</a>. They had me with the bullets points of their services on their home page:
-    <ul class="mainlist">
-      <li>API Documentation�both conceptual and reference
-      </li>
-      <li>Sample code and tutorials
-      </li>
-      <li>Highly technical copywriting
-      </li>
-      <li>Training sessions on how to use software platforms
-      </li>
-      <li>Technology classes for youth
-      </li>
-      <li>We work remotely or on-site with your development team
-      </li>
-    </ul>Then they really drive it home by stating they are the <strong><em>bridge between people and technology</em></strong>. So very true. Quality <a href="http://sdkbridge.com/index.php" target=
-    "_blank">documentation and reference material for your Application Programming Interface</a> (API) can be the difference between a developer adopting your API or moving on to another vendor. I'm
-    adding <a href="http://sdkbridge.com/index.php" target="_blank">SDK Bridge</a> to my list of API service providers that can help you deliver a more comprehensive <a href=
-    "http://www.kinlane.com/category/application-program-interface/api-ecosystem/" target="_blank">API Ecosystem</a>.
+    The ability to explain your API to developers and potential consumers is critical to the success of your API Ecosystem.Whether its core API docs, samples, training materials or marketing
+    materials your documentation needs to tell the story of your API and the business problems it solves.I was just reviewing services offered by SDK Bridge.They had me with the bullets points of
+    their services on their home page: API Documentation�both conceptual and reference Sample code and tutorials Highly technical copywriting Training sessions on how to use software platforms
+    Technology classes for youth We work remotely or on-site with your development team Then they really drive it home by stating they are the bridge between people and technology.So very true.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/09/06/explaining-your-api-to-consumers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

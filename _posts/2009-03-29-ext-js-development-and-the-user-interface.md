@@ -1,10 +1,10 @@
 ---
 layout: post
 title: EXT JS development and the user interface
-url: http://kinlane.com/2009/03/29/ext-js-development-and-the-user-interface/
-source: http://kinlane.com/2009/03/29/ext-js-development-and-the-user-interface/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/03/29/ext-js-development-and-the-user-interface/
+source: http://apievangelist.com/2009/03/29/ext-js-development-and-the-user-interface/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,11 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    I have been doing a lot of development lately using the EXTJS framework. I have been setting it up to consume JSON from Web Services I have been setting up. At first it was cumbersome to even get
-    some basic administrative tools setup and working. The more I setup the fast it gets though. I am creating various basic controls that are pre-configured to just ping a CFC and get their data. It
-    works pretty smooth. And I must say I am really enjoying not screwing around with an of the visual of a site. Its all consistently basic ExtJS styles. I could style out more if I wanted to. I
-    have never been the best UI developer, I get the business and back-end layers better. I know what makes a good interface, it is hard to just create the CSS and Graphics for it. So I really enjoy
-    EXTJS. It helps me make a consistent and usable administrative system. With the different panels and controls you can really mix and match and make some sweet tools.
+    I have been doing a lot of development lately using the EXTJS framework.I have been setting it up to consume JSON from Web Services I have been setting up.At first it was cumbersome to even get
+    some basic administrative tools setup and working.The more I setup the fast it gets though.I am creating various basic controls that are pre-configured to just ping a CFC and get their data.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/03/29/ext-js-development-and-the-user-interface/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

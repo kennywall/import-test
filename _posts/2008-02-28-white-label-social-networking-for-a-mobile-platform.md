@@ -1,10 +1,10 @@
 ---
 layout: post
 title: White Label Social Networking for a Mobile Platform
-url: http://kinlane.com/2008/02/28/white-label-social-networking-for-a-mobile-platform/
-source: http://kinlane.com/2008/02/28/white-label-social-networking-for-a-mobile-platform/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/02/28/white-label-social-networking-for-a-mobile-platform/
+source: http://apievangelist.com/2008/02/28/white-label-social-networking-for-a-mobile-platform/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,31 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    I have been playing with Ning a lot lately and really pushing it to see its potential for a rapid social network deployment.<br />
-    <br />
-    It is very powerful and gives you a huge amount control over setting up a social network.<br />
-    <br />
-    Now I heard about a new white label social networking platform for mobile and handhelds. It is called <a href="http://www.iamotaimpact.com/en/">iamota impact</a>.<br />
-    <br />
-    It allows you to:<br />
-    <ul class="mainlist">
-      <li>Quickly and easily create and launch mobile services.
-      </li>
-      <li>Add mobile "Opt-ins" to many types of media: Web, blogs, email, social networks, TV, print, billboards, bus boards, on-product, radio, POS, live events
-      </li>
-    </ul>And it gives you:<br />
-    <ul class="mainlist">
-      <li>Single interface to power mobile marketing, messaging, social networking, location-based services, content delivery and payment
-      </li>
-      <li>Handles all wireless carrier certifications, device-specific content optimizations, digital rights management, carrier and Mobile Marketing Association rules
-      </li>
-      <li>Open API and custom mobile services
-      </li>
-      <li>Financial clearing and settlement
-      </li>
-      <li>Reporting and statistics
-      </li>
-    </ul>It looks like the start of a pretty sweet service. It is a little pricey, but as we see more competition in this space I think we'll see more FREE and low cost solutions.
+    I have been playing with Ning a lot lately and really pushing it to see its potential for a rapid social network deployment.It is very powerful and gives you a huge amount control over setting up
+    a social network.Now I heard about a new white label social networking platform for mobile and handhelds.It is called iamota impact.It allows you to:Quickly and easily create and launch mobile
+    services.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/02/28/white-label-social-networking-for-a-mobile-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

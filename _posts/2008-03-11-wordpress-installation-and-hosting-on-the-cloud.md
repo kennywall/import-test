@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Wordpress Installation and Hosting on the Cloud
-url: http://kinlane.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
-source: http://kinlane.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
+source: http://apievangelist.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Just got a request to install Wordpress blog for a client that will potentially receive a large amount of traffic.<br />
-    <br />
-    So I opted to use the Mosso.com Cloud Hosting Platform by Rackspace. Took me less than 10 minutes to setup the site, install, and configure the Wordpress blog.<br />
-    <br />
-    In my Mosso.com admin interface and added a new web site, chose to use PHP 5 as core technology and chose mysql as the database.<br />
-    <ul class="mainlist">
-      <li>Once setup and created a MySQL database.
-      </li>
-      <li>I FTP'ed the unzipped wordpress contents.
-      </li>
-      <li>Updated the wp-config.php file.
-      </li>
-      <li>Ran the install.<br />
-      </li>
-    </ul>Then I was done. A scalable Wordpress installation that will handle a large volume of traffic and hosting is cheap. I could offer as low as $4.95 / month.<br />
-    <br />
-    May just do that.
+    Just got a request to install Wordpress blog for a client that will potentially receive a large amount of traffic.So I opted to use the Mosso.com Cloud Hosting Platform by Rackspace.Took me less
+    than 10 minutes to setup the site, install, and configure the Wordpress blog.In my Mosso.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

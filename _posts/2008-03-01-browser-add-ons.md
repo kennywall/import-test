@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Browser Add Ons
-url: http://kinlane.com/2008/03/01/browser-add-ons/
-source: http://kinlane.com/2008/03/01/browser-add-ons/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/03/01/browser-add-ons/
+source: http://apievangelist.com/2008/03/01/browser-add-ons/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,29 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    I am pretty addicted to to Firefox Browser Add-Ons. I have many of them to the point of add-on overload.<br />
-    <br />
-    I use them for adding items to my Google Notebook, Amazon S3, CoComment, and much more.<br />
-    <br />
-    I syndicate and share to many social networks, social bookmarking, and other sharing sites.<br />
-    <br />
-    I do all this through Firefox. So recently I have been using Firefox for a primary business function which requires a cookie. So I need to use Internet Explorer for my personal online view.<br />
-    <br />
-    I pay attention to my Google Information and other stuff. All of a sudden I feel lost without my add-ons. I try to right click to add things to my Google Notebook, I try to share. NOTHING.<br />
-    <br />
-    So I go to search the Internet Explorer Add-Ons. There really isn't much? Whats the deal?<br />
-    <br />
-    Why is there such a movemtn behind firefox on this? I couldn't live without my browser and add-ons? Is this not ordinary?<br />
-    <br />
-    Internet Exlporer still has like 60+ % market share. Why isn't there a browser add-on movement?<br />
-    <br />
-    I am working on the specs for a firefox add-on specification. I worry that mainstream doesn't get it and will never adop browser toolbars and add-ons.<br />
-    <br />
-    Browser Tools have become more important to me than desktop tools. The only desktop tools I stil use are Dreamweaver. Everything else is in my browser.<br />
-    <br />
-    I know I am not the normal. Is this weird.<br />
-    <br />
-    Just trying to understand why Internet Explorer with such huge market share does not have the add-on following?
+    I am pretty addicted to to Firefox Browser Add-Ons.I have many of them to the point of add-on overload.I use them for adding items to my Google Notebook, Amazon S3, CoComment, and much more.I
+    syndicate and share to many social networks, social bookmarking, and other sharing sites.I do all this through Firefox.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/03/01/browser-add-ons/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

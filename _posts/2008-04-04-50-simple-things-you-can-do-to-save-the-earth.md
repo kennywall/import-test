@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 50 Simple Things You Can Do to Save the Earth
-url: http://kinlane.com/2008/04/04/50-simple-things-you-can-do-to-save-the-earth/
-source: http://kinlane.com/2008/04/04/50-simple-things-you-can-do-to-save-the-earth/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/04/04/50-simple-things-you-can-do-to-save-the-earth/
+source: http://apievangelist.com/2008/04/04/50-simple-things-you-can-do-to-save-the-earth/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,20 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    My wife and I just finished launching a new site for a client called <a href="http://www.50simplethings.com/">50 Simple Things You Can Do to Save the Earth</a>. It is the revised, updated edition
-    of a book originally released in the 1990's and was New York Times bestseller.<br />
-    <br />
-    We have been working hard for 3 months to design, develop and launch the site to support he book's release by Earth Day.<br />
-    <br />
-    It is a significant site for us. It is our first major release on the <a href="http://www.originalwebsolutions.com">Original Web Solutions Version 4.0 Architecture</a> and if I must say is a
-    really nice site.<br />
-    <br />
-    We are really proud of the design and architecture. It uses the <a href="http://www.originalwebsolutions.com">OWS Network</a> build methodology deployed on the <a href=
-    "http://www.mosso.com/">Mosso Hosting Cloud</a> to support the amount of traffic. In the first 12 hours we have had 500 people.<br />
-    <br />
-    Also this site is exciting because of its simple approach to enlightening the world about little things they can do to save the world!<br />
-    <br />
-    Make sure and check it out. <a href="http://www.50simplethings.com">www.50simplethings.com</a>.
+    My wife and I just finished launching a new site for a client called 50 Simple Things You Can Do to Save the Earth.It is the revised, updated edition of a book originally released in the 1990s
+    and was New York Times bestseller.We have been working hard for 3 months to design, develop and launch the site to support he books release by Earth Day.It is a significant site for us.It is our
+    first major release on the Original Web Solutions Version 4.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/04/04/50-simple-things-you-can-do-to-save-the-earth/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

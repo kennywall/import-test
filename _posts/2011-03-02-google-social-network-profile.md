@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Google Social Network Profile
-url: http://kinlane.com/2011/03/02/google-social-network-profile/
-source: http://kinlane.com/2011/03/02/google-social-network-profile/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/google/Kin-Lane-Google-Profile.png
+url: http://apievangelist.com/2011/03/02/google-social-network-profile/
+source: http://apievangelist.com/2011/03/02/google-social-network-profile/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,12 +13,9 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Kin-Lane-Google-Profil
     <title></title>
   </head>
   <body>
-    I like my new <a title="Google Profile" href="https://profiles.google.com/kinlane/about">Google Profile</a>. Its a cleaner, more organized version of its former self. <a title="Google Profile"
-    href="https://profiles.google.com/kinlane/about"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google/Kin-Lane-Google-Profile.png" alt="" width="550" align=
-    "center" /></a> I see the Google Social Network coming together in slow motion around my existing Google applications. Its not the walled garden method of Facebook. I would call it a rolling
-    meadows method, where the different pieces are hills apart at moment, but are slowly being connected. <a title="Google Profiles" href="http://www.google.com/profiles">Google Profile</a> has all
-    the basic social network profile elements: Info, Pics, Links and Social Stream with Buzz. It has location baked in, and I can see them introducing the ability to add tabs for other applications
-    next. I think Google has a much wider view of what the future of social network is, its going to take some time to come into focus.
+    I like my new Google Profile.Its a cleaner, more organized version of its former self.I see the Google Social Network coming together in slow motion around my existing Google applications.Its not
+    the walled garden method of Facebook.I would call it a rolling meadows method, where the different pieces are hills apart at moment, but are slowly being connected.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/03/02/google-social-network-profile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

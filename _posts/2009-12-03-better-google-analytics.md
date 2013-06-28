@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Better Google Analytics
-url: http://kinlane.com/2009/12/03/better-google-analytics/
-source: http://kinlane.com/2009/12/03/better-google-analytics/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/12/03/better-google-analytics/
+source: http://apievangelist.com/2009/12/03/better-google-analytics/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    I have been playing with a new tool that gives you more control over your Google Analytics called <a href="http://www.trakkboard.com/en">Trakkboard</a>. Google Analytics gives you a lot of tools,
-    probably more than you really ever use. However I am always looking for new takes on how to access and absorb all of the data they give you. <a href="http://www.trakkboard.com/en">Trakkboard</a>
-    gives you the opportunity to:
-    <ul class="mainlist">
-      <li>compare data from several Google Analytics accounts with each other.
-      </li>
-      <li>follow current developments from your desktop.
-      </li>
-      <li>summarize the most important <a class="zem_slink" title="Key performance indicator" rel="wikipedia" href="http://en.wikipedia.org/wiki/Key_performance_indicator">key performance
-      indicators</a> on just one dashboard.
-      </li>
-    </ul>I will give more data as I play with. I was hoping to get more "dashboard" style tools to be able to give executives and managers access to overview data. We'll see how it goes.
-    <div id="_mcePaste" style="overflow: hidden; position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px;">
-      <h1 class="grey">
-        <span class="red">Trakk</span>Board
-      </h1>
-    </div>
+    I have been playing with a new tool that gives you more control over your Google Analytics called Trakkboard.Google Analytics gives you a lot of tools, probably more than you really ever
+    use.However I am always looking for new takes on how to access and absorb all of the data they give you.Trakkboard gives you the opportunity to: compare data from several Google Analytics
+    accounts with each other.follow current developments from your desktop.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/12/03/better-google-analytics/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

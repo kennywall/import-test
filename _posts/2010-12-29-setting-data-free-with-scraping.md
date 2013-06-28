@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Setting Data Free with Scraping
-url: http://kinlane.com/2010/12/29/setting-data-free-with-scraping/
-source: http://kinlane.com/2010/12/29/setting-data-free-with-scraping/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg
+url: http://apievangelist.com/2010/12/29/setting-data-free-with-scraping/
+source: http://apievangelist.com/2010/12/29/setting-data-free-with-scraping/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,11 @@ image: http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg
     <title></title>
   </head>
   <body>
-    <img src="http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg" alt="" align="right" />I was just reading <a href=
-    "http://blog.programmableweb.com/2010/12/29/setting-government-data-free-with-scraperwiki/">Setting Government Data Free with ScraperWiki</a> from <a href=
-    "http://www.programmableweb.com">ProgrammableWeb</a>. It led me to start playing with <a href="http://scraperwiki.com/">ScraperWiki</a>:
-    <ul class="mainlist">
-      <li>
-        <a href="http://en.wikipedia.org/wiki/Web_scraping" target="_blank">Scraper</a>: a computer program that copies structured information from webpages into a database
-      </li>
-      <li>
-        <a href="http://scraperwiki.com/about/" target="_blank">ScraperWiki</a>: a website where people can write and repair public web scrapers and invent uses for the data
-      </li>
-    </ul>With 20 years of experience with databases, I have love of data and tools that make data more accessible. Scraping is an important tool in the liberation of data from web-based sources. The
-    data often is restricted by a lack of skills or resources by the owning party. They just don't have time or the understanding on how to publish the data so it is easily accessed and consumed.
-    Other times they may purposely make it difficult to access. I have a pretty mature set of scraping scripts that allow me to pull web pages, consume, iterate and parse the content. I then store as
-    XML files on <a href="http://www.kinlane.com/category/amazon/amazon-s3/">Amazon S3</a>, relational tables in <a href="http://www.kinlane.com/category/amazon/amazon-relational-database/">Amazon
-    RDS</a> or key-value pairs in <a href="http://www.kinlane.com/category/amazon/amazon-simple-database/">Amazon SimpleDB</a>. I like what <a href="http://scraperwiki.com/">ScraperWiki</a> is doing
-    with not only democratizing data, but democratizing the tools and places to store the data. There is a lot of work to be done in liberating data for government, corporate and non-profit groups.
-    We need all the people, tools, and standard processes we can get.
+    I was just reading Setting Government Data Free with ScraperWiki from ProgrammableWeb.It led me to start playing with ScraperWiki: Scraper: a computer program that copies structured information
+    from webpages into a database ScraperWiki: a website where people can write and repair public web scrapers and invent uses for the data With 20 years of experience with databases, I have love of
+    data and tools that make data more accessible.Scraping is an important tool in the liberation of data from web-based sources.The data often is restricted by a lack of skills or resources by the
+    owning party.They just dont have time or the understanding on how to publish the data so it is easily accessed and consumed.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/12/29/setting-data-free-with-scraping/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

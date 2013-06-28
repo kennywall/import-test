@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Denial of Service Attacks
-url: http://kinlane.com/2009/04/13/denial-of-service-attacks/
-source: http://kinlane.com/2009/04/13/denial-of-service-attacks/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
+source: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,19 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Was just reading this post on CloudPundit - <a href="http://cloudpundit.com/2009/04/13/ddos-season/">DDoS season regarding several high profile distributed denial of service (DDoS) attacks</a>.
-    The victims include:
-    <ul class="mainlist">
-      <li>Neustar's UltraDNS. (Problems with specific regional DNS clusters, with little customer-visible impact.)
-      </li>
-      <li>Register.com. (Severe impact on Web hosting and email customers.)
-      </li>
-      <li>GoGrid. (Severe impact on cloud hosting customers.)
-      </li>
-      <li>ThePlanet. (Attack on their DNS servers, with severe impact on customers.)
-      </li>
-    </ul>The Planet even had Cisco Guard appliance in place. Makes me wonder what other cloud providers have in place? With the whole world moving to the cloud, what does Amazon and other players
-    have in place to protect our infrastructure from Distributed Denial of Service Attacks (DDos).
+    Was just reading this post on CloudPundit - DDoS season regarding several high profile distributed denial of service (DDoS) attacks.The victims include: Neustars UltraDNS.(Problems with specific
+    regional DNS clusters, with little customer-visible impact.) Register.com.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/04/13/denial-of-service-attacks/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

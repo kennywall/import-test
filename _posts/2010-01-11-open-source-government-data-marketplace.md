@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Open Source Government Data Marketplace
-url: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
-source: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
+source: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,17 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    Someone needs to create an open source version of <a href="http://www.data.gov/">data.gov</a>. Every city, county and state municipalities need a copy. There needs to be a well written, secure
-    and standards based open source version available. It would be setup identical with:
-    <ul class="mainlist">
-      <li>RAW Data Catalog with XML, CSV, KML, etc data files
-      </li>
-      <li>Tool Catalog or Marketplace
-      </li>
-      <li>GeoData Catalog
-      </li>
-    </ul>It would also give all the links to integrate and share data with other government entities. It would have an FAQ, Share Tools, Blog , etc. It wouldn't be that difficult to develope. Would
-    just need the right specifications and team behind it to make sure it is written securely.
+    Someone needs to create an open source version of data.gov.Every city, county and state municipalities need a copy.There needs to be a well written, secure and standards based open source version
+    available.It would be setup identical with: RAW Data Catalog with XML, CSV, KML, etc data files Tool Catalog or Marketplace GeoData Catalog It would also give all the links to integrate and share
+    data with other government entities.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

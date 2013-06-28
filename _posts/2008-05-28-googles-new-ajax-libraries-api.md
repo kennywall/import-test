@@ -1,38 +1,22 @@
 ---
 layout: post
 title: Google's New AJAX Libraries API
-url: http://kinlane.com/2008/05/28/googles-new-ajax-libraries-api/
-source: http://kinlane.com/2008/05/28/googles-new-ajax-libraries-api/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/05/28/googles-new-ajax-libraries-api/
+source: http://apievangelist.com/2008/05/28/googles-new-ajax-libraries-api/
+domain: apievangelist.com
+image: [Image]
 ---
-{% include JB/setup %}<p><html xmlns="http://www.w3.org/1999/xhtml">
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title></title>
   </head>
   <body>
-    Just came across <a href="http://code.google.com/apis/ajaxlibs/">Google's New AJAX Libraries API.</a> I was wondering when someone was going to merge together all the common JavaScript libraries
-    out there into a single set of libraries.<br />
-    The AJAX Libraries API is a content distribution network and loading architecture for the most popular open source JavaScript libraries. By using the <a href=
-    "http://code.google.com/apis/ajax/documentation/">Google AJAX API Loader's</a> <code>google.load()</code> method, your application has high speed, globaly available access to a growing list of
-    the most popular JavaScript open source libraries including:
-    <ul class="mainlist">
-      <li>
-        <a href="http://code.google.com/apis/ajaxlibs/documentation/index.html#jquery" alt="jQuery.com">jQuery</a>
-      </li>
-      <li>
-        <a href="http://code.google.com/apis/ajaxlibs/documentation/index.html#prototype" alt="prototype">prototype</a>
-      </li>
-      <li>
-        <a href="http://code.google.com/apis/ajaxlibs/documentation/index.html#script_aculo_us" alt="script.aculo.us">script.aculo.us</a>
-      </li>
-      <li>
-        <a href="http://code.google.com/apis/ajaxlibs/documentation/index.html#mootools" alt="MooTools">MooTools</a>
-      </li>
-      <li>
-        <a href="http://code.google.com/apis/ajaxlibs/documentation/index.html#dojo" alt="dojo">dojo</a>
-      </li>
-    </ul>
+    Just came across Googles New AJAX Libraries API.I was wondering when someone was going to merge together all the common JavaScript libraries out there into a single set of libraries.The AJAX
+    Libraries API is a content distribution network and loading architecture for the most popular open source JavaScript libraries.By using the Google AJAX API Loaders google.load() method, your
+    application has high speed, globaly available access to a growing list of the most popular JavaScript open source libraries including: jQueryprototypescript.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/05/28/googles-new-ajax-libraries-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

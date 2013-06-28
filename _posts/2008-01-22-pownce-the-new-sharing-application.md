@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Pownce the New Sharing Application
-url: http://kinlane.com/2008/01/22/pownce-the-new-sharing-application/
-source: http://kinlane.com/2008/01/22/pownce-the-new-sharing-application/
-domain: kinlane.com
-image: http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s320/pownce1.jpg
+url: http://apievangelist.com/2008/01/22/pownce-the-new-sharing-application/
+source: http://apievangelist.com/2008/01/22/pownce-the-new-sharing-application/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,10 @@ image: http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s
     <title></title>
   </head>
   <body>
-    For those of you who don't know Pownce is a application where you can send music, photos, messages, links, events, and more. You can do it all on our web site, or install a lightweight desktop
-    software that lets you get out of the browser.<br />
-    <div style="text-align: right;">
-      <br />
-    </div>It is a pretty interesting little application that allows you to import your contacts from your major networks using Plaxo it looks like.<br />
-    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s1600-h/pownce1.jpg"><img style=
-    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s320/pownce1.jpg" alt="" id=
-    "BLOGGER_PHOTO_ID_5158214487725301698" border="0" name="BLOGGER_PHOTO_ID_5158214487725301698" /></a><br />
-    I like how they <a href="http://www.pownce.com/about/">describe how Pownce is made</a>, check it out.<br />
-    <br />
-    They have an API as well that lets you access the user information, friends, and notes for the account.<br />
-    <br />
-    Still wrapping my head around how this fits into your daily activity, but I am sure it will come to me. Looks like it is another piece of the puzzle in helping me get control of <a href=
-    "http://www.kinlane.com/2008/01/definition-of-my-social-graph.html">my social graph</a> and further complete my <a href="http://www.kinlane.com/2007/11/social-networks-email-and-more.html">single
-    social interface</a>.<br />
-    <br />
-    Will share information about it as it comes out.
+    For those of you who dont know Pownce is a application where you can send music, photos, messages, links, events, and more.You can do it all on our web site, or install a lightweight desktop
+    software that lets you get out of the browser.It is a pretty interesting little application that allows you to import your contacts from your major networks using Plaxo it looks like.I like how
+    they describe how Pownce is made, check it out.They have an API as well that lets you access the user information, friends, and notes for the account.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/01/22/pownce-the-new-sharing-application/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

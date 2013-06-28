@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Crowdsourcing Database Administration
-url: http://kinlane.com/2009/12/15/crowdsourcing-database-administration/
-source: http://kinlane.com/2009/12/15/crowdsourcing-database-administration/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/12/15/crowdsourcing-database-administration/
+source: http://apievangelist.com/2009/12/15/crowdsourcing-database-administration/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,15 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    A while back Google released Fusion Tables allowing you to aggregate data from many data sources. Today they released an <a href=
-    "http://googlecode.blogspot.com/2009/12/google-fusion-tables-api.html">API for Google Fusion Tables</a>. <a href="http://tables.googlelabs.com/" target="_blank"></a>Fusion Tables is a free
-    service for sharing and visualizing data online. It allows you to upload data, share and mark up your data with collaborators, merge data from multiple tables, and create visualizations like
-    charts and maps. I have worked with many organizations assessing their internal database usage. It is extremely common for different groups and departments to use various local databases and
-    spreadsheets to meet their data storage and sharing needs. Recently with <a href="http://docs.google.com/">Google Docs</a> you can work on excel spreadsheets online and collaborate with others.
-    It has turned <a href="http://docs.google.com/">Google Spreadsheets</a> more into a data stores. Now with <a href=
-    "http://www.google.com/url?sa=t&amp;source=web&amp;ct=res&amp;cd=1&amp;ved=0CAcQFjAA&amp;url=http%3A%2F%2Ftables.googlelabs.com%2F&amp;ei=Ox4nS8yKLI2EswO9rKjIDA&amp;usg=AFQjCNHrd1EJnK14QGNCPJXOiDsCp9UOVA&amp;sig2=fcznSpefUawcYZ687GMUhA">
-    Google Fusion Tables</a> you can aggregate spreadsheets from upload sources or Google Spreadsheets. You can allow different individuals and groups to own and maintain small or large data sets
-    that are aggregated for different business goals. The data can then be published and visualized in real-time using Google Maps and Google Visualizations on your web site or other location.
+    A while back Google released Fusion Tables allowing you to aggregate data from many data sources.Today they released an API for Google Fusion Tables.Fusion Tables is a free service for sharing
+    and visualizing data online.It allows you to upload data, share and mark up your data with collaborators, merge data from multiple tables, and create visualizations like charts and maps.I have
+    worked with many organizations assessing their internal database usage.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/12/15/crowdsourcing-database-administration/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

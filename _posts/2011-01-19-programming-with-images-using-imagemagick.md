@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Programming with Images Using ImageMagick
-url: http://kinlane.com/2011/01/19/programming-with-images-using-imagemagick/
-source: http://kinlane.com/2011/01/19/programming-with-images-using-imagemagick/
-domain: kinlane.com
-image: http://www.imagemagick.org/image/wizard.jpg
+url: http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/
+source: http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,47 +13,11 @@ image: http://www.imagemagick.org/image/wizard.jpg
     <title></title>
   </head>
   <body>
-    <a href="http://www.imagemagick.org/script/index.php" target="_blank">ImageMagick</a> is open source <a href="http://www.apache.org/">Apache</a> 2.0 project that allows you to programmaticaly
-    create, edit, compose, or convert bitmap images. <img src="http://www.imagemagick.org/image/wizard.jpg" alt="" align="right" /> It can read and write images in over 100 formats:
-    <ul class="mainlist">
-      <li>
-        <strong>GIF</strong>
-      </li>
-      <li>
-        <strong>JPEG</strong>
-      </li>
-      <li>
-        <strong>PDF</strong>
-      </li>
-      <li>
-        <strong>PNG</strong>
-      </li>
-      <li>
-        <strong>TIFF</strong>
-      </li>
-    </ul>ImageMagick can scale, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines and shapes ImageMagick is a command
-    line utility which you can choose from several libraries:
-    <ul class="mainlist">
-      <li>
-        <a href="http://sourceforge.net/projects/jmagick/" target="_blank">JMagick for Java</a>
-      </li>
-      <li>
-        <a href="http://midimick.com/magicknet/" target="_blank">MagickNet for .NET</a>
-      </li>
-      <li>
-        <a href="http://www.magickwand.org/" target="_blank">MagickWand for PHP</a>
-      </li>
-      <li>
-        <a href="http://php.net/manual/en/book.imagick.php" target="_blank">IMagick for PHP</a>
-      </li>
-      <li>
-        <a href="http://pypi.python.org/pypi/PythonMagick/" target="_blank">PythonMagick for Python</a>
-      </li>
-      <li>
-        <a href="http://rmagick.rubyforge.org/" target="_blank">RMagick for Ruby</a>
-      </li>
-    </ul>I spent about an hour looking a wide variety of commercial image manipulation applications before I stumbled across ImageMagick. I've seen it before, but don't remember it being so
-    functional. Its great to see such innovative and powerful open-source projects in a sea of spammy and commercial software offerings.
+    ImageMagick is open source Apache 2.0 project that allows you to programmaticaly create, edit, compose, or convert bitmap images.It can read and write images in over 100 formats: GIF JPEG PDF PNG
+    TIFF ImageMagick can scale, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines and shapes ImageMagick is a command
+    line utility which you can choose from several libraries: JMagick for Java MagickNet for.NET MagickWand for PHP IMagick for PHP PythonMagick for Python RMagick for Ruby I spent about an hour
+    looking a wide variety of commercial image manipulation applications before I stumbled across ImageMagick.Ive seen it before, but dont remember it being so functional.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

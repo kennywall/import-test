@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Facebook Connect and Your Social Stream
-url: http://kinlane.com/2009/07/17/facebook-connect-and-your-social-stream/
-source: http://kinlane.com/2009/07/17/facebook-connect-and-your-social-stream/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/07/17/facebook-connect-and-your-social-stream/
+source: http://apievangelist.com/2009/07/17/facebook-connect-and-your-social-stream/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,11 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Facebook is definitely a heavy player in the online world these days. I have Facebook open all day and spend moments interacting, posting and generally socializing with my network. I see some
-    well done applications used by friends that casually list data from my friends usage of their applicaiton. Whether its their excercise statistics, diet tracker or otherwise. It really comes down
-    to...if you have a quality application of web site that someone uses and that user has a Facebook profile, you should be integrated with Facebook. At a minimum you should allow Facebook connect
-    for users on your web site or web application which will immediately give you access to their profile news stream. Then you should establish an elegant way of posting updates to their new stream
-    and add value to their Facebook profile.
+    Facebook is definitely a heavy player in the online world these days.I have Facebook open all day and spend moments interacting, posting and generally socializing with my network.I see some well
+    done applications used by friends that casually list data from my friends usage of their applicaiton.Whether its their excercise statistics, diet tracker or otherwise.It really comes down to.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/07/17/facebook-connect-and-your-social-stream/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

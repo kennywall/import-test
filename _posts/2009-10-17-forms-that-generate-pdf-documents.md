@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Forms that Generate PDF Documents
-url: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
-source: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
+source: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,17 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    Was just checking out a cool service called <a href="http://www.doculicious.com">doculicious</a>. It allows people to create <a href="http://www.doculicious.com">HTML forms that generate PDF</a>
-    and email them to you when the form is submitted. It is a inexpensive and easy way to collect users data and create a legible records of their information. They also provide a few other features:
-    <ul class="mainlist">
-      <li>Email submission when forms are submitted
-      </li>
-      <li>Embed the forms in your own web site
-      </li>
-      <li>Export all data collected into popular formats
-      </li>
-    </ul>Overall a pretty cool tool. I would say this web service falls under my category of doing one thing and doing it well. It is a simple tool that solves a problem well, and provides some added
-    features allowing you to get maximum value.
+    Was just checking out a cool service called doculicious.It allows people to create HTML forms that generate PDF and email them to you when the form is submitted.It is a inexpensive and easy way
+    to collect users data and create a legible records of their information.They also provide a few other features: Email submission when forms are submitted Embed the forms in your own web site
+    Export all data collected into popular formats Overall a pretty cool tool.I would say this web service falls under my category of doing one thing and doing it well.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Gmail is Down
-url: http://kinlane.com/2008/08/11/gmail-is-down/
-source: http://kinlane.com/2008/08/11/gmail-is-down/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/08/11/gmail-is-down/
+source: http://apievangelist.com/2008/08/11/gmail-is-down/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,73 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    <table>
-      <tr>
-        <td nowrap="nowrap">
-          <table style="margin-bottom: 5px;" align="center" bgcolor="#C3D9FF" cellpadding="0" cellspacing="0" width="100%">
-            <tbody>
-              <tr>
-                <td class="bubble tl" width="4">
-                  <br />
-                </td>
-                <td class="bubble" rowspan="2" style="padding: 3px 0px; font-family: arial; text-align: left; font-weight: bold;">
-                  <b>Temporary Error (502)</b>
-                </td>
-                <td class="bubble tr" width="4">
-                  <br />
-                </td>
-              </tr>
-              <tr>
-                <td class="bubble bl" width="4">
-                  <br />
-                </td>
-                <td class="bubble br" width="4">
-                  <br />
-                </td>
-              </tr>
-            </tbody>
-          </table>
-        </td>
-      </tr>
-    </table><br />
-    <table align="center" border="0" cellpadding="5" cellspacing="0" width="94%">
-      <tbody>
-        <tr valign="top">
-          <td>
-            <span style="font-size:-1;">We're sorry, but your Gmail account is currently experiencing errors. You won't be able to use your account while these errors last, but don't worry, your
-            account data and messages are safe. Our engineers are working to resolve this issue.</span> <span style="font-size:-1;">Please try accessing your account again in a few minutes.</span>
-            <span style="font-size:-1;"><a target="_top" href="http://mail.google.com/">Try Again</a> <a target="_top" href="http://mail.google.com/?logout">Sign Out</a></span>
-          </td>
-        </tr>
-      </tbody>
-    </table><br />
-    <br />
-    <table style="margin-bottom: 5px;" align="center" bgcolor="#C3D9FF" cellpadding="3" cellspacing="0" width="95%">
-      <tbody>
-        <tr>
-          <td class="bubble tl" width="4">
-            <br />
-          </td>
-          <td class="bubble" rowspan="2" style="font-family: arial; text-align: center;">
-            <span style="font-size:-1;color:#666666;">�2005 Google - <a target="_top" href="http://mail.google.com/">Gmail Home</a> - <a target="_top" href=
-            "http://mail.google.com/mail/help/privacy.html">Privacy Policy</a> - <a target="_top" href="http://mail.google.com/mail/help/program_policies.html">Program Policies</a> - <a target="_top"
-            href="http://mail.google.com/mail/help/terms_of_use.html">Terms of Use</a> <span style="font-size:-1;color:#666666;">- <a target="_top" href="http://www.google.com/">Google
-            Home</a></span></span>
-          </td>
-          <td class="bubble tr" width="4">
-            <br />
-          </td>
-        </tr>
-        <tr>
-          <td class="bubble bl" width="4">
-            <br />
-          </td>
-          <td class="bubble br" width="4">
-            <br />
-          </td>
-        </tr>
-      </tbody>
-    </table>
+    Temporary Error (502) Were sorry, but your Gmail account is currently experiencing errors.You wont be able to use your account while these errors last, but dont worry, your account data and
+    messages are safe.Our engineers are working to resolve this issue.Please try accessing your account again in a few minutes.Try Again Sign Out �2005 Google - Gmail Home - Privacy Policy - Program
+    Policies - Terms of Use - Google Home
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/08/11/gmail-is-down/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

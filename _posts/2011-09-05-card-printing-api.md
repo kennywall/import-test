@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Card Printing API
-url: http://kinlane.com/2011/09/05/card-printing-api/
-source: http://kinlane.com/2011/09/05/card-printing-api/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/mimeo/card-sample-image.png
+url: http://apievangelist.com/2011/09/05/card-printing-api/
+source: http://apievangelist.com/2011/09/05/card-printing-api/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,43 +13,9 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/card-sample-image.png
     <title></title>
   </head>
   <body>
-    <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/card-sample-image.png" alt="" width="200" align="right" />We've added a new<a title=
-    "API that provides card printing services for developers" href="http://mimeoconnect.3scale.net/wiki/card-printing-api">API that provides card printing services for developers</a>. It enables you
-    to price and order commercially printed cards in different sizes, paper and coating from within your web and mobile applications. These are the different settings currently available for cards:
-    <ul class="mainlist">
-      <li>
-        <strong>size</strong>- 4.25�5.5, 5�7, 5.5�8.5, 6�9
-      </li>
-      <li>
-        <strong>paper</strong>- White Uncoated 60#, White Uncoated 70#, White Uncoated 70# (100% Recycled), White Glossy 80#, White Glossy 100#
-      </li>
-      <li>
-        <strong>coating</strong>- None, Glossy Coat (Front Only), Glossy Coat (Front and Back), Protective Coat (Front Only), Protective Coat (Front and Back)
-      </li>
-    </ul>The Card Printing API has five methods currently:
-    <ul class="mainlist">
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#Proof-Post">Proof (POST)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#Proof-GET">Proof (GET)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#Quote-GET">Quote (GET)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#ShippingOptions-GET">Shipping Options (GET)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#OrderQuote-GET">Order Quote (GET)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#PlaceOrder-POST">Place Order (POST)</a>
-      </li>
-      <li>
-        <a href="http://mimeoconnect.3scale.net/wiki/card-printing-api#OrderStatus-GET">Order Status (GET)</a>
-      </li>
-    </ul>You will also find common error codes, PHP code samples. I will be adding more code samples as they become available.
+    Weve added a newAPI that provides card printing services for developers.It enables you to price and order commercially printed cards in different sizes, paper and coating from within your web and
+    mobile applications.These are the different settings currently available for cards: size- 4.25�5.5, 5�7, 5.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/09/05/card-printing-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

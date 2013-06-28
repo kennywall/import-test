@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Social Media Usage in the Future Quote
-url: http://kinlane.com/2009/06/26/social-media-usage-in-the-future-quote/
-source: http://kinlane.com/2009/06/26/social-media-usage-in-the-future-quote/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/06/26/social-media-usage-in-the-future-quote/
+source: http://apievangelist.com/2009/06/26/social-media-usage-in-the-future-quote/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,11 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Social media will be used as a spin tool in ways we couldn't even imagine in the near future....by government, <a class="zem_slink" title="List of entertainment industry topics" rel="wikipedia"
-    href="http://en.wikipedia.org/wiki/List_of_entertainment_industry_topics">entertainment industry</a>, <a class="zem_slink" title="Non-governmental organization" rel="wikipedia" href=
-    "http://en.wikipedia.org/wiki/Non-governmental_organization">NGO</a>'s, <a class="zem_slink" title="Central Intelligence Agency" rel="geolocation" href=
-    "http://maps.google.com/maps?ll=38.951796,-77.146586&amp;spn=1.0,1.0&amp;q=38.951796,-77.146586%20%28Central%20Intelligence%20Agency%29&amp;t=h">CIA</a> and anyone who is trying to steer public
-    opinion in one direction or another... --Kin Lane
+    Social media will be used as a spin tool in ways we couldnt even imagine in the near future.by government, entertainment industry, NGOs, CIA and anyone who is trying to steer public opinion in
+    one direction or another.--Kin Lane
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/06/26/social-media-usage-in-the-future-quote/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

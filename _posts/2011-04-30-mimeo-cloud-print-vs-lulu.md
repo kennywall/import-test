@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mimeo Cloud Print vs. Lulu
-url: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-source: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg
+url: http://apievangelist.com/2011/04/30/mimeo-cloud-print-vs-lulu/
+source: http://apievangelist.com/2011/04/30/mimeo-cloud-print-vs-lulu/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,13 +13,8 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg
     <title></title>
   </head>
   <body>
-    <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg" alt="" width="200" align="right" /> <span id="internal-source-marker_0.2542797683272511">One search term I've seen
-    come up in my Google Analytics frequestly is:</span>
-    <p style="padding-left: 30px;">
-      <span id="internal-source-marker_0.2542797683272511"><a title="Mimeo.com" href="Mimeo.com">Mimeo.com</a> vs. <a title="Lulu.com" href="http://www.lulu.com/">Lulu.com</a></span> <span>I wanted
-      to help people understand the difference.</span>
-    </p><span>Lulu.com lets you make, self-publish, print and sell print-on-demand books, e-books, photo books and calendars.</span> <span><a href="http://developer.mimeo.com">Mimeo Connect Cloud
-    Print API Platform</a> lets you build Lulu's.</span> <span>This means you can build self-publishing web sites and applications that leverage the printing power of Mimeo.com</span>
+    One search term Ive seen come up in my Google Analytics frequestly is: Mimeo.com vs.Lulu.com I wanted to help people understand the difference.Lulu.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/04/30/mimeo-cloud-print-vs-lulu/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

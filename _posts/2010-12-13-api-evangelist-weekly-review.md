@@ -1,10 +1,10 @@
 ---
 layout: post
 title: API Evangelist Weekly Review
-url: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
-source: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/
+source: http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,30 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    Here is the coverage for the week from <a href="http://www.apievangelist.com" target="_blank">API Evangelist</a>.
-    <ul class="mainlist">
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/09/evernote-api-review/" target="_blank">Evernote API Review</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/09/android-and-ios-sdks-for-amazon-web-services/" target="_blank">Android and IOS SDKs for Amazon Web Services</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/09/glue-api-review/" target="_blank">Glue API Review</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/10/foursquare-api-version-2-0/" target="_blank">Foursquare API Version 2.0</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/10/infochimps-api-review/" target="_blank">Infochimps API Review</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/11/importance-of-developer-community-metrics/" target="_blank">Importance of Developer Community Metrics</a>
-      </li>
-      <li>
-        <a href="http://blog.apievangelist.com/2010/12/12/google-maps-api-review/" target="_blank">Google Maps API Review</a>
-      </li>
-    </ul>API Evangelist is where I publish blog posts specific to the <a href="http://blog.apievangelist.com/" target="_blank">business of APIs</a>.
+    Here is the coverage for the week from API Evangelist.Evernote API Review Android and IOS SDKs for Amazon Web Services Glue API Review Foursquare API Version 2.0 Infochimps API Review Importance
+    of Developer Community Metrics Google Maps API Review API Evangelist is where I publish blog posts specific to the business of APIs.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

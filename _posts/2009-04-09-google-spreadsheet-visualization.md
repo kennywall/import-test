@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Google Spreadsheet Visualization
-url: http://kinlane.com/2009/04/09/google-spreadsheet-visualization/
-source: http://kinlane.com/2009/04/09/google-spreadsheet-visualization/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/04/09/google-spreadsheet-visualization/
+source: http://apievangelist.com/2009/04/09/google-spreadsheet-visualization/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,20 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    I came across a cool tool that allows you to visual data in Google Spreadsheets, using the Secure Data Connector. It is a reporting tool that will connect to any Google Spreadsheet and create
-    very advanced visualizations of the data contained in there.
-    <ul class="mainlist">
-      <li>Here is an <strong>overview</strong> of this tool: <a href="http://news.prnewswire.com/DisplayReleaseContent.aspx?ACCT=104&amp;STORY=/www/story/04-08-2009/0005002822&amp;EDATE=" target=
-      "_blank">http://news.prnewswire.com/DisplayReleaseContent.aspx?ACCT=104&amp;STORY=/www/story/04-08-2009/0005002822&amp;EDATE=</a>
-      </li>
-      <li>Here is a <strong>demo</strong> of the actual tool: <a href="http://pivot.panorama.com/Panorama/FoodMart.htm" target="_blank">http://pivot.panorama.com/Panorama/FoodMart.htm</a> (make sure
-      and drill down in the spreadsheet, its huge)
-      </li>
-      <li>Here is a <strong>video</strong> explaining how its used: <a href="http://www.panorama.com/google/pivot-table-tutorial/" target=
-      "_blank">http://www.panorama.com/google/pivot-table-tutorial/</a>
-      </li>
-    </ul><strong><span style="text-decoration: underline;">What does this mean in short?</span></strong> It means you can basically use Google Spreadsheets as a data warehouse and dump data through
-    the API into spreadsheets from any other system. You can then provide an interactive visualization of that data in a full or widget view that you can embed anywhere. Pretty slick stuff!!!
+    I came across a cool tool that allows you to visual data in Google Spreadsheets, using the Secure Data Connector.It is a reporting tool that will connect to any Google Spreadsheet and create very
+    advanced visualizations of the data contained in there.Here is an overview of this tool: http://news.prnewswire.com/DisplayReleaseContent.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/04/09/google-spreadsheet-visualization/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

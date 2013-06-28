@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mobile Phone Applications, Directories and Platforms
-url: http://kinlane.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
-source: http://kinlane.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
+source: http://apievangelist.com/2009/04/26/mobile-phone-applications-directories-and-platforms/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,16 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    I was just reading about Research in Montion and their innovation in <a class="zem_slink" title="Fast Company (magazine)" rel="homepage" href="http://www.fastcompany.com">Fast Company</a> and
-    about their applicaiton directory in <a class="zem_slink" title="BusinessWeek" rel="homepage" href="http://www.businessweek.com/">Business Week</a>. I was also reading about <a class="zem_slink"
-    title="Vodafone" rel="homepage" href="http://www.vodafone.com/">Vodafone</a> in Business Week. Seems that open platforms and creating application directories are all the rage. All the mobile
-    providers are seeing the success of namely <a class="zem_slink" title="List of iPhone applications" rel="wikipedia" href="http://en.wikipedia.org/wiki/List_of_iPhone_applications">IPhone apps</a>
-    and jumping on the band wagon. So several thoughts are going through my head. Are mobile apps the next web? When you build a site for your company do you have to build applications for major
-    mobile platforms too? I am seeing <a class="zem_slink" title="Android" rel="homepage" href="http://code.google.com/android/">Android</a> being used for webbooks as well as <a class="zem_slink"
-    title="Mobile phone" rel="wikipedia" href="http://en.wikipedia.org/wiki/Mobile_phone">mobile phones</a>. It just seems like there were desktop apps, then there was the web. Now you have to
-    consider <a class="zem_slink" title="IPhone OS" rel="homepage" href="http://developer.apple.com/iphone/">IPhone</a>, Blackberry, Android and other top players now when building online / cloud
-    tools for your company. I am sure this is asking a lot of small businesses who just realized that building for the web is a priority. Seems like the next wave though. Cloud enabled applications
-    that run on any top mobile or web environment.
+    I was just reading about Research in Montion and their innovation in Fast Company and about their applicaiton directory in Business Week.I was also reading about Vodafone in Business Week.Seems
+    that open platforms and creating application directories are all the rage.All the mobile providers are seeing the success of namely IPhone apps and jumping on the band wagon.So several thoughts
+    are going through my head.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/04/26/mobile-phone-applications-directories-and-platforms/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

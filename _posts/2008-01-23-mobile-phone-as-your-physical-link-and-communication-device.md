@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Mobile Phone as Your Physical Link and Communication Device
-url: http://kinlane.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
-source: http://kinlane.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
+source: http://apievangelist.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,23 +13,11 @@ image:
     <title></title>
   </head>
   <body>
-    I was just reading this article from the <a href="http://www.nytimes.com/2007/04/01/business/01code.html?ex=1333080000&amp;en=8bb1180541c7a895&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">NY Times
-    on the future of hand-held mobile devices</a> (well for us in the US, others are using it).<br />
-    <br />
-    It talks about using your cell phone / hand held as a physical communication device in the real world.<br />
-    <br />
-    With wireless and blue tooth communication, your cell phone could be used to communicate with businesses and individuals out there in the real world. You can bookmark locations, get more
-    information, profiles, and sign up and communicate with others without actually talking directly to them.<br />
-    <br />
-    You can purchase and check out at a store without the long lines!<br />
-    <br />
-    This is definitely the answer to <a href="http://www.socialmediasquad.com">social media marketing campaigns</a> and solving problems with extending and tracking your campaign as users come and go
-    online.<br />
-    <br />
-    You can have a sign or billboard and the user points their mobile phone at it and it bookmarks your web site and later they can visit you. Voila....you just tracked a click through from an off
-    line medium.<br />
-    <br />
-    Lots to flush out here, many ideas.
+    I was just reading this article from the NY Times on the future of hand-held mobile devices (well for us in the US, others are using it).It talks about using your cell phone / hand held as a
+    physical communication device in the real world.With wireless and blue tooth communication, your cell phone could be used to communicate with businesses and individuals out there in the real
+    world.You can bookmark locations, get more information, profiles, and sign up and communicate with others without actually talking directly to them.You can purchase and check out at a store
+    without the long lines!
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

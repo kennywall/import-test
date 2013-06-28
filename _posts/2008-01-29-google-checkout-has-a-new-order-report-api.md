@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Google Checkout has a New Order Report API
-url: http://kinlane.com/2008/01/29/google-checkout-has-a-new-order-report-api/
-source: http://kinlane.com/2008/01/29/google-checkout-has-a-new-order-report-api/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/01/29/google-checkout-has-a-new-order-report-api/
+source: http://apievangelist.com/2008/01/29/google-checkout-has-a-new-order-report-api/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,11 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    <span class="byline-author">A while back Google released a new reporting feature in their Google Checkout payment system, and now they have added an <a href=
-    "http://googlecheckout.blogspot.com/2008/01/announcing-order-report-api.html">Order Report API</a> for getting access to your Google Checkout orders.<br />
-    <br />
-    They seem to be have found a nice flow to their feature rollout and extending it through the API shortly thereafter.<br />
-    <br /></span>Nice example of how <a href="http://www.originalwebsolutions.com">Web Application Development</a> should occur.
+    A while back Google released a new reporting feature in their Google Checkout payment system, and now they have added an Order Report API for getting access to your Google Checkout orders.They
+    seem to be have found a nice flow to their feature rollout and extending it through the API shortly thereafter.Nice example of how Web Application Development should occur.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/01/29/google-checkout-has-a-new-order-report-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

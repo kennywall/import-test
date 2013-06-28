@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Social Working and Job 2.0
-url: http://kinlane.com/2007/10/17/social-working-and-job-20/
-source: http://kinlane.com/2007/10/17/social-working-and-job-20/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2007/10/17/social-working-and-job-20/
+source: http://apievangelist.com/2007/10/17/social-working-and-job-20/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,27 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    If I want a job or some project work, why do I have to look on so many networks. Sure I can find all the places I want to look these days and accumulate some RSS feeds and monitor these
-    channels.<br />
-    <br />
-    However why should I? I should just turn on the available light and based upon my resume, work history and profile the work just comes to me. It knows how many hours I want and what sort of
-    situation I am available for.<br />
-    <br />
-    Employers can submit to talk more with me and begin an interview process.<br />
-    <br />
-    <span style="font-weight: bold;">The flip side!</span><br />
-    <br />
-    I want to be able to just cruise for opportunities and see what is out there. Companies should have an open area of their company where they put projects and roles up for availability and I can
-    pick up 2 hours of work, 2 days there.<br />
-    <br />
-    My resume profile handles interfacing with the companies and lets them know I am qualified. I get the work done, and if all requirements are met money / compensation is awarded to my
-    profile.<br />
-    <br />
-    The work history goes into my profile and the employer if applicable can comment on my work.<br />
-    <br />
-    Maybe Monster.com meets Mechanical Turk?<br />
-    <br />
-    Job 2.0
+    If I want a job or some project work, why do I have to look on so many networks.Sure I can find all the places I want to look these days and accumulate some RSS feeds and monitor these
+    channels.However why should I?I should just turn on the available light and based upon my resume, work history and profile the work just comes to me.It knows how many hours I want and what sort
+    of situation I am available for.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2007/10/17/social-working-and-job-20/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

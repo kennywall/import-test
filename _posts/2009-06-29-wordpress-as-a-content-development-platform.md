@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Wordpress as a Content Development Platform
-url: http://kinlane.com/2009/06/29/wordpress-as-a-content-development-platform/
-source: http://kinlane.com/2009/06/29/wordpress-as-a-content-development-platform/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/06/29/wordpress-as-a-content-development-platform/
+source: http://apievangelist.com/2009/06/29/wordpress-as-a-content-development-platform/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,11 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    I have been using wordpress installations for <a class="zem_slink" title="Content development (web)" rel="wikipedia" href="http://en.wikipedia.org/wiki/Content_development_%28web%29">content
-    development</a>. I am working on a couple of books and whitepapers. The <a class="zem_slink" title="White paper" rel="wikipedia" href="http://en.wikipedia.org/wiki/White_paper">white papers</a>
-    should be much shorter than the books. However the platform seems to work with my way of evolving the content for these papers and books. Even one book I am making public as I am writing it. Just
-    because it is a hobby project. I like the blog format because it organizes things by date as I write them. I can also categorize them. Then I can write more linear pages and pull together the
-    different areas. I also like the linking in between topics and pulling together. I really makes a non linear book. We'll see where I go with this content development.
+    I have been using wordpress installations for content development.I am working on a couple of books and whitepapers.The white papers should be much shorter than the books.However the platform
+    seems to work with my way of evolving the content for these papers and books.Even one book I am making public as I am writing it.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/06/29/wordpress-as-a-content-development-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

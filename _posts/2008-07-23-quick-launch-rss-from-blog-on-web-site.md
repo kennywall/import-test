@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Quick Launch RSS from Blog on Web Site
-url: http://kinlane.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
-source: http://kinlane.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
+source: http://apievangelist.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,24 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    I was looking for a quick way to get our <a href="http://blog.socialmediasquad.com">Social Media Squad</a> blog on the home page and feature area on our new Social Media Squad web site.<br />
-    <br />
-    I wanted it to be a real-time feed, so I chose to go with a <a href="http://itde.vccs.edu/rss2js/build.php">JavaScript RSS Feed</a>, and I quickly found <a href=
-    "http://itde.vccs.edu/rss2js/build.php">Feed2JS</a>.<br />
-    <br />
-    I was able to select:<br />
-    <ul class="mainlist">
-      <li>URL of the RSS Feed
-      </li>
-      <li>Number of items to display
-      </li>
-      <li>Amount of RSS description to show
-      </li>
-      <li>Show item posting date
-      </li>
-      <li>Open links in a new window<br />
-      </li>
-    </ul>I is nice to just find quality simple tools available out there in cyberspace that you can use to make your life easier...and get work done.
+    I was looking for a quick way to get our Social Media Squad blog on the home page and feature area on our new Social Media Squad web site.I wanted it to be a real-time feed, so I chose to go with
+    a JavaScript RSS Feed, and I quickly found Feed2JS.I was able to select:URL of the RSS FeedNumber of items to displayAmount of RSS description to showShow item posting dateOpen links in a new
+    windowI is nice to just find quality simple tools available out there in cyberspace that you can use to make your life easier.and get work done.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

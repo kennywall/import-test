@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Proofing Print Documents From Amazon S3
-url: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-source: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
+url: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
+source: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,31 +13,12 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
     <title></title>
   </head>
   <body>
-    I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider
-    and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>. <img style="padding: 15px;" src=
-    "http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /> I have put together a demonstration of how to <a href=
-    "http://nimbus2.laneworks.net/functions-pull-pdf-from-amazon-s3-api-and-prepare-proof.php" target="_blank">pull a PDF file from Amazon S3 and the proof it with Mimeo Connect</a>. You will need:
-    <ul class="mainlist">
-      <li>
-        <a href="http://aws.amazon.com/" target="_blank">Amazon Web Services Account</a>
-      </li>
-      <li>
-        <a href="http://www.mimeo.com/" target="_blank">Mimeo API Account.</a>
-      </li>
-    </ul>This <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> demonstration is written in <a href="http://www.kinlane.com/category/php/">PHP</a>, and uses the
-    <a href="https://github.com/mimeoconnect/Mimeo-Connect-Cloud-Print-API---REST-Client" target="_blank">Mimeo Connect Cloud Print API REST Client</a>. <a href="http://www.mimeo.com" target=
-    "_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a> You can download the source code for the <a href=
-    "http://www.kinlane.com/category/amazon/amazon-s3/">Amazon S3</a> to Mimeo Connect project in the following formats:
-    <ul class="mainlist">
-      <li>
-        <a href="https://github.com/mimeoconnect/mimeo-amazon-s3" target="_blank">git (GitHub Repository) - Amazon S3 to Mimeo Print</a>
-      </li>
-      <li>
-        <a href="https://code.google.com/p/amazon-s3-mimeo/" target="_blank">svn (Google Code Project - Amazon S3 to Mimeo Print</a>
-      </li>
-    </ul>I will be updating this project when I develop any new code that integrates Amazon S3 and the Mimeo Connect Cloud Print API. This project currently allows you to pull print files from Amazon
-    S3 and proof them with Mimeo Connect Cloud Print API and preview or view any pages in the PDF as images in Flash or <a href=
-    "http://www.kinlane.com/2011/01/jquery-powered-flipbook-for-previewing-print-files/">JQuery Flipbook</a>.
+    I am making my way through each major cloud storage provider and building demos that pull PDF files from the provider and proofs the file before printing with Mimeo.I have put together a
+    demonstration of how to pull a PDF file from Amazon S3 and the proof it with Mimeo Connect.You will need: Amazon Web Services Account Mimeo API Account.This Cloud Print demonstration is written
+    in PHP, and uses the Mimeo Connect Cloud Print API REST Client.You can download the source code for the Amazon S3 to Mimeo Connect project in the following formats: git (GitHub Repository) -
+    Amazon S3 to Mimeo Print svn (Google Code Project - Amazon S3 to Mimeo Print I will be updating this project when I develop any new code that integrates Amazon S3 and the Mimeo Connect Cloud
+    Print API.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Application Ideas: Google Project
-url: http://kinlane.com/2008/01/02/application-ideas-google-project/
-source: http://kinlane.com/2008/01/02/application-ideas-google-project/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/01/02/application-ideas-google-project/
+source: http://apievangelist.com/2008/01/02/application-ideas-google-project/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,16 +13,10 @@ image:
     <title></title>
   </head>
   <body>
-    I have this notebook of application ideas that I have from time to time. Its overflowing with lots of stupid ideas.<br />
-    <br />
-    So I am just going to start posting them here and see if someone has done something like it out there or maybe someone will get motivated and do it for me.<br />
-    <br />
-    Most ideas I have if I perform a little due diligence, I can find someone who is doing something similar. However some I think are unique.<br />
-    <br />
-    Here we go:<br />
-    <br />
-    I would like a <span style="font-weight: bold;">Google Project Tracking</span> solution to bring all my users, email, tasks, blogs, videos, docs, notebooks, events, and all my other stuff under
-    one umbrella on the Google Platform. It would work nicely with <a href="http://www.rememberthemilk.com/">Remember the Milk</a> task system.
+    I have this notebook of application ideas that I have from time to time.Its overflowing with lots of stupid ideas.So I am just going to start posting them here and see if someone has done
+    something like it out there or maybe someone will get motivated and do it for me.Most ideas I have if I perform a little due diligence, I can find someone who is doing something similar.However
+    some I think are unique.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/01/02/application-ideas-google-project/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

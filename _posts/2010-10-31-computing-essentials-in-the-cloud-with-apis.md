@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Computing Essentials in the Cloud with APIs
-url: http://kinlane.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
-source: http://kinlane.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/cloud.jpeg
+url: http://apievangelist.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
+source: http://apievangelist.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,32 +13,11 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud.jpeg
     <title></title>
   </head>
   <body>
-    As we continue to move computing off the workstation and servers and into the cloud, we need to recreate all the essentials of computing we are used to. APIs are how the next generation of
-    computing essentials like email, print, DNS, and file system will be delivered in this environment. As we distribute and virtualize our web sites, applications and other tools, APIs are playing
-    an ever more increasing role in connecting these applications for us. A couple examples are:
-    <ul class="mainlist">
-      <li>
-        <strong>Email with <a href="http://www.mailgun.net/">Mailgun</a>:</strong> Mailgun provides a <a href="http://www.mailgun.net/">RESTFul Email API</a> for fully managed, scalable email
-        servers.
-      </li>
-      <li style="list-style: none">
-        <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/cloud.jpeg" alt="" width="250" align="right" />
-      </li>
-      <li>
-        <strong>Print with <a href="http://www.mimeo.com/solutions/mimeo-connect.php">Mimeo Connect</a>:</strong> Mimeo Connect provides a <a href=
-        "http://www.mimeo.com/solutions/mimeo-connect.php">REST and SOAP Print API</a> for web to print integration for applications.
-      </li>
-      <li>
-        <strong>DNS with <a href="http://www.zerigo.com/">Zerigo</a>:</strong> Zerigo provides a <a href="http://www.zerigo.com/">RESTFUL DNS API</a> to manage DNS for your applications.
-      </li>
-      <li>
-        <strong>Files with <a href="http://aws.amazon.com/s3/">Amazon S3</a>:</strong> Amazon S3 provides an <a href="http://aws.amazon.com/s3/">REST object storage API</a> that can be used as a file
-        system and CDN.
-      </li>
-    </ul>APIs allow developers to off-load specific computing tasks to third party providers who specialize in these areas. APIs can deliver speedier development, and support widely distributed
-    system by communicating using XML and JSON, and provide security using standards like OAuth. We will see more computing essentials like print and email exposed online via open APIs for
-    integration into mobile and web applications. APIs provide the data and functionality needed to drive the next generation of computing that will occur primarily in the clouds via mobile
-    interfaces.
+    As we continue to move computing off the workstation and servers and into the cloud, we need to recreate all the essentials of computing we are used to.APIs are how the next generation of
+    computing essentials like email, print, DNS, and file system will be delivered in this environment.As we distribute and virtualize our web sites, applications and other tools, APIs are playing an
+    ever more increasing role in connecting these applications for us.A couple examples are: Email with Mailgun: Mailgun provides a RESTFul Email API for fully managed, scalable email servers.Print
+    with Mimeo Connect: Mimeo Connect provides a REST and SOAP Print API for web to print integration for applications.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/10/31/computing-essentials-in-the-cloud-with-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

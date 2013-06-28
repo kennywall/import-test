@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 15 Facts About Net Neutrality [Infographic]
-url: http://kinlane.com/2010/08/20/15-facts-about-net-neutrality-infographic/
-source: http://kinlane.com/2010/08/20/15-facts-about-net-neutrality-infographic/
-domain: kinlane.com
-image: http://onlinemba.com.s3.amazonaws.com/net-neutrality.jpg
+url: http://apievangelist.com/2010/08/20/15-facts-about-net-neutrality-infographic/
+source: http://apievangelist.com/2010/08/20/15-facts-about-net-neutrality-infographic/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,8 +13,8 @@ image: http://onlinemba.com.s3.amazonaws.com/net-neutrality.jpg
     <title></title>
   </head>
   <body>
-    <a href="http://www.readwriteweb.com/archives/15_facts_about_net_neutrality_infographic.php"><img src="http://onlinemba.com.s3.amazonaws.com/net-neutrality.jpg" border="0" alt=
-    "Online MBA Rankings" width="500" /></a> [Via: <a href="http://www.onlinemba.com/">Online MBA Programs</a>]
+    [Via: Online MBA Programs]
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/08/20/15-facts-about-net-neutrality-infographic/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

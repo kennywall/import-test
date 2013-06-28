@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Fast Track to Widgets, Facebook, and OpenSocial Apps
-url: http://kinlane.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
-source: http://kinlane.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
+source: http://apievangelist.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,17 +13,11 @@ image:
     <title></title>
   </head>
   <body>
-    I have been deploying large amounts of widgets, <a href="http://www.facebook.com">Facebook</a> and <a href="http://code.google.com/apis/opensocial/">OpenSocial</a> applications to various social
-    networks and platforms lately.<br />
-    <br />
-    Even though I am a programmer I have been able to do much of my heavy lifting using tools that are already available to me without any programming at all.<br />
-    <br />
-    I use a combination of <a href="http://www.youtube.com">Youtube</a>, <a href="http://www.ning.com">Ning</a>, <a href="http://www.flickr.com">Flickr</a> and other social media content platforms. I
-    then syndicate using their native tools and build widgets using <a href="http://www.widgetbox.com">Widgetbox</a>. Once I have my widgets deployed on Widgetbox I can then easily deploy to <a href=
-    "http://www.facebook.com">Facebook</a>, <a href="http://www.%20bebo.com">Bebo</a>, <a href="http://www.myspace.com">MySpace</a>, <a href="http://www.google.com">IGoogle</a>, <a href=
-    "http://www.orkut.com">Orkut</a> and any other platform that embraces OpenSocial.<br />
-    <br />
-    I am putting together a series of slides based upon this process for others to use. Look for another post regarding this process.
+    I have been deploying large amounts of widgets, Facebook and OpenSocial applications to various social networks and platforms lately.Even though I am a programmer I have been able to do much of
+    my heavy lifting using tools that are already available to me without any programming at all.I use a combination of Youtube, Ning, Flickr and other social media content platforms.I then syndicate
+    using their native tools and build widgets using Widgetbox.Once I have my widgets deployed on Widgetbox I can then easily deploy to Facebook, Bebo, MySpace, IGoogle, Orkut and any other platform
+    that embraces OpenSocial.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

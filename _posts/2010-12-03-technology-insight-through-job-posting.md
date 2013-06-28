@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Technology Insight Through Job Posting
-url: http://kinlane.com/2010/12/03/technology-insight-through-job-posting/
-source: http://kinlane.com/2010/12/03/technology-insight-through-job-posting/
-domain: kinlane.com
-image: http://t0.gstatic.com/images?q=tbn:ANd9GcRrUyAOwIvtJMOZon86UKTOo5WcfYaJ719Sr4_d82j82Uujhsdg
+url: http://apievangelist.com/2010/12/03/technology-insight-through-job-posting/
+source: http://apievangelist.com/2010/12/03/technology-insight-through-job-posting/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,16 +13,10 @@ image: http://t0.gstatic.com/images?q=tbn:ANd9GcRrUyAOwIvtJMOZon86UKTOo5WcfYaJ71
     <title></title>
   </head>
   <body>
-    <img src="http://t0.gstatic.com/images?q=tbn:ANd9GcRrUyAOwIvtJMOZon86UKTOo5WcfYaJ719Sr4_d82j82Uujhsdg" alt="" align="right" />A <a href="../2010/12/ideation-and-project-evolution/" target=
-    "_blank">project I'm moving off the back-burner and into the public domain</a> is a project I called Tech Job Analysis. I have been pulling all the job postings in the three technical categories
-    from <a href="http://www.craigslist.com" target="_blank">Craigslist</a> for all the North American and European job markets. I started pulling these RSS feeds and monitoring for the next dream
-    job...which I got. Then I quickly started seeing other value in this data. You can tell a lot about a company by their job postings that you won't see anywhere else. You can see what software,
-    hardware and systems they use. You can see what type of development process they use. There is a a gold-mine of data here. So I started parsing the posts using a master list of technology
-    keywords and key phrases. Example: Hadoop or Cassandra. Then I started storing the city and date, each time these key words would show up. So you could query for the word hadoop and provide a
-    date range....and it would return the City (Count) for the number of job postings that contained the word hadoop. My goal was to provide a real-time tecnology, tool, company API that you could
-    throw a term + date range at and get back a pretty quality data set showing that technologies penetration. Think about merging with <a href="http://www.openheatmap.com/" target=
-    "_blank">OpenHeatMaps</a> or other visualizations. Time elapsed? You could see how much hadoop has grown, or how much cassandra has until Facebook and Twitter both abandoned? This is another
-    project I just couldn't keep the EC2 aand RDS accounts up and running if these projects never made it off the back burner. If you are interested, let me know.
+    A project Im moving off the back-burner and into the public domain is a project I called Tech Job Analysis.I have been pulling all the job postings in the three technical categories from
+    Craigslist for all the North American and European job markets.I started pulling these RSS feeds and monitoring for the next dream job.which I got.Then I quickly started seeing other value in
+    this data.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/12/03/technology-insight-through-job-posting/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

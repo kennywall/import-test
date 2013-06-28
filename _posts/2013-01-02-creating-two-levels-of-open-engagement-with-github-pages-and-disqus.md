@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Creating Two Levels of Open Engagement with Github Pages and Disqus
-url: http://kinlane.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
-source: http://kinlane.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-logo-basic.png
+url: http://apievangelist.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
+source: http://apievangelist.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,40 +13,12 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
     <title></title>
   </head>
   <body>
-    <p>
-      <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png" alt="" width="125" align="right" />
-    </p>
-    <p>
-      I’m moving all my side projects to run on Github as open source repositories. One of my goals in doing this, is to facilitate engagement around my projects, as opposed to developing them in
-      isolation.
-    </p>
-    <p>
-      My projects all start as a public Github repository, equipped a subdomain pointed at a <a title="Github Pages" href="http://pages.github.com/">Github Pages</a> and a <a href=
-      "https://github.com/mojombo/jekyll">Jekyll</a> site template--allowing me to add pages and give the project its own blog.
-    </p>
-    <p>
-      By default all pages and blog entries will have <a href="http://disqus.com/">Disqus</a> enabled for conversation around all aspects of the project. &nbsp;
-    </p>
-    <p>
-      This approach to project management will open up two levels of engagement from users:
-    </p>
-    <ol class="mainlist">
-      <li>
-        <strong>Casual</strong> - Quick comments and feedback via Disqus as users come across a project
-      </li>
-      <li>
-        <strong>Deep</strong> - Fork a project and commit back blog posts, pages or other more structured data as JSON files
-      </li>
-    </ol>
-    <p>
-      <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/disqus/disqus-logo.gif" alt="" width="200" align="right" />
-    </p>
-    <p>
-      In 2013 my goal is to make sure all projects use this format by default. It really isn’t any more work than what I’m doing now--with a huge amount of benefits.
-    </p>
-    <p>
-      Hopefully more of my work will see the light of day, and it will encourage casual and deeper engagement from anyone with the interest.
-    </p>
+    I’m moving all my side projects to run on Github as open source repositories.One of my goals in doing this, is to facilitate engagement around my projects, as opposed to developing them in
+    isolation.My projects all start as a public Github repository, equipped a subdomain pointed at a Github Pages and a Jekyll site template--allowing me to add pages and give the project its own
+    blog.By default all pages and blog entries will have Disqus enabled for conversation around all aspects of the project.&nbsp; This approach to project management will open up two levels of
+    engagement from users: Casual - Quick comments and feedback via Disqus as users come across a project Deep - Fork a project and commit back blog posts, pages or other more structured data as JSON
+    files In 2013 my goal is to make sure all projects use this format by default.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2013/01/02/creating-two-levels-of-open-engagement-with-github-pages-and-disqus/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Foursquare Launches Web Version of Recommendations
-url: http://kinlane.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
-source: http://kinlane.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
-domain: kinlane.com
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/foursquare-explore-recommendations.jpg
+url: http://apievangelist.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
+source: http://apievangelist.com/2012/01/12/foursquare-launches-web-version-of-recommendations/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,32 +13,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/four
     <title></title>
   </head>
   <body>
-    <p>
-      <a title="Foursquare Explore" href="http://foursquare.com/explore"><img class="aligncenter size-medium wp-image-471" title="foursquare-explore-recommendations" src=
-      "http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/foursquare-explore-recommendations-300x207.jpg" alt="" width="300" height="207" align="right" /></a>Foursquare
-      just&nbsp;<a title="took another step in local recommendations" href=
-      "http://blog.foursquare.com/2012/01/12/anywhere-in-the-world-foursquare-explore-can-find-you-something-interesting-now-on-your-computer/">took another step with local
-      recommendations</a>&nbsp;by launching a new web version of&nbsp;<a title="Foursquare Explore" href="http://foursquare.com/explore">Foursquare Explore</a>.
-    </p>
-    <p>
-      Last March during SXSW 2011,&nbsp;<a title="Foursquare Launched" href="http://blog.foursquare.com/2011/03/08/foursquare-3/">Foursquare launched</a>&nbsp;explore for&nbsp;<a title=
-      "iPhone and Android for Mobile" href="http://docs.citygridmedia.com/display/citygridv2/SDKs">iPhone and Android mobile</a>, allowing users to find things to do nearby, and now has brought this
-      same&nbsp;functionality&nbsp;to the web.
-    </p>
-    <p>
-      Explore's suggestions are &nbsp;powered by places you've been and frequented, the places your friends have visited, the categories and types of places you prefer, what’s popular with other
-      users, the day of the week, places with great tips, the time of day and a whole bunch of intelligent criteria.
-    </p>
-    <p>
-      This move by Foursquare shows the power of the checkin and applying your checkins, and your social network’s checkins history toward local recommendations, shaping the&nbsp;<a title="Places"
-      href="http://docs.citygridmedia.com/display/citygridv2/Places+API">places</a>&nbsp;you will go in the future.
-    </p>
-    <p>
-      The benefits offered by this type of socially driven local recommendations, creates an powerful new set of incentives for mobile users to check-in, one that goes beyond badges and mayor-ship.
-    </p>
-    <p>
-      Foursquare Explore shows the local check-in has definitely come of age.
-    </p>
+    Foursquare just&nbsp;took another step with local recommendations&nbsp;by launching a new web version of&nbsp;Foursquare Explore.Last March during SXSW 2011,&nbsp;Foursquare launched&nbsp;explore
+    for&nbsp;iPhone and Android mobile, allowing users to find things to do nearby, and now has brought this same&nbsp;functionality&nbsp;to the web.Explores suggestions are &nbsp;powered by places
+    youve been and frequented, the places your friends have visited, the categories and types of places you prefer, what’s popular with other users, the day of the week, places with great tips, the
+    time of day and a whole bunch of intelligent criteria.This move by Foursquare shows the power of the checkin and applying your checkins, and your social network’s checkins history toward local
+    recommendations, shaping the&nbsp;places&nbsp;you will go in the future.The benefits offered by this type of socially driven local recommendations, creates an powerful new set of incentives for
+    mobile users to check-in, one that goes beyond badges and mayor-ship.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2012/01/12/foursquare-launches-web-version-of-recommendations/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

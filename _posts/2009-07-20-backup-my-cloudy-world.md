@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Backup My Cloudy World
-url: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
-source: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
-domain: kinlane.com
-image: 
+url: http://apievangelist.com/2009/07/20/backup-my-cloudy-world/
+source: http://apievangelist.com/2009/07/20/backup-my-cloudy-world/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,25 +13,9 @@ image:
     <title></title>
   </head>
   <body>
-    I came across a post about a new web service. It is a <a href="http://backupmy.net/">cloud backup tool</a>. Something I have talked about needing several times. Handy backup utility for all my
-    favorite cloud based applications. <a href="http://backupmy.net/">BackupMy.Net</a> is a handy tool that does this for you. They provide cloud backup services for:
-    <ul class="mainlist">
-      <li>Top Email Platforms (<a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Gmail</a>, <a class="zem_slink" title="Hotmail" rel="homepage" href=
-      "http://www.hotmail.com/">Hotmail</a>, or Windows Live)
-      </li>
-      <li>Top Blog Platforms (Wordpress, <a class="zem_slink" title="Blogger" rel="homepage" href="http://blogger.com">Blogger</a>, or <a class="zem_slink" title="TypePad" rel="homepage" href=
-      "http://www.typepad.com/">Typepad</a>)
-      </li>
-      <li>Twitter
-      </li>
-      <li>Top Picture Platforms (<a class="zem_slink" title="Flickr" rel="homepage" href="http://www.flickr.com">Flickr</a>, <a class="zem_slink" title="Facebook" rel="homepage" href=
-      "http://facebook.com">Facebook</a>, <a class="zem_slink" title="SmugMug" rel="homepage" href="http://www.smugmug.com/">SmugMug</a>, <a class="zem_slink" title="Picasa" rel="homepage" href=
-      "http://picasa.google.com/">Picasa</a>, <a class="zem_slink" title="Photobucket" rel="homepage" href="http://www.photobucket.com">Photobucket</a>)
-      </li>
-    </ul>This is definitely a great service. Although I have to ask...will I actually pay for it? I blindly depend on these cloud services to maintain my data for me. Also, who will backup the
-    backup. So if I pay this service to aggregate my data, how do I browse / manage it. And what happens if they go away? Don't get me wrong I think this is a great service. Being the picky developer
-    I am...I would like to see a single utility like Jungle Disk that I could map to various cloud services and choose to backup either to my local drive / disk, Amazon EC2, or Mosso Cloud. It would
-    give me more control over it.
+    I came across a post about a new web service.It is a cloud backup tool.Something I have talked about needing several times.Handy backup utility for all my favorite cloud based
+    applications.BackupMy.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2009/07/20/backup-my-cloudy-world/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

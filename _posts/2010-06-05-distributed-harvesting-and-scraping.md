@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Distributed Harvesting and Scraping
-url: http://kinlane.com/2010/06/05/distributed-harvesting-and-scraping/
-source: http://kinlane.com/2010/06/05/distributed-harvesting-and-scraping/
-domain: kinlane.com
-image: http://www.3idatascraping.com/images/data_scraping.jpg
+url: http://apievangelist.com/2010/06/05/distributed-harvesting-and-scraping/
+source: http://apievangelist.com/2010/06/05/distributed-harvesting-and-scraping/
+domain: apievangelist.com
+image: [Image]
 ---
 {% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -13,31 +13,10 @@ image: http://www.3idatascraping.com/images/data_scraping.jpg
     <title></title>
   </head>
   <body>
-    Data is the center of my world. I enjoy that there are finally great places on the Internet get open large data sets such as <a href="http://www.factual.com/">Factual</a> and <a href=
-    "../?p=1205">Google Fusion Tables</a>. However much of the data I want for different purposes is not neatly organized into an easily accessible data set or available on the Internet.<img class=
-    "alignnone" title="Harvesting and Scraping" src="http://www.3idatascraping.com/images/data_scraping.jpg" alt="" width="400" height="308" align="right" /> When I see data on the Internet that is
-    controlled and not widely available I get the urge to set it free. Help the data owner organize it and make it available. Other times I need access to the data for business purposes. This is when
-    data harvesting or data scraping techniques come into play. It is when you programmatically pull a web page and parse the content to get at some or all of the data on the page. Then you setup
-    some sort of script to spider and pull all of the available pages either through GET or POST of data to increment the site and encourage it to cough up all of its information. There are many ways
-    to pull these pages and crunch this data for whatever purposes. This isn't what this post is about. It is more about ways to position these scrape or harvest scripts to grab the data. See when I
-    pull data from a known site, sometimes I making thousands, hundreds of thousands, or millions of requests for pages against a site. If the site owner is smart they will limit the number of
-    requests you can make on their site from a single IP Address. With limitations on the number of requests I can make in a given time period I have to slow my requests down. With large data sets
-    this means I have to wait longer. Which just isn't acceptable to my ADD personality. I can't wait. So I need a way of making requests from many IP addresses quickly. <strong>Cloud Harvesting and
-    Scraping Systems.</strong> With the growth of cloud computing there are many places to quickly procure computing power at unique IP addresses. Using services such as <a href=
-    "http://aws.amazon.com/ec2/">Amazon EC2</a>, <a href="http://www.rackspacecloud.com/">Rackspace Cloud</a>, and <a href="http://www.gogrid.com/">GoGrid</a> makes it easy to quickly automate and
-    distribute calls pulling remote pages across many IP addresses. Of course this route costs $$. So to make it worth my time to deploy cloud infrastructure for harvesting and scraping I need a
-    budget and a legitimate business purposes for the harvest. Cloud Infrastructure as a Service (IaaS) is the quickest way to plan, deploy, maintain and shut down a distributed harvester and get
-    data as fast you want. Of course you have to refrain from crossing to the dark side of cloud and becoming a Denial of Service (DOS) attack as well. How much can the target data source handle? How
-    many requests can they deal with before their systems are overloaded and you start negatively impacting their business. This can be a fine line. With all the cloud computing power at your finger
-    tips....you have to be careful. <strong>Distributed Harvesting and Scraping System</strong> Another way of creating a distributed approach to your harvesting and scraping program is to use a
-    distributed approach that technically is still in the clouds, but not using major cloud computing providers. A common way is to procure accounts on many of the FREE hosting providers out their
-    that utilize the language of your choice (PHP, Python) etc. You can easily setup a front site such as blog, forum, or other site and in the back ground be running scripts on timers that pull
-    pages from your target host without alerting triggering their red flags. How you process the harvested data is up to you. I often send raw data back to central cloud based host for processing,
-    cleanup and warehousing. Another way of created a distributed approach is using JavaScript widgets. You can create intelligent widgets that have a distinct or purpose to unknowing users. They
-    they handle the distributed part for you, and grab the widget code put on their site. You can then create a sort of intelligent proxy in which you can harvest remote data. Of course there are
-    Cross Site Scripting hurdles to overcome, but these have workarounds often times. Both of these distributed solution create a sort of Ambient Computing Power that you have at your fingertips. You
-    can then harvest data in a distributed fashion at whatever scale you have the budget for or time for depending on your business goals. Harvesting of data can be fun if you are a data geek, but it
-    can also be illegal. So be careful and wise in how you deploy.
+    Data is the center of my world.I enjoy that there are finally great places on the Internet get open large data sets such as Factual and Google Fusion Tables.However much of the data I want for
+    different purposes is not neatly organized into an easily accessible data set or available on the Internet.When I see data on the Internet that is controlled and not widely available I get the
+    urge to set it free.Help the data owner organize it and make it available.
   </body>
 </html></p>
+<center><p><a href="http://apievangelist.com/2010/06/05/distributed-harvesting-and-scraping/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
