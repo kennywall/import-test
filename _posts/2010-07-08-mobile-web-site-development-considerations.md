@@ -4,7 +4,7 @@ title: Mobile Web Site Development Considerations
 url: http://apievangelist.com/2010/07/08/mobile-web-site-development-considerations/
 source: http://apievangelist.com/2010/07/08/mobile-web-site-development-considerations/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mobile-site-development/mobile-browser.jpg
 ---
 {% include JB/setup %}<p>Im refining my strategy for best practices in designing mobile web sites.I just added a few RSS feeds from quality design firms, and added a Google Alert.Ive put together a few things to consider when designing your web site for mobile browsers:
 

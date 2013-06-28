@@ -4,7 +4,7 @@ title: Who Are The Customers For Your Startup?
 url: http://apievangelist.com/2013/04/26/who-are-the-customers-for-your-startup/
 source: http://apievangelist.com/2013/04/26/who-are-the-customers-for-your-startup/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-question-mark.png
 ---
 {% include JB/setup %}<p>Silicon Valley builds amazing apps!We need customers to use our apps
 

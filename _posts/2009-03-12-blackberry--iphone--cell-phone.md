@@ -4,7 +4,7 @@ title: Blackberry + IPhone + Cell Phone
 url: http://apievangelist.com/2009/03/12/blackberry-iphone-cell-phone/
 source: http://apievangelist.com/2009/03/12/blackberry-iphone-cell-phone/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I was watching the recent Reid Hoffman interview on Charlie Rose and they discussed the topic of which handheld he uses.He uses a Blackberry an IPhone as well as regular cell phone.Then Charlie Rose also said he uses the exact same configuration.They said they use:
 

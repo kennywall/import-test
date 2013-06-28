@@ -4,7 +4,7 @@ title: Twitter Launches New Web Analytics
 url: http://apievangelist.com/2011/09/13/twitter-launches-new-web-analytics/
 source: http://apievangelist.com/2011/09/13/twitter-launches-new-web-analytics/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png
 ---
 {% include JB/setup %}<p>It can be difficult to truly measure with accuracy, the amount of traffic that is driven to your site from Twitter.Google Analytics and other providers are beginning to provide much deeper views into how social impacts our web traffic, but in many cases its best to get it from the source.Today Twitter announced Web Analytics, a tool that helps website administrators understand how much traffic they receive from Twitter and the effectiveness of Twitter integrations on their sites by showing:
 

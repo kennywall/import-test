@@ -4,7 +4,7 @@ title: In Case You Missed It Last Week...(API)
 url: http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week…api/
 source: http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week…api/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Foursquare
 

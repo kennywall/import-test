@@ -4,7 +4,7 @@ title: Build Secure, Encrypted Cloud Storage Solutions with PHP
 url: http://apievangelist.com/2012/04/15/build-secure,-encrypted-cloud-storage-solutions-with-php/
 source: http://apievangelist.com/2012/04/15/build-secure,-encrypted-cloud-storage-solutions-with-php/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/php-logo-300.png
 ---
 {% include JB/setup %}<p>IDrive now has PHP samples complete with full library you can use when developing your encrypted, versioned cloud storage for your software solution.PHP is widely is in many web applications today, so it&rsquo;s a language we couldn&rsquo;t ignore.We&rsquo;ve added samples to each of the 19 REST API Methods:
 &nbsp;

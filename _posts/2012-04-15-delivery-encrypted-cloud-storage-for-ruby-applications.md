@@ -4,7 +4,7 @@ title: Delivery Encrypted Cloud Storage for Ruby Applications
 url: http://apievangelist.com/2012/04/15/delivery-encrypted-cloud-storage-for-ruby-applications/
 source: http://apievangelist.com/2012/04/15/delivery-encrypted-cloud-storage-for-ruby-applications/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/ruby_logo.jpg
 ---
 {% include JB/setup %}<p>IDrive just finished a set of Ruby samples complete with full library you can use when developing your encrypted, versioned cloud storage for your web application, using IDrive EVS REST API.With the introduction of the web application framework Rails, the popularity of Ruby for building web apps has skyrocketed.To support Ruby developers, IDrive has added samples to each of the 19 REST API Methods:
 

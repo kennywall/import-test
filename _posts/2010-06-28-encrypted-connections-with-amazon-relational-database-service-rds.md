@@ -4,7 +4,7 @@ title: Encrypted Connections with Amazon Relational Database Service (RDS)
 url: http://apievangelist.com/2010/06/28/1753/
 source: http://apievangelist.com/2010/06/28/1753/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/relational-database.jpg
 ---
 {% include JB/setup %}<p>Amazon published today that Relational Database Service (RDS) now supports SSL encrypted connections.You can now generate an SSL certificate for each database instance.Here are a few of the details about Relational Database Service (RDS) SSL connections:
 

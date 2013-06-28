@@ -4,7 +4,7 @@ title: Google Cloud Print, HP ePrint, and Apple Airprint
 url: http://apievangelist.com/2011/03/05/google-cloud-print-hp-eprint-and-apple-airprint/
 source: http://apievangelist.com/2011/03/05/google-cloud-print-hp-eprint-and-apple-airprint/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/apple-airprint/ipad-and-airprint.jpg
 ---
 {% include JB/setup %}<p>Ive been spending time learning about the three major platform we think about when we hear the term cloud printing.Apple Airprint
 	HP ePrint

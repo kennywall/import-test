@@ -4,7 +4,7 @@ title: Making an Amazon S3 Bucket Public
 url: http://apievangelist.com/2011/01/26/making-an-amazon-s3-bucket-public/
 source: http://apievangelist.com/2011/01/26/making-an-amazon-s3-bucket-public/
 domain: apievangelist.com
-image: [Image]
+image: http://a0.twimg.com/profile_images/1176550371/5163129933_353fc10a38_m_normal.jpg
 ---
 {% include JB/setup %}<p>@audreywatters -I dont know how to manage my bucket policies cc @kinlane
 

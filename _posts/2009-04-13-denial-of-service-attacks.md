@@ -4,7 +4,7 @@ title: Denial of Service Attacks
 url: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
 source: http://apievangelist.com/2009/04/13/denial-of-service-attacks/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Was just reading this post on CloudPundit - DDoS season regarding several high profile distributed denial of service (DDoS) attacks.The victims include:
 

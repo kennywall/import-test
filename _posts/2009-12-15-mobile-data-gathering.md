@@ -4,7 +4,7 @@ title: Mobile Data Gathering
 url: http://apievangelist.com/2009/12/15/mobile-data-gathering/
 source: http://apievangelist.com/2009/12/15/mobile-data-gathering/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>While playing around with Google Fusion Tables tonight I came across the Open Data Kit (ODK).Open Data Kit (ODK) is a suite of tools to help organizations collect, aggregate and visualize their data.The projects goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale.The project consists of:
 

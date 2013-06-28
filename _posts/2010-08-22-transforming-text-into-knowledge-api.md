@@ -4,7 +4,7 @@ title: Transforming Text Into Knowledge API
 url: http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api/
 source: http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api/
 domain: apievangelist.com
-image: [Image]
+image: http://www.alchemyapi.com/images/alchemyAPI.jpg
 ---
 {% include JB/setup %}<p>I had a chance to play with the AlchemyAPI I came across today.AlchemyAPI is a semantic tagging and text mining Application Programming Interface (API).I have about 10K web pages I want to extract top keywords and key phrases from.I want meaning extracted from the words on each page.AlchemyAPI provides nine methods:
 

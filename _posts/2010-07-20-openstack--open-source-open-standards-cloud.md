@@ -4,7 +4,7 @@ title: OpenStack - Open Source, Open Standards Cloud.
 url: http://apievangelist.com/2010/07/20/openstack-open-source-open-standards-cloud/
 source: http://apievangelist.com/2010/07/20/openstack-open-source-open-standards-cloud/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/OpenStack_200.jpeg
 ---
 {% include JB/setup %}<p>I am impressed with Rackspace donating the code for their compute and object storage platform and creating the OpenStack.There has been a lot of discussion around the need for a cloud storage API standard, and whether or not Amazon should be the base for an cloud computing standard.I think it is a very smart move for Rackspace to step up in this way.It will do a lot for the industry and cloud adoption, and put them ahead in the game.I see a couple of immediate benefits:
 

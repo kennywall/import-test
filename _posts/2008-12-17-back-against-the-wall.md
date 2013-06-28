@@ -4,7 +4,7 @@ title: Back Against the Wall
 url: http://apievangelist.com/2008/12/17/back-against-the-wall/
 source: http://apievangelist.com/2008/12/17/back-against-the-wall/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Sit with your back against the brick wall
 At least I wont get shot in the back

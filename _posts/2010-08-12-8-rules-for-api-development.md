@@ -4,7 +4,7 @@ title: 8 Rules for API Development
 url: http://apievangelist.com/2010/08/12/8-rules-for-api-development/
 source: http://apievangelist.com/2010/08/12/8-rules-for-api-development/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/OAuth.png
 ---
 {% include JB/setup %}<p>I was reading a good post on getting your API right.They propose following these rules when developing your API:
 

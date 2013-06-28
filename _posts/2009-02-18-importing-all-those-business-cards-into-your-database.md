@@ -4,7 +4,7 @@ title: Importing All Those Business Cards Into Your Database
 url: http://apievangelist.com/2009/02/18/importing-all-those-business-cards-into-your-database/
 source: http://apievangelist.com/2009/02/18/importing-all-those-business-cards-into-your-database/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I was reading a blog about a new service that will scan your business cards and import into a database for you.Here is their pitch:
 

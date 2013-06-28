@@ -4,7 +4,7 @@ title: Google Wave Server
 url: http://apievangelist.com/2009/12/18/google-wave-server/
 source: http://apievangelist.com/2009/12/18/google-wave-server/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I was going through the different areas of my Google Wave research this evening.It was time to learn more about the Google Wave Federated Protocol.I just havent had enough time to keep reading on the subject.So to update my research:
 

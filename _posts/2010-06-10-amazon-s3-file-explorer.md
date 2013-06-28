@@ -4,7 +4,7 @@ title: Amazon S3 File Explorer
 url: http://apievangelist.com/2010/06/10/amazon-s3-file-explorer/
 source: http://apievangelist.com/2010/06/10/amazon-s3-file-explorer/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/amazon/Console-S3.PNG
 ---
 {% include JB/setup %}<p>Amazon Web Services finally added an S3 Bucket explorer to the Amazon Console.I was mentioning last week about how mature the offerings in the AWS console are getting, and how the the whole suite of Amazon Web Services is ready for use by Small Business.The Amazon S3 interface is pretty simple, but then again it is simple storage.With this addition you can easily manage your:
 

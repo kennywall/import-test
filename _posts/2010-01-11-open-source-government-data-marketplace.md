@@ -4,7 +4,7 @@ title: Open Source Government Data Marketplace
 url: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
 source: http://apievangelist.com/2010/01/11/open-source-government-data-marketplace/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Someone needs to create an open source version of data.gov.Every city, county and state municipalities need a copy.There needs to be a well written, secure and standards based open source version available.It would be setup identical with:
 

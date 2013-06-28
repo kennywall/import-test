@@ -4,7 +4,7 @@ title: NYC Tech Meetup
 url: http://apievangelist.com/2011/05/05/nyc-tech-meetup/
 source: http://apievangelist.com/2011/05/05/nyc-tech-meetup/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png
 ---
 {% include JB/setup %}<p>I was fortunate enough to attend the NY Tech Meetup last night at NYU while I was in town.Interesting to see the startup energy in NY compared with Silicon Valley.Anyways I got to see some cool startups and tech businesses:
 

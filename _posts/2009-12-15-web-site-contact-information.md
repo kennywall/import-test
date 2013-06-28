@@ -4,7 +4,7 @@ title: Web Site Contact Information
 url: http://apievangelist.com/2009/12/15/web-site-contact-information/
 source: http://apievangelist.com/2009/12/15/web-site-contact-information/
 domain: apievangelist.com
-image: [Image]
+image: http://kin_lane.s3.amazonaws.com/blog/contact-information.jpg
 ---
 {% include JB/setup %}<p>I really like this contact information on this site I was researching tonight.The colors dont really appeal to me.It is the fact that their contact information is clearly:
 

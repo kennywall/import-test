@@ -4,7 +4,7 @@ title: Terminating Amazon EC2 Instances
 url: http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/
 source: http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>There are many features that operating in the clouds using Amazon EC2 brings to the table.Although there are two areas that make me so nervous:
 

@@ -4,7 +4,7 @@ title: Twitter for Business
 url: http://apievangelist.com/2010/12/28/twitter-for-business/
 source: http://apievangelist.com/2010/12/28/twitter-for-business/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}<p>Twitter has a business center setup to help people make the most of Twitter for their business.You can find tools, starting with the basis:
 

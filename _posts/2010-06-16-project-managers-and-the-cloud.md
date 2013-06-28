@@ -4,7 +4,7 @@ title: Project Managers and the Cloud
 url: http://apievangelist.com/2010/06/16/project-managers-and-the-cloud/
 source: http://apievangelist.com/2010/06/16/project-managers-and-the-cloud/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/project-managers.jpg
 ---
 {% include JB/setup %}<p>I keep talking about how cloud computing is changing IT, and IT managers need to pay attention.I just finished reading a blog that reminds me that project managers need to think about Cloud Computing as well.It talks about several key points project managers should consider:
 

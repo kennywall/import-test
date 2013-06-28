@@ -4,7 +4,7 @@ title: Forms that Generate PDF Documents
 url: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
 source: http://apievangelist.com/2009/10/17/forms-that-generate-pdf-documents/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Was just checking out a cool service called doculicious.It allows people to create HTML forms that generate PDF and email them to you when the form is submitted.It is a inexpensive and easy way to collect users data and create a legible records of their information.They also provide a few other features:
 

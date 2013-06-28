@@ -4,7 +4,7 @@ title: Framework for Comparing Cloud Computing Service Providers
 url: http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
 source: http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
 domain: apievangelist.com
-image: [Image]
+image: http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif
 ---
 {% include JB/setup %}<p>CloudCommons has developed the Service Measurement Index (SMI) Framework, a set of tools for comparing cloud computing service providers.The Service Measurement Index (SMI) Framework uses the following metrics:
 

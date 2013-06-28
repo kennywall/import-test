@@ -4,7 +4,7 @@ title: Google Cloud Print - Update
 url: http://apievangelist.com/2011/02/06/google-cloud-print-update/
 source: http://apievangelist.com/2011/02/06/google-cloud-print-update/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>Now that you have a Google Cloud Printer registered with the Google Cloud Print (GCP) registry, you will need to keep the status of that printer updated.After authenticating using Google ClientLogin API, you can update an existing Google Cloud Printer:
  The Google Cloud Print /list endpoint accepts the following parameter:

@@ -4,7 +4,7 @@ title: Definition of Open Technology
 url: http://apievangelist.com/2010/06/06/definition-of-open-technology/
 source: http://apievangelist.com/2010/06/06/definition-of-open-technology/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Definition of Open Technology:
 Developed in the open with full transparency

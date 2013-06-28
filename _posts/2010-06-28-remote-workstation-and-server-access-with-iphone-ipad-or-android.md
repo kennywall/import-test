@@ -4,7 +4,7 @@ title: Remote Workstation and Server Access with Iphone, IPad or Android
 url: http://apievangelist.com/2010/06/28/remote-workstation-and-server-cloud-access-with-iphone-ipad-or-android/
 source: http://apievangelist.com/2010/06/28/remote-workstation-and-server-cloud-access-with-iphone-ipad-or-android/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/vendors/wyse/pocket-cloud.PNG
 ---
 {% include JB/setup %}<p>Wyse PocketCloud gives you access to a cloud, your PC, Remote Desktop Services, a Terminal Server, VMware View or virtual machine securely from your desktop and your iPhone, iPod touch, iPad or Android devices.Connection Protocols
 

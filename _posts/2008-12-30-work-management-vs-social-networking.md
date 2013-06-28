@@ -4,7 +4,7 @@ title: Work Management vs. Social Networking
 url: http://apievangelist.com/2008/12/30/work-management-vs-social-networking/
 source: http://apievangelist.com/2008/12/30/work-management-vs-social-networking/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>When I start working I tend to open a handful of work-based applications that I need open all the time while I work.A few of the must have applications are:
 

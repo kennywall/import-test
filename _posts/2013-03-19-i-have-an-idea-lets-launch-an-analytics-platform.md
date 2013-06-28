@@ -4,7 +4,7 @@ title: I Have An Idea, Lets Launch an Analytics Platform
 url: http://apievangelist.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/
 source: http://apievangelist.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/analytics-trend.jpg
 ---
 {% include JB/setup %}<p>During my monitoring for the API stack this last week, I noticed that both Parse and New Relic had launched mobile analytics platforms.I&rsquo;ve been tracking on various API driven analytics platforms, and after seeing both Parse and New Relic launch their offerings, I thought, who else is doing this?Here are a few of the analytics platforms that launched in the last 30 days:
 

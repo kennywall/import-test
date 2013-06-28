@@ -4,7 +4,7 @@ title: Proofing Print Documents From Scribd
 url: http://apievangelist.com/2011/01/25/proofing-print-documents-from-scribd/
 source: http://apievangelist.com/2011/01/25/proofing-print-documents-from-scribd/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
 {% include JB/setup %}<p>I recently created a couple of working examples using Scribd API and the Mimeo Connect Cloud Print API:
 

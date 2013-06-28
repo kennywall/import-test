@@ -4,7 +4,7 @@ title: Move Your Business to the Google Cloud
 url: http://apievangelist.com/2010/06/27/move-your-business-to-the-google-cloud/
 source: http://apievangelist.com/2010/06/27/move-your-business-to-the-google-cloud/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}<p>I was just reading a great testimonial of moving your business to Google Apps.I use Google Apps as a starting point for all my domains, right after purchasing the domain.Reasons for moving your business to the Google Apps Cloud:
 

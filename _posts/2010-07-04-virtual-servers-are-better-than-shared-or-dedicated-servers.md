@@ -4,7 +4,7 @@ title: Virtual Servers Are Better Than Shared or Dedicated Servers
 url: http://apievangelist.com/2010/07/04/virtual-servers-are-better-than-shared-or-dedicated-servers/
 source: http://apievangelist.com/2010/07/04/virtual-servers-are-better-than-shared-or-dedicated-servers/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>This is taken from the Why Linode Page:
 Virtualization is the future of hosting.It eliminates the restrictions of shared web hosting, and the expense and upkeep of dedicated servers.And, its kinder to the environment by more efficiently utilizing resources.Better than shared web hosting

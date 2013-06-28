@@ -4,7 +4,7 @@ title: New Generation of Web Applications
 url: http://apievangelist.com/2011/03/16/new-generation-of-web-applications/
 source: http://apievangelist.com/2011/03/16/new-generation-of-web-applications/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 ---
 {% include JB/setup %}<p>Im noticing a pattern of simple new web applications that focus on solving a single problem.This new generation of web applications are adhering to the core principles of Software as a Service (SaaS).They provide tools in 3 formats:
 

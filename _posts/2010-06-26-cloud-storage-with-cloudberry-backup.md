@@ -4,7 +4,7 @@ title: Cloud Storage with CloudBerry Backup
 url: http://apievangelist.com/2010/06/26/cloud-storage-with-cloudberry-backup/
 source: http://apievangelist.com/2010/06/26/cloud-storage-with-cloudberry-backup/
 domain: apievangelist.com
-image: [Image]
+image: http://images.cloudberrylab.com/products/backup_box.jpg
 ---
 {% include JB/setup %}<p>I am always trying to keep an eye on various cloud storage solutions.A company called Cloudberry has been offering an Amazon S3 storage client called CloudBerry Explorer for a while.Now they are targeting the data backup and restore marketing with their CloudBerry Backup.Current features include:
 

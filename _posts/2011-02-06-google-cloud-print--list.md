@@ -4,7 +4,7 @@ title: Google Cloud Print - List
 url: http://apievangelist.com/2011/02/06/google-cloud-print-list/
 source: http://apievangelist.com/2011/02/06/google-cloud-print-list/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>In addition to registering a Google Cloud Printer you may want to list what cloud printers you have registered with a specific Google Account.After authenticating using Google ClientLogin API,  you can request a list of your printers in their account:
  The Google Cloud Print  /list endpoint accepts the following parameter:

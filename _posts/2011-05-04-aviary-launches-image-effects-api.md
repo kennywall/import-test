@@ -4,7 +4,7 @@ title: Aviary Launches Image Effects API
 url: http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/
 source: http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png
 ---
 {% include JB/setup %}<p>Aviary, a creator of web-based image editing tools, launched a new Effects API that can apply filters and utilities to photos via a RESTful interface.What used to be done with server-side components like ImageMagick, can now be down through web APIs.The Aviary Effects API provides the following functionality:
 

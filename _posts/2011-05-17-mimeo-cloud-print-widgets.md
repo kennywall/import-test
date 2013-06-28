@@ -4,7 +4,7 @@ title: Mimeo Cloud Print Widgets
 url: http://apievangelist.com/2011/05/17/mimeo-cloud-print-widgets/
 source: http://apievangelist.com/2011/05/17/mimeo-cloud-print-widgets/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-widget.png
 ---
 {% include JB/setup %}<p>Widgets and other embeddable objects are the number one request we get at Mimeo Connect.Everyone is busy these days, and they just need a quick way to enable users to build, purchase and print documents from anywhere.So Ive started adding widgets to the Mimeo Cloud Print Platform.Right now I just have HTML widgets, but soon I will be adding JavaScript versions.I have eight widgets in 3 categories currently:
 Building and Purchasing Documents

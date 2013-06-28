@@ -4,7 +4,7 @@ title: HTML5 Resources For Web Developers
 url: http://apievangelist.com/2010/06/22/html5-resources-for-open-web-developers/
 source: http://apievangelist.com/2010/06/22/html5-resources-for-open-web-developers/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/HTML5/HTML5-Rocks.PNG
 ---
 {% include JB/setup %}<p>Google is evangelizing HTML5 big time.It is obvious that they are behind HTML5 since their Google Chrome is the furthest along in HTML 5 support.Today they launched a new HTML 5 resource site called HTML5Rocks!They are launching the site with nine HTML5 tutorials:
 

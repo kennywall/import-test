@@ -4,7 +4,7 @@ title: Local, Geo Landscape Roundup - February 6th, 2012
 url: http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
 source: http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>From the&nbsp;Facebook&nbsp;Blog
 

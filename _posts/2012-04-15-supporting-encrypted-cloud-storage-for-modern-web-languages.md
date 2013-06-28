@@ -4,7 +4,7 @@ title: Supporting Encrypted Cloud Storage for Modern Web Languages
 url: http://apievangelist.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
 source: http://apievangelist.com/2012/04/15/supporting-encrypted-cloud-storage-for-modern-web-languages/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/idrive-logo.jpg
 ---
 {% include JB/setup %}<p>As more of our lives move online, into the clouds, encrypted backup and storage of not just our vital data, but our personal photos, files and streams is becoming critical--this responsibility to provide secure cloud storage and backup solutions is up to developers of the software, people use every day.IDrive is working to provide these solutions for developers by delivering two interfaces for developers to integrate encrypted storage into their applications:
 

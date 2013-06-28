@@ -4,7 +4,7 @@ title: Improved Google Chrome Plug-In Security
 url: http://apievangelist.com/2010/06/28/1748/
 source: http://apievangelist.com/2010/06/28/1748/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
 ---
 {% include JB/setup %}<p>The Chromium team talked about improved Google Chrome plug-in security today.Apparently we are seeing more and more security exploits targeting browser plug-ins.Since many plug-ins are ubiquitous, they pose the most significant risk to users.To better protect Google Chrome users from the threat of plug-in exploits, Google announced a couple of initiatives:
 

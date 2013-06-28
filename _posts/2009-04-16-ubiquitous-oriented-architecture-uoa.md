@@ -4,7 +4,7 @@ title: Ubiquitous Oriented Architecture (UOA)
 url: http://apievangelist.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
 source: http://apievangelist.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
 domain: apievangelist.com
-image: [Image]
+image: http://s3.amazonaws.com/Kin-Lane-My-Documents/Uniquitous Oriented Architecture/Uniquitous Oriented Architecture.jpg
 ---
 {% include JB/setup %}<p>A few weeks back I posted a blog entry on my philosophy of a Ubiquitous Oriented Architecture (UOA).It represents my thoughts on developing software with two things in mind:
 

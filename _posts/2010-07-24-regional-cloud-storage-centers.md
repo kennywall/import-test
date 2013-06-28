@@ -4,7 +4,7 @@ title: Regional Cloud Storage Centers
 url: http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/
 source: http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter2.png
 ---
 {% include JB/setup %}<p>This is a second post in a series about where cloud computing is headed.In addition to regional cloud computing centers, the need for  raw cloud storage is growing.A handful of providers are leading the charge in cloud  compute Infrastructure as a Service (IaaS):
 

@@ -4,7 +4,7 @@ title: Google Alerts in Google Apps
 url: http://apievangelist.com/2010/11/30/google-alerts-in-google-apps/
 source: http://apievangelist.com/2010/11/30/google-alerts-in-google-apps/
 domain: apievangelist.com
-image: [Image]
+image: http://2.bp.blogspot.com/_4S6buKKlhfQ/TPU-od0Zm5I/AAAAAAAAAFE/hsE-VYcv_HI/app_sphere_alerts.png
 ---
 {% include JB/setup %}<p>Google is rapidly retooling many of the FREE applications weve come to know, and launching within the Google Apps cloud platform.They released Google Alerts in the Google Apps area today, allowing you to setup alerts within your companies domain.I use Google Alerts to help me discover new information on a daily basis.The keywords and phrases I search for change from week to week depending on my focus, currently they are:
 

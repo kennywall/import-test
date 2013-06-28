@@ -4,7 +4,7 @@ title: Programming with Images Using ImageMagick
 url: http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/
 source: http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/
 domain: apievangelist.com
-image: [Image]
+image: http://www.imagemagick.org/image/wizard.jpg
 ---
 {% include JB/setup %}<p>ImageMagick is open source Apache 2.0 project that allows you to programmaticaly create, edit, compose, or convert bitmap images.It can read and write images in over 100 formats:
 

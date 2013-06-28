@@ -4,7 +4,7 @@ title: Dropbox Launches API
 url: http://apievangelist.com/2010/07/03/dropbox-launches-api/
 source: http://apievangelist.com/2010/07/03/dropbox-launches-api/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/DropBox-Developers.PNG
 ---
 {% include JB/setup %}<p>Dropbox just launched a new application programming interface (API) for their popular cloud storage platform.The RESTful API allows you to exchange, distribute or access files on a users desktop.The API offers the following features:
 

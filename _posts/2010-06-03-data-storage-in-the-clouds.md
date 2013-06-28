@@ -4,7 +4,7 @@ title: Data Storage in the Clouds
 url: http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/
 source: http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I have been answering a lot of questions on LinkedIn and Quora lately about where the best place to store data in the clouds.There are a lot of answers to this question.Cloud storage comes in many shapes, sizes, and prices.Business class, personal usage, storage APIs and much more.I store my:
 

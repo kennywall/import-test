@@ -4,7 +4,7 @@ title: Document Translation with Google Docs API
 url: http://apievangelist.com/2011/02/22/document-translation-with-google-docs-api/
 source: http://apievangelist.com/2011/02/22/document-translation-with-google-docs-api/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jpg
 ---
 {% include JB/setup %}<p>Google Docs Listing API provides document translation at file upload.When upload a document you can enable document translation with the following parameters:
 

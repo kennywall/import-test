@@ -4,7 +4,7 @@ title: Default Personal Firefox Browser Tabs
 url: http://apievangelist.com/2009/11/08/default-google-tabs/
 source: http://apievangelist.com/2009/11/08/default-google-tabs/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>When I start my day I tend to open one browser and deploy all my work / business related applications and one browser for all my personal related applications.My personal browser tabs have been:
 

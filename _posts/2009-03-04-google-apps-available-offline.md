@@ -4,7 +4,7 @@ title: Google Apps Available Offline
 url: http://apievangelist.com/2009/03/04/google-apps-available-offline/
 source: http://apievangelist.com/2009/03/04/google-apps-available-offline/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>So Google has release offline access for Google Calendar to all users.Now I have offline access enabled for my key Google Apps.Google Mail (Gmail)
 	Google Docs

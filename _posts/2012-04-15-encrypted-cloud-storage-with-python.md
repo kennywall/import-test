@@ -4,7 +4,7 @@ title: Encrypted Cloud Storage with Python
 url: http://apievangelist.com/2012/04/15/encrypted-cloud-storage-with-python/
 source: http://apievangelist.com/2012/04/15/encrypted-cloud-storage-with-python/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/python-logo.jpg
 ---
 {% include JB/setup %}<p>IDrive now has a set of Python samples complete with full library you can use when developing your encrypted, versioned cloud storage for your web application.Python is one of the fastest growing, interpreted, interactive, object-oriented, extensible programming language--embraced by giants like Google.IDrive has added samples to each of the 19 REST API Methods:
 &nbsp;

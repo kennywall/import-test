@@ -4,7 +4,7 @@ title: Personal Legal Storage Locker for TOS and NDA
 url: http://apievangelist.com/2013/04/10/personal-legal-storage-locker-for-tos-and-nda/
 source: http://apievangelist.com/2013/04/10/personal-legal-storage-locker-for-tos-and-nda/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/lockers.jpg
 ---
 {% include JB/setup %}<p>I&rsquo;m unpacking all my notes from my time spent at the MIT Media Lab this last weekend.&nbsp;One of the byproducts of hanging out with so many smart people is I end up with all kind of great ideas, and I know better than to think I can do them all myself, so I put my ideas out on the web for anyone to run with.My project from theHackathon this weekend was #ReclaimYourDomain, which I&rsquo;ll write about in detail separately, but the overall project objective was to educate people about:
 

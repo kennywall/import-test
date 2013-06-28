@@ -4,7 +4,7 @@ title: Google Reader Curation
 url: http://apievangelist.com/2010/12/04/google-reader-curation/
 source: http://apievangelist.com/2010/12/04/google-reader-curation/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg
 ---
 {% include JB/setup %}<p>It is time to curate my Google Reader subscriptions again.I try to keep my daily blog reading as efficient as possible.To do this I change up my Google Reader in three different ways:
 

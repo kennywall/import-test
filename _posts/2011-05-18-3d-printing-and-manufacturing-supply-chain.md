@@ -4,7 +4,7 @@ title: 3D Printing and Manufacturing Supply Chain
 url: http://apievangelist.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
 source: http://apievangelist.com/2011/05/18/3d-printing-and-manufacturing-supply-chain/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_supply_chain.jpg
 ---
 {% include JB/setup %}<p>In preparation for Maker Faire this weekend Im collecting more of my thoughts around 3D printing.As I do with all my research, I blog along the way, to help me learn and organize my thoughts.This is a first post in my ongoing evaluation of  the role of APIs in 3D printing and manufacturing.Im working to understand the major components of 3D printing so I can see where APIs are can have the biggest impact.Ive identified 10 major components of 3D printing:
 

@@ -4,7 +4,7 @@ title: GoGrid Launches 3.0 Version of Cloud Platform
 url: http://apievangelist.com/2010/06/29/gogrid-launches-3-0-version-of-cloud-platform/
 source: http://apievangelist.com/2010/06/29/gogrid-launches-3-0-version-of-cloud-platform/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/GoGrid.PNG
 ---
 {% include JB/setup %}<p>GoGrid just launched a complete overhaul of their systems including web site, platform and training materials.Since they are one of the leading cloud computing Infrastructure as a Service (IaaS) providers, its pretty big news:
 Overview of GoGrid 3.0 Features

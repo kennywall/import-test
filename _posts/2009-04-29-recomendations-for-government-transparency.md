@@ -4,7 +4,7 @@ title: Recomendations for Government Transparency
 url: http://apievangelist.com/2009/04/29/recomendations-for-government-transparency/
 source: http://apievangelist.com/2009/04/29/recomendations-for-government-transparency/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I used up all my mojo on my last post, and really cant write much on this topic right now, but I have to at least share this posting I found tonight:
 Recovery Recommendations From I School Faculty Sent to the US Government

@@ -4,7 +4,7 @@ title: Local, Geo Landscape Roundup - January 2nd, 2012
 url: http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
 source: http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>From the Foursquare Blog
 

@@ -4,7 +4,7 @@ title: Event Technology
 url: http://apievangelist.com/2009/12/15/event-technology/
 source: http://apievangelist.com/2009/12/15/event-technology/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I am doing a lot of research in applications and tools that are available out there for the event and conference industry.I am always evaluating broad categories of event technology, but recently I am focusing on:
 

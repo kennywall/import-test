@@ -4,7 +4,7 @@ title: OpenSecrets Open Data
 url: http://apievangelist.com/2010/01/12/opensecrets-open-data/
 source: http://apievangelist.com/2010/01/12/opensecrets-open-data/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I love data.When I find great sources of data I have to record it.Here is RAW and API data from the Federal Government.OpenSecrets Open Data
 It has:

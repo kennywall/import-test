@@ -4,7 +4,7 @@ title: My Social CRM
 url: http://apievangelist.com/2010/08/28/my-social-crm/
 source: http://apievangelist.com/2010/08/28/my-social-crm/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/Gist.PNG
 ---
 {% include JB/setup %}<p>I have successfully integrated social CRM service Gist into my platform.I have bee using it on a daily basis for about a month now.Gist allows me to integrate my:
 

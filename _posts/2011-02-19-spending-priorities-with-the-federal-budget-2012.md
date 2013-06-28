@@ -4,7 +4,7 @@ title: Spending Priorities with the Federal Budget 2012
 url: http://apievangelist.com/2011/02/19/spending-priorities-with-the-federal-budget-2012/
 source: http://apievangelist.com/2011/02/19/spending-priorities-with-the-federal-budget-2012/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/budget/us-whitehouse-logo.jpg
 ---
 {% include JB/setup %}<p>Most of the time I feel pretty powerless when it comes to politics in our country.As I see it I have two ways to express myself:
 

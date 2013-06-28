@@ -4,7 +4,7 @@ title: Private Label Cloud Provider
 url: http://apievangelist.com/2010/06/28/private-label-cloud-provider/
 source: http://apievangelist.com/2010/06/28/private-label-cloud-provider/
 domain: apievangelist.com
-image: [Image]
+image: http://www.elasticstack.com/images/elasticstack.jpg
 ---
 {% include JB/setup %}<p>Tired of sending people to Amazon, Rackspace, or GoGrid.You can now start your own cloud computing provider.TelasticStack allows you to offer your own brand of cloud servers:
 

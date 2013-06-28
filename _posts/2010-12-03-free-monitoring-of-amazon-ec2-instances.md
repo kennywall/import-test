@@ -4,7 +4,7 @@ title: FREE Monitoring of Amazon EC2 Instances
 url: http://apievangelist.com/2010/12/03/free-monitoring-of-amazon-ec2-instances/
 source: http://apievangelist.com/2010/12/03/free-monitoring-of-amazon-ec2-instances/
 domain: apievangelist.com
-image: [Image]
+image: http://media.amazonwebservices.com/blog/cw_ec2_metrics.png
 ---
 {% include JB/setup %}<p>Amazon CloudWatch has matured and now is available with a Freemium tier for monitoring your EC2 instance at no charge.Amazon Cloudwatch allows you to monitor:
 

@@ -4,7 +4,7 @@ title: Adobe AIR 2.0 Released
 url: http://apievangelist.com/2010/06/13/adobe-air-2-0-released/
 source: http://apievangelist.com/2010/06/13/adobe-air-2-0-released/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/adobe-air.png
 ---
 {% include JB/setup %}<p>The Adobe AIR team released Adobe Air 2.0 the other day, you can download the latest version now.With Adobe AIR 2.0 you can release AIR applications on:
 

@@ -4,7 +4,7 @@ title: Scaling Your Amazon Infrastructure
 url: http://apievangelist.com/2010/08/16/scaling-your-amazon-infrastructure/
 source: http://apievangelist.com/2010/08/16/scaling-your-amazon-infrastructure/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>I am still processing a great post at High Scalability called, Scaling an AWS infrastructure - Tools and Patterns.They cover several tools you can use to take advantage of Amazons Web Service and suggest an architectural model you should adopt for a scalable infrastructure in the cloud.They suggest the following tools for managing your amazon scaling:
 

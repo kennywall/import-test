@@ -4,7 +4,7 @@ title: Google Updates Forms with Two New Significant Features
 url: http://apievangelist.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
 source: http://apievangelist.com/2009/09/28/google-updates-forms-with-two-new-significant-features/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Google added two new features into their Google Docs - Forms tool.You can now:
 

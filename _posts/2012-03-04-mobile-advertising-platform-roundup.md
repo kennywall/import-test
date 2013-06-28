@@ -4,7 +4,7 @@ title: Mobile Advertising Platform Round-Up
 url: http://apievangelist.com/2012/03/04/mobile-advertising-platform-round-up/
 source: http://apievangelist.com/2012/03/04/mobile-advertising-platform-round-up/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/CityGrid-Mobile-Advertising.png
 ---
 {% include JB/setup %}<p>I&rsquo;m doing more research for my&nbsp;Local, Mobile, Social Stack, and spending some time understanding the mobile advertising space.So far I&rsquo;ve found 24 mobile advertising platforms:
 

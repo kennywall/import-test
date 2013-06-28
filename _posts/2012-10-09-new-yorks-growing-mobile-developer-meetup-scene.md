@@ -4,7 +4,7 @@ title: New York's Growing Mobile Developer Meetup Scene
 url: http://apievangelist.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
 source: http://apievangelist.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meetup_logo.gif
 ---
 {% include JB/setup %}<p>I&rsquo;m continuing my research into how various cities operate their developer meetups, with a focus on mobile developer gatherings.Today I&rsquo;m focusing on New York City, a town that is fast becoming a contender with Silicon Valley for developer talent.I went through the meetups for New York City and found the following mobile developer meetup groups:
 

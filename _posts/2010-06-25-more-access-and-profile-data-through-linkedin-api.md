@@ -4,7 +4,7 @@ title: More Access and Profile Data through LinkedIn API
 url: http://apievangelist.com/2010/06/25/more-access-and-profile-data-through-linkedin-api/
 source: http://apievangelist.com/2010/06/25/more-access-and-profile-data-through-linkedin-api/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/LinkedIn.jpg
 ---
 {% include JB/setup %}<p>LinkedIn released some changes to their LinkedIn Open API today.They have:
 

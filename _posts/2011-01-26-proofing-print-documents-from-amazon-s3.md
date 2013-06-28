@@ -4,7 +4,7 @@ title: Proofing Print Documents From Amazon S3
 url: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
 source: http://apievangelist.com/2011/01/26/proofing-print-documents-from-amazon-s3/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>I am making my way through each major cloud storage provider and building demos that pull PDF files from the provider and proofs the file before printing with Mimeo.I have put together a demonstration of how to pull a PDF file from Amazon S3 and the proof it with Mimeo Connect.You will need:
 

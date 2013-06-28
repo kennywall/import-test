@@ -4,7 +4,7 @@ title: Human v Computer
 url: http://apievangelist.com/2010/12/06/human-v-computer/
 source: http://apievangelist.com/2010/12/06/human-v-computer/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Who is the number one user of your web site?Humans or other computers?According to Google Webmaster Tools, my top searches were for the following words:
 

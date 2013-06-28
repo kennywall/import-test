@@ -4,7 +4,7 @@ title: Wordpress 3.0 is Available
 url: http://apievangelist.com/2010/06/17/wordpress-3-0-is-available/
 source: http://apievangelist.com/2010/06/17/wordpress-3-0-is-available/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/wordpress.jpg
 ---
 {% include JB/setup %}<p>Wordpress launched their Version 3.0 of the popular blogging and content management platform today.Im a big fan and user of Wordpress, so I follow their blog.Some of the features that are notable are:
 

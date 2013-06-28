@@ -4,7 +4,7 @@ title: Cyberduck Adds Windows Version, Azure, and Dropbox
 url: http://apievangelist.com/2011/03/08/cyberduck-adds-windows-version-azure-and-dropbox/
 source: http://apievangelist.com/2011/03/08/cyberduck-adds-windows-version-azure-and-dropbox/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cyberduck.png
 ---
 {% include JB/setup %}<p>Cyberduck, the open source FTP client has made some pretty significant updates including a version for Microsoft Windows XP, Windows Vista &amp; Windows 7.Cyberduck has also added two more cloud storage providers:
 

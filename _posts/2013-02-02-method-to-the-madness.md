@@ -4,7 +4,7 @@ title: Method to the Madness
 url: http://apievangelist.com/2013/02/02/method-to-the-madness/
 source: http://apievangelist.com/2013/02/02/method-to-the-madness/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/global-gears.jpg
 ---
 {% include JB/setup %}<p>Im always working to find a way to organize my world, to help me better keep track of my wealth of content and information, while also assisting people in navigating my sometimes chaotic world of sites, blogs and projects.To help organize this, Im breaking my navigation on KinLane.com into two main groups.&nbsp;The first area is overview information about my world in the following sections:
 

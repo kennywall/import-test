@@ -4,7 +4,7 @@ title: RESTful Cloud Database with JSON
 url: http://apievangelist.com/2011/02/15/restful-cloud-database-with-json/
 source: http://apievangelist.com/2011/02/15/restful-cloud-database-with-json/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/jasondb.png
 ---
 {% include JB/setup %}<p>Jasondb is a cloud-based, RESTful JSON database designed to replace MySQL as the database in traditional web development
 

@@ -4,7 +4,7 @@ title: Google Cloud Print - Delete
 url: http://apievangelist.com/2011/02/07/google-cloud-print-delete/
 source: http://apievangelist.com/2011/02/07/google-cloud-print-delete/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>Now that you have a Google Cloud Printer registered with the Google Cloud Print (GCP) registry, at some point you will need to remove that printer from a users GCP registry.After authenticating using Google ClientLogin API, you can then delete an existing Google Cloud Printer:
  The Google Cloud Print /delete endpoint accepts the following parameter:

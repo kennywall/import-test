@@ -4,7 +4,7 @@ title: Managing My Google Alerts
 url: http://apievangelist.com/2011/06/12/managing-my-google-alerts/
 source: http://apievangelist.com/2011/06/12/managing-my-google-alerts/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg
 ---
 {% include JB/setup %}<p>I am making some adjustments to my Google Alerts today.I removed a few and added a few alerts.Here are my current Google Alerts:
 

@@ -4,7 +4,7 @@ title: World Time Zone Management
 url: http://apievangelist.com/2009/10/14/world-time-zone-management/
 source: http://apievangelist.com/2009/10/14/world-time-zone-management/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Our teams have been working on some meeting and event planning systems lately that are deployed for multiple global events spanning many time zones.So having quality time zone information and meeting scheduling accuracy is very important.I have researched and came across several interesting links:
 

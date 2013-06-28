@@ -4,7 +4,7 @@ title: How Are You Using Facebook for Business?
 url: http://apievangelist.com/2009/10/16/how-are-you-using-facebook-for-business/
 source: http://apievangelist.com/2009/10/16/how-are-you-using-facebook-for-business/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>This is from a response to a question I came across on LinkedIn Answers.I thought I should syndicate it here:
 There are many different approaches to using Facebook for business that I could go into depending on the industry your in and the audience you looking to engage.These variables heavily influence how you would use Facebook.At this point I would say the two top uses of Facebook that I encourage ALL business owners to understand are:

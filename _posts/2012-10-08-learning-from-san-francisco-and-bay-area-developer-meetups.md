@@ -4,7 +4,7 @@ title: Learning From San Francisco and Bay Area Developer Meetups
 url: http://apievangelist.com/2012/10/08/learning-from-san-francisco-and-bay-area-developer-meetups/
 source: http://apievangelist.com/2012/10/08/learning-from-san-francisco-and-bay-area-developer-meetups/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meetup_logo.gif
 ---
 {% include JB/setup %}<p>I&rsquo;m spending time profiling eight of the top developer markets in the country.My goal is to profile the building blocks of cities that have healthy developer communities, and from the research write several blog posts, and a white paper that will help other underserved communities understand what it takes to build a healthy base of mobile developers.To start I am profiling the most obvious choice which is San Francisco / Bay Area.To begin my research, Im focusing on mobile developer Meetup groups in this top developer market:
 

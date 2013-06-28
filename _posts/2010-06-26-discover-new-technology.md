@@ -4,7 +4,7 @@ title: Discover New Technology
 url: http://apievangelist.com/2010/06/26/discover-new-technology/
 source: http://apievangelist.com/2010/06/26/discover-new-technology/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/discover.jpg
 ---
 {% include JB/setup %}<p>Right now I use 3 main ways to discover new information and technology:
 

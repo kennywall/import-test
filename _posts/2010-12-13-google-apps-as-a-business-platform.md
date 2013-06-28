@@ -4,7 +4,7 @@ title: Google Apps as a Business Platform
 url: http://apievangelist.com/2010/12/13/google-apps/
 source: http://apievangelist.com/2010/12/13/google-apps/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google/google_apps.jpg
 ---
 {% include JB/setup %}<p>In a little over three weeks Google has released 14 of their regular web applications as part of the Google Apps cloud platform.Now in addition to the core email, docs, calendar, sites, and chat you have 14 new web applications:
 

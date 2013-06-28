@@ -4,7 +4,7 @@ title: Amazon EC2 Adds Change Instance Type and Shutdown Behavior
 url: http://apievangelist.com/2011/03/09/easier-scalability-with-aws/
 source: http://apievangelist.com/2011/03/09/easier-scalability-with-aws/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>Amazon Web Services just released two pretty significationenhancementsto the Amazon EC2 infrastructure.You can now:
 

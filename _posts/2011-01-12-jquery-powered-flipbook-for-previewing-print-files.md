@@ -4,7 +4,7 @@ title: JQuery Powered Flipbook for Previewing Print Files
 url: http://apievangelist.com/2011/01/12/jquery-powered-flipbook-for-previewing-print-files/
 source: http://apievangelist.com/2011/01/12/jquery-powered-flipbook-for-previewing-print-files/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png
 ---
 {% include JB/setup %}<p>On my hunt for killer scripts and tools to go with with my Cloud Print API, I came across a way cool JQuery Flipbook script over at codecanyon.Flipbook jQuery provides a magazine / book style display for digital media.The features include:
 

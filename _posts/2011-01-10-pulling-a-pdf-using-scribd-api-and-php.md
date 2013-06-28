@@ -4,7 +4,7 @@ title: Pulling a PDF Using Scribd API and PHP
 url: http://apievangelist.com/2011/01/10/pulling-a-pdf-using-scribd-api/
 source: http://apievangelist.com/2011/01/10/pulling-a-pdf-using-scribd-api/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>This call returns an XML response containing relevant file information:
 &lt;rsp stat=ok&gt;

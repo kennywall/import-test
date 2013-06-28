@@ -4,7 +4,7 @@ title: Google Docs File Size Limitations
 url: http://apievangelist.com/2011/02/22/google-docs-file-size-limitations/
 source: http://apievangelist.com/2011/02/22/google-docs-file-size-limitations/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}<p>I spent some time this evening researching file size limitations for Google Docs.Here is what I found:
 

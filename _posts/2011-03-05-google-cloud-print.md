@@ -4,7 +4,7 @@ title: Google Cloud Print
 url: http://apievangelist.com/2011/03/05/google-cloud-print/
 source: http://apievangelist.com/2011/03/05/google-cloud-print/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/GCP-Overview.png
 ---
 {% include JB/setup %}<p>Google Cloud Print provides a printing platform that allow printers to be accessed over the Internet by mobile phone, tables and computers.Google Cloud Print enables printing over the Internet to web enabled printers or older printers using a proxy software that users can installed on Windows, and soon Mac and Linux platforms.Cloud Printing is available in Google Apps like Docs and Gmail, Chrome Browser, and the Google Chrome Operating System.Third party software developers can access GCP using an API called the Google Cloud Print (GCP) Services Interface.The GCP API provides access to the following services for cloud printers:
 

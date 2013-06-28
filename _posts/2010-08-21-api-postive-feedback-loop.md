@@ -4,7 +4,7 @@ title: API Postive Feedback Loop
 url: http://apievangelist.com/2010/08/21/api-postive-feedback-loop/
 source: http://apievangelist.com/2010/08/21/api-postive-feedback-loop/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>A positive feedback loop can occur whenever an API becomes popular, it keeps becoming more and more popular due to network effects.The most important network effects are:
 

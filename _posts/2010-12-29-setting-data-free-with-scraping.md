@@ -4,7 +4,7 @@ title: Setting Data Free with Scraping
 url: http://apievangelist.com/2010/12/29/setting-data-free-with-scraping/
 source: http://apievangelist.com/2010/12/29/setting-data-free-with-scraping/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg
 ---
 {% include JB/setup %}<p>I was just reading Setting Government Data Free with ScraperWiki from ProgrammableWeb.It led me to start playing with ScraperWiki:
 

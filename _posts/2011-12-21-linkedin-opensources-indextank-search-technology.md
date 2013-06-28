@@ -4,7 +4,7 @@ title: LinkedIn Open-Sources IndexTank Search Technology
 url: http://apievangelist.com/2011/12/21/linkedin-open-sources-indextank-search-technology/
 source: http://apievangelist.com/2011/12/21/linkedin-open-sources-indextank-search-technology/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/linkedin/LinkedIn-Developer-Network.png
 ---
 {% include JB/setup %}<p>LinkedIn has just open-sourced the technology behind IndexTank under the Apache 2.0 License.The IndexTank technology has three separate toolsets:
 

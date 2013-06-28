@@ -4,7 +4,7 @@ title: Hackathons for Week of December 17th, 2012
 url: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
 source: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>These are the hackathons we are tracking on at&nbsp;Hack Weekends.It looks like about 21 different events in the United States.Ann Arbor, MI
 

@@ -4,7 +4,7 @@ title: CityGrid Local, Mobile Stack: Urban Airship
 url: http://apievangelist.com/2012/04/07/citygrid-local,-mobile-stack-urban-airship/
 source: http://apievangelist.com/2012/04/07/citygrid-local,-mobile-stack-urban-airship/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/urban-airship-logo.png
 ---
 {% include JB/setup %}<p>Urban Airship&nbsp;came out with some new push notification tools this week, including services that allow you to slice-and-dice your mobile application audiences by location, time, context and preference--allowing you to improve the relevancy and targeting of messages and offers.Some examples they give are:
 

@@ -4,7 +4,7 @@ title: DARPA Wants to Change the Way We Think About Computing
 url: http://apievangelist.com/2010/06/26/darpa-wants-to-change-computing/
 source: http://apievangelist.com/2010/06/26/darpa-wants-to-change-computing/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/darpalogo.png
 ---
 {% include JB/setup %}<p>DARPA wants your help to change the way we approach computing.Everything today depends on computers, and to meet the relentlessly increasing demands for greater performance,  higher energy efficiency, ease of programmability, system dependability,  and security, revolutionary new research, development, and design will  be essential to enable new generations of advanced computing system  capabilities and new classes of computer applications.They are looking for proposals in the following areas:
 

@@ -4,7 +4,7 @@ title: Google oAuth Calls
 url: http://apievangelist.com/2010/05/25/google-oauth-calls/
 source: http://apievangelist.com/2010/05/25/google-oauth-calls/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>While working with the Google API tonight I registered my primary research and development domain with them so that I could make oAuth calls to Google API.You need to go to: https://www.google.com/accounts/ManageDomains
 You need to register your application with Google.Using this page, you can identify your web domain(s).</p>

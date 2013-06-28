@@ -4,7 +4,7 @@ title: Publishing My Books On Google
 url: http://apievangelist.com/2011/05/23/publishing-my-books-on-google/
 source: http://apievangelist.com/2011/05/23/publishing-my-books-on-google/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg
 ---
 {% include JB/setup %}<p>Ive started exploring Google Books as a publishing platform for my books.I write my own books, but I want to explore what it looks like to be a publisher using Google Books and Mimeo Connect Cloud Print.As a publisher, Google Book allows me to:
 

@@ -4,7 +4,7 @@ title: Github for the Mac
 url: http://apievangelist.com/2011/06/26/github-for-mac/
 source: http://apievangelist.com/2011/06/26/github-for-mac/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/github/github-mac.png
 ---
 {% include JB/setup %}<p>Github just released a new Github client for the Mac.It provides a GUI alternative to the Github command line.Some features of the new Github for Mac are:
 

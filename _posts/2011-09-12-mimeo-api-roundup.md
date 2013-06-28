@@ -4,7 +4,7 @@ title: Mimeo API Roundup
 url: http://apievangelist.com/2011/09/12/mimeo-api-roundup/
 source: http://apievangelist.com/2011/09/12/mimeo-api-roundup/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>We added four new APIs, introducing a whole new type of APIs well be releasing from time to time here at Mimeo Connect.Im calling them Document Printing APIs, because they are focused around printing specific type of document.For new Mimeo developers, I will most likely reccommend you test drive one of our four Document Printing APIs:
 

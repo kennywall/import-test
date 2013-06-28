@@ -4,7 +4,7 @@ title: Statistical Aspects of Data Mining
 url: http://apievangelist.com/2011/01/02/statistical-aspects-of-data-mining/
 source: http://apievangelist.com/2011/01/02/statistical-aspects-of-data-mining/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/database/data_research.jpg
 ---
 {% include JB/setup %}<p>Course Description: Data mining is used to discover patterns and relationships in data.Emphasis is on large complex data sets such as those in very large databases or through web mining.Topics: decision trees, neural networks, association rules, clustering, case based methods, and data visualization.The following chapters from the textbook will be covered in this order:
 

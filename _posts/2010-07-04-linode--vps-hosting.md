@@ -4,7 +4,7 @@ title: Linode - VPS Hosting
 url: http://apievangelist.com/2010/07/04/linode-vps-hosting/
 source: http://apievangelist.com/2010/07/04/linode-vps-hosting/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Linode.PNG
 ---
 {% include JB/setup %}<p>Linode is a very focused and simple Virtual Private Hosting (VPS) company that delivers some very affordable cloud hosting solutions.I just stumbled across this company, yet they are a 7 year old cloud platform with an pretty impressive set of features out of the box:
 

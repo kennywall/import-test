@@ -4,7 +4,7 @@ title: Do You Know Where Your Data Is In The Cloud?
 url: http://apievangelist.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
 source: http://apievangelist.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map.PNG
 ---
 {% include JB/setup %}<p>I was just reading about CentriLogics new cloud hosting services.They store your data across data centers in Rochester NY, Buffalo NY, Toronto ON, and Mississauga, ON.With Amazon EC2 and cloudfront distributions you can deploy your data across United States, European, Hong Kong and Singapore, and Japan edge locations.Country-specific regulations governing privacy and data protection vary greatly.Here is a map that outlines the degree of legal strictness across a range of nations:
 Most Restrictive

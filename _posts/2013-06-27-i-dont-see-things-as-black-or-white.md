@@ -4,7 +4,7 @@ title: I Don't See Things As Black or White
 url: http://apievangelist.com/2013/06/27/i-dont-see-things-as-black-or-white/
 source: http://apievangelist.com/2013/06/27/i-dont-see-things-as-black-or-white/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>As I prepare to go to Washington DC, to work with the Department of Veterans Affiars (VA), Im spending a lot of time thinking about how Ill prepare for my year, working within the federal government.&nbsp;
 While working for the White House, and at the VA, will most definitely be an entirely new experience for me, I feel my approach and experience within the API space will benefit me greatly.&nbsp;

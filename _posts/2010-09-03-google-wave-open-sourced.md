@@ -4,7 +4,7 @@ title: Google Wave Open Sourced
 url: http://apievangelist.com/2010/09/03/google-wave-open-source/
 source: http://apievangelist.com/2010/09/03/google-wave-open-source/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/google/google-wave-splash.jpg
 ---
 {% include JB/setup %}<p>I was happy to see the announcement by Google, that they were open sourcing more of the Google Wave platform.I was at the keynote speech where they released Google Wave, and I really believed in the potential of it as a platform.The code they released adds more features and delivers a more complete Wave in a Box solution.This project will include:
 

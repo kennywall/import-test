@@ -4,7 +4,7 @@ title: Worldmark Review / Response Time
 url: http://apievangelist.com/2009/03/16/worldmark-review-response-time/
 source: http://apievangelist.com/2009/03/16/worldmark-review-response-time/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Just thought Id post that I can another please continue holding response from Worldmark.I sent my original email on 03/04/2009.got an intial ticket response immdiately saying someone would response.I got another reponses saying they will respond:
 Please include the following line in all replies.Tracking number: UT20090316_0000000911

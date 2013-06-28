@@ -4,7 +4,7 @@ title: Mimeo Connect Print API
 url: http://apievangelist.com/2010/11/07/mimeo-connect-print-api/
 source: http://apievangelist.com/2010/11/07/mimeo-connect-print-api/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>Ive talked about the My Mimeo online print and publishing, and the My Mimeo Marketplace where you can publish documents for people to purchase.Now I feel I can actually introduce you to the Mimeo Connect Print API, now that you have an overview of Mimeo.Mimeo offers a SOAP Print API as its core enterprise print offering, however my focus with Mimeo is the REST Print API.The REST API uses basic HTTP Authentication for access your My Mimeo Account, and provides the following services:
 

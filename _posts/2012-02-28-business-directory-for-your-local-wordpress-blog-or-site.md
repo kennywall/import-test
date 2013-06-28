@@ -4,7 +4,7 @@ title: Business Directory for your Local Wordpress Blog or Site
 url: http://apievangelist.com/2012/02/28/business-directory-for-your-local-wordpress-blog-or-site/
 source: http://apievangelist.com/2012/02/28/business-directory-for-your-local-wordpress-blog-or-site/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/wordpress-logo.jpg
 ---
 {% include JB/setup %}<p>I finished the first version of a business directory WordPress plugin that you can use to deploy a local directory for your Wordpress site or blog.I wanted to make an easy way for non-developers, to launch a local directory for one or multiple business categories.The Hyp3rL0cal Wordpress Plugin uses two APIs:
 

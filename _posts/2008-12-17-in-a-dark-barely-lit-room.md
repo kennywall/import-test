@@ -4,7 +4,7 @@ title: In a Dark, Barely Lit Room
 url: http://apievangelist.com/2008/12/17/in-a-dark-barely-lit-room/
 source: http://apievangelist.com/2008/12/17/in-a-dark-barely-lit-room/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>In a dark, barely lit room
 Monday night maestro

@@ -4,7 +4,7 @@ title: Mimeo Cloud Printing Building Blocks
 url: http://apievangelist.com/2011/04/02/mimeo-cloud-printing-building-blocks/
 source: http://apievangelist.com/2011/04/02/mimeo-cloud-printing-building-blocks/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/legos.jpg
 ---
 {% include JB/setup %}<p>In preparation of my new Mimeo Connect API area I am assembling what I consider to be the core building blocks of cloud printing.My goal is to create projects that focus on key documents, platforms, and technologies of cloud printing.I am breaking them into several areas.Cloud Printing Technologies
 

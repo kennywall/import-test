@@ -4,7 +4,7 @@ title: Google Cloud Print - Control
 url: http://apievangelist.com/2011/02/08/google-cloud-print-control/
 source: http://apievangelist.com/2011/02/08/google-cloud-print-control/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}<p>The whole point of deploying a Google Cloud Print Proxy is to be able to manage print jobs.After authenticating using Google ClientLogin API, you can then fetch an existing Google Cloud Print Job from the users queue.Each print job has an ID that you can use to reference the print job and control the status with /control service.The Google Cloud Print /control endpoint accepts the following parameter(s): 
 

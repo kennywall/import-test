@@ -4,7 +4,7 @@ title: Updated Blog Sharing
 url: http://apievangelist.com/2011/07/04/updated-blog-sharing/
 source: http://apievangelist.com/2011/07/04/updated-blog-sharing/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/core-share-buttons.png
 ---
 {% include JB/setup %}<p>I updated the sharing tools on blog.apievangelist.com today.Previously it had eight buttons, representing the top social network channels that drive traffic to the blog.Im changing it, putting emphasis on:
 

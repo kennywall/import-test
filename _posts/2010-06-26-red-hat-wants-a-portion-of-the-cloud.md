@@ -4,7 +4,7 @@ title: Red Hat Wants a Portion of the Cloud
 url: http://apievangelist.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
 source: http://apievangelist.com/2010/06/26/red-hat-wants-a-portion-of-the-cloud/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/red-hat.jpg
 ---
 {% include JB/setup %}<p>Red Hat has been part of the cloud with services like Amazon EC2 since the beginning, because they are a leading open source platform.Not be outdone by other technology providers, Red Hat is offering their own line of cloud computing tools and services.When you choose Red Hat for your cloud, you get:
 

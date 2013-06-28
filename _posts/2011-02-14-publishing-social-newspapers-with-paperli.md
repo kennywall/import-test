@@ -4,7 +4,7 @@ title: Publishing Social Newspapers with Paper.li
 url: http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-paper-li/
 source: http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-paper-li/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 ---
 {% include JB/setup %}<p>Paper.li is a Software as a Service (SaaS) that organizes links shared on Twitter and Facebook into a newspaper-style format.There are four types of Twitter account based papers a user can create:
 

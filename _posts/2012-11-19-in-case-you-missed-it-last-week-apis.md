@@ -4,7 +4,7 @@ title: In Case You Missed It Last Week (APIs)
 url: http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…apis/
 source: http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…apis/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>Dropbox
 

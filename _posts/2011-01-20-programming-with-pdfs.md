@@ -4,7 +4,7 @@ title: Programming with PDFs
 url: http://apievangelist.com/2011/01/20/programming-with-pdfs/
 source: http://apievangelist.com/2011/01/20/programming-with-pdfs/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png
 ---
 {% include JB/setup %}<p>When it comes to developing for Print applications you need to be able to programmatically manipulate images.Currently with Mimeo, ultimately everything needs to be in a PDF format before it gets sent to the Mimeo Connect Cloud Print API.Whether its a report, book, magazine, photo or poster it will have to be PDF document at some point.Hopefully soon we will accept a wider range of formats.:)
 I spent some time today looking to see what my options are when it comes to working with PDFs.</p>

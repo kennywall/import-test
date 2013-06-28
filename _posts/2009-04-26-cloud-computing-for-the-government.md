@@ -4,7 +4,7 @@ title: Cloud Computing for the Government
 url: http://apievangelist.com/2009/04/26/cloud-computing-for-the-government/
 source: http://apievangelist.com/2009/04/26/cloud-computing-for-the-government/
 domain: apievangelist.com
-image: [Image]
+image: 
 ---
 {% include JB/setup %}<p>I am conducting my cloud computing research and specifically focusing on:
 

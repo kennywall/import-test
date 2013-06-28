@@ -4,7 +4,7 @@ title: Wordpress, Drupal, MediaWiki, and Joomla on AWS with JumpBox
 url: http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
 source: http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}<p>Amazon Web Services has partnered with JumpBox to deliver a suite of hosted applications using Amazon Web Services.Using AWS and Jumpbox you can launch a:
 

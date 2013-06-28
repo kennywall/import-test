@@ -4,7 +4,7 @@ title: OSCON: Database Explosion Part 3
 url: http://apievangelist.com/2010/07/19/oscon-database-explosion-part-3/
 source: http://apievangelist.com/2010/07/19/oscon-database-explosion-part-3/
 domain: apievangelist.com
-image: [Image]
+image: http://info.northscale.com/rs/northscale/images/ns-logo.gif
 ---
 {% include JB/setup %}<p>After spending some time  last weekend reviewing the exhibitors at the upcoming OSCON - Open  Source Convention I noticed a pattern:
 There  is an explosion in database innovation right now

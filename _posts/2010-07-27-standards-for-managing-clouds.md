@@ -4,7 +4,7 @@ title: Standards for Managing Clouds
 url: http://apievangelist.com/2010/07/27/standards-for-managing-clouds/
 source: http://apievangelist.com/2010/07/27/standards-for-managing-clouds/
 domain: apievangelist.com
-image: [Image]
+image: http://www.dmtf.org/images/headermain/logo_dmtf.gif
 ---
 {% include JB/setup %}<p>Distributed Management Task Force (DMTF) announced the availability of the final two documents produced by its Open Cloud Standards Incubator, which is working to establish a strategy for cloud standards development.The documents: are
 

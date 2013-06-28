@@ -4,7 +4,7 @@ title: Event Broadband Internet
 url: http://apievangelist.com/2010/06/16/event-broadband-internet/
 source: http://apievangelist.com/2010/06/16/event-broadband-internet/
 domain: apievangelist.com
-image: [Image]
+image: http://kinlane-productions.s3.amazonaws.com/broadband_pipe.jpg
 ---
 {% include JB/setup %}<p>I was reading The Chaos of BYOW (Bring Your Own Wi-Fi) on Cloud Ave yesterday.Several topics Ive been talking about come to mind:
 
