@@ -15,7 +15,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/ruby
      With the introduction of the web application framework Rails, the popularity of Ruby for building web apps has skyrocketed. To support Ruby developers, IDrive has added samples to each of the 19 REST API Methods:
 </p>
 <table cellspacing="5" cellpadding="5" width="100%" align="center">
-     <tbody>
+     
           <tr>
                <td>
                     <ul class="mainlist">
@@ -83,7 +83,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/ruby
                     </ul>
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p>
      You can also visit the download center, where you will find links to <a title="Github repositories containing entire ruby libraries" href="https://github.com/idrivevangelist/IDrive-Encrypted-File-System--EVS--REST-API-ruby-Library">Github repositories containing entire Ruby libraries</a> for integrating your web application with all the functionality available via the IDrive EVS REST API.

@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyth
       
 </p>
 <table cellspacing="5" cellpadding="5" width="100%" align="center">
-     <tbody>
+     
           <tr>
                <td>
                     <ul class="mainlist">
@@ -86,7 +86,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyth
                     </ul>
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p>
      You can also visit the download center, where you will find links to <a title="Github repositories containing entire Python libraries" href="https://github.com/idrivevangelist/IDrive-Encrypted-File-System--EVS--REST-API-python-Library">Github repositories containing entire Python libraries</a> for integrating your web application with all the functionality available via the IDrive EVS REST API.

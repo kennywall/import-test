@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/php-
       
 </p>
 <table cellspacing="5" cellpadding="5" width="100%" align="center">
-     <tbody>
+     
           <tr>
                <td>
                     <ul class="mainlist">
@@ -86,7 +86,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/php-
                     </ul>
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p>
       

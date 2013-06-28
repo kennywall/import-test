@@ -18,7 +18,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      I want to make this default for users of my websites, apps and APIs--allowing them authenticate using six social networks:
 </p>
 <table class="c2" cellspacing="10" cellpadding="10">
-     <tbody>
+     
           <tr>
                <td width="25">
                     <a title="Facebook" href="https://singly.com/docs/facebook"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" alt="" width="25" /></a>
@@ -59,13 +59,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                     <strong><a title="Twitter" href="https://singly.com/docs/twitter">Twitter</a></strong>
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p class="c3">
      <strong>Singly has made this nice and easy!</strong>
 </p>
 <table>
-     <tbody>
+     
           <tr>
                <td valign="top">
                     <p>
@@ -84,13 +84,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                     </p>
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p>
      <strong>Step 3 - Create Social Network Apps.</strong> This part seems like it is a lot of work, but once done...it is sweet. You need to create an app for each one of the six social networks you will be allowing authentication:
 </p>
 <table class="c2" cellspacing="2" cellpadding="2">
-     <tbody>
+     
           <tr>
                <td width="25">
                     <img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" alt="" width="25" />
@@ -131,7 +131,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                     <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Twitter-New-App.png" alt="" width="150" />
                </td>
           </tr>
-     </tbody>
+     
 </table>
 <p>
      Singly has great instructions to walk you through this process. It will only take you about 5-10 minutes. And once you are done, you will have one API key to access all six of these APIs.

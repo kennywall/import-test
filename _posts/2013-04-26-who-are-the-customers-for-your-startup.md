@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
 ---
 {% include JB/setup %}
 <table class="c3" cellspacing="5" cellpadding="5" width="95%">
-     <tbody>
+     
           <tr>
                <td width="200">
                     <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-iphone.png" alt="" width="225" />
@@ -117,5 +117,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
-     </tbody>
+     
 </table>

@@ -24,7 +24,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
      Look forward to seeing you there and connecting.
 </p>
 <table class="c2" cellspacing="1" cellpadding="5" width="95%">
-     <tbody>
+     
           <tr>
                <td align="center">
                     <a title="TheRightAPI" href="http://www.therightapi.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png" alt="" width="200" /></a>
@@ -33,5 +33,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
                     <a title="Proxomo" href="http://www.proxomo.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Proxomo-Logo.png" alt="" width="200" /></a>
                </td>
           </tr>
-     </tbody>
+     
 </table>
