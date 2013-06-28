@@ -6,6 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
 ---
 {% include JB/setup %}
 <table style="padding-left: 25px;" cellspacing="5" cellpadding="5" width="95%">
+<tbody>
 <tr>
 <td width="200"><img style="padding: 10px; display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-iphone.png" alt="" width="225" /></td>
 <td>
@@ -72,4 +73,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
 <h2>Who is the customer of your startup?</h2>
 </td>
 </tr>
+</tbody>
 </table>
