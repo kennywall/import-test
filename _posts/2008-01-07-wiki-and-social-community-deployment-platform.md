@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/07/wiki-and-social-community-deployment-platf
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just playing around with <a href="http://wiki.mindtouch.com">Deki Wiki</a> a free open source wiki and application platform for deploying enterprise scale applications.
      <br />
      <br />

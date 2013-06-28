@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/20/google-platform-for-writing/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I use the "Google Platform" to help me build and evolve my central "content platform". For either one project or across all of them.
      <br />
      <br />

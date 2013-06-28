@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/10/gigaspaces-infinitely-scalable-application
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was introduced to GigaSpaces today by a friend at the University of Oregon. What an amazing application platform. It truly an infinite scaling application that just doesn't handle the back-end tier, it tackles the business layer as well.
      <br />
      <br />

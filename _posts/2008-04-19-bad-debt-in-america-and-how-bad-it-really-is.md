@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/04/19/bad-debt-in-america-and-how-bad-it-really-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just watching <a href="http://www.hbo.com/billmaher/">Bill Maher</a> and was listening to their discussion on Kevin Phillips book called <a href="http://search.barnesandnoble.com/Bad-Money/Kevin-Phillips/e/9780670019076/">Bad Money: Reckless Finance, Failed Politics, and the Global Crisis of American Capitalism,</a> and <a href="http://en.wikipedia.org/wiki/Cornel_West">Cornel West</a> said something that summed up how sad things really are:
      <br />
      <br />

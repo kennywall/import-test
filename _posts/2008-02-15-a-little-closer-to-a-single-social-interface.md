@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/15/a-little-closer-to-a-single-social-interfa
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      A new startup called PageOnce makes an attempt to create a <a href="http://www.kinlane.com/2007/11/social-networks-email-and-more.html">single social interface</a>. This doesn't appear to be too much different than <a href="http://www.netvibes.com">Netvibes</a> or <a href="http://www.pageflakes.com">Pageflakes</a>. However since it is in private BETA I can't really take it for a test drive.
      <br />
      <br />

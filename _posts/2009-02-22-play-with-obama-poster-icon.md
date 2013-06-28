@@ -6,6 +6,8 @@ source: http://kinlane.com/2009/02/22/play-with-obama-poster-icon/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just playing with uploading pictures and making Obama posters out of them. Check it out: <a href="http://obamiconme.pastemagazine.com/entries/new.html">http://obamiconme.pastemagazine.com/entries/new.html</a>
 </p>

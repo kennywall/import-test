@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/10/22/tracking-everywhere-i-have-been-on-the-int
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Going through my Web History for my Google Profile. A little scary when you look at it. I click into my Web History right from the Google Home Page, well...my IGoogle.
      <br />
      <br />
@@ -25,9 +27,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      I kind of like it. It shows me my trends. What the hell I am looking at. It will integrate with my bookmarks.
      <br />
      <br />
-     I could create a cloudview of what I do. I would like to be able to share some of my search history with the world. I woul<a href="javascript:void(0)"
-        tabindex="10"
-        onclick="return false;"><span>Publish Post</span></a>d like to share some of my bookmarks with the world.
+     I could create a cloudview of what I do. I would like to be able to share some of my search history with the world. I woul<a href="javascript:void(0)" tabindex="10" onclick="return false;"><span>Publish Post</span></a>d like to share some of my bookmarks with the world.
      <br />
      <br />
      Maybe a neat little public cloudview of what I do on the Internet daily, well what I want the public to see that I do on the Internet daily.

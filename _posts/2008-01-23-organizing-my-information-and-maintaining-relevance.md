@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/23/organizing-my-information-and-maintaining-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have talked a little about how I organize my information using the Google Platform. I use Google Reader and Google Notebook to do all my research and thought gathering.
      <br />
      <br />

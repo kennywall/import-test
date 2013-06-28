@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/companies-and-organizations-and-their-appr
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just reading some of Now is Gone by Geoff Livingston. There is a great paragraph I just came across that really sums up a lot for me:
      <br />
      <br />

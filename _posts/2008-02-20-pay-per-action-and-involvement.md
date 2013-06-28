@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/20/pay-per-action-and-involvement/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Starting to see some ad networks and ad models moving beyond traditional views or clicks. Videoegg launched a new <a href="http://www.videoegg.com/adframes">pay per engagement video model.</a>
      <br />
      <br />

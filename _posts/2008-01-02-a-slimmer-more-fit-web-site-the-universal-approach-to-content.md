@@ -6,52 +6,43 @@ source: http://kinlane.com/2008/01/02/a-slimmer-more-fit-web-site-the-universal-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just helping my wife setup a new site for the new <a href="http://www.oregonlocalsearch.com/">Local Search Marketing Service</a> she is offering, called <a href="http://www.oregonlocalsearch.com/">Oregon Local Search</a>.
      <br />
      <br />
      I was enjoying at how simple the site is. It is simply:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Home
      </li>
-
      <li>About
      </li>
-
      <li>Services
      </li>
-
      <li>Frequently Asked Questions
      </li>
-
      <li>Contact Us
           <br />
      </li>
 </ul>
-
 <p>
      I basically says:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Here is who we are
      </li>
-
      <li>Here is what we offer
      </li>
-
      <li>Here is some information to answer your basic questions
      </li>
-
      <li>Here is how to get a hold of us
           <br />
      </li>
 </ul>
-
 <p>
      It keeps what you are offering to your customers real easy to understand, which is essential for a service based business.
      <br />

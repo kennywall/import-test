@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/18/google-adds-maps-to-google-chart-api/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Google released a new update for the <a href="http://www.blogger.com/Google%20Chart%20API">Google Chart API</a>. It allows you to create maps with specific data areas based upon what you pass.
      <br />
      <br />

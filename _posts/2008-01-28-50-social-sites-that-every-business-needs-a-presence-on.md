@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/50-social-sites-that-every-business-needs-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Everyone is a little intimidated and overwhelmed about where to start with your <a href="http://www.socialmediasquad.com/">social media marketing campaign</a>. There are so many sites and so few metrics for evaluating your success.
      <br />
      <br />
@@ -18,29 +20,23 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <br />
      It is a pretty comprehensive list with a great introduction to each. They cover the following types of Social Network Sites:<strong><br /></strong>
 </p>
-
 <ul class="mainlist">
      <li>
           <strong><span class="c1">Social-Media/Social-Bookmarking Sites</span></strong>
      </li>
-
      <li>
           <strong><span class="c1">Professional-Networking Sites</span></strong>
      </li>
-
      <li>
           <strong><span class="c1">Niche Social-Media Sites</span></strong>
      </li>
-
      <li>
           <strong><span class="c1">General Social-Media Sites</span></strong>
      </li>
-
      <li>
           <strong><span class="c1">Job Sites</span></strong>
      </li>
 </ul>
-
 <p>
      It is probably more sites than the average business can handle, but it is a great place to start.
 </p>

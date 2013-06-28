@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/23/camera-phone-and-other-cell-phone-bar-code
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Some very interesting stuff in two-dimensional camera phone barcodes out there on the Internet.
      <br />
      <br />

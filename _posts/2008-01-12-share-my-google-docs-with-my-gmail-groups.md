@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/12/share-my-google-docs-with-my-gmail-groups/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      All right I have a couple of new Google Features for Google Docs tonight. In addition to <span class="c1">Taking an ordered list in Google Docs and highlighting and publish as a Google Presentation</span><span>, I would like another one:
      <br />
      <br />

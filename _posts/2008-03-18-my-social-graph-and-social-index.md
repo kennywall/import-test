@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/18/my-social-graph-and-social-index/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      So I have several spurts in trying to understand, track, and ultimately evolve my social graph and my social index.
      <br />
      <br />

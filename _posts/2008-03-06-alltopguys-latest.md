@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/06/alltopguys-latest/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just checking out <a href="http://www.guykawasaki.com/">Guy Kawasaki's</a> latest project <a href="http://alltop.com/">Alltop</a>.
      <br />
      <br />

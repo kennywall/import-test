@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/12/youtube-approach-to-their-new-api/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I wrote earlier about Youtube's new API. I am really happy they updated it. It has several features that I feel are key to using their platform.
      <br />
      <br />

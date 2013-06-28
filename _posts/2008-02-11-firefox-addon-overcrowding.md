@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/11/firefox-add-on-overcrowding/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I use quite a few different Firefox Add-Ons. I use Amazon S3 Firefox Organizer, EC2 UI, Google Notebook, coCommnet, Shareaholic, just to name a few.
      <br />
      <br />

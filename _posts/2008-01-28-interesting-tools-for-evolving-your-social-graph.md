@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/interesting-tools-for-evolving-your-social
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was reading, <a href="http://www.techcrunch.com/2008/01/28/delver-comes-out-of-stealth-with-a-new-twist-on-social-search/">Delver Comes Out Of Stealth With a New Twist on Social Search</a> on Techcrunch tonight.
      <br />
      <br />

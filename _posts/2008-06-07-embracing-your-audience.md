@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/06/07/embracing-your-audience/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      It seems like a very simple concept. Talk to you customers, get to know what they want. Let them help you formulate your decisions around your company, products, and services.
      <br />
      <br />

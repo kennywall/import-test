@@ -6,43 +6,19 @@ source: http://kinlane.com/2010/11/29/mimeo-connect-cloud-print-api-3-inch-stick
 domain: kinlane.com
 image: http://d1.scribdassets.com/ScribdViewer.swf
 ---
-{% include JB/setup %}<p>
-     <object id="doc_100646840455939"
-        class="c2"
-        classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-        width="100%"
-        height="600"
-        codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
-          <param name="name"
-             value="doc_100646840455939" />
-          <param name="data"
-             value="http://d1.scribdassets.com/ScribdViewer.swf" />
-          <param name="wmode"
-             value="opaque" />
-          <param name="bgcolor"
-             value="#ffffff" />
-          <param name="allowFullScreen"
-             value="true" />
-          <param name="allowScriptAccess"
-             value="always" />
-          <param name="FlashVars"
-             value="document_id=44347495&amp;access_key=key-2bwgunotrdkuoxd3u0cu&amp;page=1&amp;viewMode=list" />
-          <param name="src"
-             value="http://d1.scribdassets.com/ScribdViewer.swf" />
-          <param name="allowfullscreen"
-             value="true" />
-          <embed id="doc_100646840455939"
-             class="c1"
-             type="application/x-shockwave-flash"
-             width="100%"
-             height="600"
-             src="http://d1.scribdassets.com/ScribdViewer.swf"
-             flashvars="document_id=44347495&amp;access_key=key-2bwgunotrdkuoxd3u0cu&amp;page=1&amp;viewMode=list"
-             allowscriptaccess="always"
-             allowfullscreen="true"
-             bgcolor="#FFFFFF"
-             wmode="opaque"
-             data="http://d1.scribdassets.com/ScribdViewer.swf"
-             name="doc_100646840455939" />
+{% include JB/setup %}
+
+<p>
+     <object id="doc_100646840455939" class="c2" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="600" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
+          <param name="name" value="doc_100646840455939" />
+          <param name="data" value="http://d1.scribdassets.com/ScribdViewer.swf" />
+          <param name="wmode" value="opaque" />
+          <param name="bgcolor" value="#ffffff" />
+          <param name="allowFullScreen" value="true" />
+          <param name="allowScriptAccess" value="always" />
+          <param name="FlashVars" value="document_id=44347495&amp;access_key=key-2bwgunotrdkuoxd3u0cu&amp;page=1&amp;viewMode=list" />
+          <param name="src" value="http://d1.scribdassets.com/ScribdViewer.swf" />
+          <param name="allowfullscreen" value="true" />
+          <embed id="doc_100646840455939" class="c1" type="application/x-shockwave-flash" width="100%" height="600" src="http://d1.scribdassets.com/ScribdViewer.swf" flashvars="document_id=44347495&amp;access_key=key-2bwgunotrdkuoxd3u0cu&amp;page=1&amp;viewMode=list" allowscriptaccess="always" allowfullscreen="true" bgcolor="#FFFFFF" wmode="opaque" data="http://d1.scribdassets.com/ScribdViewer.swf" name="doc_100646840455939" />
      </object>
 </p>

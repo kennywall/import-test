@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/19/liveblogging-reminders-tasking-and-calling
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have been using Jott for that last few months to record tasks, record events, publish blogs, and other general communications by calling Jott and leaving a voice mail or "jott" and it translates and sends to the link that I dictate.
      <br />
      <br />

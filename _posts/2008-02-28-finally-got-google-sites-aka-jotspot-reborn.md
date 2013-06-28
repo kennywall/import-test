@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/28/finally-got-google-sites-aka-jotspot-rebor
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Google finally launched the reborn Jotspot as Google sites. It is slick and elegant and acts as I thought it would as a Google App.
      <br />
      <br />

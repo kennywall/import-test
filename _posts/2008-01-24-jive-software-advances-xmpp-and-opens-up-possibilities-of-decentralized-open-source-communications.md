@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/24/jive-software-advances-xmpp-and-opens-up-p
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just reading Could Instant Messaging (XMPP) Power the Future of Online Communication? at ReadWriteWeb.
      <br />
      <br />

@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/12/20/google-spreadsheets-as-a-data-store/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I just finished BETA testing the DocSyncer tool which will keep mycomputer synced with my Google Docs account.
      <br />
      <br />

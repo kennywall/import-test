@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/11/linkedins-refreshing-approach-to-data-port
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      LinkedIn is just doing it the way it should be done. They fully embrace data portability as well as understand that they need to open their platform up via API's and taking part in OpenSocial.
      <br />
      <br />

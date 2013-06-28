@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/20/amazon-launches-new-web-service-for-fulfil
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Amazon added another layer to their stack of web services to. They added the <a href="http://aws.amazon.com/fws">Amazon Fulfillment Web Service</a> (Amazon FWS) which allows merchants to tap in to Amazon's network of fulfillment centers and logistics. Merchants can store their own products to our fulfillment centers and then, using a web service interface, fulfill orders for the products and ship a product to a customer.
      <br />
      <br />

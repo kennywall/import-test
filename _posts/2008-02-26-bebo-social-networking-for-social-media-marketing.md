@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/26/bebo-social-networking-for-social-media-ma
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Been doing some work on various Bebo Social Network Profiles as part of a social media marketing campaign. Since I am spending some time here I thought I would share some thoughts and strategy.
      <br />
      <br />

@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/11/14/my-single-social-interface/
 domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s400/Social_Interface.gif
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Just having a few thoughts tonight after reading several posts on statements made from Yahoo about the <a href="http://www.downloadsquad.com/2007/11/13/social-networks-of-the-future-could-be-email-based/">future of social networks being email based</a>. Also did some more reading on OpenSocial tonight.
      <br />
      <br />
@@ -49,10 +51,5 @@ image: http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s
      Just some thoughts on the my single <span class="c2">Social Interface</span> to get everything I need done.
      <br />
      <br />
-     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s1600-h/Social_Interface.gif"><img class="c3"
-          src="http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s400/Social_Interface.gif"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5132600875471400290"
-          border="0" /></a>
+     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s1600-h/Social_Interface.gif"><img class="c3" src="http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s400/Social_Interface.gif" alt="" id="BLOGGER_PHOTO_ID_5132600875471400290" border="0" /></a>
 </p>

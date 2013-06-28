@@ -6,13 +6,10 @@ source: http://kinlane.com/2008/01/14/new-google-features-google-news-and-videos
 domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s320/Google+News+1.jpg
 ---
-{% include JB/setup %}<p>
-     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s1600-h/Google+News+1.jpg"><img class="c1"
-          src="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s320/Google+News+1.jpg"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5155546578595078034"
-          border="0" /></a>It is fun finding new Google Features. I never really know when they come out, but when I find them they are new to me so I am blogging about them.
+{% include JB/setup %}
+
+<p>
+     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s1600-h/Google+News+1.jpg"><img class="c1" src="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s320/Google+News+1.jpg" alt="" id="BLOGGER_PHOTO_ID_5155546578595078034" border="0" /></a>It is fun finding new Google Features. I never really know when they come out, but when I find them they are new to me so I am blogging about them.
      <br />
      <br />
      I was reading Google News as I do daily and noticed a little + sign next to one of my Recommended for Kin Lane articles.
@@ -21,12 +18,7 @@ image: http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s
      So I click on it and I get a news video from Youtube related to the news article.
      <br />
      <br />
-     Definitely blurring the lines between what I think of as traditional news journalism and new media.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp0.blogger.com/_9OGzs28s_k4/R4wuZ0gj36I/AAAAAAAAAuM/Mpj1fO4djjw/s1600-h/Google+News+2.jpg"><img class="c1"
-          src="http://bp0.blogger.com/_9OGzs28s_k4/R4wuZ0gj36I/AAAAAAAAAuM/Mpj1fO4djjw/s320/Google+News+2.jpg"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5155546694559195042"
-          border="0" /></a>
+     Definitely blurring the lines between what I think of as traditional news journalism and new media.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_9OGzs28s_k4/R4wuZ0gj36I/AAAAAAAAAuM/Mpj1fO4djjw/s1600-h/Google+News+2.jpg"><img class="c1" src="http://bp0.blogger.com/_9OGzs28s_k4/R4wuZ0gj36I/AAAAAAAAAuM/Mpj1fO4djjw/s320/Google+News+2.jpg" alt="" id="BLOGGER_PHOTO_ID_5155546694559195042" border="0" /></a>
      <br />
      <br />
      Definitely an important view of how important a Universal Online and Social Media Marketing Strategy can be.

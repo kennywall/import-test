@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/27/a-social-media-case-study-at-lego/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just watching a great video on <a href="http://www.web-strategist.com/blog/">Jeremiah Owyang's blog</a> about a <a href="http://www.socialmediasquad.com/">Social Media Case Study</a> from Jake McKee who used to work at Lego.
      <br />
      <br />

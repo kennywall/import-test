@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/29/should-a-social-media-consultant-train-or-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was reading a blog entry by Lisa McNeil called <a href="http://www.ignitesocialmedia.com/the-marketers-foray-into-social-media/">The Marketer's Foray Into Social Media</a>, where she talks about her experiences with clients and the top questions they ask.
      <br />
      <br />

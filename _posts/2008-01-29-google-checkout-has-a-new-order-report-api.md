@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/29/google-checkout-has-a-new-order-report-api
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      <span class="byline-author">A while back Google released a new reporting feature in their Google Checkout payment system, and now they have added an <a href="http://googlecheckout.blogspot.com/2008/01/announcing-order-report-api.html">Order Report API</a> for getting access to your Google Checkout orders.
      <br />
      <br />

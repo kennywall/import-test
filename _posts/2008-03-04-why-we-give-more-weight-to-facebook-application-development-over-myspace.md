@@ -6,9 +6,10 @@ source: http://kinlane.com/2008/03/04/why-we-give-more-weight-to-facebook-applic
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
-     I was just reading <a href="http://www.web-strategist.com/blog/2008/03/04/myspace-developer-platform-jim-benedetto-myspace/"
-        rel="bookmark">MySpace Developer Platform: Jim Benedetto, MySpace</a> on Jeremiah Owyang's blog. He is at the Social Graph Conference in San Diego. I wish I was there.
+{% include JB/setup %}
+
+<p>
+     I was just reading <a href="http://www.web-strategist.com/blog/2008/03/04/myspace-developer-platform-jim-benedetto-myspace/" rel="bookmark">MySpace Developer Platform: Jim Benedetto, MySpace</a> on Jeremiah Owyang's blog. He is at the Social Graph Conference in San Diego. I wish I was there.
      <br />
      <br />
      Anyways he was posting a bunch of information about the MySpace development platform and it really shows an impressive approach on their part in reaching out to the developers community.

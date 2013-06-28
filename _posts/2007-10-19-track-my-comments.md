@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/10/19/track-my-comments/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have had this discussion with a few people at different times. I have also seen other people talking about getting information on their commenting.
      <br />
      <br />

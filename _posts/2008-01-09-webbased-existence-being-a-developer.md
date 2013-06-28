@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/09/web-based-existence-being-a-developer/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      So in the last year I have completely move online. Everything I do is web-based. Most of my world exists underneath my Google Account.
      <br />
      <br />
@@ -22,51 +24,36 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      The main features are:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Easy to integrate, only one script include and one function call
      </li>
-
      <li>Tabulation support (allow to write well formated source code)
      </li>
-
      <li>Search and replace (with regexp)
      </li>
-
      <li>Customizable real-time syntax highlighting (currently: PHP, CSS, Javascript, Python, HTML, XML, VB, C, CPP, Pascal, Basic, Brainf*ck)
      </li>
-
      <li>Auto-indenting new lines
      </li>
-
      <li>Line numerotation
      </li>
-
      <li>Multilanguage support (currently: Croatian, Danish, English, French, German, Italian, Japanese, Polish, Portuguese)
      </li>
-
      <li>Possible PHP gzip compression (compress the 12 core files to one file of ~20Ko)
      </li>
-
      <li>Allow multiple instances
      </li>
-
      <li>Full screen mode
      </li>
-
      <li>Possible plugin integration
      </li>
-
      <li>Possible save and load callback functions
      </li>
-
      <li>Possible dynamic content management
      </li>
-
      <li>Can work in the same environment than "protype" and "mootools"'s like libraries.
      </li>
 </ul>
-
 <p>
      So I am going to start integrating it into some of my work and servers. I will let you guys know how it goes. It will be nice to have this last piece of my world moved online.
 </p>

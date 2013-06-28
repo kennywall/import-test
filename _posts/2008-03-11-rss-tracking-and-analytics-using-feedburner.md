@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/11/rss-tracking-and-analytics-using-feedburne
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have bee spending the week finding many types of RSS feeds for different purposes. I am building large lists of them under different topics and tracking the source of these feeds.
      <br />
      <br />

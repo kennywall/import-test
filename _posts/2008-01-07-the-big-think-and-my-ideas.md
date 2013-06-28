@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/07/the-big-think-and-my-ideas/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just playing around with a site called the <a href="http://www.bigthink.com/">Big Think</a>. It is a Youtube for ideas. Having various business, social, and whatever ideas flowing out constantly naturally I think this is a great idea!
      <br />
      <br />

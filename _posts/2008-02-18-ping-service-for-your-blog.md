@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/18/ping-service-for-your-blog/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Part of your syndication strategy for your blog should be alerting blog search engines that you have made an update.
      <br />
      <br />

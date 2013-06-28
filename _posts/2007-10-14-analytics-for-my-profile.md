@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/10/14/analytics-for-my-profile/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have this great public profile showing all my stuff.
      <br />
      <br />

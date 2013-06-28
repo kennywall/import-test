@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/10/17/social-working-and-job-20/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      If I want a job or some project work, why do I have to look on so many networks. Sure I can find all the places I want to look these days and accumulate some RSS feeds and monitor these channels.
      <br />
      <br />

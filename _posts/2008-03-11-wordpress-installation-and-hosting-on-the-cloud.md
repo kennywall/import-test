@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/11/wordpress-installation-and-hosting-on-the-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Just got a request to install Wordpress blog for a client that will potentially receive a large amount of traffic.
      <br />
      <br />
@@ -16,22 +18,17 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      In my Mosso.com admin interface and added a new web site, chose to use PHP 5 as core technology and chose mysql as the database.
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Once setup and created a MySQL database.
      </li>
-
      <li>I FTP'ed the unzipped wordpress contents.
      </li>
-
      <li>Updated the wp-config.php file.
      </li>
-
      <li>Ran the install.
           <br />
      </li>
 </ul>
-
 <p>
      Then I was done. A scalable Wordpress installation that will handle a large volume of traffic and hosting is cheap. I could offer as low as $4.95 / month.
      <br />

@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/06/google-home-for-your-kids/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      A while back I started helping my daughter Kaia build her blog at http://kaialane.blogspot.com/. She really likes making pictures and stories and posting there from time to time.
      <br />
      <br />

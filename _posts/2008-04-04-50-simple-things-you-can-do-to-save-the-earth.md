@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/04/04/50-simple-things-you-can-do-to-save-the-ea
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      My wife and I just finished launching a new site for a client called <a href="http://www.50simplethings.com/">50 Simple Things You Can Do to Save the Earth</a>. It is the revised, updated edition of a book originally released in the 1990's and was New York Times bestseller.
      <br />
      <br />

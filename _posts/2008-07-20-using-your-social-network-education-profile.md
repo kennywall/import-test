@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/07/20/using-your-social-network-education-profil
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just going through linked for our business social media squad. I came up with a use for the education part of your profile.
      <br />
      <br />

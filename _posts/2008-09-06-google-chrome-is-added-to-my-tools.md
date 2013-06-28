@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/09/06/google-chrome-is-added-to-my-tools/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have used Google Chrome for the last few days, and I am happy with it. I still definitely can't live without my Firefox and its Add-Ons. However as a browser Google Chrome is very smooth and functional...I like it...it is an excellent start.
      <br />
      <br />

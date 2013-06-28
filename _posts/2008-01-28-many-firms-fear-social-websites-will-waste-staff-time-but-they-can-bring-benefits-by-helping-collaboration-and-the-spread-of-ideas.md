@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/many-firms-fear-social-websites-will-waste
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      <span class="c1">Great article in the Sunday Times Online called <a href="http://www.timesonline.co.uk/tol/life_and_style/career_and_jobs/recruiter_forum/article3255962.ece?Submitted=true">Learn to love social network sites</a>, it is about the widespread perspective of social networks and how allowing them to be used at work will contribute to employees wasting time and losing money for companies.
      <br />
      <br />

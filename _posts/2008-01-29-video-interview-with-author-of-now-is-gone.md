@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/29/video-interview-with-author-of-now-is-gone
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I just finished reading <a href="http://nowisgone.com/">Now is Gone</a> last night by Geoff Livingston. If you are thinking about getting involved in Social Media Marketing from a professional standpoint this is the book to read.
      <br />
      <br />

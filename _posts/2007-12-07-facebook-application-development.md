@@ -6,12 +6,13 @@ source: http://kinlane.com/2007/12/07/facebook-application-development/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Been spending more time lately thinking about Facebook Application Development for small businesses.
      <br />
      <br />
-     Was reading Andrew McAfee talking about <a class="title"
-        href="http://blog.hbs.edu/faculty/amcafee">The Impact of Information Technology (IT) on Businesses and their Leaders</a> and talking about <span class="blogcontenthead">Facebook AS the Intranet.
+     Was reading Andrew McAfee talking about <a class="title" href="http://blog.hbs.edu/faculty/amcafee">The Impact of Information Technology (IT) on Businesses and their Leaders</a> and talking about <span class="blogcontenthead">Facebook AS the Intranet.
      <br />
      <br />
      Was also talking with another acquaintance about the usage of Facebook as a learning platform for K-12.

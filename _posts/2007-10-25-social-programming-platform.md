@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/10/25/social-programming-platform/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Ok. Now that I have been blogging somewhat successfully (what is successfully), I am starting to develop a rhythm. It is pretty erratic, but it is starting to flow and develop a voice. Well at least to me.
      <br />
      <br />

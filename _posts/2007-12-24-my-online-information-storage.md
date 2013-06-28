@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/12/24/my-online-information-storage/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just thinking how much information I am putting on the Internet. I pretty much migrated to a web-existence completely.
      <br />
      <br />

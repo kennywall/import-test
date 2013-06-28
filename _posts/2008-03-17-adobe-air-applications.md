@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/17/adobe-air-applications/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      So recently I have installed 2 Adobe Air applications. I installed <a href="http://www.twhirl.org/">twhirl a twitter client</a> built on the Air platform, and now I just did <a href="http://blog.mootools.net/2008/3/15/snippely">Snippely a snippet code tool</a> from <a href="http://mootools.net/">MooTools</a>.
      <br />
      <br />

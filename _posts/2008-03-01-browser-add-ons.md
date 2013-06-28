@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/01/browser-add-ons/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I am pretty addicted to to Firefox Browser Add-Ons. I have many of them to the point of add-on overload.
      <br />
      <br />

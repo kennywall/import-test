@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/25/using-amazon-web-services-for-facebook-app
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Not everyone knows you can about the <a href="http://www.amazon.com/gp/browse.html?node=3435361">Amazon Web Services Platform</a> let alone that you can use it to create highly scalable applications for Facebook.
      <br />
      <br />

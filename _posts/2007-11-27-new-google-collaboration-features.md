@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/11/27/new-google-collaboration-features/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Really impressed with some of the collaboration features Google is rolling out.
      <br />
      <br />

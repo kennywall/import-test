@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/09/13/moving-on-from-outlook/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      This topic got me blogging again on my personal blog at least. I recently migrated from Outlook...for good.
      <br />
      <br />

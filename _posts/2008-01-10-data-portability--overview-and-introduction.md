@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/10/data-portability-overview-and-introduction
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I am formulating my thoughts around data portability and how it will affect life as I continue to become 100% web-based in my work and personal life. I thought as I am working through it I would talk about here and help users understand their data portability, the standards and why it is important to have.
      <br />
      <br />

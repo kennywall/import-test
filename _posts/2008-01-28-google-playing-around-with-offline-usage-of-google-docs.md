@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/google-playing-around-with-offline-usage-o
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Came across a post of Google Blogoscoped today on Google testing using <a href="http://blogoscoped.com/archive/2008-01-28-n40.html">Google Gears for offline Google Docs access</a>.
      <br />
      <br />

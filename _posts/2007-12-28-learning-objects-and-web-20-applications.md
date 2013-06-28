@@ -6,30 +6,26 @@ source: http://kinlane.com/2007/12/28/learning-objects-and-web-20-applications/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have been spending a great deal of time learning about "<a href="http://en.wikipedia.org/wiki/Learning_Object">learning objects</a>" from a site called <a href="http://www.merlot.org/">Merlot</a>.
      <br />
      <br />
      Wikepedia defines a learning object as:
 </p>
-
 <ul class="mainlist">
      <li>"Any entity, digital or non-digital, that may be used for learning, education or training"
      </li>
-
      <li>"Any digital resource that can be reused to support learning"
      </li>
-
      <li>"Web-based interactive chunks of e-learning designed to explain a stand-alone learning objective"
      </li>
-
      <li>"A digitized entity which can be used, reused or referenced during technology supported learning"
      </li>
-
      <li>"A digital, self-contained, reusable entity with a clear learning aim that contains at least three internal changing and editable components: content, instructional activities (learning activities), and context elements. As a complement, the learning object should have an external component of information which helps its identification, storage, and recovery: the metadata."
      </li>
 </ul>
-
 <p>
      I would like to see any web 2.0 application have a learning object defined for it just like we reference an RSS feed or other media link for a site today.
      <br />

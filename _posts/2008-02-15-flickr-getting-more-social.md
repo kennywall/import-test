@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/15/flickr-getting-more-social/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I haven't spent much time on Flickr until recently. I have had an account for years, but only upload every once in a while.
      <br />
      <br />

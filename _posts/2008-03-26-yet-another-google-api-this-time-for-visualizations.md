@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/26/yet-another-google-api-this-time-for-visua
 domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s320/gauge.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      The <a href="http://code.google.com/apis/visualization/">Google Visualization API</a> lets you access multiple sources of structured data that you can display, choosing from a large selection of visualizations.
      <br />
      <br />
@@ -28,17 +30,7 @@ image: http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s
      Here are a few examples of the visualizations that are created in the <a href="http://code.google.com/apis/visualization/documentation/gadgetgallery.html">Google Visualization API Gadget Gallery</a>:
      <br />
      <br />
-     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s1600-h/gauge.png"><img class="c1"
-          src="http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s320/gauge.png"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5182264868242461170"
-          border="0" /></a>
+     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s1600-h/gauge.png"><img class="c1" src="http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s320/gauge.png" alt="" id="BLOGGER_PHOTO_ID_5182264868242461170" border="0" /></a>
      <br />
-     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp2.blogger.com/_9OGzs28s_k4/R-salduUEgI/AAAAAAAAAy4/fpu1wQsBoIw/s1600-h/Large_Image_02.png"><img class="c2"
-          src="http://bp2.blogger.com/_9OGzs28s_k4/R-salduUEgI/AAAAAAAAAy4/fpu1wQsBoIw/s320/Large_Image_02.png"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5182265027156251138"
-          border="0" /></a>
+     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp2.blogger.com/_9OGzs28s_k4/R-salduUEgI/AAAAAAAAAy4/fpu1wQsBoIw/s1600-h/Large_Image_02.png"><img class="c2" src="http://bp2.blogger.com/_9OGzs28s_k4/R-salduUEgI/AAAAAAAAAy4/fpu1wQsBoIw/s320/Large_Image_02.png" alt="" id="BLOGGER_PHOTO_ID_5182265027156251138" border="0" /></a>
 </p>

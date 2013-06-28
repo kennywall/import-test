@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/19/google-reader-and-google-notebook-as-my-kn
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I use Google Reader and Google Notebook on a daily basis. I read and consume feeds from 300+ blogs daily. I scan, read, visit and participate in many of the posts.
      <br />
      <br />

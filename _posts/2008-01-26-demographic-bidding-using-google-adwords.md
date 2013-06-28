@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/26/demographic-bidding-using-google-adwords/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Ever wish you could show your ads to a specific group like women aged 25-34? Want to see how your ads perform with certain demographic groups and then adjust your bids accordingly?
      <br />
      <br />
@@ -19,16 +21,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      There are two ways you can use demographic bidding:
      <br />
 </p>
-
 <ol class="mainlist">
      <li>First, you can modify your bids for a particular audience segment, such as increasing your bid for 25-34 year-old males by 230%.
      </li>
-
      <li>Second, you can ask that your ads not be shown to certain demographic groups if they aren't meeting your ROI goals.
           <br />
      </li>
 </ol>
-
 <p>
      If you're an AdWords advertiser located in the U.S. or the U.K., you can sign up to try out demographic bidding. You can see which partner sites offer this feature and learn how to get started by visiting this <a href="https://services.google.com/demographicbidding/">site</a>.
      <br />

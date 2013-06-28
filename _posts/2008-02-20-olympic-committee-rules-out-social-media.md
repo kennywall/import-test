@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/20/olympic-committee-rules-out-social-media/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just reading a post on <a href="http://www.readwriteweb.com">ReadWriteWeb</a> about <a href="http://www.readwriteweb.com/archives/olympic_committe_rules_revealed.php">Olympic Committe Rules Revealed: No Posting of Media Allowed.</a>
      <br />
      <br />

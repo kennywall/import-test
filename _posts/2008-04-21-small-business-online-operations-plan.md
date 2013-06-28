@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/04/21/small-business-online-operations-plan/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I have been working with my brother-in-law to really escalate the operations of his small business <a href="http://www.thinwrench.com">Thinwrench</a>, which offers <a href="http://www.thinwrench.com">custom wrench and tool manufacturing</a>. He has had the business since the 1990's and has had the site since I believe 2001.
      <br />
      <br />
@@ -22,59 +24,45 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      My goal with the new small business online operations plan is to give a simple framework to:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Maintain his simple, <a href="http://www.originalwebsolutions.com">easy to use small business web site</a>.
      </li>
-
      <li>Plan and implement a traditional and <a href="http://www.oregonlocalsearch.com">online marketing campaign for his small business</a>.
      </li>
-
      <li>Plan and implement a <a href="http://www.socialmediasquad.com">social media marketing campaign for his small business</a>.
           <br />
      </li>
 </ul>
-
 <p>
      So I put together a basic outline that lays out the plan for:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Writing home page, about us, and contact us content for use on his web site as well as throughout his online marketing and social media marketing efforts.
      </li>
-
      <li>Develop a list of initial products he will offer through his small business web site.
      </li>
-
      <li>Develop a list of initial services his business will offer through his small business web site.
      </li>
-
      <li>Establish a basic keyword marketing strategy to use as a framework when marketing his site and writing content.
           <br />
      </li>
 </ul>
-
 <p>
      Once his site is up with the new content we will start laying out:
      <br />
 </p>
-
 <ul class="mainlist">
      <li>Marketing Plan Outline
      </li>
-
      <li>Online Marketing Plan Outline
      </li>
-
      <li>Social Media Marketing Plan Outline
      </li>
-
      <li>Advertising Plan Outline
           <br />
      </li>
 </ul>
-
 <p>
      We will keep each plan and strategy simple and realistic and easy to implement. My goal is for him to be successful and not get overwhelmed with strategy and execution and never get anywhere.
      <br />

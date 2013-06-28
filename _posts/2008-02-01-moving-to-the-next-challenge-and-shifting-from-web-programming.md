@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/01/moving-to-the-next-challenge-and-shifting-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I waiting a while before I started blogging about this topic until everything was in place. It seems all the pieces have fallen in place so I am going to start on this new path.
      <br />
      <br />

@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/12/20/amazon-web-services-simple-db/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      So I jumped the gun and blogged about the new Amazon DevPay web service and realized I hadn't even mentioned the other latest release from Amazon, the SimpleDB.
      <br />
      <br />

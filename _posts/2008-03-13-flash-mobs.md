@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/03/13/flash-mobs/
 domain: kinlane.com
 image: http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was just reading a cool post about <a href="http://www.ignitesocialmedia.com/what-is-a-flash-mob/">Flash Mobs on Ignite Media</a>. Very cool concept.
      <br />
      <br />
@@ -22,33 +24,22 @@ image: http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0
      <a href="http://www.ignitesocialmedia.com">Ignite Media</a> defines a flash mob as:
      <br />
 </p>
-
 <ol class="mainlist">
      <li>You gather a group of people (through text messages, Facebook groups, emails, whatever) and ask them to come to a particular place at a particular time;
      </li>
-
      <li>You all do something for a short period;
      </li>
-
      <li>You simply disband and go about your business.
      </li>
 </ol>
-
 <p>
      Here is the video they posted that gives a good example:
      <br />
      <br />
-     <object height="355"
-        width="425">
-          <param name="movie"
-             value="http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0" />
-          <param name="wmode"
-             value="transparent" />
-          <embed src="http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0"
-             type="application/x-shockwave-flash"
-             wmode="transparent"
-             height="355"
-             width="425" />
+     <object height="355" width="425">
+          <param name="movie" value="http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0" />
+          <param name="wmode" value="transparent" />
+          <embed src="http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0" type="application/x-shockwave-flash" wmode="transparent" height="355" width="425" />
      </object>
      <br />
 </p>

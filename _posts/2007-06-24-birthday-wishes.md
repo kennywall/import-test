@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/06/24/birthday-wishes/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I got 3 birthday wishes today from sites that I have signed up for. Birthdays do not mean much to me, I really do not hold it against anyone for forgetting my Birthday.
      <br />
      <br />

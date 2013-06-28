@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/12/19/information-architecture/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I am working on a <a href="http://www.originalwebsolutions.com">web site / web application</a> for Roseburg Forest Products right now. Most projects we do have some level of frustration in getting the information you need to get the project rolling and built to the clients expectations.
      <br />
      <br />

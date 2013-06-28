@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/29/facebook-platform-application-development-
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      ReadWriteWeb is posing the question <a href="http://www.readwriteweb.com/archives/have_facebook_apps_peaked_in_popularity.php">Have Facebook Apps Peaked</a>?
      <br />
      <br />

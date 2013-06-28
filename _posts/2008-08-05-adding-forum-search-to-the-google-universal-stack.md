@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/08/05/adding-forum-search-to-the-google-universa
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was doing some research tonight for a new social media marketing campaign tonight....I perform due diligence on a topic by running through the Google Search Toolbar...web,images, video and blogs.
      <br />
      <br />

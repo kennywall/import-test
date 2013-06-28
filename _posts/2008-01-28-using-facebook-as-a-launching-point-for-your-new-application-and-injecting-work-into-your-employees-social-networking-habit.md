@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/28/using-facebook-as-a-launching-point-for-yo
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      Was reading the post on <a href="http://www.techcrunch.com/">Techcrunch</a> this morning called <a href="http://www.techcrunch.com/2008/01/28/huddle-uses-new-apps-and-facebook-to-take-on-basecamp/">Huddle uses new apps and Facebook to take on Basecamp</a>.
      <br />
      <br />

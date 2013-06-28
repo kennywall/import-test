@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/09/14/20-incubators-and-pilot-projects/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just reading another great blog post 2.0 from Dion Hinchcliffe, he always delivers with his posts. This one is called <a href="http://web2.socialcomputingmagazine.com/">Ten Aspects of Web 2.0 Strategy That Every CTO and CIO Should Know</a> and has some critical 2.0 advice for decision makers in any company.
      <br />
      <br />

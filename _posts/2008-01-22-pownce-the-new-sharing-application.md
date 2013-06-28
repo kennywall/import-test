@@ -6,24 +6,19 @@ source: http://kinlane.com/2008/01/22/pownce-the-new-sharing-application/
 domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s320/pownce1.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      For those of you who don't know Pownce is a application where you can send music, photos, messages, links, events, and more. You can do it all on our web site, or install a lightweight desktop software that lets you get out of the browser.
      <br />
 </p>
-
 <div class="c1">
      <br />
 </div>
-
 <p>
      It is a pretty interesting little application that allows you to import your contacts from your major networks using Plaxo it looks like.
      <br />
-     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}"
-        href="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s1600-h/pownce1.jpg"><img class="c2"
-          src="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s320/pownce1.jpg"
-          alt=""
-          id="BLOGGER_PHOTO_ID_5158214487725301698"
-          border="0" /></a>
+     <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s1600-h/pownce1.jpg"><img class="c2" src="http://bp1.blogger.com/_9OGzs28s_k4/R5Wov0gj38I/AAAAAAAAAuc/U7U5fL7wFvE/s320/pownce1.jpg" alt="" id="BLOGGER_PHOTO_ID_5158214487725301698" border="0" /></a>
      <br />
      I like how they <a href="http://www.pownce.com/about/">describe how Pownce is made</a>, check it out.
      <br />

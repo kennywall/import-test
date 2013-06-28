@@ -6,7 +6,9 @@ source: http://kinlane.com/2007/12/28/my-profile-organization/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      In a few of my last posts I talk about organizing myself and developing a routine. One thing I am working on is creating a platform and routine that I work on everyday to help organize my world both internally and externally.
      <br />
      <br />

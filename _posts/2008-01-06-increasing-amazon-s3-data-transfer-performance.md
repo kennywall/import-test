@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/01/06/increasing-amazon-s3-data-transfer-perform
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      The Amazon S3 team is now beta-testing support for an important low-level networking feature which has the potential to significantly increase the performance of large data transfers to and from S3, particularly for long distance data transfers.
      <br />
      <br />

@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/28/crowsourcing-and-the-future-of-project-res
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      In every company I work for we deal with resource shortages all over the place, either due to budgetary constraints or lack of skilled talent in the area.
      <br />
      <br />

@@ -6,37 +6,32 @@ source: http://kinlane.com/2008/01/24/2d-code-qr-code-and-two-dimensional-bar-co
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      After posting about cellular and mobile barcodes yesterday I received a comment from a guy who started an online magazine on the subject. 2d-code @ <a href="http://2d-code.co.uk/">http://2d-code.co.uk/</a>
      <br />
      <br />
      From their home page about the magazine:
      <br />
 </p>
-
 <p class="c1">
      In Japan QR codes are found on everything from business cards to fresh lettuce. Now they are coming to the West and advertising and promotion will never be the same again. 2d Code will keep you informed as it happens, with news, views and analysis.
 </p>
-
 <p class="c1">
      If you are interested in the QR code phenomena you can participate with us in several ways.
 </p>
-
 <ul class="mainlist">
      <li class="c2">Mention or write about this website on your blog
      </li>
-
      <li class="c2">Send us your sightings of QR or 2d barcodes
      </li>
-
      <li class="c2">At the bottom of each individual news item there is an opportunity for you to comment or leave a message
      </li>
-
      <li>
           <span class="c3">At the top of each individual news item you can email the item to a friend or colleague.</span>
      </li>
 </ul>
-
 <p>
      Great resource to introduce and follow the subject of mobile two dimensional bar codes. I highly recommend you check it out and subscribe to their RSS Feed.
      <br />

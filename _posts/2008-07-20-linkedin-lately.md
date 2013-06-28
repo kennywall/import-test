@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/07/20/linkedin-lately/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I just signed up for a business account for our business Social Media Squad. I'm curious what it will bring me. I think LinkedIn is on a good path, they are moving to provide more value to us business owners.
      <br />
      <br />

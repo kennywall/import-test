@@ -6,7 +6,9 @@ source: http://kinlane.com/2008/02/26/google-talk-chatback-website-widget/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
+
+<p>
      I was just playing with the new <a href="http://googletalk.blogspot.com/2008/02/google-talk-chatback.html">Google Talk Chatback Widget.</a> It allows you to allow anonymous chats from your web page for your customers and site visitors.
      <br />
      <br />
