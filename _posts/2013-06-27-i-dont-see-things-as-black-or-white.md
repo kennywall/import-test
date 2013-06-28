@@ -10,15 +10,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>While working for the White House, and at the VA, will most definitely be an entirely new experience for me, I feel my approach and experience within the API space will benefit me greatly.&nbsp;</p>
 <p>When it comes to the tech, business and politics of APIs I don't see things as:</p>
 <table>
-
 <tr>
 <th style="text-align: left;" width="15%">black</th><th width="5%">#000000</th>
 <td bgcolor="#000000">&nbsp;</td>
 </tr>
-
 </table>
 <p>OR</p>
-<table class="c">
+<table>
 
 <tr>
 <th style="text-align: left;" width="15%">white</th><th width="5%">#FFFFFF</th>
@@ -27,7 +25,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 
 </table>
 <p>I see things as grey, and try to empathize and understand with all the shades of grey:</p>
-<table class="c">
+<table>
 
 <tr>
 <th>gray3</th><th>#080808</th>
