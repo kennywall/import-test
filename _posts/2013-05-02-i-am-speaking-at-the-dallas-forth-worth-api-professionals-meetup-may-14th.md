@@ -12,8 +12,10 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
 <p>After that we can just hang out and talk about APIs and see what all y'all are doing with APIs in Texas.  Ping me if your in the DFW area, so that I know you will be there.</p>
 <p>Look forward to seeing you there and connecting.</p>
 <table cellspacing="1" cellpadding="5" width="95%">
+
 <tr>
 <td align="center"><a title="TheRightAPI" href="http://www.therightapi.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png"  width="200" /></a></td>
 <td align="center"><a title="Proxomo" href="http://www.proxomo.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Proxomo-Logo.png"  width="200" /></a></td>
 </tr>
+
 </table>
