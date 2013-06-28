@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Start-Up Offers Blueprints For 3D Printed Parts
+title: StartUp Offers Blueprints For 3D Printed Parts
 url: http://kinlane.com/2012/11/30/start-up-offers-blueprints-for-3d-printed-parts/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/3d-printing-teenage-engineering.png
 ---

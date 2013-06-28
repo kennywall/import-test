@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Socrata Releases New Cloud-Based Mapping Solution Mondara
+title: Socrata Releases New CloudBased Mapping Solution Mondara
 url: http://kinlane.com/2012/04/07/socrata-releases-new-cloud-based-mapping-solution-mondara/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/socrata-1.jpg
 ---

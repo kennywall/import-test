@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Local Geo Landscape Roundup - January 29th 2012
+title: Local Geo Landscape Roundup  January 29th 2012
 url: http://kinlane.com/2012/01/29/local,-geo-landscape-roundup-january-29th,-2012/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

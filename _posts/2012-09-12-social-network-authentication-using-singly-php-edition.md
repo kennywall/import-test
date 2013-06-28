@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Network Authentication Using Singly (PHP Edition)
+title: Social Network Authentication Using Singly PHP Edition
 url: http://kinlane.com/2012/09/12/social-network-authentication-using-singly-php-edition/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

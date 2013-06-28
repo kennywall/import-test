@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mobile Advertising Platform Round-Up
+title: Mobile Advertising Platform RoundUp
 url: http://kinlane.com/2012/03/04/mobile-advertising-platform-round-up/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/CityGrid-Mobile-Advertising.png
 ---

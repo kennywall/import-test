@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Author Walk-Through of a Story in Audio
+title: An Author WalkThrough of a Story in Audio
 url: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traffic-and-Weather.png
 ---

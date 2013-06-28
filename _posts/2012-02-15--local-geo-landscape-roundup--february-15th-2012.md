@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Local Geo Landscape Roundup - February 15th 2012
+title:  Local Geo Landscape Roundup  February 15th 2012
 url: http://kinlane.com/2012/02/15/local-geo-landscape-roundup-february-15th-2012/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

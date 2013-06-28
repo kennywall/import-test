@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Case You Missed It Last Week (API)
+title: In Case You Missed It Last Week API
 url: http://kinlane.com/2012/12/10/in-case-you-missed-it-last-week…api/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

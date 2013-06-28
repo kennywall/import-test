@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Social in Local Mobile Social?
+title: What is Social in Local Mobile Social
 url: http://kinlane.com/2012/02/05/what-is-social-in-local-mobile-social/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/mobile_local_social.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: In Case You Missed It Last Week...(Mobile)
+title: In Case You Missed It Last Week...Mobile
 url: http://kinlane.com/2012/11/19/in-case-you-missed-it-last-week…mobile/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

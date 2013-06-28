@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your Glasses Are Prime Real Estate for a Human Computer Interaction (HCI)
+title: Your Glasses Are Prime Real Estate for a Human Computer Interaction HCI
 url: http://kinlane.com/2013/04/17/your-glasses-are-prime-real-estate-for-a-human-compute-interaction/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-glasses.jpg
 ---
