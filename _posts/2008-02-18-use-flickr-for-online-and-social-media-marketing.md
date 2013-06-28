@@ -6,5 +6,27 @@ source: http://kinlane.com/2008/02/18/use-flickr-for-online-and-social-media-mar
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>I have historically played around with many online marketing and social media marketing techniques.  I play around from time to time to see what works and what doesn't.<br /><br />Last year I was walking around with my daughter and taking pictures for our Eugene Local Search web site.  I am trying to have pictures of <a href="http://www.eugenelocalsearch.com/">local attractions and business around Eugene, Oregon</a>.<br /><br />I took this picture of the <a href="http://www.flickr.com/photos/7687932@N02/449187995/">Eugene Federal Courthouse</a>.  I then told a little story about it and happen to include a link  <a href="http://www.originalwebsolutions.com/">Eugene Web Design Services</a> which links to our web development company.<br /><br />So it took a relevant geographical picture, some text, then linked with relevant keywords to our web site.<br /><br />I have noticed I still get a some click through on this link as well as some search engine optimization  value.<br /><br />It is a nice example of using <a href="http://www.flickr.com/">Flickr </a>as part of your <a href="http://www.oregonlocalsearch.com/">online marketing</a> and <a href="http://www.socialmediasquad.com/">social media marketing</a> strategy.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I have historically played around with many online marketing and social media marketing techniques. I play around from time to time to see what works and what doesn't.<br />
+    <br />
+    Last year I was walking around with my daughter and taking pictures for our Eugene Local Search web site. I am trying to have pictures of <a href="http://www.eugenelocalsearch.com/">local
+    attractions and business around Eugene, Oregon</a>.<br />
+    <br />
+    I took this picture of the <a href="http://www.flickr.com/photos/7687932@N02/449187995/">Eugene Federal Courthouse</a>. I then told a little story about it and happen to include a link <a href=
+    "http://www.originalwebsolutions.com/">Eugene Web Design Services</a> which links to our web development company.<br />
+    <br />
+    So it took a relevant geographical picture, some text, then linked with relevant keywords to our web site.<br />
+    <br />
+    I have noticed I still get a some click through on this link as well as some search engine optimization value.<br />
+    <br />
+    It is a nice example of using <a href="http://www.flickr.com/">Flickr</a> as part of your <a href="http://www.oregonlocalsearch.com/">online marketing</a> and <a href=
+    "http://www.socialmediasquad.com/">social media marketing</a> strategy.
+  </body>
+</html></p>
 

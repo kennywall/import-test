@@ -6,5 +6,22 @@ source: http://kinlane.com/2008/03/20/amazon-launches-new-web-service-for-fulfil
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Amazon added another layer to their stack of web services to.  They added the <a href="http://aws.amazon.com/fws">Amazon Fulfillment Web Service</a> (Amazon FWS) which allows merchants to tap in to Amazon's network of fulfillment centers and logistics. Merchants can store their own products to our fulfillment centers and then, using a web service interface, fulfill orders for the products and ship a product to a customer.<br /><br />There are two sets of APIS - Inbound and Outbound.<br /><br />The Inbound service gives merchants the ability to create and send shipments to an Amazon fulfillment center from your vendors.The Outbound service gives merchants the ability to ship products from Amazon FCs to their customers. This service revolves around the concept of a fulfillment order. The order contains a destination address, a shipping speed, and a list of item/quantity pairs to be shipped. The createFulfillmentOrder function is used to initiate the shipping process. They are moving forward in basically offering a wholesale version of everything the do in-house.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Amazon added another layer to their stack of web services to. They added the <a href="http://aws.amazon.com/fws">Amazon Fulfillment Web Service</a> (Amazon FWS) which allows merchants to tap in
+    to Amazon's network of fulfillment centers and logistics. Merchants can store their own products to our fulfillment centers and then, using a web service interface, fulfill orders for the
+    products and ship a product to a customer.<br />
+    <br />
+    There are two sets of APIS - Inbound and Outbound.<br />
+    <br />
+    The Inbound service gives merchants the ability to create and send shipments to an Amazon fulfillment center from your vendors.The Outbound service gives merchants the ability to ship products
+    from Amazon FCs to their customers. This service revolves around the concept of a fulfillment order. The order contains a destination address, a shipping speed, and a list of item/quantity pairs
+    to be shipped. The createFulfillmentOrder function is used to initiate the shipping process. They are moving forward in basically offering a wholesale version of everything the do in-house.
+  </body>
+</html></p>
 

@@ -6,50 +6,139 @@ source: http://kinlane.com/2012/10/12/the-api-evangelist-mission/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-logo-400.png
 ---
-{% include JB/setup %}<p><p><a title="API Evangelist" href="http://apievangelist.com"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png" alt="" width="250" align="right" /></a></p>
-<p>Many folks who encounter&nbsp;<a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>&nbsp;think I'm working to evangelize a single API. &nbsp;I field so many questions about this I thought I would address by publishing an API Evangelist mission statement. &nbsp;API Evangelist is much wider than any single API or even industry deploying APIs.</p>
-<p>The mission of API Evangelist is to educate business, nonprofit and government leaders about the value of APIs to their organizations.</p>
-<p>API Evangelist is made up of four properties:</p>
-<ul class="mainlist">
-<li><strong>API Evangelist&nbsp;</strong>(<a href="/admin/blog/apievangelist.com">apievangelist.com</a>) - Business of APIs</li>
-<li><strong>API Voice</strong>&nbsp;(<a href="/admin/blog/apivoice.com">apivoice.com</a>) - Politics of APIs</li>
-<li><strong>API Stack</strong>&nbsp;(<a href="/admin/blog/theapistack.com">theapistack.com</a>) - API discovery and ranking</li>
-<li><strong>Hack Weekends</strong>&nbsp;(<a href="/admin/blog/hackweekends.com">hackweekends.com</a>) - Hackathon news and calendar</li>
-</ul>
-<p>With API Evangelist I strive to be the independent voice for the industry, providing the public with information about API:</p>
-<ul class="mainlist">
-<li><a title="API Building Blocks" href="/buildingblocks/">Building Blocks</a></li>
-<li><a title="API Service Providers" href="/serviceproviders/">Service Providers</a></li>
-<li><a title="API Industries" href="/industries/">Industries</a></li>
-<li><a title="API Tools" href="/apitools/">Tools</a></li>
-<li><a title="API News" href="/news/">News</a></li>
-<li><a title="API Analysis" href="/blog/">Analysis</a></li>
-</ul>
-<p>The goal is to provide a wealth of resources for those looking to design, develop and deploy APIs without bias towards a specific platform--allowing them to make an educated choice about what path they should take.</p>
-<p>To stay independent and operate API Evangelist, I need to bring in revenue, and keep things moving forward. I strive to do this in as healthy of a way as possible, without giving away control over my attention and focus, and contribute as much as possible to resources I provide to the public.</p>
-<p>Areas I currently offer consulting services in are:</p>
-<p><strong>Strategy</strong></p>
-<ul class="mainlist">
-<li><strong>API Evangelism</strong>&nbsp;- Design and oversight of companies API evangelism efforts</li>
-<li><strong>Monetization Strategy</strong>&nbsp;- Design and oversight of a companies API monetization, business model and incubation approaches</li>
-<li><strong>Hackathons</strong>&nbsp;- Targeting, planning and execution of hackathons</li>
-</ul>
-<p><strong>Research</strong></p>
-<ul class="mainlist">
-<li><strong>Industry</strong>&nbsp;- Analysis of specific industries, API providers within and the opportunities available</li>
-<li><strong>Markets</strong>&nbsp;- Identifying and deeper understanding of evangelism opportunities within specific cities and countries</li>
-<li><strong>Developer Profiling</strong>&nbsp;- Targeting and profiling of developers within industries, markets and of specific, existing APIs</li>
-<li><strong>Providers</strong>&nbsp;- Providing a deeper understanding of how specific APIs operate their API operations</li>
-</ul>
-<p><strong>Speaking</strong></p>
-<ul class="mainlist">
-<li><strong>Webinars</strong>&nbsp;- Participating in webinars with companies and individuals</li>
-<li><strong>Conferences</strong>&nbsp;- Speaking and presenting at technology conferences</li>
-<li><strong>Meetups</strong>&nbsp;- Speaking and participating at local meetups</li>
-<li><strong>Workshops</strong>&nbsp;- Design and execution of workshops at existing events</li>
-</ul>
-<p>All of these consulting areas are design to provide as much value to the client, while amplifying the signal and content via the four API Evangelist properties, and other syndication opportunities, under a&nbsp;<a title="Creative Commons License" href="http://creativecommons.org/licenses/by-sa/3.0/">creative commons license</a>--enabling the public to consume and provide the greatest possible good for the API industry.</p>
-<p>I feel strongly that a wealth of open resources will help ensure a fast growing and healthy industry by educating non-developers, non-technical business leaders about the benefits of APIs and healthy developer and partner ecosystem.</p>
-<p>Please let me know how you can help support me in what I do, providing the industry with the information it needs to be successful, while also giving you what you need to successfully provide the services you offer.</p>
-<p>This&nbsp;<a href="/mission.php">mission statement is a permanent fixture on my central kinlane.com site</a>, it''s not just the API Evangelist mission, it is my mission.</p></p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <p>
+      <a title="API Evangelist" href="http://apievangelist.com"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png" alt="" width="250" align=
+      "right" /></a>
+    </p>
+    <p>
+      Many folks who encounter&nbsp;<a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>&nbsp;think I'm working to evangelize a single API. &nbsp;I field so many questions
+      about this I thought I would address by publishing an API Evangelist mission statement. &nbsp;API Evangelist is much wider than any single API or even industry deploying APIs.
+    </p>
+    <p>
+      The mission of API Evangelist is to educate business, nonprofit and government leaders about the value of APIs to their organizations.
+    </p>
+    <p>
+      API Evangelist is made up of four properties:
+    </p>
+    <ul class="mainlist">
+      <li>
+        <strong>API Evangelist&nbsp;</strong>(<a href="/admin/blog/apievangelist.com">apievangelist.com</a>) - Business of APIs
+      </li>
+      <li>
+        <strong>API Voice</strong>&nbsp;(<a href="/admin/blog/apivoice.com">apivoice.com</a>) - Politics of APIs
+      </li>
+      <li>
+        <strong>API Stack</strong>&nbsp;(<a href="/admin/blog/theapistack.com">theapistack.com</a>) - API discovery and ranking
+      </li>
+      <li>
+        <strong>Hack Weekends</strong>&nbsp;(<a href="/admin/blog/hackweekends.com">hackweekends.com</a>) - Hackathon news and calendar
+      </li>
+    </ul>
+    <p>
+      With API Evangelist I strive to be the independent voice for the industry, providing the public with information about API:
+    </p>
+    <ul class="mainlist">
+      <li>
+        <a title="API Building Blocks" href="/buildingblocks/">Building Blocks</a>
+      </li>
+      <li>
+        <a title="API Service Providers" href="/serviceproviders/">Service Providers</a>
+      </li>
+      <li>
+        <a title="API Industries" href="/industries/">Industries</a>
+      </li>
+      <li>
+        <a title="API Tools" href="/apitools/">Tools</a>
+      </li>
+      <li>
+        <a title="API News" href="/news/">News</a>
+      </li>
+      <li>
+        <a title="API Analysis" href="/blog/">Analysis</a>
+      </li>
+    </ul>
+    <p>
+      The goal is to provide a wealth of resources for those looking to design, develop and deploy APIs without bias towards a specific platform--allowing them to make an educated choice about what
+      path they should take.
+    </p>
+    <p>
+      To stay independent and operate API Evangelist, I need to bring in revenue, and keep things moving forward. I strive to do this in as healthy of a way as possible, without giving away control
+      over my attention and focus, and contribute as much as possible to resources I provide to the public.
+    </p>
+    <p>
+      Areas I currently offer consulting services in are:
+    </p>
+    <p>
+      <strong>Strategy</strong>
+    </p>
+    <ul class="mainlist">
+      <li>
+        <strong>API Evangelism</strong>&nbsp;- Design and oversight of companies API evangelism efforts
+      </li>
+      <li>
+        <strong>Monetization Strategy</strong>&nbsp;- Design and oversight of a companies API monetization, business model and incubation approaches
+      </li>
+      <li>
+        <strong>Hackathons</strong>&nbsp;- Targeting, planning and execution of hackathons
+      </li>
+    </ul>
+    <p>
+      <strong>Research</strong>
+    </p>
+    <ul class="mainlist">
+      <li>
+        <strong>Industry</strong>&nbsp;- Analysis of specific industries, API providers within and the opportunities available
+      </li>
+      <li>
+        <strong>Markets</strong>&nbsp;- Identifying and deeper understanding of evangelism opportunities within specific cities and countries
+      </li>
+      <li>
+        <strong>Developer Profiling</strong>&nbsp;- Targeting and profiling of developers within industries, markets and of specific, existing APIs
+      </li>
+      <li>
+        <strong>Providers</strong>&nbsp;- Providing a deeper understanding of how specific APIs operate their API operations
+      </li>
+    </ul>
+    <p>
+      <strong>Speaking</strong>
+    </p>
+    <ul class="mainlist">
+      <li>
+        <strong>Webinars</strong>&nbsp;- Participating in webinars with companies and individuals
+      </li>
+      <li>
+        <strong>Conferences</strong>&nbsp;- Speaking and presenting at technology conferences
+      </li>
+      <li>
+        <strong>Meetups</strong>&nbsp;- Speaking and participating at local meetups
+      </li>
+      <li>
+        <strong>Workshops</strong>&nbsp;- Design and execution of workshops at existing events
+      </li>
+    </ul>
+    <p>
+      All of these consulting areas are design to provide as much value to the client, while amplifying the signal and content via the four API Evangelist properties, and other syndication
+      opportunities, under a&nbsp;<a title="Creative Commons License" href="http://creativecommons.org/licenses/by-sa/3.0/">creative commons license</a>--enabling the public to consume and provide
+      the greatest possible good for the API industry.
+    </p>
+    <p>
+      I feel strongly that a wealth of open resources will help ensure a fast growing and healthy industry by educating non-developers, non-technical business leaders about the benefits of APIs and
+      healthy developer and partner ecosystem.
+    </p>
+    <p>
+      Please let me know how you can help support me in what I do, providing the industry with the information it needs to be successful, while also giving you what you need to successfully provide
+      the services you offer.
+    </p>
+    <p>
+      This&nbsp;<a href="/mission.php">mission statement is a permanent fixture on my central kinlane.com site</a>, it''s not just the API Evangelist mission, it is my mission.
+    </p>
+  </body>
+</html></p>
 

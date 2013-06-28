@@ -6,5 +6,30 @@ source: http://kinlane.com/2008/08/28/in-house-social-media-marketing-campaign-s
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Lately we have been receiving a lot of requests for in-house <a href="http://www.socialmediasquad.com/services/index.html">social media marketing trainings</a>.  Clients are requesting that we come on site to assist them in developing a social media marketing campaign strategy. The downturn in the economy has really hit small businesses and they are looking for new ways to find and retain customers.  Social Media and Social Networks are a great avenue for finding new customers and maintaining the relationship with your existing customer base. We are always working to provide new white papers, case studies and operations manuals for social media marketing campaigns in many different industries and conversations.  These materials assist small business owners who may not be able to afford a full-blown social media marketing campaign. Social Media Squad has been assisting businesses and organizations on-site with the following: <ul class="mainlist"><li>On-Site social media marketing strategy needs assessment and development</li><li>Social media marketing campaign setup, oversight process, and reporting / metrics</li><li>In-House social media marketing campaign training and monitoring</li><li>Custom social media marketing materials development</li></ul> This new in-house social media program is really helping businesses cut cost and realize a social media marketing campaign for their business.   They are able to utilize existing staff and resources as well as outside professional social media marketing resources to achieve their online goals. Stay tuned for more blog posts, white papers, and programs on <a href="http://www.socialmediasquad.com/">in-house social media marketing campaigns</a>.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Lately we have been receiving a lot of requests for in-house <a href="http://www.socialmediasquad.com/services/index.html">social media marketing trainings</a>. Clients are requesting that we
+    come on site to assist them in developing a social media marketing campaign strategy. The downturn in the economy has really hit small businesses and they are looking for new ways to find and
+    retain customers. Social Media and Social Networks are a great avenue for finding new customers and maintaining the relationship with your existing customer base. We are always working to provide
+    new white papers, case studies and operations manuals for social media marketing campaigns in many different industries and conversations. These materials assist small business owners who may not
+    be able to afford a full-blown social media marketing campaign. Social Media Squad has been assisting businesses and organizations on-site with the following:
+    <ul class="mainlist">
+      <li>On-Site social media marketing strategy needs assessment and development
+      </li>
+      <li>Social media marketing campaign setup, oversight process, and reporting / metrics
+      </li>
+      <li>In-House social media marketing campaign training and monitoring
+      </li>
+      <li>Custom social media marketing materials development
+      </li>
+    </ul>This new in-house social media program is really helping businesses cut cost and realize a social media marketing campaign for their business. They are able to utilize existing staff and
+    resources as well as outside professional social media marketing resources to achieve their online goals. Stay tuned for more blog posts, white papers, and programs on <a href=
+    "http://www.socialmediasquad.com/">in-house social media marketing campaigns</a>.
+  </body>
+</html></p>
 

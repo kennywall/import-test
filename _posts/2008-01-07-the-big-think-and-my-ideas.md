@@ -6,5 +6,19 @@ source: http://kinlane.com/2008/01/07/the-big-think-and-my-ideas/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>I was just playing around with a site called the <a href="http://www.bigthink.com/">Big Think</a>.  It is a Youtube for ideas.  Having various business, social, and whatever ideas flowing out constantly naturally I think this is a great idea!<br /><br />So I setup my profile and I am going to start putting my ideas in here and storing them.<br /><br />I decided long ago to stop keeping them in my notebook and start publishing them.  As I post them I will write a little blog entry about them and put it here.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I was just playing around with a site called the <a href="http://www.bigthink.com/">Big Think</a>. It is a Youtube for ideas. Having various business, social, and whatever ideas flowing out
+    constantly naturally I think this is a great idea!<br />
+    <br />
+    So I setup my profile and I am going to start putting my ideas in here and storing them.<br />
+    <br />
+    I decided long ago to stop keeping them in my notebook and start publishing them. As I post them I will write a little blog entry about them and put it here.
+  </body>
+</html></p>
 

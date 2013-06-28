@@ -6,14 +6,28 @@ source: http://kinlane.com/2011/05/18/3d-printing-files-formats/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg
 ---
-{% include JB/setup %}<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg" alt="" width="250" align="right" />3D models used in 3D printing are stored in files.  These files can be a wide range of standard or specialized file formats.<p></p>
-File formats often depend on the type of 3D modeling software used, but there are many common formats:
-<ul class="mainlist">
-	<li>.<strong>stl</strong> - STL is a file format native to the stereolithography CAD software created by 3D Systems.</li>
-	<li>.<strong>iges</strong> - The Initial Graphics Exchange Specification (IGES) (pronounced eye-jess) defines a neutral data format that allows the digital exchange of information among Computer-aided design (CAD) systems.</li>
-	<li>.<strong>obj</strong> - OBJ (or .OBJ) is a geometry definition file format first developed by Wavefront Technologies for its Advanced Visualizer animation package. The file format is open and has been adopted by other 3D graphics application vendors. For the most part it is a universally accepted format.</li>
-	<li>.<strong>3ds</strong> - 3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software.</li>
-</ul>
-There are many things to consider when selecting a 3D modeling file format for 3D printing.<p></p>
-3D file formats are a central part of the evolving <a title="3D print and manufacturing supply chain" href="http://www.kinlane.com/2011/05/3d-printing-and-manufacturing-supply-chain/">3D print and manufacturing supply chain</a>.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg" alt="" width="250" align="right" />3D models used in 3D printing are stored
+    in files. These files can be a wide range of standard or specialized file formats. File formats often depend on the type of 3D modeling software used, but there are many common formats:
+    <ul class="mainlist">
+      <li>.<strong>stl</strong> - STL is a file format native to the stereolithography CAD software created by 3D Systems.
+      </li>
+      <li>.<strong>iges</strong> - The Initial Graphics Exchange Specification (IGES) (pronounced eye-jess) defines a neutral data format that allows the digital exchange of information among
+      Computer-aided design (CAD) systems.
+      </li>
+      <li>.<strong>obj</strong> - OBJ (or .OBJ) is a geometry definition file format first developed by Wavefront Technologies for its Advanced Visualizer animation package. The file format is open
+      and has been adopted by other 3D graphics application vendors. For the most part it is a universally accepted format.
+      </li>
+      <li>.<strong>3ds</strong> - 3DS is one of the file formats used by the Autodesk 3ds Max 3D modeling, animation and rendering software.
+      </li>
+    </ul>There are many things to consider when selecting a 3D modeling file format for 3D printing. 3D file formats are a central part of the evolving <a title=
+    "3D print and manufacturing supply chain" href="http://www.kinlane.com/2011/05/3d-printing-and-manufacturing-supply-chain/">3D print and manufacturing supply chain</a>.
+  </body>
+</html></p>
 

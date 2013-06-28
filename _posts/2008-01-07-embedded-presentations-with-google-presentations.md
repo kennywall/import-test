@@ -6,5 +6,18 @@ source: http://kinlane.com/2008/01/07/embedded-presentations-with-google-present
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>I have started building OWS Network system based presentations using Google Docs Presentations.  This helps me explain to customers how they can manage their systems using our tools.<br /><br />I noticed you can now publish the spreadsheet as an embedded presentation.  This is nice for presentations that I will be publishing within sites.<br /><br />I will have to try and see if I can upload these to other sites and / or reference them from other sites.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I have started building OWS Network system based presentations using Google Docs Presentations. This helps me explain to customers how they can manage their systems using our tools.<br />
+    <br />
+    I noticed you can now publish the spreadsheet as an embedded presentation. This is nice for presentations that I will be publishing within sites.<br />
+    <br />
+    I will have to try and see if I can upload these to other sites and / or reference them from other sites.
+  </body>
+</html></p>
 

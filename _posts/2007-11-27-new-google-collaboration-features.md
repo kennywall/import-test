@@ -6,5 +6,27 @@ source: http://kinlane.com/2007/11/27/new-google-collaboration-features/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Really impressed with some of the collaboration features Google is rolling out.<br /><br />I noticed a little arrow on the tabs on my IGoogle Home Page.  Noticed you can now edit and share each tab.  Not sure if this was in there before, but it's cool.<br /><br />So I created a tab with elements that I wanted to share with my wife.  I chose to share and emailed it to her, then logged into her account as I can see the tab and all the widgets on it.<br /><br />Pretty huge piece of collaboration.  You can create project, client or group specific tools and share with only those you wish to.<br /><br />Huge for people who live in their Google Home page and really starts people on a path to having a <a href="http://kinlane.blogspot.com/2007/11/social-networks-email-and-more.html">single social interface </a>to work from.<br /><br />Also noticed when you edit a tab you can choose a layout for it.  Nice for different layout tabs...1...2....3 column layouts.<br /><br />Very nice Google.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Really impressed with some of the collaboration features Google is rolling out.<br />
+    <br />
+    I noticed a little arrow on the tabs on my IGoogle Home Page. Noticed you can now edit and share each tab. Not sure if this was in there before, but it's cool.<br />
+    <br />
+    So I created a tab with elements that I wanted to share with my wife. I chose to share and emailed it to her, then logged into her account as I can see the tab and all the widgets on it.<br />
+    <br />
+    Pretty huge piece of collaboration. You can create project, client or group specific tools and share with only those you wish to.<br />
+    <br />
+    Huge for people who live in their Google Home page and really starts people on a path to having a <a href="http://kinlane.blogspot.com/2007/11/social-networks-email-and-more.html">single social
+    interface</a> to work from.<br />
+    <br />
+    Also noticed when you edit a tab you can choose a layout for it. Nice for different layout tabs...1...2....3 column layouts.<br />
+    <br />
+    Very nice Google.
+  </body>
+</html></p>
 

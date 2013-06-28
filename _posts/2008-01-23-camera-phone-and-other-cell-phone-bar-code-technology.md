@@ -6,5 +6,37 @@ source: http://kinlane.com/2008/01/23/camera-phone-and-other-cell-phone-bar-code
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Some very interesting stuff in two-dimensional camera phone barcodes out there on the Internet.<br /><br />Was reading the <a href="http://www.nytimes.com/2007/04/01/business/01code.html?ex=1333080000&amp;en=8bb1180541c7a895&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">NY Times Articles on Mobile Phone Barcodes</a> and it referenced a couple of technologies like <a href="http://semacode.com/">Semacode</a>, <a href="http://en.wikipedia.org/wiki/QR_Code">QR</a><a href="http://en.wikipedia.org/wiki/QR_Code"> Code</a> and <a href="http://www.qode.com/en/index.jsp">Qode</a>, and barcode technology maker <a href="http://www.nextcodecorp.com/">Nextcode</a>.<br /><br />Here is an <a href="http://www.barcodemobile.com/introduction-to-two-dimensional-camera-phone-barcodes/">introduction to Two-Dimensional Camera Phone Barcodes</a> that explained the technology to me.<br /><br />There are plenty of big players in the game trying to push camera phone and other cell phone bar code technologies in the is country such as <a href="http://www.barcodemobile.com/microsoft-launches-windows-live-barcode-beta/">Microsoft Launches Windows Live Barcode Beta</a>.<br /><br /><span style="font-weight: bold;">What is Windows Live Barcode? </span><br /><br /><span style="font-style: italic;">Windows Live Barcode is a set of services that transfer information between various media (PCs, billboards, magazines etc.) and handsets via Quick Response Code (QR Code), a two-dimensional barcode. It provides a new method for people to exchange information and enjoy various online services on handsets. Windows Live Barcode aims to enhance handset utility and provide you with more convenience and flexibility.</span><br /><br />The technology is big in Japan and is used in many daily activities.  Here is a definition of QR code:<br /><br /><span style="font-style: italic;">What is a QR Code for Mobile Devices? -  A QR Code is a two-dimensional bar code introduced by the Japanese company Denso-Wave in 1994.  QR stands for Quick Response.  QR Codes are most common in Japan, and are the most popular type of two-dimensional code in Japan.</span><br /><br />These two-dimensional images are truly the missing link in taking your social media campaign off line or bringing your off line campaign online.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Some very interesting stuff in two-dimensional camera phone barcodes out there on the Internet.<br />
+    <br />
+    Was reading the <a href="http://www.nytimes.com/2007/04/01/business/01code.html?ex=1333080000&amp;en=8bb1180541c7a895&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">NY Times Articles on Mobile Phone
+    Barcodes</a> and it referenced a couple of technologies like <a href="http://semacode.com/">Semacode</a>, <a href="http://en.wikipedia.org/wiki/QR_Code">QR</a> <a href=
+    "http://en.wikipedia.org/wiki/QR_Code">Code</a> and <a href="http://www.qode.com/en/index.jsp">Qode</a>, and barcode technology maker <a href="http://www.nextcodecorp.com/">Nextcode</a>.<br />
+    <br />
+    Here is an <a href="http://www.barcodemobile.com/introduction-to-two-dimensional-camera-phone-barcodes/">introduction to Two-Dimensional Camera Phone Barcodes</a> that explained the technology to
+    me.<br />
+    <br />
+    There are plenty of big players in the game trying to push camera phone and other cell phone bar code technologies in the is country such as <a href=
+    "http://www.barcodemobile.com/microsoft-launches-windows-live-barcode-beta/">Microsoft Launches Windows Live Barcode Beta</a>.<br />
+    <br />
+    <span style="font-weight: bold;">What is Windows Live Barcode?</span><br />
+    <br />
+    <span style="font-style: italic;">Windows Live Barcode is a set of services that transfer information between various media (PCs, billboards, magazines etc.) and handsets via Quick Response Code
+    (QR Code), a two-dimensional barcode. It provides a new method for people to exchange information and enjoy various online services on handsets. Windows Live Barcode aims to enhance handset
+    utility and provide you with more convenience and flexibility.</span><br />
+    <br />
+    The technology is big in Japan and is used in many daily activities. Here is a definition of QR code:<br />
+    <br />
+    <span style="font-style: italic;">What is a QR Code for Mobile Devices? - A QR Code is a two-dimensional bar code introduced by the Japanese company Denso-Wave in 1994. QR stands for Quick
+    Response. QR Codes are most common in Japan, and are the most popular type of two-dimensional code in Japan.</span><br />
+    <br />
+    These two-dimensional images are truly the missing link in taking your social media campaign off line or bringing your off line campaign online.
+  </body>
+</html></p>
 

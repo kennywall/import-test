@@ -6,5 +6,26 @@ source: http://kinlane.com/2008/01/08/yahoo-life-and-a-single-social-interface/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Reading several posts on Yahoo's CES announcement about Yahoo Life! at Mashable - <a href="http://mashable.com/2008/01/07/daily-poll-will-yahoo-life-revolutionize-the-way-we-use-e-mail/">Will Yahoo Life! Revolutionize the Way We Use E-Mail?</a>, and Read/Write/Web - <a href="http://www.readwriteweb.com/archives/yahoo_life_and_go_3_ces.php">Yahoo! Life! and Go 3.0 Announced at CES - is Yahoo! Back in '08?</a>, and ZDNet - <a href="http://blogs.zdnet.com/BTL/?p=7503">Jerry Yang offers sneak peak of Yahoo's future: Life!.</a> <br /><br />Looks like Yahoo is inching closer to have a version of my Single Social Interface that gives me a one stop place to manage my social Internet.<br /><br />I really think they are onto the next generation of Social Internet Adoption.  The next wave of users have embraced and adopted Internet and Email.  They don't fully understand social networks and need a simple interface to interact with the social world.<br /><br />I enjoy Google and their platform for doing this, however it is something I have to assemble and build from all the Google parts, it doesn't have a single interface ready to go with a pretty name like Yahoo Life!<br /><br />Nice work Yahoo.....</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Reading several posts on Yahoo's CES announcement about Yahoo Life! at Mashable - <a href="http://mashable.com/2008/01/07/daily-poll-will-yahoo-life-revolutionize-the-way-we-use-e-mail/">Will
+    Yahoo Life! Revolutionize the Way We Use E-Mail?</a>, and Read/Write/Web - <a href="http://www.readwriteweb.com/archives/yahoo_life_and_go_3_ces.php">Yahoo! Life! and Go 3.0 Announced at CES - is
+    Yahoo! Back in '08?</a>, and ZDNet - <a href="http://blogs.zdnet.com/BTL/?p=7503">Jerry Yang offers sneak peak of Yahoo's future: Life!.</a><br />
+    <br />
+    Looks like Yahoo is inching closer to have a version of my Single Social Interface that gives me a one stop place to manage my social Internet.<br />
+    <br />
+    I really think they are onto the next generation of Social Internet Adoption. The next wave of users have embraced and adopted Internet and Email. They don't fully understand social networks and
+    need a simple interface to interact with the social world.<br />
+    <br />
+    I enjoy Google and their platform for doing this, however it is something I have to assemble and build from all the Google parts, it doesn't have a single interface ready to go with a pretty name
+    like Yahoo Life!<br />
+    <br />
+    Nice work Yahoo.....
+  </body>
+</html></p>
 

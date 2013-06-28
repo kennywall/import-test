@@ -6,7 +6,20 @@ source: http://kinlane.com/2010/07/15/amazon-bucket-policy-quick-change/
 domain: kinlane.com
 image: http://images.cloudberrylab.com/Content_01.gif
 ---
-{% include JB/setup %}<p><img class="alignnone" title="Cloudberry Labs" src="http://images.cloudberrylab.com/Content_01.gif" alt="" width="209" height="54" align="right" />I have several Amazon Buckets I quickly want to use for public viewing of images and other files for clients. I haven't had time to integrate the <a href="http://www.kinlane.com/2010/07/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/">bucket policy API</a> into our code base. I just need the buckets updated right away for GETOBJECT for all public users.<p></p>
-I logged into the <a href="http://www.kinlane.com/category/amazon/amazon-console/">Amazon Console</a> and right clicked on the properties for the bucket. Just ACL functionality here.<p></p>
-I then opened up my <a href="http://cloudberrylab.com/?page=s3-explorer-pro" target="_blank">CloudBerry Explorer Pro</a> and right clicked on a bucket. They have a bucket policy property for all buckets. Way to be on the ball <a href="http://cloudberrylab.com/" target="_blank">CloudBerry</a>, you guys seem to be the most agile player in the <a href="http://cloudberrylab.com/">cloud storage</a> game at the moment.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <img class="alignnone" title="Cloudberry Labs" src="http://images.cloudberrylab.com/Content_01.gif" alt="" width="209" height="54" align="right" />I have several Amazon Buckets I quickly want to
+    use for public viewing of images and other files for clients. I haven't had time to integrate the <a href=
+    "http://www.kinlane.com/2010/07/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/">bucket policy API</a> into our code base. I just need the buckets updated right
+    away for GETOBJECT for all public users. I logged into the <a href="http://www.kinlane.com/category/amazon/amazon-console/">Amazon Console</a> and right clicked on the properties for the bucket.
+    Just ACL functionality here. I then opened up my <a href="http://cloudberrylab.com/?page=s3-explorer-pro" target="_blank">CloudBerry Explorer Pro</a> and right clicked on a bucket. They have a
+    bucket policy property for all buckets. Way to be on the ball <a href="http://cloudberrylab.com/" target="_blank">CloudBerry</a>, you guys seem to be the most agile player in the <a href=
+    "http://cloudberrylab.com/">cloud storage</a> game at the moment.
+  </body>
+</html></p>
 

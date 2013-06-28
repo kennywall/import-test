@@ -6,5 +6,28 @@ source: http://kinlane.com/2008/02/27/communication-and-professionalism/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>I am reviewing about 8 resumes that were submitted for a social media marketing consultant.  I made sure that when the resumes came in I responded to each letting them know I received and were reviewing. <br /><br />Once I reviewed them all and was in the process of presenting them to the client I emailed each one personally and let them know where I was in the process.<br /><br />One of the applicants emailed me saying how he appreciated the communication. <br /><br />Made me think some more about this.  I have experienced that a lot.  In my last job search I submitted probably 150 resumes and received responses from about 20.....and interviews for about 15. <br /><br />Most you never hear from.  It isn't hard to drop them all into an email folder and export the email list and run a mail merge or god forbid actually personally respond.<br /><br />So just wanted to share those thoughts.  I am not always the best at communicating, I am the first to admit.  However we can all try to be better at it.<br /><br />Might come back to us at the right moment.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I am reviewing about 8 resumes that were submitted for a social media marketing consultant. I made sure that when the resumes came in I responded to each letting them know I received and were
+    reviewing.<br />
+    <br />
+    Once I reviewed them all and was in the process of presenting them to the client I emailed each one personally and let them know where I was in the process.<br />
+    <br />
+    One of the applicants emailed me saying how he appreciated the communication.<br />
+    <br />
+    Made me think some more about this. I have experienced that a lot. In my last job search I submitted probably 150 resumes and received responses from about 20.....and interviews for about
+    15.<br />
+    <br />
+    Most you never hear from. It isn't hard to drop them all into an email folder and export the email list and run a mail merge or god forbid actually personally respond.<br />
+    <br />
+    So just wanted to share those thoughts. I am not always the best at communicating, I am the first to admit. However we can all try to be better at it.<br />
+    <br />
+    Might come back to us at the right moment.
+  </body>
+</html></p>
 

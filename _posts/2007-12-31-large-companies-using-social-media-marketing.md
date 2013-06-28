@@ -6,5 +6,23 @@ source: http://kinlane.com/2007/12/31/large-companies-using-social-media-marketi
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>Just saw a commercial from Mountain Dew about their new soda creation web site, <a href="http://www.dewmocracy.com/">www.dewmocracy.com</a>.<br /><br />It was another interesting usage of Social Media Marketing that utilizes its pro-users or audience to facilitate research and development (R&amp;D).    They are encouraging customers to go to the web site and help decide certain characteristics of a new Mountain Dew soda.<br /><br />It is a pretty simple web site surrounding a kind of game / soda creation application.  The site is built in .NET, the application looks like Silverlight, but I am not sure.<br /><br />Not really impressed with the campaign overall but it is an interesting usage of these new methods.  <br /><br />Shows that the big co's are embracing these principles, now we need to see more of it in the smaller business arena.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Just saw a commercial from Mountain Dew about their new soda creation web site, <a href="http://www.dewmocracy.com/">www.dewmocracy.com</a>.<br />
+    <br />
+    It was another interesting usage of Social Media Marketing that utilizes its pro-users or audience to facilitate research and development (R&amp;D). They are encouraging customers to go to the
+    web site and help decide certain characteristics of a new Mountain Dew soda.<br />
+    <br />
+    It is a pretty simple web site surrounding a kind of game / soda creation application. The site is built in .NET, the application looks like Silverlight, but I am not sure.<br />
+    <br />
+    Not really impressed with the campaign overall but it is an interesting usage of these new methods.<br />
+    <br />
+    Shows that the big co's are embracing these principles, now we need to see more of it in the smaller business arena.
+  </body>
+</html></p>
 

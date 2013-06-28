@@ -6,5 +6,24 @@ source: http://kinlane.com/2008/01/22/create-your-own-television-ad-for-cheerios
 domain: kinlane.com
 image: http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s320/cheerios.jpg
 ---
-{% include JB/setup %}<p><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s1600-h/cheerios.jpg"><img style="margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s320/cheerios.jpg" alt="" id="BLOGGER_PHOTO_ID_5158222828551790610" border="0" /></a>Everyone is getting in on the <a href="http://www.socialmediasquad.com">social media marketing</a> game and encouraging <a href="http://www.videosquad.us">users to generate video content</a> seems to be a favorite.<br /><br />Cheerios is encouraging users to create their own TV video spot and call it The Cheerios Circle of Help.  They want you to help spread the cholesterol health news and in 6 weeks you could have your own TV spot.<br /><br />Definitely a great usage of user generated content, <a href="http://www.socialmediasquad.com">viral marketing</a>, leading into some traditional television marketing.<br /><br />Check it out if you get some time at the <a href="http://www.cheerios.com/promotions/4in6/default.aspx">Cheerios 4in6 TV Contest</a>.  Good example of viral social media basics.</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s1600-h/cheerios.jpg"><img style=
+    "margin: 0pt 0pt 10px 10px; float: right; cursor: pointer;" src="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s320/cheerios.jpg" alt="" id=
+    "BLOGGER_PHOTO_ID_5158222828551790610" border="0" name="BLOGGER_PHOTO_ID_5158222828551790610" /></a>Everyone is getting in on the <a href="http://www.socialmediasquad.com">social media
+    marketing</a> game and encouraging <a href="http://www.videosquad.us">users to generate video content</a> seems to be a favorite.<br />
+    <br />
+    Cheerios is encouraging users to create their own TV video spot and call it The Cheerios Circle of Help. They want you to help spread the cholesterol health news and in 6 weeks you could have
+    your own TV spot.<br />
+    <br />
+    Definitely a great usage of user generated content, <a href="http://www.socialmediasquad.com">viral marketing</a>, leading into some traditional television marketing.<br />
+    <br />
+    Check it out if you get some time at the <a href="http://www.cheerios.com/promotions/4in6/default.aspx">Cheerios 4in6 TV Contest</a>. Good example of viral social media basics.
+  </body>
+</html></p>
 

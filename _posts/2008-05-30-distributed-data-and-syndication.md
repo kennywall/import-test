@@ -6,5 +6,27 @@ source: http://kinlane.com/2008/05/30/distributed-data-and-syndication/
 domain: kinlane.com
 image: 
 ---
-{% include JB/setup %}<p>I am building out a pretty complex system that really seems like a lot of overhead to get some pretty basic systems up.<br /><br />It involves republishing small subsets of data to various data stores such as MySQL, Amazon S3, GData, or just XML.<br /><br />Then I syndicate web services / feeds in RSS, XML, JSON to those little data stores.<br /><br />I keep getting asked why don't you just allow one central data feed off main data store.<br /><br />From a security and load balancing standpoint the distributed piece just makes sense.  It allows me to publish on a schedule these small data stores for each partner / client.   I can give them access directly to the raw data as well as the feed.<br /><br />Also the feed and data can scale and grow independently of the central data store.  It really helps me to scale data feeds and each partners needs.<br /><br />Alright....just jotting down these thoughts in case I change them..</p>
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I am building out a pretty complex system that really seems like a lot of overhead to get some pretty basic systems up.<br />
+    <br />
+    It involves republishing small subsets of data to various data stores such as MySQL, Amazon S3, GData, or just XML.<br />
+    <br />
+    Then I syndicate web services / feeds in RSS, XML, JSON to those little data stores.<br />
+    <br />
+    I keep getting asked why don't you just allow one central data feed off main data store.<br />
+    <br />
+    From a security and load balancing standpoint the distributed piece just makes sense. It allows me to publish on a schedule these small data stores for each partner / client. I can give them
+    access directly to the raw data as well as the feed.<br />
+    <br />
+    Also the feed and data can scale and grow independently of the central data store. It really helps me to scale data feeds and each partners needs.<br />
+    <br />
+    Alright....just jotting down these thoughts in case I change them..
+  </body>
+</html></p>
 
