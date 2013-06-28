@@ -6,7 +6,10 @@ source: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traffic-and-Weather.png
 ---
-{% include JB/setup %}<p>
+
+{% include JB/setup %}
+
+<p>
      <a href="http://trafficandweather.io/"
         target="_blank"><img class="c1"
           src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"
