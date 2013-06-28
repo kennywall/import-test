@@ -6,11 +6,17 @@ source: http://kinlane.com/2013/04/26/who-are-the-customers-for-your-startup/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-question-mark.png
 ---
-{% include JB/setup %}<table class="c3" cellspacing="5" cellpadding="5" width="95%">
+{% include JB/setup %}<table class="c3"
+       cellspacing="5"
+       cellpadding="5"
+       width="95%">
      <tbody>
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-iphone.png" alt="" width="225" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-iphone.png"
+                        alt=""
+                        width="225" />
                </td>
                <td>
                     <h2>
@@ -18,9 +24,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-user.png" alt="" width="175" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-user.png"
+                        alt=""
+                        width="175" />
                </td>
                <td>
                     <h2>
@@ -28,9 +38,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users.png" alt="" width="225" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users.png"
+                        alt=""
+                        width="225" />
                </td>
                <td>
                     <h2>
@@ -38,9 +52,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api.png" alt="" width="250" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api.png"
+                        alt=""
+                        width="250" />
                </td>
                <td>
                     <h2>
@@ -48,9 +66,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-android-developer.png" alt="" width="180" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-android-developer.png"
+                        alt=""
+                        width="180" />
                </td>
                <td>
                     <h2>
@@ -58,9 +80,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-android-developer-users.png" alt="" width="200" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-android-developer-users.png"
+                        alt=""
+                        width="200" />
                </td>
                <td>
                     <h2>
@@ -68,9 +94,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-signs.jpg" alt="" width="190" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-signs.jpg"
+                        alt=""
+                        width="190" />
                </td>
                <td>
                     <h2>
@@ -78,9 +108,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-board-of-directors.jpg" alt="" width="250" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-board-of-directors.jpg"
+                        alt=""
+                        width="250" />
                </td>
                <td>
                     <h2>
@@ -88,9 +122,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c2" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-growth-chart.jpg" alt="" width="250" />
+                    <img class="c2"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-growth-chart.jpg"
+                        alt=""
+                        width="250" />
                </td>
                <td>
                     <h2>
@@ -98,9 +136,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-corporate-tech.png" alt="" width="250" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-corporate-tech.png"
+                        alt=""
+                        width="250" />
                </td>
                <td>
                     <h2>
@@ -108,9 +150,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-q
                     </h2>
                </td>
           </tr>
+
           <tr>
                <td width="200">
-                    <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png" alt="" width="175" />
+                    <img class="c1"
+                        src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png"
+                        alt=""
+                        width="175" />
                </td>
                <td>
                     <h2>

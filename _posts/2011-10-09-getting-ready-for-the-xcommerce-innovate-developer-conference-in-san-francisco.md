@@ -4,6 +4,6 @@ title: Getting Ready for the X.Commerce Innovate Developer Conference in San Fra
 url: http://kinlane.com/2011/10/09/getting-ready-for-the-x-commerce-innovate-developer-conference-in-san-francisco/
 source: http://kinlane.com/2011/10/09/getting-ready-for-the-x-commerce-innovate-developer-conference-in-san-francisco/
 domain: kinlane.com
-image: 
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}

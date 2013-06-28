@@ -6,4 +6,9 @@ source: http://kinlane.com/2011/04/26/my-daughters-startup/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png
 ---
-{% include JB/setup %}My 10 year old Kaia is starting a business. &nbsp; <img class="aligncenter" src="http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png" alt="" align="center" /> If you live in South Eugene, OR....let me know. I got the hookup!
+{% include JB/setup %}<p>
+     My 10 year old Kaia is starting a business.   <img class="aligncenter"
+        src="http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png"
+        alt=""
+        align="center" /> If you live in South Eugene, OR....let me know. I got the hookup!
+</p>

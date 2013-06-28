@@ -4,6 +4,6 @@ title: Learning Management System (LMS) APIs
 url: http://kinlane.com/2011/10/02/learning-management-system-lms-apis/
 source: http://kinlane.com/2011/10/02/learning-management-system-lms-apis/
 domain: kinlane.com
-image: 
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}

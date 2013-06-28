@@ -4,28 +4,46 @@ title: Web 2.0 Apps Done Right
 url: http://kinlane.com/2008/02/12/web-20-apps-done-right/
 source: http://kinlane.com/2008/02/12/web-20-apps-done-right/
 domain: kinlane.com
-image: 
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
-{% include JB/setup %}I have blogged several times about web 2.0 applications and what I look for in them. I have been evaluating a lot of applications lately and a good application really stands out.<br />
-<br />
-I have been looking through Image and Photo sharing applications all day and comparing them against each other. Man there is a lot of crap.<br />
-<br />
-One appliceation that I think truly reflects a quality Web 2.0 applications is the <a href="http://www.23hq.com/">image sharing site 23</a>. The have the key characteristics:<br />
+{% include JB/setup %}<p>
+     I have blogged several times about web 2.0 applications and what I look for in them. I have been evaluating a lot of applications lately and a good application really stands out.
+     <br />
+     <br />
+     I have been looking through Image and Photo sharing applications all day and comparing them against each other. Man there is a lot of crap.
+     <br />
+     <br />
+     One appliceation that I think truly reflects a quality Web 2.0 applications is the <a href="http://www.23hq.com/">image sharing site 23</a>. The have the key characteristics:
+     <br />
+</p>
+
 <ul class="mainlist">
      <li>Do one thing and do it well.
      </li>
+
      <li>They have an API.
      </li>
+
      <li>Simple, intuitive interface.
      </li>
+
      <li>Have a blog
      </li>
+
      <li>Have an about us page.
      </li>
+
      <li>Simple Search
      </li>
+
      <li>Simple Navigation
      </li>
-     <li>Quick loading<br />
+
+     <li>Quick loading
+          <br />
      </li>
-</ul>They do it well, congrats guys.
+</ul>
+
+<p>
+     They do it well, congrats guys.
+</p>
