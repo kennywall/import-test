@@ -2,12 +2,9 @@
 layout: post
 title: Google Docs Increases File Size Limit from 1GB to 10GB
 url: http://kinlane.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
-source: http://kinlane.com/2011/07/23/google-doc-increases-file-size-limit-from-1gb-to-10gb/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg" alt="" width="150" align="right" /> Google has increased the file size limit of files stored in Google Docs, from 1GB to 10GB. This increase, along with them <a title="Opening Up Google Docs to any File Type" href="http://www.kinlane.com/2011/05/upload-any-file-type-to-google-docs-with-api/">opening up Google Docs to any file type,</a> really establishes the platform as a viable cloud storage solution. I did not encounter too many files that were to large, but when working with print files and high resolution images, sometimes I would exceed the limit. To recap, heere are some of the key things I use Google Docs for now:
 </p>

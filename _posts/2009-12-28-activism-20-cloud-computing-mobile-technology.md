@@ -2,12 +2,9 @@
 layout: post
 title: Activism 2.0, Cloud Computing, Mobile Technology
 url: http://kinlane.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
-source: http://kinlane.com/2009/12/28/activism-2-0-cloud-computing-mobile-technology/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Just finished reading <a href="http://www.huffingtonpost.com/chrissie-brodigan/activism-20-creating-casa_b_404860.html" target="_blank">Activism 2.0: Creating Casablanca in Copenhagen, The Fresh Air Center</a> by <a href="http://www.huffingtonpost.com/chrissie-brodigan">Chrissie Brodigan</a>. It is an interesting look at what happened (or didn't) in Copenhagen and more specifically at the Activism 2.0 techniques of <a href="http://tcktcktck.org/freshair">TckTckTck's Fresh Air Center</a>. I love the technology side of just about anything and social activism + technology = good shit. A couple topics that come to mind are:
 </p>

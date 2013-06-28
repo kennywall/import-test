@@ -2,12 +2,9 @@
 layout: post
 title: Data Storage in the Clouds
 url: http://kinlane.com/2010/06/03/data-storage-in-the-clouds/
-source: http://kinlane.com/2010/06/03/data-storage-in-the-clouds/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been answering a lot of questions on <a href="http://www.linkedin.com">LinkedIn</a> and <a href="http://www.quora.com">Quora</a> lately about where the best place to store data in the clouds. There are a lot of answers to this question. Cloud storage comes in many shapes, sizes, and prices. Business class, personal usage, storage APIs and much more. I store my:
 </p>

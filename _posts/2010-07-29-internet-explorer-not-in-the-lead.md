@@ -2,12 +2,9 @@
 layout: post
 title: Internet Explorer NOT in the Lead
 url: http://kinlane.com/2010/07/29/internet-explorer-not-in-the-lead/
-source: http://kinlane.com/2010/07/29/internet-explorer-not-in-the-lead/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Check out these browser statistics taken from my blog for traffic over the last 30 days:
 </p>

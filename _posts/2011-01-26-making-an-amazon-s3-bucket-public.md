@@ -2,12 +2,9 @@
 layout: post
 title: Making an Amazon S3 Bucket Public
 url: http://kinlane.com/2011/01/26/making-an-amazon-s3-bucket-public/
-source: http://kinlane.com/2011/01/26/making-an-amazon-s3-bucket-public/
-domain: kinlane.com
 image: http://a0.twimg.com/profile_images/1176550371/5163129933_353fc10a38_m_normal.jpg
 ---
 {% include JB/setup %}
-
 <table cellspacing="5" cellpadding="5">
      <tbody>
           <tr>

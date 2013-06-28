@@ -2,12 +2,9 @@
 layout: post
 title: Managing My Brand
 url: http://kinlane.com/2008/09/18/managing-my-brand/
-source: http://kinlane.com/2008/09/18/managing-my-brand/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      So I am always working to get a better handle on how people view me and my personal brand. My brand consists of my profile, work experience, technologies, blog, pics and just the general image of how people view me personally and professionally online. Maintaining my brand is a full time job and I do not always achieve the results I want. When people look for me they usually start at Google, so this is where I start. The first two pages of Google search for my name is where I start. I have a unique brand so I dominate the first two pages. These are the sites where I come up on the these pages:
 </p>

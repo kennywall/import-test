@@ -2,12 +2,9 @@
 layout: post
 title: Diving Deeper Into Data from Research
 url: http://kinlane.com/2012/05/15/diving-deeper-into-data-from-research/
-source: http://kinlane.com/2012/05/15/diving-deeper-into-data-from-research/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Our-Mobile-Planet.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/Our-Mobile-Planet.png" alt="" width="150" align="right" />
 </p>

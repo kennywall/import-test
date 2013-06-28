@@ -2,12 +2,9 @@
 layout: post
 title: Instapaper Full API with XAuth - PHP Class
 url: http://kinlane.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
-source: http://kinlane.com/2011/06/01/instapaper-full-api-with-xauth-php-class/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Instapaper API" href="http://www.instapaper.com/api/full"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png" alt="" width="175" align="right" /></a>I'm working my way through a list of projects I have, and currently the<a title="Instapaper API" href="http://www.instapaper.com/api/full">Instapaper API</a> is top of my list. I couldn't find an easy to use PHP class for authenticating against Instapaper's Full API using XAuth. So I downloaded <a title="@abraham" href="http://twitter.com/#!/abraham">@abraham</a> <a title="Twitter OAuth" href="https://github.com/abraham/twitteroauth">Twitter OAuth</a> and stripped out all as much of theunnecessarypieces as I could. I was quickly able to get it up and running authenticating with Instapaper's Full API using<a title="XAuth" href="http://xauth.org/">XAuth</a>. I added two basic methods for:
 </p>

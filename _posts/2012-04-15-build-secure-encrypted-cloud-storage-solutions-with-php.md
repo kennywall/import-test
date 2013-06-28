@@ -2,12 +2,9 @@
 layout: post
 title: Build Secure, Encrypted Cloud Storage Solutions with PHP
 url: http://kinlane.com/2012/04/15/build-secure,-encrypted-cloud-storage-solutions-with-php/
-source: http://kinlane.com/2012/04/15/build-secure,-encrypted-cloud-storage-solutions-with-php/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/php-logo-300.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-php.png" alt="" width="200" align="right" />
 </p>

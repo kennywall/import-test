@@ -2,12 +2,9 @@
 layout: post
 title: Proofing Print Documents From Box.net
 url: http://kinlane.com/2011/02/02/proofing-print-documents-from-box-net/
-source: http://kinlane.com/2011/02/02/proofing-print-documents-from-box-net/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>. <a href="http://www.box.net" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg" alt="" width="200" align="right" /></a> I have put together a demonstration of how to <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-box-net-and-prepare-proof.php" target="_blank">pull a PDF file from Box.net and the proof it with Mimeo Connect</a>. You will need:
 </p>

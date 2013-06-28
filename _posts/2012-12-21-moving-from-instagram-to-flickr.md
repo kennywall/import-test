@@ -2,12 +2,9 @@
 layout: post
 title: Moving From Instagram to Flickr
 url: http://kinlane.com/2012/12/21/moving-from-instagram-to-flickr/
-source: http://kinlane.com/2012/12/21/moving-from-instagram-to-flickr/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/instagram-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png" alt="" width="175" align="right" />
 </p>

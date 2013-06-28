@@ -2,12 +2,9 @@
 layout: post
 title: Reputation Management
 url: http://kinlane.com/2008/08/25/reputation-management/
-source: http://kinlane.com/2008/08/25/reputation-management/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was Googling my name as I usually do on a Monday morning as part of my personal <a href="http://www.socialmediasquad.com/services/index.html">reputation management</a>.
      <br />

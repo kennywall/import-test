@@ -2,12 +2,9 @@
 layout: post
 title: Regional Cloud Computer Centers
 url: http://kinlane.com/2010/07/24/regional-cloud-computer-centers/
-source: http://kinlane.com/2010/07/24/regional-cloud-computer-centers/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter1.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Cloud Compute Centers" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter1.png" alt="" width="250" align="right" />I am spending a lot of time lately writing and thinking about the future of cloud computing. The need for raw cloud compute power is growing as a utility for every day business. A handful of providers are leading the charge in cloud compute Infrastructure as a Service (IaaS):
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Google Wave Federation Protocol Code / Setup
 url: http://kinlane.com/2009/07/28/google-wave-federation-protocol-code-setup/
-source: http://kinlane.com/2009/07/28/google-wave-federation-protocol-code-setup/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      One of the more mysterious parts of the Google Wave environment is the core operations of wave communications.
 </p>

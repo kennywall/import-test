@@ -2,12 +2,9 @@
 layout: post
 title: Mimeo Connect Print Marketplace Integrations
 url: http://kinlane.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
-source: http://kinlane.com/2011/08/04/mimeo-connect-print-marketplace-integrations/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.mimeo.com/solutions/mimeo-marketplace.php"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png" alt="" width="250" align="right" /></a> One of the most common types of integrations I've been doing lately are <a title="signle sign on (SSO) integrations with print marketplaces" href="../../marketplace-sso.php">single sign on (SSO) integrations with print marketplaces</a>. On this blog, most of the time I talk about REST API integration with Mimeo, so I wanted to spend some time talking about Mimeo Marketplace integration. A <a href="http://www.mimeo.com/solutions/mimeo-marketplace.php">Mimeo Marketplace</a> let's you create your own customized online storefront, publish documents, and let others do the ordering ... reducing the time, expense, and resources of pre-printing, storing, and distributing publications yourself. Mimeo prints the documents on-demand and ships them where and when they are needed, even overnight! There are two primary ways customers can programmatically integrate with their Mimeo Marketplaces:
 </p>

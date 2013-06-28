@@ -2,12 +2,9 @@
 layout: post
 title: Application Programming Interfaces (API)
 url: http://kinlane.com/2010/08/01/application-programming-interfaces-api/
-source: http://kinlane.com/2010/08/01/application-programming-interfaces-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api/mashery.gif
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.mashery.com/" target="_self"><img class="alignnone c1" title="API" src="http://kinlane-productions.s3.amazonaws.com/api/mashery.gif" alt="" width="250" align="right" /></a>I am fascinated by APIs. I got to listen to the engineer from <a href="http://www.mashery.com/" target="_blank">Mashery</a> talk about their API services the other day. Ever since then I've been thinking a lot more about APIs. I just reviewed 25 top APIs out there:
 </p>

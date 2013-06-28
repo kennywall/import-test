@@ -2,12 +2,9 @@
 layout: post
 title: JQuery Powered Flipbook for Previewing Print Files
 url: http://kinlane.com/2011/01/12/jquery-powered-flipbook-for-previewing-print-files/
-source: http://kinlane.com/2011/01/12/jquery-powered-flipbook-for-previewing-print-files/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png
 ---
 {% include JB/setup %}
-
 <p>
      On my hunt for killer scripts and tools to go with with my Cloud Print API, I came across a way cool <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">JQuery Flipbook</a> script over at <a href="http://codecanyon.net/" target="_blank">codecanyon</a>. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png" alt="" width="250" align="right" /> <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">Flipbook jQuery</a> provides a magazine / book style display for digital media. The features include:
 </p>

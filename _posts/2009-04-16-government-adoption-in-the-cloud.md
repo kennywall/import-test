@@ -2,12 +2,9 @@
 layout: post
 title: Government Adoption in the Cloud
 url: http://kinlane.com/2009/04/16/government-adoption-in-the-cloud/
-source: http://kinlane.com/2009/04/16/government-adoption-in-the-cloud/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      A recent post called, <a href="http://www.ideationcloud.com/2009/04/how-cloud-computing-is-transforming-global-business/">How Cloud Computing is transforming global business really spoke to me</a>. It was a very clear list of important factors on how <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">Cloud Computing</a> is transforming business. I would like to take the time and analyze each point in the post: <em><span class="c1"><strong><a href="http://www.ideationcloud.com/2009/04/how-cloud-computing-is-transforming-global-business/">Government adoption</a>:</strong> The federal government should become an early adopter and fund research. It can also accelerate competitive forces by insisting on standards to enhance privacy, security, openness, <a class="zem_slink" title="Sustainability" rel="wikipedia" href="http://en.wikipedia.org/wiki/Sustainability">sustainability</a> and <a class="zem_slink" title="Interoperability" rel="wikipedia" href="http://en.wikipedia.org/wiki/Interoperability">interoperability</a>.</span></em>
 </p>

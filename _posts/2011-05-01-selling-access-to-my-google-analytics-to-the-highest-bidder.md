@@ -2,12 +2,9 @@
 layout: post
 title: Selling Access to My Google Analytics to the Highest Bidder
 url: http://kinlane.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
-source: http://kinlane.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/
-domain: kinlane.com
 image: http://www.avc.com/.a/6a00d83451b2c969e201538e3180d2970b-500wi
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://www.avc.com/.a/6a00d83451b2c969e201538e3180d2970b-500wi" alt="" width="290" align="right" />I'm an avid reader of <a title="A VC" href="http://www.avc.com">Fred Wilsons blog, A VC</a>. He provides a "real" perspective into his world, and thus the world of VCs. Yesterday he posted a blog post titled, "<a title="A Month of Traffic to A VC" href="http://www.avc.com/a_vc/2011/04/a-month-of-traffic-to-avc.html">A Month Of Traffic To A VC</a>". He shared what a months worth of traffic looks like to his <a title="A VC" href="http://www.avc.com/">A VC blog</a>. Now why would he do this? I think he genuinely wanted to share his thoughts on what contributes to a high traffic day on a blog. This made me think more about an idea I talked with <a title="Audrey Watters" href="http://www.hackeducation.com">Audrey Watters</a> about the other day, about users taking control over our web history, social stream, and blog analytics. I have varying levels of control in these areas:
 </p>

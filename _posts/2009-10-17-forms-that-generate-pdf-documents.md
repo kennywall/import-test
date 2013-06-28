@@ -2,12 +2,9 @@
 layout: post
 title: Forms that Generate PDF Documents
 url: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
-source: http://kinlane.com/2009/10/17/forms-that-generate-pdf-documents/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was just checking out a cool service called <a href="http://www.doculicious.com">doculicious</a>. It allows people to create <a href="http://www.doculicious.com">HTML forms that generate PDF</a> and email them to you when the form is submitted. It is a inexpensive and easy way to collect users data and create a legible records of their information. They also provide a few other features:
 </p>

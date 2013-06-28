@@ -2,12 +2,9 @@
 layout: post
 title: My Single Social Interface
 url: http://kinlane.com/2007/11/14/my-single-social-interface/
-source: http://kinlane.com/2007/11/14/my-single-social-interface/
-domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/RzqpTXRU7WI/AAAAAAAAAqo/1LkWoIBhKcI/s400/Social_Interface.gif
 ---
 {% include JB/setup %}
-
 <p>
      Just having a few thoughts tonight after reading several posts on statements made from Yahoo about the <a href="http://www.downloadsquad.com/2007/11/13/social-networks-of-the-future-could-be-email-based/">future of social networks being email based</a>. Also did some more reading on OpenSocial tonight.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Operating System
 url: http://kinlane.com/2010/07/24/cloud-operating-system/
-source: http://kinlane.com/2010/07/24/cloud-operating-system/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-operating-system.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Cloud Operating System" src="http://kinlane-productions.s3.amazonaws.com/cloud-operating-system.png" alt="" width="300" align="right" />I thoroughly enjoy my career right now. It is exciting being part of where technology and computing is going right now. I'm a total cloud computing fanboy, I admit. I do try to keep it realistic and focused on how it influences business and IT operations. Right now I can really see "cloud computing" or the "cloud operating system" really coming together. Last week <a href="http://www.kinlane.com/2010/07/openstack-open-source-open-standards-cloud/">Rackspace released their core cloud computing stack and created the OpenStack</a>, which is focused on two important elements of the cloud OS:
 </p>

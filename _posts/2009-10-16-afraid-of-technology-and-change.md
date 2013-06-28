@@ -2,12 +2,9 @@
 layout: post
 title: Afraid of Technology and Change
 url: http://kinlane.com/2009/10/16/afraid-of-technology-and-change/
-source: http://kinlane.com/2009/10/16/afraid-of-technology-and-change/
-domain: kinlane.com
 image: http://www.freeuni.edu.ge/shortprograms/blog/wp-content/uploads/2008/12/fear.gif
 ---
 {% include JB/setup %}
-
 <p>
      As a technology leader I face a lot of resistance from employers, partners and co-workers regarding the usage of new technology. I spent a great deal of time each day reading technical blogs and learning about new technologies. I test drive new tools and applications almost daily to see what is out there and the benefit they offer. <img class="" title="Fear" src="http://www.freeuni.edu.ge/shortprograms/blog/wp-content/uploads/2008/12/fear.gif" alt="Fear of Technology" width="323" height="248" align="right" /> I am always very cautious about whether a new application, service or tool will actually add value to a company and its process. This are can really be a double edge sword. There is an amazing number of tools out their in this 2.0 age, this also means many of these tools could go away at any moment. You have to ask of a company:
 </p>

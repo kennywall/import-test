@@ -2,12 +2,9 @@
 layout: post
 title: Open Source Manufacturing, Web APIs, and 3-D Printing
 url: http://kinlane.com/2011/04/11/open-source-manufacturing-web-apis-and-3-d-printing/
-source: http://kinlane.com/2011/04/11/open-source-manufacturing-web-apis-and-3-d-printing/
-domain: kinlane.com
 image: http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ceramicprinting.jpg/220px-Ceramicprinting.jpg
 ---
 {% include JB/setup %}
-
 <table width="50" align="right">
      <tbody>
           <tr>

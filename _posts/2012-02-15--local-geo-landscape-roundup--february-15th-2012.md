@@ -2,12 +2,9 @@
 layout: post
 title:  Local, Geo Landscape Roundup - February 15th, 2012
 url: http://kinlane.com/2012/02/15/local-geo-landscape-roundup-february-15th-2012/
-source: http://kinlane.com/2012/02/15/local-geo-landscape-roundup-february-15th-2012/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      The best of the blog posts and tweets from Localeze, Acxiom, InfoGroup, Verizon, YPG.com, Yahoo GeoPlanet, Foursquare, Facebook, Google Places, Google Mobile Ads, Google Geo, Simple Geo, Factual, Yelp, Fwix, Infochimps, PlacesIQ, HyperPublic and Placecast for the week. In an effort to keep track of whats going on in the local and geo landscape I track on all of the tweets and blog posts from these providers.
 </p>

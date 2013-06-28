@@ -2,12 +2,9 @@
 layout: post
 title: Location Tracking Using Yahoo's New Fire Eagle
 url: http://kinlane.com/2008/03/05/location-tracking-using-yahoos-new-fire-eagle/
-source: http://kinlane.com/2008/03/05/location-tracking-using-yahoos-new-fire-eagle/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was checking out Yahoo's new release, <a href="http://fireeagle.yahoo.net/">Fire Eagle</a>. It is a secure and stylish way to share your location with sites and services online while giving you control over your data and privacy. Applications and users can respond to your location and help you to discover more about the world around you in real time.
      <br />

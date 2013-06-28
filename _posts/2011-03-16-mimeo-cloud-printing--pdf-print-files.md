@@ -2,12 +2,9 @@
 layout: post
 title: Mimeo Cloud Printing - PDF Print Files
 url: http://kinlane.com/2011/03/16/mimeo-cloud-printing-pdf-print-files/
-source: http://kinlane.com/2011/03/16/mimeo-cloud-printing-pdf-print-files/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.scribd.com" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg" alt="" width="200" align="right" /></a>Computing is moving online. With the introduction cloud computing, more business are moving their documents online. Cloud storage providers allow uploading, editing, collaboration and exporting of documents through web sites, desktop software and mobile applications. Mimeo Cloud Printing enables commercial printing from popular cloud storage platforms:
 </p>

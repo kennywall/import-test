@@ -2,12 +2,9 @@
 layout: post
 title: Internet Service Provider (ISP) at Amazon Web Services (AWS)
 url: http://kinlane.com/2010/08/07/internet-service-provider-isp-at-amazon-web-services-aws/
-source: http://kinlane.com/2010/08/07/internet-service-provider-isp-at-amazon-web-services-aws/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" />I was just refining a wiki page of various building blocks I use at Amazon Web Services. I noticed it would make a great Internet Service Provider (ISP) package for someone who wanted to start an ISP, or even used as model for an existing ISP looking to migrate to cloud computing. These are a few of the components I have my list:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Camera phone and other cell phone bar code technology
 url: http://kinlane.com/2008/01/23/camera-phone-and-other-cell-phone-bar-code-technology/
-source: http://kinlane.com/2008/01/23/camera-phone-and-other-cell-phone-bar-code-technology/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Some very interesting stuff in two-dimensional camera phone barcodes out there on the Internet.
      <br />

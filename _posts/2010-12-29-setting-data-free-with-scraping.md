@@ -2,12 +2,9 @@
 layout: post
 title: Setting Data Free with Scraping
 url: http://kinlane.com/2010/12/29/setting-data-free-with-scraping/
-source: http://kinlane.com/2010/12/29/setting-data-free-with-scraping/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/ScraperWiki-Logo.jpg" alt="" align="right" />I was just reading <a href="http://blog.programmableweb.com/2010/12/29/setting-government-data-free-with-scraperwiki/">Setting Government Data Free with ScraperWiki</a> from <a href="http://www.programmableweb.com">ProgrammableWeb</a>. It led me to start playing with <a href="http://scraperwiki.com/">ScraperWiki</a>:
 </p>

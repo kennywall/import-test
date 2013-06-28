@@ -2,12 +2,9 @@
 layout: post
 title: Big Companies and their Understanding Social Media
 url: http://kinlane.com/2008/07/02/big-companies-and-their-understanding-social-media/
-source: http://kinlane.com/2008/07/02/big-companies-and-their-understanding-social-media/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I just got off a conference call with a big, well known manufacturer. They are launching a new "viral campaign" this fall.
      <br />

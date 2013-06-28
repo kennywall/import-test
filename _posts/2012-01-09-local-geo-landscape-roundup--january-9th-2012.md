@@ -2,12 +2,9 @@
 layout: post
 title: Local, Geo Landscape Roundup - January 9th, 2012
 url: http://kinlane.com/2012/01/09/local-geo-landscape-roundup-january-9th-2012/
-source: http://kinlane.com/2012/01/09/local-geo-landscape-roundup-january-9th-2012/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      <strong>From the <a href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>
 </p>

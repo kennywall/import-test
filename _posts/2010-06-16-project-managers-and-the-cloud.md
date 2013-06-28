@@ -2,12 +2,9 @@
 layout: post
 title: Project Managers and the Cloud
 url: http://kinlane.com/2010/06/16/project-managers-and-the-cloud/
-source: http://kinlane.com/2010/06/16/project-managers-and-the-cloud/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/project-managers.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I keep talking about how <a href="http://www.kinlane.com/2010/06/small-business-it-review/">cloud computing is changing IT</a>, and IT managers need to pay attention. I just finished reading a blog that reminds me that <a href="http://consultingblogs.emc.com/simonmunro/archive/2010/06/15/project-managers-need-to-think-about-cloud-computing.aspx">project managers need to think about Cloud Computing</a> as well.<img class="alignnone c1" title="Project Managers" src="http://kinlane-productions.s3.amazonaws.com/project-managers.jpg" alt="" width="250" align="right" /> It talks about several key points project managers should consider:
 </p>

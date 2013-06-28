@@ -2,12 +2,9 @@
 layout: post
 title: Image Search
 url: http://kinlane.com/2008/09/06/image-search/
-source: http://kinlane.com/2008/09/06/image-search/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      When is image search going to move past what the picture is named and more about what the picture is about.
      <br />

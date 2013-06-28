@@ -2,12 +2,9 @@
 layout: post
 title: Open Platform
 url: http://kinlane.com/2007/10/26/open-platform/
-source: http://kinlane.com/2007/10/26/open-platform/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      To achieve the perfect platform for how I operate and think I don't think one company can deliver by themselves.
      <br />

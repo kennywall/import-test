@@ -2,12 +2,9 @@
 layout: post
 title: OSCON: Database Explosion Part 2
 url: http://kinlane.com/2010/07/19/oscon-database-explosion-part-2/
-source: http://kinlane.com/2010/07/19/oscon-database-explosion-part-2/
-domain: kinlane.com
 image: http://www.schoonerinfotech.com/img/logos/schooner-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Schooner Information Technology" src="http://www.schoonerinfotech.com/img/logos/schooner-logo.png" alt="" width="153" height="29" align="right" />After spending some time last weekend reviewing the exhibitors at the upcoming <a href="http://www.oscon.com/oscon2010/" target="_blank">OSCON - Open Source Convention</a> I noticed a pattern:
 </p>

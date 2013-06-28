@@ -2,12 +2,9 @@
 layout: post
 title: Hazards of Developers Evangelist for an API.
 url: http://kinlane.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
-source: http://kinlane.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg" alt="" width="250" align="right" />I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API. One concept that is tough to understand at first, is that all printing starts with a Mimeo document. Then using the API you can either order that document as is, or merge one or many PDF documents with it, generate a dynamic document, then order this new document. As part of our API, we have a Document Listing Service, except it only pulls documents from a central account I have control of. So if you want to pull one of the documents you created, you have to actually pull the Document ID from your My Mimeo account. Sounds easy right? Well its available in the URL, and in a properties screen for the document. The Document ID is a GUID, for those of you who don't know what a GUID is:
 </p>

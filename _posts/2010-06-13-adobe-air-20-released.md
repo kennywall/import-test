@@ -2,12 +2,9 @@
 layout: post
 title: Adobe AIR 2.0 Released
 url: http://kinlane.com/2010/06/13/adobe-air-2-0-released/
-source: http://kinlane.com/2010/06/13/adobe-air-2-0-released/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/adobe-air.png
 ---
 {% include JB/setup %}
-
 <p>
      The Adobe AIR team released <a href="http://blogs.adobe.com/air/2010/06/introducing_air_2.html">Adobe Air 2.0</a> the other day, you can <a href="http://get.adobe.com/air/">download the latest version</a> now. With <a href="http://blogs.adobe.com/air/2010/06/introducing_air_2.html">Adobe AIR 2.0</a> you can release AIR applications on:
 </p>

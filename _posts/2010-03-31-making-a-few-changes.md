@@ -2,12 +2,9 @@
 layout: post
 title: Making a Few Changes
 url: http://kinlane.com/2010/03/31/making-a-few-changes/
-source: http://kinlane.com/2010/03/31/making-a-few-changes/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/blog/transformation-and-change.png
 ---
 {% include JB/setup %}
-
 <p>
      Its been a while since I made any changes to my blog. I haven't given my blog much love at all lately.<img class="alignright" title="Transformation and Change" src="http://kinlane-productions.s3.amazonaws.com/blog/transformation-and-change.png" alt="" width="313" height="247" /> I could easily blame work and say I don't have time. I do not think that is it. I just started feeling like I wasn't saying much at all, there was no organization to my approach. To change things up I would like to:
 </p>

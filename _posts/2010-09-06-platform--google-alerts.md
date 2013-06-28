@@ -2,12 +2,9 @@
 layout: post
 title: Platform - Google Alerts
 url: http://kinlane.com/2010/09/06/platform-google-alerts/
-source: http://kinlane.com/2010/09/06/platform-google-alerts/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Google Alerts" src="http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg" alt="" width="250" align="right" />I spend time each week to define the technology platform I use to accomplish business. One of the goals of this <a href="http://www.kinlane.com/platform/">platform definition</a> is to assist in my migration to the cloud. I realized another tool I use daily, but have overlooked. I use <a href="http://www.google.com/alerts" target="_blank">Google Alerts</a> to discover new information on blogs, search, and other discussions. I follow the these key phrases / topics currently:
 </p>

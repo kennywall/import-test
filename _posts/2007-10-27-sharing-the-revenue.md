@@ -2,12 +2,9 @@
 layout: post
 title: Sharing the Revenue
 url: http://kinlane.com/2007/10/27/sharing-the-revenue/
-source: http://kinlane.com/2007/10/27/sharing-the-revenue/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      That is awesome that there are social media sites and networks starting to share the revenue with their top content generators.
      <br />

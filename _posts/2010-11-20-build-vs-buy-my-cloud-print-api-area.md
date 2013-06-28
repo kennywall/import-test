@@ -2,12 +2,9 @@
 layout: post
 title: Build vs Buy my Cloud Print API Area
 url: http://kinlane.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
-source: http://kinlane.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/3Scale-Logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I need to get an API area around my REST Cloud Print API. I have a functional set of RESTful cloud print services, but not much else. Where do I start? I need a plan. I need to know exactly what it takes to get this API open for business. I built a list of what I need for <a href="http://www.kinlane.com/2010/11/api-ecosystem-strategy/" target="_blank">phase 1-3 of my API area</a>, from the essentials to nice to have. Now I know what I want...how do I get there? I have the skills to build this myself, and there are also API service providers available that specialize in API delivery. 3Scale, Apigee, and Mashery are three such providers that can help you get your API community up and running. <a href="http://www.3scale.net/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/3Scale-Logo.jpg" alt="" width="250" align="right" /></a> So I set out on the buy portion of my journey. <a href="http://www.3scale.net/" target="_blank">3Scale</a>, <a href="http://www.apigee.com" target="_blank">Apigee</a>, and <a href="http://www.mashery.com" target="_blank">Mashery</a> deliver a similar set of services, each with a unique approach. They offer extremely robust API delivery platforms, I went through their features and evaluated based upon what was important to me and <a href="http://www.mimeo.com" target="_blank">Mimeo</a>. I focused on:
 </p>

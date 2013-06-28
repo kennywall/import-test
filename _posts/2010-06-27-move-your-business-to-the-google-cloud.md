@@ -2,12 +2,9 @@
 layout: post
 title: Move Your Business to the Google Cloud
 url: http://kinlane.com/2010/06/27/move-your-business-to-the-google-cloud/
-source: http://kinlane.com/2010/06/27/move-your-business-to-the-google-cloud/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Google Apps" src="http://kinlane-productions.s3.amazonaws.com/googleapps.jpg" alt="" width="282" height="180" align="right" />I was just reading a great <a href="http://www.attentionmax.com/blog/2010/06/moving-your-office-into-the-cloud-2.php" target="_blank">testimonial of moving your business to Google Apps</a>. I use <a href="http://www.kinlane.com/category/google/google-apps-google/">Google Apps</a> as a starting point for all my domains, right after purchasing the domain. Reasons for moving your business to the Google Apps Cloud:
 </p>

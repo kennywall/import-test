@@ -2,12 +2,9 @@
 layout: post
 title: Tracking everywhere I have been on the internet
 url: http://kinlane.com/2007/10/22/tracking-everywhere-i-have-been-on-the-internet/
-source: http://kinlane.com/2007/10/22/tracking-everywhere-i-have-been-on-the-internet/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Going through my Web History for my Google Profile. A little scary when you look at it. I click into my Web History right from the Google Home Page, well...my IGoogle.
      <br />

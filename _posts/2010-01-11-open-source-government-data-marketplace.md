@@ -2,12 +2,9 @@
 layout: post
 title: Open Source Government Data Marketplace
 url: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
-source: http://kinlane.com/2010/01/11/open-source-government-data-marketplace/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Someone needs to create an open source version of <a href="http://www.data.gov/">data.gov</a>. Every city, county and state municipalities need a copy. There needs to be a well written, secure and standards based open source version available. It would be setup identical with:
 </p>

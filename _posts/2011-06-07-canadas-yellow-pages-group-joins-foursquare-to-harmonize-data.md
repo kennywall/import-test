@@ -2,12 +2,9 @@
 layout: post
 title: Canada's Yellow Pages Group Joins Foursquare to Harmonize Data
 url: http://kinlane.com/2011/06/07/canadas-yellow-pages-group-joins-foursquare-to-harmonize-data/
-source: http://kinlane.com/2011/06/07/canadas-yellow-pages-group-joins-foursquare-to-harmonize-data/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a title="YellowAPI.com" href="http://www.yellowapi.com"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg" alt="" width="150" align="right" /></a>The <a title="Yellow Pages Group" href="http://www.ypg.com/en/">Yellow Pages Group</a> (YPG) <a title="announced today that it will join with foursquare" href="http://www.marketwire.com/press-release/canadas-yellow-pages-group-announces-strategic-agreement-with-foursquare-tsx-ylo-1523671.htm">announced today it will join with Foursquare</a> in a project to clean up or harmonize venue related data. The accuracy of business locations in Foursquare and other location based systems is a common and ongoing problem, causing problems for developers and making for a bad experience for end users. Nicolas Gaudreau, Vice-President, Digital &amp; Print Media, Acquisition &amp; Retention at Yellow Pages Group says:
 </p>

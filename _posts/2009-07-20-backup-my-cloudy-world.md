@@ -2,12 +2,9 @@
 layout: post
 title: Backup My Cloudy World
 url: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
-source: http://kinlane.com/2009/07/20/backup-my-cloudy-world/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I came across a post about a new web service. It is a <a href="http://backupmy.net/">cloud backup tool</a>. Something I have talked about needing several times. Handy backup utility for all my favorite cloud based applications. <a href="http://backupmy.net/">BackupMy.Net</a> is a handy tool that does this for you. They provide cloud backup services for:
 </p>

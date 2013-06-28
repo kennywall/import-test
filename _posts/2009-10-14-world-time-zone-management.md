@@ -2,12 +2,9 @@
 layout: post
 title: World Time Zone Management
 url: http://kinlane.com/2009/10/14/world-time-zone-management/
-source: http://kinlane.com/2009/10/14/world-time-zone-management/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Our teams have been working on some meeting and event planning systems lately that are deployed for multiple global events spanning many time zones. So having quality time zone information and meeting scheduling accuracy is very important. I have researched and came across several interesting links:
 </p>

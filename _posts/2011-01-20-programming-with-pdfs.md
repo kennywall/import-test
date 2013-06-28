@@ -2,12 +2,9 @@
 layout: post
 title: Programming with PDFs
 url: http://kinlane.com/2011/01/20/programming-with-pdfs/
-source: http://kinlane.com/2011/01/20/programming-with-pdfs/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png
 ---
 {% include JB/setup %}
-
 <p>
      When it comes to developing for <a href="http://www.kinlane.com/category/publishing/">Print</a> applications you need to be able to <a href="http://www.kinlane.com/2011/01/programming-with-images-using-imagemagick/">programmatically manipulate images</a>. Currently with <a href="http://www.mimeo.com">Mimeo</a>, ultimately everything needs to be in a PDF format before it gets sent to the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>. <a href="http://pages.cs.wisc.edu/~ghost/doc/intro.htm" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png" alt="" width="197" height="206" align="right" /></a> Whether its a report, <a href="http://www.kinlane.com/category/publishing/">book</a>, magazine, <a href="http://www.kinlane.com/category/publishing/">photo</a> or <a href="http://www.kinlane.com/category/publishing/">poster</a> it will have to be PDF document at some point. Hopefully soon we will accept a wider range of formats. :) I spent some time today looking to see what my options are when it comes to working with PDFs. Supporting and advocating the usage of <a href="http://www.kinlane.com/category/open-source/">Open Source</a> projects is important to me, so I limited my search here. Another factor I consider is the overall stableness of the open source project. I came across three separate projects to take care of 80% of my PDF manipulation needs:
 </p>

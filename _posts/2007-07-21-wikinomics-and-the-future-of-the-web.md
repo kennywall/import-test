@@ -2,12 +2,9 @@
 layout: post
 title: Wikinomics and the Future of the Web
 url: http://kinlane.com/2007/07/21/wikinomics-and-the-future-of-the-web/
-source: http://kinlane.com/2007/07/21/wikinomics-and-the-future-of-the-web/
-domain: kinlane.com
 image: http://bp2.blogger.com/_9OGzs28s_k4/R28-QkmndRI/AAAAAAAAAtA/_1OWmu2C5L8/s320/wikinomics.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp2.blogger.com/_9OGzs28s_k4/R28-QkmndRI/AAAAAAAAAtA/_1OWmu2C5L8/s1600-h/wikinomics.jpg"><img class="c1" src="http://bp2.blogger.com/_9OGzs28s_k4/R28-QkmndRI/AAAAAAAAAtA/_1OWmu2C5L8/s320/wikinomics.jpg" alt="" id="BLOGGER_PHOTO_ID_5147401353532241170" border="0" /></a>
      <br />

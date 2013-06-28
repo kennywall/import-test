@@ -2,12 +2,9 @@
 layout: post
 title: From Ignite - How Will a Social Media Agency Work With My Current Agency?
 url: http://kinlane.com/2008/02/02/from-ignite-how-will-a-social-media-agency-work-with-my-current-agency/
-source: http://kinlane.com/2008/02/02/from-ignite-how-will-a-social-media-agency-work-with-my-current-agency/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Just read a great post over at Ignite Social Media about <a href="http://www.ignitesocialmedia.com/how-will-a-social-media-agency-work-with-my-current-agency/#comment-2089">How Will a Social Media Agency Work With My Current Agency</a>?
      <br />

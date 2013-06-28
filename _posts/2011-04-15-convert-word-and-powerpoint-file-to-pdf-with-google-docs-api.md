@@ -2,12 +2,9 @@
 layout: post
 title: Convert Word and Powerpoint File to PDF with Google Docs API
 url: http://kinlane.com/2011/04/15/convert-word-and-powerpoint-file-to-pdf-with-google-docs-api/
-source: http://kinlane.com/2011/04/15/convert-word-and-powerpoint-file-to-pdf-with-google-docs-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/word-to-pdf-conversion.gif
 ---
 {% include JB/setup %}
-
 <p>
      I'm slowly packaging up all the code I've been writing lately for <a title="Google Docs Listing API" href="http://code.google.com/apis/documents/">Google Docs Listing API</a>. I am building quite a few bite size modules that do various things with Google Docs. Today I cleaned up a piece of PHP code that will upload file to Google Docs using API, then export various file types. If it is a .doc file, it will convert to:<img src="http://kinlane-productions.s3.amazonaws.com/word-to-pdf-conversion.gif" alt="" width="200" align="right" />
 </p>

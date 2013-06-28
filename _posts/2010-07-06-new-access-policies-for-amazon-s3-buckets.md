@@ -2,12 +2,9 @@
 layout: post
 title: New Access Policies for Amazon S3 Buckets
 url: http://kinlane.com/2010/07/06/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/
-source: http://kinlane.com/2010/07/06/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://aws.amazon.com/" target="_blank"><img class="alignnone c1" title="Amazon Web Services" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="282" height="187" align="right" /></a><a href="http://aws.typepad.com/aws/2010/07/amazon-s3-bucket-policies-another-way-to-protect-your-content.html" target="_blank">Amazon Web Services released support for Bucket Policies within Amazon S3 Cloud Storage today</a>. <a href="http://docs.amazonwebservices.com/AmazonS3/latest/dev/index.html?UsingBucketPolicies.html" target="_blank">Bucket policies</a> provide access control management for Amazon S3 buckets and for the objects in them using a single unified mechanism. The policies are expressed using whats called Access Policy Language, that enables centralized management of permissions. Access Control Lists (ACLs) can only be used to grant permissions on individual objects, policies can either add or deny permissions across all of the objects within a single bucket. You can use regular expression operators, so that you can control access to groups that begin with a common prefix or end with a specific file extension such as ".pdf, word, or .html documents Policies can include references to:
 </p>

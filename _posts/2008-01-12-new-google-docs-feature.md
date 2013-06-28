@@ -2,12 +2,9 @@
 layout: post
 title: New Google Docs Feature
 url: http://kinlane.com/2008/01/12/new-google-docs-feature/
-source: http://kinlane.com/2008/01/12/new-google-docs-feature/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been using Google Notebook pretty heavily. I use it for about 80% of my data gathering in combination with the Google Notebook Firefox Add-on.
      <br />

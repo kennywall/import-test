@@ -2,12 +2,9 @@
 layout: post
 title: Spending Priorities with the Federal Budget 2012
 url: http://kinlane.com/2011/02/19/spending-priorities-with-the-federal-budget-2012/
-source: http://kinlane.com/2011/02/19/spending-priorities-with-the-federal-budget-2012/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/budget/us-whitehouse-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.whitehouse.gov/omb/budget" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/budget/us-whitehouse-logo.jpg" border="1" alt="" width="275" align="right" /></a>Most of the time I feel pretty powerless when it comes to politics in our country. As I see it I have two ways to express myself:
 </p>

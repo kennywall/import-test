@@ -2,12 +2,9 @@
 layout: post
 title: Fast Track to Widgets, Facebook, and OpenSocial Apps
 url: http://kinlane.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
-source: http://kinlane.com/2008/04/15/fast-track-to-widgets-facebook-and-opensocial-apps/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been deploying large amounts of widgets, <a href="http://www.facebook.com">Facebook</a> and <a href="http://code.google.com/apis/opensocial/">OpenSocial</a> applications to various social networks and platforms lately.
      <br />

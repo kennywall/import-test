@@ -2,12 +2,9 @@
 layout: post
 title: Event Social Media Footprint
 url: http://kinlane.com/2010/06/10/event-social-media-footprint/
-source: http://kinlane.com/2010/06/10/event-social-media-footprint/
-domain: kinlane.com
 image: http://staynalive.com/files/2009/11/OpenID-Logo.gif
 ---
 {% include JB/setup %}
-
 <div>
      <strong>Blog</strong> - A blog to give the event a voice.
 </div>

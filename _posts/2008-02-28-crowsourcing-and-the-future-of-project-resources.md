@@ -2,12 +2,9 @@
 layout: post
 title: Crowsourcing and the Future of Project Resources
 url: http://kinlane.com/2008/02/28/crowsourcing-and-the-future-of-project-resources/
-source: http://kinlane.com/2008/02/28/crowsourcing-and-the-future-of-project-resources/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      In every company I work for we deal with resource shortages all over the place, either due to budgetary constraints or lack of skilled talent in the area.
      <br />

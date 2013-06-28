@@ -2,12 +2,9 @@
 layout: post
 title: Calling in and Managing some of my Systems
 url: http://kinlane.com/2008/01/09/calling-in-and-managing-some-of-my-systems/
-source: http://kinlane.com/2008/01/09/calling-in-and-managing-some-of-my-systems/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      So I signed up for a system I really think is going to become a big part of my daily life. It is a voice to text voice mail system called <a href="http://www.jott.com/">Jott</a>.
      <br />

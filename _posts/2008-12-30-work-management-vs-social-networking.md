@@ -2,12 +2,9 @@
 layout: post
 title: Work Management vs. Social Networking
 url: http://kinlane.com/2008/12/30/work-management-vs-social-networking/
-source: http://kinlane.com/2008/12/30/work-management-vs-social-networking/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      When I start working I tend to open a handful of work-based applications that I need open all the time while I work. A few of the must have applications are:
 </p>

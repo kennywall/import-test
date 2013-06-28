@@ -2,12 +2,9 @@
 layout: post
 title: Method to the Madness
 url: http://kinlane.com/2013/02/02/method-to-the-madness/
-source: http://kinlane.com/2013/02/02/method-to-the-madness/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/global-gears.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/global-gears.jpg" alt="" width="250" align="right" />
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Who Are The Customers For Your Startup?
 url: http://kinlane.com/2013/04/26/who-are-the-customers-for-your-startup/
-source: http://kinlane.com/2013/04/26/who-are-the-customers-for-your-startup/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-question-mark.png
 ---
 {% include JB/setup %}
-
 <table class="c3" cellspacing="5" cellpadding="5" width="95%">
      <tbody>
           <tr>

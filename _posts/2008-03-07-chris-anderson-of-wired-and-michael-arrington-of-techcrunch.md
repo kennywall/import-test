@@ -2,12 +2,9 @@
 layout: post
 title: Chris Anderson of Wired and Michael Arrington of TechCrunch
 url: http://kinlane.com/2008/03/07/chris-anderson-of-wired-and-michael-arrington-of-techcrunch/
-source: http://kinlane.com/2008/03/07/chris-anderson-of-wired-and-michael-arrington-of-techcrunch/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was just watching and enjoying a show of <a href="http://www.charlierose.com/home">Charlie Rose</a> that had <a href="http://www.thelongtail.com/about.html">Chris Anderson of Wired</a> and Michael Arrington of <a href="http://www.techcrunch.com/">TechCrunch</a>.
      <br />

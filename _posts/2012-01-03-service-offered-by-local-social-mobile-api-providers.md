@@ -2,12 +2,9 @@
 layout: post
 title: Service Offered by Local, Social, Mobile API Providers
 url: http://kinlane.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
-source: http://kinlane.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png" alt="" width="250" align="right" />To kick-off my role as <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> at <a title="CityGrid" href="http://developer.citygridmedia.com/">CityGrid</a>, I took a <a title="quick walk through of locations and places data APIs" href="http://blog.apievangelist.com/2011/12/22/quick-walk-through-the-world-of-location-&amp;-places-apis/">quick walk through the world of location and places API</a>. The <a title="CityGrid API" href="http://developer.citygridmedia.com/">CityGrid API</a> centers around places API which provides rich local business data via a RESTful API. So getting familiar with other location and places API is critical to my role. While going through each of these APIs in the space I flushed out what I'd consider the high levels areas that these APIs offer. This list is a work in progress, with a goal in helping see the industry, and potentially identify where players are leading the industry, and where there are gaps. Of course it all starts with places information. Rich content about businesses and other geographic points of interest. CityGrid, Google, Yahoo, Bing and other players like Foursquare, SimpleGeo, InfoChimps and Factual all bring places data to the table. CityGrid and Foursquare also bring merchant APIs to the game, allowing businesses to manage their profile data as well as how it gets syndicated across many networks. Along with places data there are various geo related services that are offered across these APIs: <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/geofencing.jpg" alt="" width="250" align="right" />
 </p>

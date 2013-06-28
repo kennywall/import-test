@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print - Fetch
 url: http://kinlane.com/2011/02/08/2822/
-source: http://kinlane.com/2011/02/08/2822/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://mimeo.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>Now that you have a<a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">Google Cloud Printer registered with the Google Cloud Print</a> (GCP) registry, you can retrieve jobs for that printer. After authenticating using <a href="http://code.google.com/apis/accounts/docs/AuthForInstalledApps.html" target="_blank">Google ClientLogin API,</a> you can then fetch a list Google Cloud Print Job from the users queue.
 </p><script src="https://gist.github.com/815961.js?file=GC%20-%20Fetch" type="text/javascript">

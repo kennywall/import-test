@@ -2,12 +2,9 @@
 layout: post
 title: Google's is Creating a Very Robust Cloud Platform
 url: http://kinlane.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
-source: http://kinlane.com/2009/04/16/googles-is-creating-a-very-robust-cloud-platform/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been playing around with some <a href="http://cloud.kinlane.com">research on cloud computing</a> lately. I am using the <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a> Platform as a base to store and present all the data. I used Google as a Platform when I was doing my social media marketing business. It gave me a ready to go platform to collaborate on without building something from scratch. I am enjoying trying to retrofit it to work as a solid business platform, because of this I am looking at it in some very different ways. If you look at it from a high level you really see a lot of pieces coming together as a robust toolset to operate in the clouds. So I start with Google Apps for My Domain, it gives me:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Defining My Social Media Index and Settings Some Benchmarks
 url: http://kinlane.com/2008/02/01/defining-my-social-media-index-and-settings-some-benchmarks/
-source: http://kinlane.com/2008/02/01/defining-my-social-media-index-and-settings-some-benchmarks/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was reading, <a href="http://www.socialmediatoday.com/SMC/25033">Quantifying the Impact of Social Media: Where the Edelman White Paper Got it Right, Got it Wrong and What We Should Do Next</a>, by Jim Tobin today.
      <br />

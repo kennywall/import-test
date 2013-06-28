@@ -2,12 +2,9 @@
 layout: post
 title: Internet at Conferences and Hackathons Shows How Existing Business Practices Can Slow Innovation
 url: http://kinlane.com/2012/01/20/internet-at-conferences-and-hackathons-shows-how-existing-business-practices-can-slow-innovation/
-source: http://kinlane.com/2012/01/20/internet-at-conferences-and-hackathons-shows-how-existing-business-practices-can-slow-innovation/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/internet-pipes.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/events/Conference-Event-People.png" alt="" width="250" align="right" />
 </p>

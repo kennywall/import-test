@@ -2,12 +2,9 @@
 layout: post
 title: LinkedIn's Refreshing Approach to Data Portability and Platform Openess
 url: http://kinlane.com/2008/01/11/linkedins-refreshing-approach-to-data-portability-and-platform-openess/
-source: http://kinlane.com/2008/01/11/linkedins-refreshing-approach-to-data-portability-and-platform-openess/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      LinkedIn is just doing it the way it should be done. They fully embrace data portability as well as understand that they need to open their platform up via API's and taking part in OpenSocial.
      <br />

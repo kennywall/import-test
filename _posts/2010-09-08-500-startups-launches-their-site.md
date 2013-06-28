@@ -2,12 +2,9 @@
 layout: post
 title: 500 Startups Launches their Site
 url: http://kinlane.com/2010/09/08/500-startups/
-source: http://kinlane.com/2010/09/08/500-startups/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/500-startups.png
 ---
 {% include JB/setup %}
-
 <p>
      Seed funding and startups isn't something I normally write about on my blog. I tend to be more vocal about the technology, than the money. Through exposure from <a href="http://www.audreywatters.com" target="_blank">Audrey</a> and the <a href="http://www.readwriteweb.com/start/" target="_blank">ReadWriteStart Channel</a> I am paying more attention to this world again. I have plenty of business planning exposure from working at <a href="http://www.paloalto.com" target="_blank">Palo Alto Software</a>, but always felt like I had moved on during that time and didn't really jive with the "business planning" community. <a href="http://500startups.com/" target="_blank">500 Startups</a> launched their new web site today. I'm impressed with Dave McClue's approach to tech start-up financing and the portfolio of tech startups they have: <img class="alignnone c1" title="500 Startups" src="http://kinlane-productions.s3.amazonaws.com/500-startups.png" alt="" width="250" align="right" />
 </p>

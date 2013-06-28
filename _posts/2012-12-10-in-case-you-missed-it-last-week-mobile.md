@@ -2,12 +2,9 @@
 layout: post
 title: In Case You Missed It Last Week (Mobile)
 url: http://kinlane.com/2012/12/10/in-case-you-missed-it-last-week-mobile/
-source: http://kinlane.com/2012/12/10/in-case-you-missed-it-last-week-mobile/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <table width="350">
      <tbody>
           <tr>

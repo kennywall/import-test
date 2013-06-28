@@ -2,12 +2,9 @@
 layout: post
 title: Google I/O Samsung Galaxy Tablet Review
 url: http://kinlane.com/2011/06/12/google-io-samsung-galaxy-tablet-review/
-source: http://kinlane.com/2011/06/12/google-io-samsung-galaxy-tablet-review/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-edition.png
 ---
 {% include JB/setup %}
-
 <p>
      Its been a month since <a href="http://www.google.com/events/io/2011/">Google I/O</a>. I figured its about time to do a write-up about the <a href="http://www.samsung.com/global/microsite/galaxytab/10.1/index.html">Samsung Galaxy Tab</a> that Google was so kind to give me at the event. I've been using it since, and I will be keeping it as my primary tablet device. I even gave my IPad to my daughter to seal the deal. <a href="http://www.samsung.com/global/microsite/galaxytab/10.1/index.html"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-edition.png" alt="" width="300" align="right" /></a>For me the Samsung Galaxy is more functional as an actual working device, than the IPad ever was. To make work for me, here are the applications I use:
 </p>

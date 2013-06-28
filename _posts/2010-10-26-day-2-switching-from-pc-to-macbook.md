@@ -2,12 +2,9 @@
 layout: post
 title: Day 2: Switching from PC to Macbook
 url: http://kinlane.com/2010/10/26/day-2-switching-from-pc-to-macbook/
-source: http://kinlane.com/2010/10/26/day-2-switching-from-pc-to-macbook/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/macbook-pro
 ---
 {% include JB/setup %}
-
 <p>
      It is now day two of being on my new Macbook Pro, and I am fine. I haven't used an Mac computer since high school. I am 38, so 20 years? I have been a PC user my entire adult life. I have jumped on a Mac from time to time to troubleshoot something, view a web site, or show my kids something (I bought them an IMac a few years back). Other than that...I've spent thousands of hours on Windows workstations and servers. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/macbook-pro" alt="" width="300" align="right" /> My primary excuse for never switching to a Mac is that I need to support SQL Server. I have used SQL Server since 1998. That era is coming to an end. Don't get me wrong, I'm thankful. SQL Server has made me a lot of money and supported my family. However, my career is moving on. I will not be supporting SQL Server as a core job function anymore. If I do any support I will log on to the server and work with via Remote Desktop (RDP). This really isn't the reason Im switching though. My primary reasons are:
 </p>

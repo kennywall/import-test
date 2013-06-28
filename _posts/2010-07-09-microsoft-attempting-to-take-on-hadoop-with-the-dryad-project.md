@@ -2,12 +2,9 @@
 layout: post
 title: Microsoft Attempting to Take on Hadoop with the Dryad Project
 url: http://kinlane.com/2010/07/09/microsoft-attempting-to-take-on-hadoop-with-the-dryad-project/
-source: http://kinlane.com/2010/07/09/microsoft-attempting-to-take-on-hadoop-with-the-dryad-project/
-domain: kinlane.com
 image: http://hadoop.apache.org/zookeeper/images/hadoop-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Hadoop" src="http://hadoop.apache.org/zookeeper/images/hadoop-logo.jpg" alt="" width="300" height="71" align="right" />I'm learning more and more about distributed computing as I"m playing with larger and larger volumes of data. I understand a lot of the concepts behind the popular distributed computing platform <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a>, but have no actual experience deploying it. I'm diving into all the building blocks of <a href="http://hadoop.apache.org/" target="_blank">Hadoop</a> one by one as I have time:
 </p>

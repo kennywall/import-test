@@ -2,12 +2,9 @@
 layout: post
 title: Brochure & Flyer Printer with Box.net and Mimeo Connect
 url: http://kinlane.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
-source: http://kinlane.com/2011/04/30/brochure-flyer-printer-with-box-net-and-mimeo-connect/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="200" align="right" /> As the <a title="Mimeo.com" href="http://www.mimeo.com">Mimeo.com</a> API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the <a title="Mimeo Connect Cloud Print API" href="http://developer.mimeo.com">Mimeo Connect Cloud Print API</a>. One such platform that I've identified as a Mimeo.com partner platform is <a title="Box.net" href="http://www.box.net">Box.net</a>. Box.net provides a complete cloud storage platform, with a powerful developer platform and application directory called OpenBox. Mimeo.com provides commercial printing of single sheet flyers and other brochures, and with Mimeo Connect Cloud Print API you can integrate printing using Box.net <em>*** Heads up!! This requires basic understanding of box.net and programming with PHP ***</em> To do this I sign up for a <a title="Box.net Developer Account" href="http://www.box.net/developers">Box.net developers account</a> and add new OpenBox application:
 </p>

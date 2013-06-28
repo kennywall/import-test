@@ -2,12 +2,9 @@
 layout: post
 title: Importance of a Social Networking Strategy in 2008
 url: http://kinlane.com/2008/01/22/importance-of-a-social-networking-strategy-in-2008/
-source: http://kinlane.com/2008/01/22/importance-of-a-social-networking-strategy-in-2008/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      All signs point to increased growth and popularity of social network in 2008. New regional and niche focused social networks are popping up everywhere and new users are getting involved everyday.
      <br />

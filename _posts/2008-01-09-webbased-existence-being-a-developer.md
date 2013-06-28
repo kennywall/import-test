@@ -2,12 +2,9 @@
 layout: post
 title: Web-based Existence being a Developer
 url: http://kinlane.com/2008/01/09/web-based-existence-being-a-developer/
-source: http://kinlane.com/2008/01/09/web-based-existence-being-a-developer/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      So in the last year I have completely move online. Everything I do is web-based. Most of my world exists underneath my Google Account.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Internet Explorer 9 - HTML 5 Support
 url: http://kinlane.com/2010/06/27/internet-explorer-9-html-5-support/
-source: http://kinlane.com/2010/06/27/internet-explorer-9-html-5-support/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/InternetExplorer.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Internet Explorer" src="http://kinlane-productions.s3.amazonaws.com/InternetExplorer.jpg" alt="" width="200" align="right" /><a href="http://ie.microsoft.com/testdrive/info/ReleaseNotes/Default.html" target="_blank">Microsoft recently released some new additions to their Windows Internet Explorer Platform</a>, aka. Internet Explorer 9. They are working hard to support more of the HTML5 standard. <strong>Features Available <span class="c2">(</span></strong><span class="c2">Blue are New Releases)</span>
 </p>

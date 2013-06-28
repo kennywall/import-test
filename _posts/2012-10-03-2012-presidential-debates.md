@@ -2,12 +2,9 @@
 layout: post
 title: 2012 Presidential Debates
 url: http://kinlane.com/2012/10/03/2012-presidential-debates/
-source: http://kinlane.com/2012/10/03/2012-presidential-debates/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      While your all reasserting and protecting your already existing position on your political views based upon what you saw on TV tonight…please try to step back and look at the bigger picture.
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Print on Demand Coupon Books
 url: http://kinlane.com/2011/11/03/print-on-demand-coupon-books/
-source: http://kinlane.com/2011/11/03/print-on-demand-coupon-books/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/coupon-cabin-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Coupon Cabin" href="http://www.couponcabin.com/printable-coupons/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/coupon-cabin-logo.png" alt="" align="right" /></a> I just added a new entry to the<a title="Mimeo Idea Shhowcase" href="http://developer.mimeo.com/projects/ideas.php">Mimeo Idea Showcase</a>. It is an idea for<a title="personalized print on demand coupon books" href="http://developer.mimeo.com/projects/idea_detail.php?ID=25">personalized, print-on-demand coupon books</a>. This idea comes from my co-worker Heath. His thoughts are:
 </p>

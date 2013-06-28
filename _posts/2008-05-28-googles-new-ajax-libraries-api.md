@@ -2,12 +2,9 @@
 layout: post
 title: Google's New AJAX Libraries API
 url: http://kinlane.com/2008/05/28/googles-new-ajax-libraries-api/
-source: http://kinlane.com/2008/05/28/googles-new-ajax-libraries-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Just came across <a href="http://code.google.com/apis/ajaxlibs/">Google's New AJAX Libraries API.</a> I was wondering when someone was going to merge together all the common JavaScript libraries out there into a single set of libraries.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Printing with Box.net
 url: http://kinlane.com/2011/04/30/cloud-printing-with-box-net/
-source: http://kinlane.com/2011/04/30/cloud-printing-with-box-net/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.box.net"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg" alt="" width="125" align="right" /></a> I'm publishing some recent work I've been doing with the cloud storage platform <a title="Box.net" href="http://www.box.net">Box.net</a>. Box.net provides enterprise class, cloud storage services, and their developer program and the OpenBox platform makes it easy to integrate commercial printing services with <a title="Mimeo.com" href="http://www.mimeo.com">Mimeo.com</a>. I've finished three working examples for printing from Box.net:
 </p>

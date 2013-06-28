@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Computing Opportunities
 url: http://kinlane.com/2009/04/29/cloud-computing-opportunities/
-source: http://kinlane.com/2009/04/29/cloud-computing-opportunities/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been spending time <a href="http://cloud.kinlane.com">researching different aspects of cloud computing</a> and opportunities out there to evangelize about it. I was researching <a href="http://www.recovery.gov/?q=content/agency-summary&amp;agency_code=49">Recovery money going to the National Science Foundation</a>. As of today it isn't flowing quite yet. Then I got curious of other project funding opportunities there are with the <a href="http://www.nsf.gov">National Science Foundation</a>. There are so many of them. I started looking at technology specific funding opportunities that would easily apply to <a class="zem_slink" title="Cloud Computing" rel="wikinvest" href="http://www.wikinvest.com/concept/Cloud_Computing">cloud computing</a>. Here are a handful of areas I found:
 </p>

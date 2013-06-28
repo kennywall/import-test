@@ -2,12 +2,9 @@
 layout: post
 title: Social Application and Social Widget Advertising Integration
 url: http://kinlane.com/2008/08/13/social-application-and-social-widget-advertising-integration/
-source: http://kinlane.com/2008/08/13/social-application-and-social-widget-advertising-integration/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      So was just having a random thoughts while designing a couple of social applications. I was thinking out you can build social applications that run on different platforms and work with a web service that allows various information to drive the application.
      <br />

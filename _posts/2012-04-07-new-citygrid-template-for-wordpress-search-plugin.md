@@ -2,12 +2,9 @@
 layout: post
 title: New CityGrid Template for Wordpress Search Plugin
 url: http://kinlane.com/2012/04/07/new-citygrid-template-for-wordpress-search-plugin/
-source: http://kinlane.com/2012/04/07/new-citygrid-template-for-wordpress-search-plugin/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/wordpress-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/CityGrid-Wordpress-Listing-Template.png"><img class="aligncenter size-medium wp-image-1019" title="CityGrid-Wordpress-Listing-Template" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/CityGrid-Wordpress-Listing-Template-300x262.png" alt="" width="300" height="262" align="right" /></a>I pushed an <a title="update for the CityGrid Wordpress Directory Plugin" href="http://www.citygridmedia.com/developer/blog/new-citygrid-template-for-wordpress-directory-plugin/">update for the CityGrid Wordpress Directory Plugin</a> earlier today.   I finished porting over the changes to the <a title="CityGrid Wordpress Search Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-city-search/">CityGrid Wordpress Search Plugin</a> as well.
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Chicago Using Github Has Potential For More Citizen Participation in Government
 url: http://kinlane.com/2013/03/04/chicago-on-github-is-beginning-of-more-citizen-involvement-in-government/
-source: http://kinlane.com/2013/03/04/chicago-on-github-is-beginning-of-more-citizen-involvement-in-government/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/city-of-chicago-detail.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://digital.cityofchicago.org/" target="_blank"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/city/chicago/city-of-chicago-detail.jpg" alt="" width="150" align="right" /></a>
 </p>

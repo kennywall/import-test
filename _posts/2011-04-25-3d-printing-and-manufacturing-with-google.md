@@ -2,12 +2,9 @@
 layout: post
 title: 3D Printing and Manufacturing with Google
 url: http://kinlane.com/2011/04/25/3d-printing-and-manufacturing-with-google/
-source: http://kinlane.com/2011/04/25/3d-printing-and-manufacturing-with-google/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg" alt="" width="250" align="right" />I'm watching the future of manufacturing and printing unfold slowly in front of us. I'm paying attention to 3D printing solutions evolving from companies like <a title="Shapeways" href="http://www.shapeways.com/">Shapeways</a>, <a title="Makerbot" href="http://www.makerbot.com/">MakerBot</a>, <a title="Materialise" href="http://www.materialise.com/">Materialise</a>, <a title="ZCorp" href="http://www.zcorp.com/">ZCorp</a>, and <a title="Object" href="http://www.objet.com/">Objet</a>. At the same time I'm involved with the rollout of <a title="Google Cloud Print Services Interface" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Services Interface</a>, an API for managing printing to any printer over the Internet. I'm using <a title="Google Docs as a Publishing Platform" href="http://www.kinlane.com/2011/02/google-docs-as-a-publishing-platform/">Google Docs as a publishing platform</a>, integrating Google Cloud Print with the <a title="Mimeo Connect API" href="http://developer.mimeo.com">Mimeo Connect API</a> and evolving whats possible with commercial cloud printing. Google has added <a title="Support for many more native file formats in Google Docs" href="http://www.kinlane.com/2011/02/google-docs-file-formats-viewer-web-and-api/">support for many more native file formats in Google Docs</a>. Now all they need to do is add support for common 3D printing file formats:
 </p>

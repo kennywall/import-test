@@ -2,12 +2,9 @@
 layout: post
 title: Presenting 5K to Winners of the Techcrunch NYC Hackathon
 url: http://kinlane.com/2012/08/18/presenting-5k-to-winners-of-the-techcrunch-nyc-hackathon/
-source: http://kinlane.com/2012/08/18/presenting-5k-to-winners-of-the-techcrunch-nyc-hackathon/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KinLane-Techcrunch-Disrupt-Hackathon-NYC-May-2012-1.jpeg
 ---
 {% include JB/setup %}
-
 <p>
      While contracting with <a href="http://www.citygrid.com">CityGrid</a> this spring, one event I sponsored and participated in was the <a href="http://techcrunch.com/2012/05/20/introducing-our-2012-disrupt-nyc-hackathon-winners-thingscription-poachbase-and-practikhan/">TechCrunch NYC Hackathon</a>.  The hackathon was definitely one of the larger hackathons I've attended, filling an entire warehouse.  
 </p>

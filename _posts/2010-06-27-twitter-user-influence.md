@@ -2,12 +2,9 @@
 layout: post
 title: Twitter User Influence
 url: http://kinlane.com/2010/06/27/twitter-user-influence/
-source: http://kinlane.com/2010/06/27/twitter-user-influence/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      When harvesting thousands of Twitter profiles and evaluating them at a macro level....you really have to come up with a definition of what is a quality or influential Twitter user.<img class="alignnone c1" title="Twitter" src="http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg" alt="" width="250" align="right" /> What makes a Twitter user influential:
 </p>

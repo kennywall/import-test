@@ -2,12 +2,9 @@
 layout: post
 title: Communication and Professionalism
 url: http://kinlane.com/2008/02/27/communication-and-professionalism/
-source: http://kinlane.com/2008/02/27/communication-and-professionalism/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am reviewing about 8 resumes that were submitted for a social media marketing consultant. I made sure that when the resumes came in I responded to each letting them know I received and were reviewing.
      <br />

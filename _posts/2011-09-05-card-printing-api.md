@@ -2,12 +2,9 @@
 layout: post
 title: Card Printing API
 url: http://kinlane.com/2011/09/05/card-printing-api/
-source: http://kinlane.com/2011/09/05/card-printing-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/card-sample-image.png
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/card-sample-image.png" alt="" width="200" align="right" />We've added a new<a title="API that provides card printing services for developers" href="http://mimeoconnect.3scale.net/wiki/card-printing-api">API that provides card printing services for developers</a>. It enables you to price and order commercially printed cards in different sizes, paper and coating from within your web and mobile applications. These are the different settings currently available for cards:
 </p>

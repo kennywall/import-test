@@ -2,12 +2,9 @@
 layout: post
 title: Backing up my cloud with backupify
 url: http://kinlane.com/2009/12/28/backing-up-my-cloud-with-backupify/
-source: http://kinlane.com/2009/12/28/backing-up-my-cloud-with-backupify/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I came across a cloud backup tool the other day called <a href="http://www.backupify.com">backupify</a>. It runs in the cloud and backs up your cloud. Very cool. <a href="http://www.backupify.com/">backupify</a> is pretty easy to setup. It acts like most social aggregators like <a href="http://www.friendfeed.com">Friendfeed</a>, however it then backs up your data rather than syndicating it or providing a single feed. I authorized backupify to access the following accounts:
 </p>

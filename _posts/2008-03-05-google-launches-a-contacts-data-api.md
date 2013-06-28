@@ -2,12 +2,9 @@
 layout: post
 title: Google Launches a Contacts Data API
 url: http://kinlane.com/2008/03/05/google-launches-a-contacts-data-api/
-source: http://kinlane.com/2008/03/05/google-launches-a-contacts-data-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been getting happier with the contact management tools available in Gmail...and some of the integration with other Google Applications.
      <br />

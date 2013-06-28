@@ -2,12 +2,9 @@
 layout: post
 title: Social Media Content
 url: http://kinlane.com/2008/01/23/social-media-content/
-source: http://kinlane.com/2008/01/23/social-media-content/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am stilling sifting through all the blogs I read and information I gather on a clear definition in my mind of what describes all the content I generate around the Internet.
      <br />

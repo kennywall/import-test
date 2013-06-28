@@ -2,12 +2,9 @@
 layout: post
 title: Find a Voice for Blog by Catablogging
 url: http://kinlane.com/2008/02/27/find-a-voice-for-blog-by-catablogging/
-source: http://kinlane.com/2008/02/27/find-a-voice-for-blog-by-catablogging/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was readng a post on <a href="http://www.copyblogger.com/">CopyBlogger</a> about <a href="http://www.copyblogger.com/catablogging/">Catablogging</a>. What is catablogging you ask? Do we really need new terminology for the way you blog?
      <br />

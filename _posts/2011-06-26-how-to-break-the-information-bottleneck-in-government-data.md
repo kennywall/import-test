@@ -2,12 +2,9 @@
 layout: post
 title: How to Break the Information Bottleneck in Government Data?
 url: http://kinlane.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
-source: http://kinlane.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg" alt="" width="250" align="right" />The New York Times just covered the problems faced when opening up government data, in the article, <a title="How to break an information bottleneck" href="http://www.nytimes.com/2011/06/26/business/26stream.html?_r=1">How to Break an Information Bottleneck</a>? At the beginning of his presidency, President Obama expressed that, All agencies should adopt a presumption in favor of disclosure, in a <a title="memorandum he wrote" href="http://www.whitehouse.gov/the_press_office/Freedom_of_Information_Act/">memorandum he wrote</a> about the Freedom of Information Act. After two and a half years after the president's call for openness, only 49 of 90 federal agencies have reported making changes to their FOIA procedures How do you get these government bureaucracies to change their ways? There are no easy answers. It will take a lot of education of all levels of government, and showing how it will actually save the taxpayers money before anything will change. In my opinion, I'd start with education of all government employees about what constitutes good data practices, such as:
 </p>

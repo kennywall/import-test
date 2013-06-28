@@ -2,12 +2,9 @@
 layout: post
 title: Amazon Web Services Experienced an Outage
 url: http://kinlane.com/2008/02/15/amazon-web-services-experienced-an-outage/
-source: http://kinlane.com/2008/02/15/amazon-web-services-experienced-an-outage/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Amazon Web Services experienced an outage this morning across all their systems. There is a flurry of posts on this forum about the <a href="http://developer.amazonwebservices.com/connect/thread.jspa?threadID=19714&amp;tstart=0">Amazon Web Services Outage</a>.
      <br />

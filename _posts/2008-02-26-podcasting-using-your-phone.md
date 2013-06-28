@@ -2,12 +2,9 @@
 layout: post
 title: Podcasting Using Your Phone
 url: http://kinlane.com/2008/02/26/podcasting-using-your-phone/
-source: http://kinlane.com/2008/02/26/podcasting-using-your-phone/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just playing with <a href="http://cinch.blogtalkradio.com/">Cinch which is a new voice to RSS service</a>. It allows you to call a number and it records a podcast for you. It is more focused, but similar to the <a href="http://www.jott.com/">voice translation service Jott</a> that I have been using.
      <br />

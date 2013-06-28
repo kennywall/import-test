@@ -2,12 +2,9 @@
 layout: post
 title: Mimeo Connect Cloud Print API - T Shirt
 url: http://kinlane.com/2010/11/29/mimeo-connect-cloud-print-api-t-shirt/
-source: http://kinlane.com/2010/11/29/mimeo-connect-cloud-print-api-t-shirt/
-domain: kinlane.com
 image: http://d1.scribdassets.com/ScribdViewer.swf
 ---
 {% include JB/setup %}
-
 <p>
      <object id="doc_46845464924093" class="c2" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="100%" height="600" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0">
           <param name="name" value="doc_46845464924093" />

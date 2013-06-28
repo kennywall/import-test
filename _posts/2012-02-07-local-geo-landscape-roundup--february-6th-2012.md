@@ -2,12 +2,9 @@
 layout: post
 title: Local, Geo Landscape Roundup - February 6th, 2012
 url: http://kinlane.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
-source: http://kinlane.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      <strong>From the <a title="Facebook Blog" href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
 </p>

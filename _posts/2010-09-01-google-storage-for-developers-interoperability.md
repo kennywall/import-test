@@ -2,12 +2,9 @@
 layout: post
 title: Google Storage for Developers Interoperability
 url: http://kinlane.com/2010/09/01/google-storage-for-developers-interoperability/
-source: http://kinlane.com/2010/09/01/google-storage-for-developers-interoperability/
-domain: kinlane.com
 image: http://code.google.com/images/code_labs_logo.gif
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Google-Developer-Storage" src="http://code.google.com/images/code_labs_logo.gif" alt="" align="right" />I finally got my <a href="http://code.google.com/apis/storage/" target="_blank">Google Storage for Developers</a> email invite the other day. They promised attendees of Google I/O would get them quicker, it took 3 months. I clicked on the link in my email and requested my keys and logged into the <a href="https://sandbox.google.com/storage/" target="_blank">Google Storage Manager</a>. It has a pretty basic interface for managing your buckets and objects. Just like <a href="../category/amazon/amazon-s3/">Amazon S3</a>. Then I wanted to test out the interoperability of it. Google claims:
 </p>

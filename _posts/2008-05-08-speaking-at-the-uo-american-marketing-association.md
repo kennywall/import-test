@@ -2,12 +2,9 @@
 layout: post
 title: Speaking at the UO American Marketing Association
 url: http://kinlane.com/2008/05/08/speaking-at-the-uo-american-marketing-association/
-source: http://kinlane.com/2008/05/08/speaking-at-the-uo-american-marketing-association/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I spoke last night at the <a href="http://ama.uoregon.edu/">UOAMA</a> which is a student run marketing organization that aims to connect students with professional marketers and offer insight into the marketing profession through the avenues of solid leadership, strong communication, real-world marketing experience, and charitable involvement.
      <br />

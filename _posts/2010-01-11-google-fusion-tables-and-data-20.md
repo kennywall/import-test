@@ -2,12 +2,9 @@
 layout: post
 title: Google Fusion Tables and Data 2.0
 url: http://kinlane.com/2010/01/11/1205/
-source: http://kinlane.com/2010/01/11/1205/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I pulled this from the <a href="http://googleresearch.blogspot.com/2009/06/google-fusion-tables.html">Google Research Blog</a>. I was going to write my own, but they said it all. I just modified a little:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: My Data in the US or EU Cloud
 url: http://kinlane.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
-source: http://kinlane.com/2009/04/15/my-data-in-the-us-or-eu-cloud/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p id="__mce">
      I was sitting in a pub last night drinking a beer and organizing my home photos so I could share with my ex-wife.
 </p>

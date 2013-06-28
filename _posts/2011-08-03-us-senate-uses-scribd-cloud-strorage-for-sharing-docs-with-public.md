@@ -2,12 +2,9 @@
 layout: post
 title: US Senate Uses Scribd Cloud Strorage for Sharing Docs with Public
 url: http://kinlane.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
-source: http://kinlane.com/2011/08/03/us-senate-uses-scribd-cloud-strorage-for-sharing-docs-with-public/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/us-senate-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/us-senate-logo.jpg" alt="" width="150" align="right" /> I stumbled across a great post on<a title="MediaBistro" href="http://www.mediabistro.com/">MediaBistro</a>called, <a title="The US Senate Adopts Scribd for Sharing Docs with Public" href="http://www.mediabistro.com/ebooknewser/the-us-senate-adopts-scribd-for-sharing-docs-with-public_b14113">The US Senate Adopts Scribd for Sharing Docs with Public</a>. The Rules Committee of the US Senate<a title="released a report yesterday" href="http://www.scribd.com/doc/61469627/Scribd-included-in-US-Senate-Rules-Committee-memo-introducing-technologies-available-to-Members">released a report yesterday</a>where it recommended a number of services for Senators and their staffs to use:
 </p>

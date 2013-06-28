@@ -2,12 +2,9 @@
 layout: post
 title: Facebook opens up Javascript Library for their API
 url: http://kinlane.com/2008/01/27/facebook-opens-up-javascript-library-for-their-api/
-source: http://kinlane.com/2008/01/27/facebook-opens-up-javascript-library-for-their-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      It isn't quite embracing OpenSocial, but with their latest joining of the data portability as well as now opening up the JavaScript client library which allows you to make Facebook API calls from any web site, Facebook is getting closer to being fully open.
      <br />

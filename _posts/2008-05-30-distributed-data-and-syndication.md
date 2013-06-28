@@ -2,12 +2,9 @@
 layout: post
 title: Distributed Data and Syndication
 url: http://kinlane.com/2008/05/30/distributed-data-and-syndication/
-source: http://kinlane.com/2008/05/30/distributed-data-and-syndication/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am building out a pretty complex system that really seems like a lot of overhead to get some pretty basic systems up.
      <br />

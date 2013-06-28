@@ -2,12 +2,9 @@
 layout: post
 title: Security of My Personal Identity [Gawker]
 url: http://kinlane.com/2010/12/12/security-of-my-personal-identity/
-source: http://kinlane.com/2010/12/12/security-of-my-personal-identity/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/gawker_logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.nytimes.com/2010/12/13/business/media/13gawker.html"><img src="http://kinlane-productions.s3.amazonaws.com/gawker_logo.jpg" alt="" width="300" align="right" /></a>I'm watching the <a href="http://www.nytimes.com/2010/12/13/business/media/13gawker.html?partner=rss&amp;emc=rss" target="_blank">scene unfold with Gawker media</a>, and thinking about the security of my personal identity. The security of our personal online identities has <strong>ALWAYS</strong> been important, it just has a spotlight on it currently with Wikileaks and all the high profile DDOS and intrusive attacks in the last couple of weeks. My first thought is how thankful I am I use a 3 tier username / password structure for all of my accounts. This means I have 3 different sets of username / passwords I use:
 </p>

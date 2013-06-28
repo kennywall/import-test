@@ -2,12 +2,9 @@
 layout: post
 title: Marketing Using Facebook
 url: http://kinlane.com/2008/03/04/marketing-using-facebook/
-source: http://kinlane.com/2008/03/04/marketing-using-facebook/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was just reading <a href="http://www.digitalpodcast.com/podcastnews/2008/03/03/facebook-marketing-opportunties/">Facebook Marketing Opportunities</a> over at <span class="c1">Digital Podcast.</span>
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: API Postive Feedback Loop
 url: http://kinlane.com/2010/08/21/api-postive-feedback-loop/
-source: http://kinlane.com/2010/08/21/api-postive-feedback-loop/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      A positive feedback loop can occur whenever an API becomes popular, it keeps becoming more and more popular due to network effects. The most important network effects are:
 </p>

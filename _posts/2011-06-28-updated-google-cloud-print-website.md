@@ -2,12 +2,9 @@
 layout: post
 title: Updated Google Cloud Print Website
 url: http://kinlane.com/2011/06/28/updated-google-cloud-print-website/
-source: http://kinlane.com/2011/06/28/updated-google-cloud-print-website/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Mimeo-Google Cloud Print" href="http://developer.mimeo.com" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg" alt="" width="200" align="right" /></a>Google updated the <a title="Google Cloud Print website" href="http://code.google.com/apis/cloudprint/docs/overview.html">Google Cloud Print website</a> today with all new documentation, code samples and other goodies to help get up and running using Google Cloud Print. The restructured site pulls together months of learning from behind the scenes by Google, partners and developers on the GCP platform. The new site starts with a introduction to Google Cloud Print and walks you through each of the components of the Google Cloud Print architecture:
 </p>

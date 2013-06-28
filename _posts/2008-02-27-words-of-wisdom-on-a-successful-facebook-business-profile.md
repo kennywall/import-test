@@ -2,12 +2,9 @@
 layout: post
 title: Words of Wisdom on a Successful Facebook Business Profile
 url: http://kinlane.com/2008/02/27/words-of-wisdom-on-a-successful-facebook-business-profile/
-source: http://kinlane.com/2008/02/27/words-of-wisdom-on-a-successful-facebook-business-profile/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was reading a post on <a href="http://bernaisesource.blog.com/">BernaiseSource</a> called <a href="http://bernaisesource.blog.com/2775040/">Putting a Face on Social Networks: Corporate Facebook Pages</a>. It is another chapter in the ongoing discussion of whether to build your own social network or participate in existing social networks where your users already exist.This post focuses primarily on deploying of a business social network profile on Facebook. There are 3 company success stories I found interesting and sum of potentially successful strategies.<strong>Blockbuster -</strong> Karen Raskopf, senior vice president of corporate communications at Blockbuster, wrote:
      <br />

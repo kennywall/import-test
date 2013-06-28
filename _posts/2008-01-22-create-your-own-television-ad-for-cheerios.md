@@ -2,12 +2,9 @@
 layout: post
 title: Create your own television ad for Cheerios
 url: http://kinlane.com/2008/01/22/create-your-own-television-ad-for-cheerios/
-source: http://kinlane.com/2008/01/22/create-your-own-television-ad-for-cheerios/
-domain: kinlane.com
 image: http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s320/cheerios.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s1600-h/cheerios.jpg"><img class="c1" src="http://bp3.blogger.com/_9OGzs28s_k4/R5WwVUgj4BI/AAAAAAAAAvE/U1pDVL-S6Rg/s320/cheerios.jpg" alt="" id="BLOGGER_PHOTO_ID_5158222828551790610" border="0" /></a>Everyone is getting in on the <a href="http://www.socialmediasquad.com">social media marketing</a> game and encouraging <a href="http://www.videosquad.us">users to generate video content</a> seems to be a favorite.
      <br />

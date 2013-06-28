@@ -2,12 +2,9 @@
 layout: post
 title: Building vs. Buying My API Area
 url: http://kinlane.com/2011/03/20/building-vs-buying-my-api-area/
-source: http://kinlane.com/2011/03/20/building-vs-buying-my-api-area/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png" alt="" width="250" align="right" />For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community. I looked at the three major API service providers, <a title="Mashery" href="http://www.mashery.com">Mashery</a>, <a title="Apigee" href="http://www.apigee.com">Apigee</a>, and <a title="3Scale" href="http://www.3scale.net">3Scale</a>. I also took a look at a new player, <a title="Mashape" href="http://www.mashape.com">Mashape</a>. After four months, whats the plan? I'm going to build my own API area. Keep in mind, I already have a REST API with everything I need. I just don't have any supporting area, metrics, or security tools. I really like what the API service providers offer.<img class="c1" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/apigee-logo.gif" alt="" width="250" align="right" />
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: API Review - Scribd
 url: http://kinlane.com/2010/09/01/api-review-scribd/
-source: http://kinlane.com/2010/09/01/api-review-scribd/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.scribd.com/developers" target="_blank"><img class="alignnone c1" title="Scribd" src="http://kinlane-productions.s3.amazonaws.com/Scribd.PNG" alt="" width="132" height="46" align="right" /></a>I have been <a href="http://www.kinlane.com/2010/08/application-programming-interfaces-api/">reviewing a lot of APIs</a> lately. I"m evaluating their potential for integration into applications. As I'm going through I"m also evaluating how they deliver their API community. I was checking out the <a href="http://www.scribd.com/developers" target="_blank">Scribd API</a> tonight, and I like their delivery. Its pretty straightforward. It has the following API building blocks:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Standards for Managing Clouds
 url: http://kinlane.com/2010/07/27/standards-for-managing-clouds/
-source: http://kinlane.com/2010/07/27/standards-for-managing-clouds/
-domain: kinlane.com
 image: http://www.dmtf.org/images/headermain/logo_dmtf.gif
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.dmtf.org/home" target="_blank"><img class="alignnone c1" title="Distributed Management Task Force" src="http://www.dmtf.org/images/headermain/logo_dmtf.gif" alt="" width="128" height="43" align="right" />Distributed Management Task Force</a> (DMTF) announced the availability of the final two documents produced by its Open Cloud Standards Incubator, which is working to establish a <a href="http://www.dmtf.org/about/cloud-incubator" target="_blank">strategy for cloud standards development</a>. The documents: are
 </p>

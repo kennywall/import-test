@@ -2,12 +2,9 @@
 layout: post
 title: Establishing Your Profile Real Estate
 url: http://kinlane.com/2008/06/19/establishing-your-profile-real-estate/
-source: http://kinlane.com/2008/06/19/establishing-your-profile-real-estate/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I think I've talked on this topic before. I am going through and setting up a series of MySpace profiles for a client and establishing several "conversational" profiles so they can reach a certain audience.
      <br />

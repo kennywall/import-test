@@ -2,12 +2,9 @@
 layout: post
 title: Read It Later Binder with Instapaper and Mimeo Connect
 url: http://kinlane.com/2011/06/02/read-it-later-binder-with-instaper-and-mimeo-connect/
-source: http://kinlane.com/2011/06/02/read-it-later-binder-with-instaper-and-mimeo-connect/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png" alt="" width="125" align="right" />I do a lot of reading on topics ranging from APIs to Printing. I read articles, white-papers and other news from a wide variety of sources on my desktop, laptop, tablet and my mobile phone. When I come across longer articles I tend to save them for reading later, using a tool called <a title="Instpaper" href="http://www.instapaper.com">Instapaper</a>.
 </p>

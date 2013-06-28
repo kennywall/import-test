@@ -2,12 +2,9 @@
 layout: post
 title: Helping Voters Register with the Cost of Freedom Project
 url: http://kinlane.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
-source: http://kinlane.com/2012/01/29/helping-voters-register-with-the-cost-of-freedom-project/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Cost-Of-Freedom-Map.png
 ---
 {% include JB/setup %}
-
 <div>
      <p>
           <a href="http://www.costofinfo.info/"><img class="aligncenter size-medium wp-image-533" title="Cost-Of-Freedom-Map" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Cost-Of-Freedom-Map-300x259.png" alt="" width="300" height="259" align="right" /></a>Last week during the <a title="Hackathon for Social Good in New York City" href="http://www.apievangelist.com/events/hackathon_for_social_good.php">Hackathon for Social Good in New York City</a>, I was fortunate enough to be connected with Faye Anderson (<a href="https://twitter.com/#!/andersonatlarge">@andersonatlarge</a>) of the <a title="Cost of Freedom Project" href="http://www.costoffreedom.info/">Cost of Freedom Project</a>.  The Hackathon for Social Good was put on my <a title="WebVisions" href="http://www.webvisionsevent.com/">WebVisions</a>, using the hackathon model to further projects that are making a social impact in our lives.

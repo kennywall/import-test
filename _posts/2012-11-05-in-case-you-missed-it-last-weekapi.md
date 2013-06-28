@@ -2,12 +2,9 @@
 layout: post
 title: In Case You Missed It Last Week...(API)
 url: http://kinlane.com/2012/11/05/in-case-you-missed-it-last-week…api/
-source: http://kinlane.com/2012/11/05/in-case-you-missed-it-last-week…api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <table>
      <tbody>
           <tr>

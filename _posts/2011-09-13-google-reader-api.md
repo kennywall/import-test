@@ -2,12 +2,9 @@
 layout: post
 title: Google Reader API
 url: http://kinlane.com/2011/09/13/google-reader-api/
-source: http://kinlane.com/2011/09/13/google-reader-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.google.com/reader"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg" alt="" width="290" align="right" /></a>One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications. Well except for one application, <a href="http://www.google.com/reader">Google Reader</a>. Google has never made an API for Google Reader. It onlyallowsyou to use RSS feeds and sharing them publicly. I've always wanted to get at thewealthof knowledge that is curated daily in my Google Reader. So I tend to look regularly to see if they have put one out. Tonight I came across a <a href="http://code.google.com/p/google-reader-api/">Google Code project</a> that says it:
 </p>

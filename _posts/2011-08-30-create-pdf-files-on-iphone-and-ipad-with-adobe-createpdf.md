@@ -2,12 +2,9 @@
 layout: post
 title: Create PDF Files on iPhone and iPad with Adobe CreatePDF
 url: http://kinlane.com/2011/08/30/create-pdf-files-on-iphone-and-ipad-with-adobe-createpdf/
-source: http://kinlane.com/2011/08/30/create-pdf-files-on-iphone-and-ipad-with-adobe-createpdf/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/adobe-create-pdf-ios-screenshot.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/adobe-create-pdf-ios-screenshot.jpg" alt="" width="250" align="right" />Adobe just launched a new<a title="iOS version of Create PDF" href="http://blogs.adobe.com/acrobat/2011/08/create-pdf-on-ios.html">iOS version of Adobe CreatePDF</a>, bringing Acrobat-like PDF creation to iPhone and iPad mobile devices using Adobe's online PDF Creation service for conversion of files to PDF. CreatePDF iOS edition features include:
 </p>

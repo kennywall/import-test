@@ -2,12 +2,9 @@
 layout: post
 title: Visualize Big Data with Google Public Data Explorer
 url: http://kinlane.com/2011/02/16/visualize-big-data-with-google-public-data-explorer/
-source: http://kinlane.com/2011/02/16/visualize-big-data-with-google-public-data-explorer/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-public-data-explorer.png
 ---
 {% include JB/setup %}
-
 <p>
      Google launched a <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">powerful new big data visualization tool</a> today. The <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">Google Public Data Explorer</a> allows users to upload their own datasets for visualization and exploration. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google/google-public-data-explorer.png" alt="" width="300" align="right" /> The Public Data Explorer requires your datasets be described using the <a href="http://code.google.com/apis/publicdata/" target="_blank">Dataset Publishing Language</a> (DSPL), an open, XML-based metdata format optimized for data visualization. DSPL provides a framework for:
 </p>

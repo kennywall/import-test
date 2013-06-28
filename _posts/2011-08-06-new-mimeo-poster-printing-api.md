@@ -2,12 +2,9 @@
 layout: post
 title: New Mimeo Poster Printing API
 url: http://kinlane.com/2011/08/06/new-mimeo-poster-printing-api/
-source: http://kinlane.com/2011/08/06/new-mimeo-poster-printing-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Mashape API Platform" href="http://www.mashape.com/"><img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png" alt="" width="200" align="right" /></a>When developers come to<a title="Mimeo Connect" href="http://developer.mimeo.com/">Mimeo Connect</a>, they tend to have one thing in mind--printing from their application. The<a title="Mimeo Cloud Print API" href="http://developer.mimeo.com/">Mimeo Connect Cloud Print API</a>allows you to print a lot of different type of business documents, but usually developers have a specific type in mind. Because of this many developers don't have the time to setup their Mimeo.com accounts, and build the documents they are looking to print. They just want to print. To help address this I am playing around some new ways to deliver printing APIs. Recently I setup a new<a title="Poster Printing API" href="http://www.mashape.com/apis/Poster+Printing+API">Poster Printing API</a>using the<a title="Mashape API Platform" href="http://www.mashape.com/">Mashape API platform</a>. Mashape allowed me to quickly add a layer on top of our existing API, that only prints posters. Instead of using Document IDs like the main system, it just takes settings like poster size, paper stock, lamination and mounting. The new Mimeo Poster Printing API has 5 methods: <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/posters-sample.png" alt="" align="right" />
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Proofing Print Documents From Amazon S3
 url: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-source: http://kinlane.com/2011/01/26/proofing-print-documents-from-amazon-s3/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /> I have put together a demonstration of how to <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-amazon-s3-api-and-prepare-proof.php" target="_blank">pull a PDF file from Amazon S3 and the proof it with Mimeo Connect</a>. You will need:
 </p>

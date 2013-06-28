@@ -2,12 +2,9 @@
 layout: post
 title: FREE Monitoring of Amazon EC2 Instances
 url: http://kinlane.com/2010/12/03/free-monitoring-of-amazon-ec2-instances/
-source: http://kinlane.com/2010/12/03/free-monitoring-of-amazon-ec2-instances/
-domain: kinlane.com
 image: http://media.amazonwebservices.com/blog/cw_ec2_metrics.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://aws.amazon.com/cloudwatch/" target="_self">Amazon CloudWatch</a> has matured and now is available with a Freemium tier for monitoring your EC2 instance at no charge. <img src="http://media.amazonwebservices.com/blog/cw_ec2_metrics.png" alt="" width="250" align="right" /> Amazon Cloudwatch allows you to monitor:
 </p>

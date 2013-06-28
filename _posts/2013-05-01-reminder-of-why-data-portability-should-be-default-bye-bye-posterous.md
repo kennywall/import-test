@@ -2,12 +2,9 @@
 layout: post
 title: Reminder of Why Data Portability Should Be Default: Bye Bye Posterous
 url: http://kinlane.com/2013/05/01/reminder-of-why-data-portability-should-be-default-bye-bye-posterous/
-source: http://kinlane.com/2013/05/01/reminder-of-why-data-portability-should-be-default-bye-bye-posterous/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/posterous-spaces-is-no-longer-available.png
 ---
 {% include JB/setup %}
-
 <p>
      I was a Posterous user. I didn't rely on the platform for anything.  It was just, yet another endpoint in my world of content production. So I was not that upset when they announced they were shutting down(I would link to post, but its gone).  But I was just checking the blog feed of an API that I monitor.  It came up in my alert dashboard as a feed that wasn't pulling.  I clicked on the link to test, and:
 </p>

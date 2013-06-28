@@ -2,12 +2,9 @@
 layout: post
 title: Essentials for My REST Print API Area
 url: http://kinlane.com/2010/11/13/essentials-for-my-rest-print-api-area/
-source: http://kinlane.com/2010/11/13/essentials-for-my-rest-print-api-area/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have established the phase one for my Mimeo Connect REST Print API. I need just the essentials to get the API up and running. I am focusing on providing just the following API building blocks:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Usually When Developers Are Mean, It Is About Power
 url: http://kinlane.com/2013/03/30/usually-when-devs-are-mean-it-is-about-power/
-source: http://kinlane.com/2013/03/30/usually-when-devs-are-mean-it-is-about-power/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/angry-bird.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.fanpop.com/clubs/angry-birds-are-amazing/images/32024326/title/angry-bird-photo" target="_blank"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/angry-bird.jpg" alt="" width="250" align="right" /></a>
 </p>

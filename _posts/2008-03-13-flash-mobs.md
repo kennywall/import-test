@@ -2,12 +2,9 @@
 layout: post
 title: Flash Mobs
 url: http://kinlane.com/2008/03/13/flash-mobs/
-source: http://kinlane.com/2008/03/13/flash-mobs/
-domain: kinlane.com
 image: http://www.youtube.com/v/jwMj3PJDxuo&amp;rel=1&amp;border=0
 ---
 {% include JB/setup %}
-
 <p>
      Was just reading a cool post about <a href="http://www.ignitesocialmedia.com/what-is-a-flash-mob/">Flash Mobs on Ignite Media</a>. Very cool concept.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Event and Conference Internet
 url: http://kinlane.com/2010/06/16/event-and-conference-internet-connectivity/
-source: http://kinlane.com/2010/06/16/event-and-conference-internet-connectivity/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/steve-jobs-keynote.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" title="WWDC Keynote" src="http://kinlane-productions.s3.amazonaws.com/events-in-the-clouds/steve-jobs-keynote.jpg" alt="" width="250" align="right" />After writing a little about the <a href="http://www.kinlane.com/2010/06/event-broadband-internet/">pathetic state of event and conference Wifi and 3G Internet</a> I've continued going through my notes on this subject. I really need to make progress in this area for events I manage, so I would like to put out the word that I'm looking for partners, both financial and technical to make a company that could deliver in this area. Here is what I envision. A company that can deliver:
 </p>

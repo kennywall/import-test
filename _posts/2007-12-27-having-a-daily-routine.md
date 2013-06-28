@@ -2,12 +2,9 @@
 layout: post
 title: Having a daily routine...
 url: http://kinlane.com/2007/12/27/having-a-daily-routine/
-source: http://kinlane.com/2007/12/27/having-a-daily-routine/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was just reading a post by Ian Forrester called, <a href="http://www.cubicgarden.com/blojsom/blog/cubicgarden/just+life/?permalink=Is-having-a-Routine-good-bad-or-indifferent.html">Is having a Routine good, bad or indifferent?</a>.
      <br />

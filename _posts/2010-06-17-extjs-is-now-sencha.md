@@ -2,12 +2,9 @@
 layout: post
 title: ExtJS is now Sencha
 url: http://kinlane.com/2010/06/17/extjs-is-now-sencha/
-source: http://kinlane.com/2010/06/17/extjs-is-now-sencha/
-domain: kinlane.com
 image: http://www.sencha.com/assets/images/logo-sencha-sm.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Sencha" src="http://www.sencha.com/assets/images/logo-sencha-sm.png" alt="" width="120" height="50" align="right" />The <a href="http://www.sencha.com/blog/tag/html5/">ExtJS team is really excited about HTML 5</a>. They see HTML 5 as the future. I definitely agree. <a href="http://www.sencha.com/products/js/">Ext JS</a>, <a href="http://www.jqtouch.com/">jQTouch</a>, and <a href="http://raphaeljs.com/">Rapha�l</a> are combining into a new entity called <a href="http://www.sencha.com/blog/2010/06/14/ext-js-jqtouch-raphael-sencha/">Sencha</a>. I have used <a href="http://www.sencha.com/products/js/">Ext JS</a> for several web applications and internal adminstration systems. It is one of my favorite JavaScript frameworks that I keep coming back to. I'm excited to see them fully embracing HTML5. One thing I really enjoy about <a href="http://www.sencha.com/products/js/">Ext JS</a> is that I don't have to think about the presentation layer much. They just deliver. They have been showcasing their support for HTML 5 also in a flurry of blog posts:
 </p>

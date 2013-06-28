@@ -2,12 +2,9 @@
 layout: post
 title: Managing My Google Alerts
 url: http://kinlane.com/2011/06/12/managing-my-google-alerts/
-source: http://kinlane.com/2011/06/12/managing-my-google-alerts/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg" alt="" width="250" align="right" />I am making some adjustments to my <a title="Google Alerts" href="http://www.google.com/alerts/">Google Alerts</a> today. I removed a few and added a few alerts. Here are my current Google Alerts:
 </p>

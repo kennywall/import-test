@@ -2,12 +2,9 @@
 layout: post
 title: Speed of Your Web Site, Google and the Cloud
 url: http://kinlane.com/2010/05/03/speed-of-your-web-site-google-and-the-cloud/
-source: http://kinlane.com/2010/05/03/speed-of-your-web-site-google-and-the-cloud/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I've seen several post by Google that the speed of your web site now matters a great deal in the relevance of your site.
 </p>

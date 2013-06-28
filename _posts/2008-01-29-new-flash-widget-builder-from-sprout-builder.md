@@ -2,12 +2,9 @@
 layout: post
 title: New Flash Widget Builder from Sprout Builder
 url: http://kinlane.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
-source: http://kinlane.com/2008/01/29/new-flash-widget-builder-from-sprout-builder/
-domain: kinlane.com
 image: http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s320/screen+shot+home+page.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s1600-h/screen+shot+home+page.jpg"><img class="c1" src="http://bp0.blogger.com/_9OGzs28s_k4/R5_cjdOuW6I/AAAAAAAAAv8/4shiuMgvKW8/s320/screen+shot+home+page.jpg" alt="" id="BLOGGER_PHOTO_ID_5161086199689796514" border="0" /></a>I was just playing around with the new widget builder from <a href="http://sproutbuilder.com/">Sprout Builder</a>, I found it over on Techcrunch - <a href="http://www.techcrunch.com/2008/01/29/sprout-the-online-wysiwyg-editor-for-flash/">Sprout: The Online WYSIWYG Editor for Flash</a>.
      <br />

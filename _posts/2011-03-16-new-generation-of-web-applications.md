@@ -2,12 +2,9 @@
 layout: post
 title: New Generation of Web Applications
 url: http://kinlane.com/2011/03/16/new-generation-of-web-applications/
-source: http://kinlane.com/2011/03/16/new-generation-of-web-applications/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      I'm noticing a pattern of simple new web applications that focus on solving a single problem. This new generation of web applications are adhering to the core principles of <a href="http://www.kinlane.com/category/software-as-a-service-saas/">Software as a Service</a> (SaaS). They provide tools in 3 formats:
 </p>

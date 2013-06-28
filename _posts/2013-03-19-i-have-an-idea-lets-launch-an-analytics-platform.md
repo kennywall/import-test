@@ -2,12 +2,9 @@
 layout: post
 title: I Have An Idea, Lets Launch an Analytics Platform
 url: http://kinlane.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/
-source: http://kinlane.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/analytics-trend.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/analytics-trend.jpg" alt="" width="250" align="right" />
 </p>

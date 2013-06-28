@@ -2,12 +2,9 @@
 layout: post
 title: Tear Jerker on NPR
 url: http://kinlane.com/2008/05/30/tear-jerker-on-npr/
-source: http://kinlane.com/2008/05/30/tear-jerker-on-npr/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Those of you know me, know that I'm an NPR junkie....I love the stories and music. I listen to the StoryCorp programs every week. Many touching stories.
      <br />

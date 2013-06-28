@@ -2,12 +2,9 @@
 layout: post
 title: Large Companies Using Social Media Marketing
 url: http://kinlane.com/2007/12/31/large-companies-using-social-media-marketing/
-source: http://kinlane.com/2007/12/31/large-companies-using-social-media-marketing/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Just saw a commercial from Mountain Dew about their new soda creation web site, <a href="http://www.dewmocracy.com/">www.dewmocracy.com</a>.
      <br />

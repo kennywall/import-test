@@ -2,12 +2,9 @@
 layout: post
 title: Updated Blog Sharing
 url: http://kinlane.com/2011/07/04/updated-blog-sharing/
-source: http://kinlane.com/2011/07/04/updated-blog-sharing/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/core-share-buttons.png
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/core-share-buttons.png" alt="" align="right" />I updated the sharing tools on blog.apievangelist.com today. Previously it had eight buttons, representing the top social network channels that drive traffic to the blog. I'm changing it, putting emphasis on:
 </p>

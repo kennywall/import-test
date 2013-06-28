@@ -2,12 +2,9 @@
 layout: post
 title: Image Recognition vs. QR Codes
 url: http://kinlane.com/2011/07/31/image-recognition-vs-qr-codes/
-source: http://kinlane.com/2011/07/31/image-recognition-vs-qr-codes/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png" alt="" align="right" />I wrote a post last month called, <a title="Are QR Codes Relevant Anymore" href="http://www.kinlane.com/2011/06/are-qr-codes-relevant-anymore/">Are QR Codes Relevant Anymore</a>? In a world where everyone has a camera phone, and with image recognition technology like <a title="Google Googles" href="http://www.google.com/mobile/goggles/">Google Googles</a>, are QR codes a realistic way to bridge the physical world with our online lives? I have been a big fan of QR codes for years, and I think other supporters will keep them alive for years to come. But there are a lot of really cool technologies emerging, like <a title="Moodstocks API" href="https://github.com/Moodstocks/moodstocks-api/wiki/api-v2-doc">Moodstocks API</a>. The Moodstocks API is low cost image recognition service, that allows any developer to build in object recognition into their own applications. Developers can record object reference images with the API, that set a definition for searches using the image recognition API. This allows you to create an image definition of any object you like, and attach any meaning to it you wish via your application. You can even use Moodstocks API for barcode and QR code recognition. So with this kind of object recognition power, is the concept of a QR code even relevant? There are some really cool apps being built around the Moodstocks API:
 </p>

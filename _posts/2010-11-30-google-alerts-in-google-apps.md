@@ -2,12 +2,9 @@
 layout: post
 title: Google Alerts in Google Apps
 url: http://kinlane.com/2010/11/30/google-alerts-in-google-apps/
-source: http://kinlane.com/2010/11/30/google-alerts-in-google-apps/
-domain: kinlane.com
 image: http://2.bp.blogspot.com/_4S6buKKlhfQ/TPU-od0Zm5I/AAAAAAAAAFE/hsE-VYcv_HI/app_sphere_alerts.png
 ---
 {% include JB/setup %}
-
 <p>
      Google is rapidly retooling many of the FREE applications we've come to know, and launching within the <a href="http://www.google.com/a/" target="_blank">Google Apps</a> cloud platform. They released <a href="http://googleenterprise.blogspot.com/2010/11/now-available-with-google-apps-google_30.html" target="_blank">Google Alerts in the Google Apps</a> area today, allowing you to setup alerts within your companies domain. <img src="http://2.bp.blogspot.com/_4S6buKKlhfQ/TPU-od0Zm5I/AAAAAAAAAFE/hsE-VYcv_HI/app_sphere_alerts.png" alt="" width="250" align="right" /> I use <a href="http://www.google.com/alerts" target="_blank">Google Alerts</a> to help me discover new information on a daily basis. The keywords and phrases I search for change from week to week depending on my focus, currently they are:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Perfect Example of Application Built on Top of Amazon Web Services
 url: http://kinlane.com/2008/01/28/perfect-example-of-application-built-on-top-of-amazon-web-services/
-source: http://kinlane.com/2008/01/28/perfect-example-of-application-built-on-top-of-amazon-web-services/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Sonian is about to launch their new data archive services dubbed the <a href="http://soniannetworks.com/product.html">Sonian Archive SA2</a>.
      <br />

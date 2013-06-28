@@ -2,12 +2,9 @@
 layout: post
 title: Building Hyp3rL0cal Web and Mobile Apps
 url: http://kinlane.com/2012/01/12/building-hyp3rl0cal-web-and-mobile-apps/
-source: http://kinlane.com/2012/01/12/building-hyp3rl0cal-web-and-mobile-apps/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-Cloud-HyperLocal.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://hyp3rl0cal.com/"><img class="aligncenter size-medium wp-image-486" title="Tag-Cloud-HyperLocal" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Tag-Cloud-HyperLocal-300x143.png" alt="" width="300" height="143" align="right" /></a>I needed a way to tell the story of the <a title="CityGrid API" href="http://developer.citygridmedia.com/">CityGrid API</a> from the perspective of cities across the United States.  The way I tell stories is through programming and hacking on APIs, so I needed a project that would allow me to hack on CityGrid's <a title="places" href="http://docs.citygridmedia.com/display/citygridv2/Places+API">places</a>, <a title="reviews" href="http://docs.citygridmedia.com/display/citygridv2/Reviews+API">reviews</a> and <a title="offers" href="http://docs.citygridmedia.com/display/citygridv2/Offers+API">offers</a> as well as play with different ways of using the <a title="web, mobile and custom advertising" href="http://docs.citygridmedia.com/display/citygridv2/Ads+by+CityGrid">web, mobile and custom advertising</a> we offer.
 </p>

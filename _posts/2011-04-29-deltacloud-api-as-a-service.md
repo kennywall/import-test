@@ -2,12 +2,9 @@
 layout: post
 title: DeltaCloud API as a Service
 url: http://kinlane.com/2011/04/29/deltacloud-api-as-a-service/
-source: http://kinlane.com/2011/04/29/deltacloud-api-as-a-service/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/delta-cloud-api.png
 ---
 {% include JB/setup %}
-
 <p>
      The <a title="DeltaCloud aPI" href="http://incubator.apache.org/deltacloud/">DeltaCloud API</a> provides a single API interface to work with multiple cloud computing providers. With the<a title="DeltaCloud aPI" href="http://blog.apievangelist.com/2011/04/25/deltacloud-universal-cloud-api/">DeltaCloud API</a> you can start an instance on an internal cloud, then with the same code start another on<a href="http://aws.amazon.com/ec2/" target="_blank">Amazon EC2</a> or<a href="http://www.rackspace.com/" target="_blank">Rackspace</a>. The DeltaCloud Core provides a RESTful API, and backward compatibility across different versions of support cloud platforms. <a href="http://deltacloud.org/index.html" target="_blank">Deltacloud API</a> supports the following providers:<img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/delta-cloud-api.png" alt="" width="350" align="right" />
 </p>

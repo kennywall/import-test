@@ -2,12 +2,9 @@
 layout: post
 title: Quora Exposes JSON API
 url: http://kinlane.com/2011/01/07/2497/
-source: http://kinlane.com/2011/01/07/2497/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/quora-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      Quora has exposed a <a href="http://www.apievangelist.com/definition-json.php" target="_blank">JSON</a>-based data API that allows users to access data about a currently logged-in user. To request particular fields about the currently logged-in user, you can add fields to a query string and append to <a href="Quora%20Exposes%20JSON%20API" target="_blank">http://api.quora.com/api/logged_in_user</a>. Currently supported fields include: <img src="http://kinlane-productions.s3.amazonaws.com/quora-logo.jpg" alt="" width="200" align="right" />
 </p>

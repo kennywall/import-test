@@ -2,12 +2,9 @@
 layout: post
 title: Get Live Firefox Chat Support from Mozilla over at LifeHacker
 url: http://kinlane.com/2007/12/31/get-live-firefox-chat-support-from-mozilla-over-at-lifehacker/
-source: http://kinlane.com/2007/12/31/get-live-firefox-chat-support-from-mozilla-over-at-lifehacker/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was reading <a href="http://lifehacker.com/339206/get-live-firefox-chat-support-from-mozilla">Get Live Firefox Chat Support from Mozilla over at LifeHacker</a> and it reminded me of one of my application ideas from my notebook.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: The Costs Of Being A Creative
 url: http://kinlane.com/2008/01/11/the-costs-of-being-a-creative/
-source: http://kinlane.com/2008/01/11/the-costs-of-being-a-creative/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was reading a post by Stowe Boyd called <a href="http://www.stoweboyd.com/message/2008/01/the-costs-of-be.html">The Costs Of Being A Creative</a>. This blog post really rings true in my world.
      <br />

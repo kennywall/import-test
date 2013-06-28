@@ -2,12 +2,9 @@
 layout: post
 title: Commercial Cloud Print Queue
 url: http://kinlane.com/2011/03/13/commercial-print-queue/
-source: http://kinlane.com/2011/03/13/commercial-print-queue/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.mimeo.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>As I'm working on different cloud printing solutions I am considering the practical use of these technologies in conjunction with <a title="Mimeo Commercial Printing" href="http://www.mimeo.com">Mimeo commercial printing</a>. One area I see a very practical use of cloud printing, is developing a commercial cloud print queue. An individual or a group of people could drop all print jobs into a cloud based commercial print queue. These documents can come from <a title="Google Docs" href="http://docs.google.com">Google Docs</a>, <a title="Box.net" href="http://box.net">Box.net</a>, <a title="Dropbox" href="http://www.dropbox.com">Dropbox</a> or any other cloud storage provider. These documents are stored in queue until a specified quantity or time frame is met. Then the entire queue of print documents is sent to Mimeo using the Mimeo Connect Cloud Print API, printed, and shipped to destination as one package. Seems like using cloud printing with a commercial print queue would be a smart implementation of cloud print technology.
 </p>

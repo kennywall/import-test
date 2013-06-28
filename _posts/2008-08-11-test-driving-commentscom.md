@@ -2,12 +2,9 @@
 layout: post
 title: Test Driving co.mments.com
 url: http://kinlane.com/2008/08/11/test-driving-commentscom/
-source: http://kinlane.com/2008/08/11/test-driving-commentscom/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just test driving a new bookmarking and comment tracking tool called co.mments.com. I test drive these types of web services to see if there is a fit for use on social media marketing campaigns.
      <br />

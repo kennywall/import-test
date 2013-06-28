@@ -2,12 +2,9 @@
 layout: post
 title: Mobile Advertising Platform Round-Up
 url: http://kinlane.com/2012/03/04/mobile-advertising-platform-round-up/
-source: http://kinlane.com/2012/03/04/mobile-advertising-platform-round-up/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/CityGrid-Mobile-Advertising.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://docs.citygridmedia.com/display/citygridv2/Mobile+Ads+API"><img class="aligncenter size-full wp-image-804" title="CityGrid-Mobile-Advertising" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/03/CityGrid-Mobile-Advertising.png" alt="" width="250" align="right" /></a>I'm doing more research for my <a title="Local, Mobile, Social Stack" href="http://www.citygridmedia.com/developer/blog/tag/stack/">Local, Mobile, Social Stack</a>, and spending some time understanding the mobile advertising space.
 </p>

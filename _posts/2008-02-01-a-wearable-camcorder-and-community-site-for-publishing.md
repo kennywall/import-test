@@ -2,12 +2,9 @@
 layout: post
 title: A Wearable Camcorder and Community Site for Publishing
 url: http://kinlane.com/2008/02/01/a-wearable-camcorder-and-community-site-for-publishing/
-source: http://kinlane.com/2008/02/01/a-wearable-camcorder-and-community-site-for-publishing/
-domain: kinlane.com
 image: http://aws.typepad.com/photos/uncategorized/2008/01/30/vholdr_camera.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.vholdr.com/shoot/camera/overview"><img alt="Vholdr_camera" title="Vholdr_camera" src="http://aws.typepad.com/photos/uncategorized/2008/01/30/vholdr_camera.jpg" class="c1" border="0" /></a>Check this cool camera out. Itis a company of action sports enthusiasts and media professionals
      <br />

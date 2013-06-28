@@ -2,12 +2,9 @@
 layout: post
 title: Instagram - Doing One Thing Well
 url: http://kinlane.com/2010/10/15/instagram-doing-one-thing-well/
-source: http://kinlane.com/2010/10/15/instagram-doing-one-thing-well/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG" alt="" width="250" align="right" />I have talked in the past about <a href="http://www.kinlane.com/2009/03/one-thing-well-crm-sync-tool/">doing one thing and doing it well</a> in the technology space. A mistake I've made many times, and other developers make is trying to do too much when building applications. You build a system and try to please everyone, by including lots of features, tools, integrations and support many platforms. I always tell myself, sllow it down! Focus on one thing and do it really well. I just finished meeting the founder of <a href="http://itunes.apple.com/us/app/instagram/id389801252?mt=8#">Instagram</a> and listening to the story behind the building, and the recent launch of their IPhone based photo application. Throughout developed they focused on:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: The Guardian Is Brilliant in Supporting Relevant Events with Open Data
 url: http://kinlane.com/2013/01/17/the-guardian-is-brilliant-in-supporting-relevant-events-with-open-data/
-source: http://kinlane.com/2013/01/17/the-guardian-is-brilliant-in-supporting-relevant-events-with-open-data/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Guardian-Helicopter-Data-2.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.guardian.co.uk/news/datablog/2013/jan/16/helicopters-fly-over-london-data" target="_blank"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/guardian/Guardian-Helicopter-Data-2.png" alt="" width="200" align="right" /></a>
 </p>

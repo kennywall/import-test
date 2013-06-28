@@ -2,12 +2,9 @@
 layout: post
 title: DARPA Wants to Change the Way We Think About Computing
 url: http://kinlane.com/2010/06/26/darpa-wants-to-change-computing/
-source: http://kinlane.com/2010/06/26/darpa-wants-to-change-computing/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/darpalogo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="https://www.fbo.gov/index?s=opportunity&amp;mode=form&amp;id=3ba522c52b23884843a6639c8cbd1154&amp;tab=core&amp;_cview=0" target="_self"><strong><img class="alignnone c1" title="Darpa" src="http://kinlane-productions.s3.amazonaws.com/darpalogo.png" alt="" width="178" height="96" align="right" />DARPA wants your help to change the way we approach computing</strong></a>. Everything today depends on computers, and to meet the relentlessly increasing demands for greater performance, higher energy efficiency, ease of programmability, system dependability, and security, revolutionary new research, development, and design will be essential to enable new generations of advanced computing system capabilities and new classes of computer applications. They are looking for proposals in the following areas:
 </p>

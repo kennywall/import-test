@@ -2,12 +2,9 @@
 layout: post
 title: New York City Open Data Highlight:  Restaurant Inspection Results
 url: http://kinlane.com/2012/02/05/new-york-city-open-data-highlight--restaurant-inspection-results/
-source: http://kinlane.com/2012/02/05/new-york-city-open-data-highlight--restaurant-inspection-results/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/nyc-sanitary-inspectioin-grade.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="restaurant inspection results for New York City" href="http://nycopendata.socrata.com/Health/Restaurant-Inspection-Results/4vkw-7nck"><img class="aligncenter size-medium wp-image-597" title="nyc-sanitary-inspectioin-grade" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/nyc-sanitary-inspectioin-grade-261x300.png" alt="" width="261" height="300" align="right" /></a>The amount of open data available right now can be dizzying and overwhelming. When looking through various data repositories and data marketplaces, I am trying to identify open data sets from various cities that may be of use to <a title="CityGrid Developers" href="http://developer.citygridmedia.com/">CityGrid developers.</a>
 </p>

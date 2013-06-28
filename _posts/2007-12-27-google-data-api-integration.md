@@ -2,12 +2,9 @@
 layout: post
 title: Google Data API Integration
 url: http://kinlane.com/2007/12/27/google-data-api-integration/
-source: http://kinlane.com/2007/12/27/google-data-api-integration/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was syncing up some of my OWS Network systems with the complementing Google systems today. Such as when you post a blog entry to your blog it will post to Blogger, and when you post an calendar entry to your web site it automatically publishes to Google Calendar.
      <br />

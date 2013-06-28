@@ -2,12 +2,9 @@
 layout: post
 title: Delivery Encrypted Cloud Storage for Ruby Applications
 url: http://kinlane.com/2012/04/15/delivery-encrypted-cloud-storage-for-ruby-applications/
-source: http://kinlane.com/2012/04/15/delivery-encrypted-cloud-storage-for-ruby-applications/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/ruby_logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-ruby.png" alt="" width="200" align="right" />
 </p>

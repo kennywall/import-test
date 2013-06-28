@@ -2,12 +2,9 @@
 layout: post
 title: Gmail is Down
 url: http://kinlane.com/2008/08/11/gmail-is-down/
-source: http://kinlane.com/2008/08/11/gmail-is-down/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <table>
      <tr>
           <td nowrap="nowrap">

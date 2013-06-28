@@ -2,12 +2,9 @@
 layout: post
 title: Proofing a Scribd PDF Using Mimeo Connect
 url: http://kinlane.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
-source: http://kinlane.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Now the PDF we pulled from Scribd is proofed. With the Product ID returned from the Mimeo Proof Service we can get the details of the proof. We need to make a second call to the Proof Service and Get the Proof.
 </p>

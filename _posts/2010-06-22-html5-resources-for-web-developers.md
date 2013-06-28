@@ -2,12 +2,9 @@
 layout: post
 title: HTML5 Resources For Web Developers
 url: http://kinlane.com/2010/06/22/html5-resources-for-open-web-developers/
-source: http://kinlane.com/2010/06/22/html5-resources-for-open-web-developers/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/HTML5/HTML5-Rocks.PNG
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" title="HTML5 Rocks" src="http://kinlane-productions.s3.amazonaws.com/HTML5/HTML5-Rocks.PNG" alt="" width="250" align="right" />Google is evangelizing HTML5 big time. It is obvious that they are behind HTML5 since their Google Chrome is the furthest along in HTML 5 support. Today they launched a new <a href="http://blog.chromium.org/2010/06/html5-rocks-resource-for-open-web.html">HTML 5 resource site</a> called <a href="http://www.html5rocks.com/">HTML5Rocks</a>! They are launching the site with nine HTML5 tutorials:
 </p>

@@ -2,27 +2,11 @@
 layout: post
 title: An Author Walk-Through of a Story in Audio
 url: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
-source: http://kinlane.com/2013/04/30/an-author-walk-through-of-a-story-in-audio/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traffic-and-Weather.png
 ---
-<<<<<<< HEAD
 {% include JB/setup %}
-
 <p>
      <a href="http://trafficandweather.io/" target="_blank"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png" alt="" width="200" align="right" /></a>
-=======
-
-{% include JB/setup %}
-
-<p>
-     <a href="http://trafficandweather.io/"
-        target="_blank"><img class="c1"
-          src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"
-          alt=""
-          width="200"
-          align="right" /></a>
->>>>>>> fb9727aed3d2dba210749d7091d0652320e3f032
 </p>
 <p>
      I was finally catching up on all my podcasts this week, which includes <a href="http://trafficandweather.io/">Traffic and Weather</a>, which is an always informative source of n<span>ews and commentary podcast about APIs and the cloud hosted by </span><a href="http://twitter.com/smarx">@smarx</a><span> and </span><a href="http://twitter.com/johnsheehan">@johnsheehan</a><span> </span>

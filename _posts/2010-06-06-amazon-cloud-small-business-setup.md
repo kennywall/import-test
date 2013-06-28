@@ -2,12 +2,9 @@
 layout: post
 title: Amazon Cloud Small Business Setup
 url: http://kinlane.com/2010/06/06/amazon-cloud-small-business-setup/
-source: http://kinlane.com/2010/06/06/amazon-cloud-small-business-setup/
-domain: kinlane.com
 image: http://awsmedia.s3.amazonaws.com/logo_aws.gif
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" title="Amazon Web Services" src="http://awsmedia.s3.amazonaws.com/logo_aws.gif" alt="" width="164" height="60" align="right" />I have been in the <a href="http://aws.amazon.com/console/">Amazon Console</a> all night scaling down infrastructure after 3 months of events and conferences. This year our Amazon spend was double during the event season. Last year I pushed what my budget would allow to achieve better performance, it paid off. This year I got the thumbs up to push even further (even though I think I may have pushed a little further than I should have), with the amount to spend on processor power. Anyways, while data was moving around and <a href="http://developer.amazonwebservices.com/connect/kbcategory.jspa?categoryID=171">Amazon Machine Images (AMI)</a> were being created last night I was playing in the <a href="http://aws.amazon.com/console/">Amazon Console</a>. I really think the Amazon platform is really ready for mainstream small business cloud deployments. Most small business I have worked with have minimal needs regarding Internet technologies that fall under these areas:
 </p>

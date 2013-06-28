@@ -2,12 +2,9 @@
 layout: post
 title: Role Based Server Architecture
 url: http://kinlane.com/2009/02/11/role-based-server-architecture/
-source: http://kinlane.com/2009/02/11/role-based-server-architecture/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am really finding one consistent them across my cloud server architecture lately. It is was I am calling roles. These are server roles that meet specific business goals, such as:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Ubiquitous Oriented Architecture (UOA)
 url: http://kinlane.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
-source: http://kinlane.com/2009/04/16/ubiquitous-oriented-architecture-uoa-2/
-domain: kinlane.com
 image: http://s3.amazonaws.com/Kin-Lane-My-Documents/Uniquitous Oriented Architecture/Uniquitous Oriented Architecture.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I have been working real hard for the last couple of months to design a solid base for my companies architecture. I was seeing a new theme to my architecture planning, and as a typical geek I have to give this some name and / or achronym. So I came up with Ubiquitous Oriented Architecture (UOA). I want one platform for delivering our data using web services to any platform possible. I want to deliver event management and marketing tools through whatever channel the user wants without really noticing the difference. No matter what platform the user is on they can interact with the event, from using their mobile phone to an Adobe Air application on the desktop. So thinking of my business objective in generic terms I came up with a platform I could only call Ubiquitous Oriented Architecture (UOA), because it utilizes Software as a Service (SaaS), Platform as a Service (Paas), Web Oriented Architecture (WOA), Cloud Computing and many other popular architecture methodologies. It ultimately spans all of them to create ubiquitous focus for your architecture planning. This is just my first crack at documenting this perspective I have ben playing with. Here is a diagram. Wish I could create them like Dion Hinchcliffe.
 </p>

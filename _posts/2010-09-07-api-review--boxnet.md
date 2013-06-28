@@ -2,12 +2,9 @@
 layout: post
 title: API Review - Box.net
 url: http://kinlane.com/2010/09/07/api-review-box-net/
-source: http://kinlane.com/2010/09/07/api-review-box-net/
-domain: kinlane.com
 image: http://img.zemanta.com/zemified_e.png?x-id=fa59dff9-86aa-426d-8a23-0bb2a7091c53
 ---
 {% include JB/setup %}
-
 <p>
      I am walking through the <a href="http://developers.box.net/" target="_blank">Box.net OpenBox Developer</a> area tonight. <a href="http://www.Box.net">Box.net</a> offers a pretty robust set of API for managing files and content on the box.net platform. It is a great example of a very robust API. They get you started with:
 </p>

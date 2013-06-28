@@ -2,12 +2,9 @@
 layout: post
 title: All Side Projects Are Now Hosted on Github
 url: http://kinlane.com/2013/01/02/all-side-projects-are-now-hosted-on-github/
-source: http://kinlane.com/2013/01/02/all-side-projects-are-now-hosted-on-github/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/github-logo-basic.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png" alt="" width="150" align="right" />
 </p>

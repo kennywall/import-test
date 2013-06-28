@@ -2,12 +2,9 @@
 layout: post
 title: Definition of My Social Graph
 url: http://kinlane.com/2008/01/22/definition-of-my-social-graph/
-source: http://kinlane.com/2008/01/22/definition-of-my-social-graph/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I keep talking about what my <a href="http://www.kinlane.com/2007/11/social-networks-email-and-more.html">single social interface</a>, which I have been wrestling with as part of my social graph. Figured I better clarify for some of you what the social graph is?
      <br />

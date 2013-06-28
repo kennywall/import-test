@@ -2,12 +2,9 @@
 layout: post
 title: Sexism in the Tech Space
 url: http://kinlane.com/2012/12/30/sexism-in-the-tech-space/
-source: http://kinlane.com/2012/12/30/sexism-in-the-tech-space/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/kin-lane-serious.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-serious.jpg" alt="" width="250" align="right" />
 </p>

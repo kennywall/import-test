@@ -2,12 +2,9 @@
 layout: post
 title: Application Idea for Maintaining my Social Presence
 url: http://kinlane.com/2008/01/09/application-idea-for-maintaining-my-social-presence/
-source: http://kinlane.com/2008/01/09/application-idea-for-maintaining-my-social-presence/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have sen talk about maintaining the information you post all over the Internet and how people really don't think about the value of the information they have on the sites they use daily.
      <br />

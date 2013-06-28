@@ -2,12 +2,9 @@
 layout: post
 title: Twitter Launches New Web Analytics
 url: http://kinlane.com/2011/09/13/twitter-launches-new-web-analytics/
-source: http://kinlane.com/2011/09/13/twitter-launches-new-web-analytics/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png" alt="" width="300" align="right" />It can be difficult to truly measure with accuracy, the amount of traffic that is driven to your site from Twitter. Google Analytics and other providers are beginning to provide much deeper views into how social impacts our web traffic, but in many cases its best to get it from the source. <a title="Today Twitter announced Web Analytics" href="https://dev.twitter.com/blog/introducing-twitter-web-analytics">Today Twitter announced Web Analytics</a>, a tool that helps website administrators understand how much traffic they receive from Twitter and the effectiveness of Twitter integrations on their sites by showing:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Github for the Mac
 url: http://kinlane.com/2011/06/26/github-for-mac/
-source: http://kinlane.com/2011/06/26/github-for-mac/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github/github-mac.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Github client for the Mac" href="http://mac.github.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/github/github-mac.png" alt="" align="right" /></a><a title="Github" href="http://www.github.com">Github</a> just released a new <a title="Github client for the Mac" href="http://mac.github.com/">Github client for the Mac</a>. It provides a GUI alternative to the Github command line. Some features of the new Github for Mac are:
 </p>

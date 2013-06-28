@@ -2,12 +2,9 @@
 layout: post
 title: Store All Files at Amazon S3
 url: http://kinlane.com/2010/06/28/store-all-files-at-amazon-s3/
-source: http://kinlane.com/2010/06/28/store-all-files-at-amazon-s3/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/filetypes-2.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="../category/amazon/amazon-s3/">Amazon S3</a> <a href="http://www.kinlane.com/2010/06/cloud-storage-api-standard/">cloud storage</a> has changed the way I manage files on my networks. I am centralizing all file storage across my web site and applications to Amazon S3. All heavy file types: <img class="c1" title="Amazon S3 File Storage" src="http://kinlane-productions.s3.amazonaws.com/filetypes-2.png" alt="" width="282" height="187" align="right" />
 </p>

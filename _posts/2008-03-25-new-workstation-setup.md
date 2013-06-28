@@ -2,12 +2,9 @@
 layout: post
 title: New Workstation Setup
 url: http://kinlane.com/2008/03/25/new-workstation-setup/
-source: http://kinlane.com/2008/03/25/new-workstation-setup/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I just got a new levovo Laptop. It was presetup with Windows XP.
      <br />

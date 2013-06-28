@@ -2,12 +2,9 @@
 layout: post
 title: 3 Things To Add to Google Translate
 url: http://kinlane.com/2011/05/01/3-things-to-add-to-google-translate/
-source: http://kinlane.com/2011/05/01/3-things-to-add-to-google-translate/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-translate.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://translate.google.com">Google Translate</a> is an amazing tool. It translates those random foreign web pages I run across, and those ever growing number of emails I receive from overseas.<a href="http://translate.google.com"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google/google-translate.png" alt="" align="right" /></a> I have 3 suggestions for Google to add:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Github Releases New API Version
 url: http://kinlane.com/2011/04/28/github-releases-new-api-version/
-source: http://kinlane.com/2011/04/28/github-releases-new-api-version/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/github/github-round.png
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/github/github-round.png" alt="" width="200" align="right" /><a title="Github" href="https://github.com/">Github</a> has <a title="released version 3.0 of their API" href="https://github.com/blog/846-new-issues-and-gist-api">released version 3.0 of their API</a>. Using the new <a title="Github API" href="http://developer.github.com/v3/">Github API</a> users canmanage labels, issue comments, milestones, and events. The new API also has full support for <a title="Gists" href="https://gist.github.com/">Gists</a>. They've also made several updates to their RESTful approach:
 </p>

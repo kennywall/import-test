@@ -2,12 +2,9 @@
 layout: post
 title: Facebook - The Future is Mobile
 url: http://kinlane.com/2010/11/03/facebook-the-future-is-mobile/
-source: http://kinlane.com/2010/11/03/facebook-the-future-is-mobile/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook/fb_invite.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I just finished attending the Facebook Mobile Event, a press conference to inform everyone about several new mobile initiatives coming out of Facebook. Primarily Facebook reaffirmed their commitment to mobile by updating their releases of Android, IPhone mobile apps and the SDK to support these platforms. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/facebook/fb_invite.jpg" alt="" width="250" align="right" /> More specifically Facbook launched three new services:
 </p>

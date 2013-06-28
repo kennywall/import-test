@@ -2,12 +2,9 @@
 layout: post
 title: Sencha Animator is an Alternative to Flash
 url: http://kinlane.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
-source: http://kinlane.com/2010/10/26/sencha-animator-is-an-alternative-to-flash/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Sencha/sencha-animator
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.sencha.com" target="_blank">Sencha</a> just released a new GUI desktop application that enables designers to create rich media animations for HTML5 capable browsers. <a href="http://www.sencha.com/products/animator/download.php" target="_blank">Sencha Animator</a> allows you to put objects such as text, shapes and images on to re-sizable areas and you can move, scale, skew and rotate objects in 2D or 3D and <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/Sencha/sencha-animator" alt="" width="300" align="right" /> Since Sencha Animator generates pure CSS3 its output is customizable, allowing you to add and modify the CSS3 code without hand writing thousands of lines of CSS. Though it doesn't replace all uses of Flash, it can replace several key areas including:
 </p>

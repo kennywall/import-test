@@ -2,12 +2,9 @@
 layout: post
 title: Marketplace and Platform Adoption
 url: http://kinlane.com/2010/12/09/marketplace-and-platform-adoption/
-source: http://kinlane.com/2010/12/09/marketplace-and-platform-adoption/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/chrome-web-store.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I am spending a couple hours today going through popular app marketplaces looking for document management and collaboration applications. I'm also comparing each marketplace as browse through them.. <img src="http://kinlane-productions.s3.amazonaws.com/google/chrome-web-store.jpg" alt="" width="350" align="right" /> I'm looking through four primary marketplaces:
 </p>

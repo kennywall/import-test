@@ -2,12 +2,9 @@
 layout: post
 title: Hacking Your Automobile Dashboard
 url: http://kinlane.com/2013/05/01/hacking-your-automobile-dashboard/
-source: http://kinlane.com/2013/05/01/hacking-your-automobile-dashboard/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/automobile-dashboard-api.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/automobile/automobile-dashboard-api.jpg" alt="" width="250" align="right" />
 </p>

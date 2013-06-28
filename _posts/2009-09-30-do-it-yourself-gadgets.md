@@ -2,12 +2,9 @@
 layout: post
 title: Do It Yourself Gadgets
 url: http://kinlane.com/2009/09/30/do-it-yourself-gadgets/
-source: http://kinlane.com/2009/09/30/do-it-yourself-gadgets/
-domain: kinlane.com
 image: http://www.buglabs.net/assets/105/BUGbase_1.3_Product_Page.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I was just checking out <a href="http://www.buglabs.net/">BUG Labs</a> <a href="http://www.buglabs.net/">do it yourself DIY gadgets</a>. They have created a sweet array of little open source <a href="http://www.buglabs.net/products">programmable gadgets</a>. For those of us who spent our youths taking apart stereos, tvs and anything that plugged in when we were little....these are cool.<img title="BUGbase" src="http://www.buglabs.net/assets/105/BUGbase_1.3_Product_Page.jpg" alt="" width="269" height="194" align="right" /> Here is what they are all about from their own site: <em>Bug Labs is a new kind of technology company, enabling a new generation of engineers to tap their creativity and build any type of device they want, without having to solder, learn solid state electronics, or go to China. Bug Labs envisions a future where CE stands for Community Electronics, the term mashups applies equally to hardware as it does to Web services, and entrepreneurs can appeal to numerous markets by inventing The Long Tail of devices.</em> Here are the different gadgets they have:
 </p>

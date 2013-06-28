@@ -2,12 +2,9 @@
 layout: post
 title: Managing Service Relationships for Personal and Business
 url: http://kinlane.com/2008/01/09/managing-service-relationships-for-personal-and-business/
-source: http://kinlane.com/2008/01/09/managing-service-relationships-for-personal-and-business/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was reading John Udell's post on <a href="http://blog.jonudell.net/2008/01/04/managing-service-relationships/">Managing Service Relationships</a>, talks about managing your service profiles and choosing to receive or not receive paper bills, renewing your accounts etc.
      <br />

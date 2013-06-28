@@ -2,12 +2,9 @@
 layout: post
 title: NYC Tech Meetup
 url: http://kinlane.com/2011/05/05/nyc-tech-meetup/
-source: http://kinlane.com/2011/05/05/nyc-tech-meetup/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png" alt="" width="300" align="right" />I was fortunate enough to attend the <a title="NY Tech Meetup" href="http://www.meetup.com/ny-tech/">NY Tech Meetup</a> last night at NYU while I was in town. Interesting to see the startup energy in NY compared with Silicon Valley. Anyways I got to see some cool startups and tech businesses:
 </p>

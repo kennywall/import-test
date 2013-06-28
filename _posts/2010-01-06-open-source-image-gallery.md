@@ -2,12 +2,9 @@
 layout: post
 title: Open Source Image Gallery
 url: http://kinlane.com/2010/01/06/open-source-image-gallery/
-source: http://kinlane.com/2010/01/06/open-source-image-gallery/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am trying to find to find an appropriate solution for a friend that will allow him to manage a photo collection. Rather than build something from scratch I thought I'd take a look to see whats out there. I came across <a href="http://www.plogger.org/">Plogger</a>, a great <a href="http://www.plogger.org/">open-source web photo gallery</a>. It is an excellent example of quality FREE / Open Source software that has a single purpose and lives up to it. I just quickly downloaded and <a href="http://imagegallery.kinlane.com">installed it at a subdomain</a>. I was able to login and manage it quickly, simlilar to Wordpress. I would like to play with some cloud enhancements to it:
 </p>

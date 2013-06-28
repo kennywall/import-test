@@ -2,12 +2,9 @@
 layout: post
 title: Semicolons in JavaScript are Optional
 url: http://kinlane.com/2010/06/25/semicolons-in-javascript-are-optional/
-source: http://kinlane.com/2010/06/25/semicolons-in-javascript-are-optional/
-domain: kinlane.com
 image: http://brennan.offwhite.net/blog/wp-content/uploads/2008/05/jsthegoodparts.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://oreilly.com/catalog/9780596517748" target="_blank"><img class="alignnone c1" title="Javascript" src="http://brennan.offwhite.net/blog/wp-content/uploads/2008/05/jsthegoodparts.jpg" alt="" width="240" height="240" align="right" /></a><a href="http://mislav.uniqpath.com/2010/05/semicolons/" target="_blank">JavaScript is a scripting language where semicolons as statement terminators are optional</a>. I have never found a conversation about this, I just stumbled across one and found it interesting. Some of the points the author makes about why you should use semicolons are:
 </p>

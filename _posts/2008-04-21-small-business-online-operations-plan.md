@@ -2,12 +2,9 @@
 layout: post
 title: Small Business Online Operations Plan
 url: http://kinlane.com/2008/04/21/small-business-online-operations-plan/
-source: http://kinlane.com/2008/04/21/small-business-online-operations-plan/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been working with my brother-in-law to really escalate the operations of his small business <a href="http://www.thinwrench.com">Thinwrench</a>, which offers <a href="http://www.thinwrench.com">custom wrench and tool manufacturing</a>. He has had the business since the 1990's and has had the site since I believe 2001.
      <br />

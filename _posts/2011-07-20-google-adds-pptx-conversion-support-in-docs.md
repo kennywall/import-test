@@ -2,12 +2,9 @@
 layout: post
 title: Google Adds PPTX Conversion Support in Docs
 url: http://kinlane.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
-source: http://kinlane.com/2011/07/20/google-adds-pptx-conversion-support-in-docs/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg" alt="" width="100" align="right" /> Google has <a title="added support for converting Powerpoint .pptx files to Google presentations" href="https://docs.google.com/support/bin/answer.py?answer=186466">added support for converting Powerpoint .pptx files to Google presentations</a>when uploading using Google Docs or via the API. Until now Google only supported the older versions of Powerpoint .ppt when uploading and converting. Here is a complete list of file types that can be converted to Google Docs as of today:
 </p>

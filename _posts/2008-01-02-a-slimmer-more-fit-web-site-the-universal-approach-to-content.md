@@ -2,12 +2,9 @@
 layout: post
 title: A slimmer, more fit web site. The universal approach to content.
 url: http://kinlane.com/2008/01/02/a-slimmer-more-fit-web-site-the-universal-approach-to-content/
-source: http://kinlane.com/2008/01/02/a-slimmer-more-fit-web-site-the-universal-approach-to-content/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just helping my wife setup a new site for the new <a href="http://www.oregonlocalsearch.com/">Local Search Marketing Service</a> she is offering, called <a href="http://www.oregonlocalsearch.com/">Oregon Local Search</a>.
      <br />

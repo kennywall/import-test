@@ -2,12 +2,9 @@
 layout: post
 title: My Information Storage
 url: http://kinlane.com/2007/10/20/my-information-storage/
-source: http://kinlane.com/2007/10/20/my-information-storage/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      When I am asked to save something on the internet when using an web application or desktop application I want to asked where?
      <br />

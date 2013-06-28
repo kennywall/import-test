@@ -2,12 +2,9 @@
 layout: post
 title: Twitter Redirect
 url: http://kinlane.com/2008/08/16/twitter-redirect/
-source: http://kinlane.com/2008/08/16/twitter-redirect/
-domain: kinlane.com
 image: http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s320/Twit+Redirect+1.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s1600-h/Twit+Redirect+1.jpg"><img class="c1" src="http://1.bp.blogspot.com/_9OGzs28s_k4/SKetHeU69ZI/AAAAAAAAA3g/jCTv7bJxvFo/s320/Twit+Redirect+1.jpg" alt="" id="BLOGGER_PHOTO_ID_5235343435752994194" border="0" /></a>
      <br />

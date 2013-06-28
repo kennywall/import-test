@@ -2,12 +2,9 @@
 layout: post
 title: Legal Rights Involved with Photography
 url: http://kinlane.com/2008/03/18/legal-rights-involved-with-photography/
-source: http://kinlane.com/2008/03/18/legal-rights-involved-with-photography/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I enjoy taking pictures of anything and everything. I am always curious about the legal rights of taking pictures of people and places.
      <br />

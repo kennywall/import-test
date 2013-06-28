@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Platform as a Service (PaaS)
 url: http://kinlane.com/2010/06/10/cloud-platform-as-a-service-paas/
-source: http://kinlane.com/2010/06/10/cloud-platform-as-a-service-paas/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Squarespace.PNG
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" title="Squarespace" src="http://kinlane-productions.s3.amazonaws.com/Squarespace.PNG" alt="" width="300" align="right" /> I was helping someone choose a blogging platform today and they sent me a link for a possible choice. It was <a href="http://www.squarespace.com/">Squarespace</a>. At first I thought, "This isn't a quick and dirty FREE blogging platform." I left the tab open and quickly setup a <a href="http://www.kinlane.com/?cat=186">Wordpress</a> blog for them. I came back to the <a href="http://www.squarespace.com/">Squarespace</a> site and went through their <a href="http://www.squarespace.com/tour/">product tour</a>. First off, I"m hestitant to 100% call them a Cloud Platform as a Service (PaaS) because of two missing features, they don't have:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: AT&T Rants and Raves
 url: http://kinlane.com/2010/06/03/att-rants-and-raves/
-source: http://kinlane.com/2010/06/03/att-rants-and-raves/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.readwriteweb.com/archives/poll_are_you_concerned_about_atts_new_data_limits.php">ATT decided to stop offering unlimited data plans to new customers today</a>. I'm going to ride the Anti ATT sentiment for a bit. I have several complaints about <a href="http://www.att.com/">AT&amp;T</a> that I need to explore here on my blog. I have had the phone number <em>541-913-2328</em> on the AT&amp;T network since January 1999. It was my primary business line for the eight years I ran a web application development company. I have had my complaints, but remained a loyal <a href="http://www.att.com/">AT&amp;T</a> customer. As time moves on and I do more business with <a href="http://www.att.com/">AT&amp;T</a> I increasingly get frustrated with them. I have 4 mobile phone lines:
 </p>

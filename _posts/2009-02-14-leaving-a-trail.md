@@ -2,12 +2,9 @@
 layout: post
 title: Leaving a Trail
 url: http://kinlane.com/2009/02/14/leaving-a-trail/
-source: http://kinlane.com/2009/02/14/leaving-a-trail/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was working in my <a class="zem_slink" title="Google" rel="homepage" href="http://google.com">Google</a> <a class="zem_slink" title="Google Docs" rel="homepage" href="http://docs.google.com/">Docs</a>, creating a couple new writings. Then I remember a couple other items I had written before and decided to look for them. Instead of seaching I just started scrolling down. And down... I saw things I haven't seen in a while. It made me think about a topic I seem to think about a lot. Having access to historical writings, notes, research, projects, communications, etc. In short my stuff is all over the place. I have a few notable data stores such as:
 </p>

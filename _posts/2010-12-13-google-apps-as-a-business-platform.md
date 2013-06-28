@@ -2,12 +2,9 @@
 layout: post
 title: Google Apps as a Business Platform
 url: http://kinlane.com/2010/12/13/google-apps/
-source: http://kinlane.com/2010/12/13/google-apps/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google_apps.jpg
 ---
 {% include JB/setup %}
-
 <p>
      In a little over three weeks Google has released 14 of their regular web applications as part of the <a href="http://www.kinlane.com/category/google/google-apps-google/" target="_blank">Google Apps</a> cloud platform. Now in addition to the core email, docs, calendar, sites, and chat you have 14 new web applications:
 </p>

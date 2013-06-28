@@ -2,12 +2,9 @@
 layout: post
 title: Business and Politics of APIs
 url: http://kinlane.com/2012/05/14/business-and-politics-of-apis/
-source: http://kinlane.com/2012/05/14/business-and-politics-of-apis/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-Cloud-Deep-Research-Twitter.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png" alt="" width="300" align="right" />
 </p>

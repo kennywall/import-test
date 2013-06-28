@@ -2,12 +2,9 @@
 layout: post
 title: 3D Printing Fixes Art Treasures
 url: http://kinlane.com/2011/02/14/3d-printing-fixes-art-treasures/
-source: http://kinlane.com/2011/02/14/3d-printing-fixes-art-treasures/
-domain: kinlane.com
 image: http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thinker-by-Rodin-images-copyright-Kees-Haageman321.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://i.materialise.com/blog/entry/3d-printing-rodins-thinker" target="_blank"><img class="c1" src="http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thinker-by-Rodin-images-copyright-Kees-Haageman321.jpg" alt="" width="200" align="right" /></a>In 2007 the popular statue <a class="zem_slink" title="The Thinker" rel="wikipedia" href="http://en.wikipedia.org/wiki/The_Thinker">Rodin's Thinker</a> was stolen from the Singer Laren museum and damaged while the thieves were trying to destroy and sell it for scrap metal. At the request of the museum, a team of <a href="http://i.materialise.com/blog/entry/3d-printing-rodins-thinker" target="_blank">3D printers at Materialise, took 3D scans of the damaged statue</a> to assist in repairs. Using of of their <a href="http://www.youtube.com/user/imaterialise#p/u/3/ygHVVKkJWlI" target="_blank">Materialize 3D printing machines</a>, the largest 3D printer in the world, they created a mold that was used to restore the statue. An interesting example of how 3D printing is not just for creating new works, it can repair historic artifacts as well.
 </p>

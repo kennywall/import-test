@@ -2,12 +2,9 @@
 layout: post
 title: Real-time, Aware Web Apps with XMPP and HTML
 url: http://kinlane.com/2010/07/25/real-time-aware-web-apps-with-xmpp-and-html/
-source: http://kinlane.com/2010/07/25/real-time-aware-web-apps-with-xmpp-and-html/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/html5.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="HTML 5" src="http://kinlane-productions.s3.amazonaws.com/html5.jpg" alt="" width="200" align="right" />I am spending time each week learning something new about HTML5 and brainstorming ways it can be applied in my every day business world. Here are two areas I am researching:
 </p>

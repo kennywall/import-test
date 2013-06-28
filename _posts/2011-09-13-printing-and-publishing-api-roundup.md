@@ -2,12 +2,9 @@
 layout: post
 title: Printing and Publishing API Roundup
 url: http://kinlane.com/2011/09/13/printing-and-publishing-api-roundup/
-source: http://kinlane.com/2011/09/13/printing-and-publishing-api-roundup/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/printing-press.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/printing-press.jpg" alt="" width="300" align="right" />I'm doing my monthly review of the printing API playing field, and wanted to share every API I could find that delivers print-on-demand and self-publishing services for developers.
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Social Network Account / Profile Management
 url: http://kinlane.com/2008/06/19/social-network-account-profile-management/
-source: http://kinlane.com/2008/06/19/social-network-account-profile-management/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      We offer social network account and profile management to our clients on a regular basis. It is a lot of work to maintain your social network profile.
      <br />

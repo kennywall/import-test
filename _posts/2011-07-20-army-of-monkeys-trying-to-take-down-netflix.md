@@ -2,12 +2,9 @@
 layout: post
 title: Army of Monkeys Trying to Take Down Netflix
 url: http://kinlane.com/2011/07/20/army-of-monkeys-trying-to-take-down-netflix/
-source: http://kinlane.com/2011/07/20/army-of-monkeys-trying-to-take-down-netflix/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Evil_Monkey.gif
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/Evil_Monkey.gif" alt="" width="250" align="right" /><a title="Netflix wrote an interesting post about making their systems redundant and more fault tolerant" href="http://techblog.netflix.com/2011/07/netflix-simian-army.html">Netflix wrote an interesting post about making their systems, redundant and more fault-tolerant</a>, while running in the Clouds. Since no single component in the cloud can guarantee 100% up-time, Netflix has to design a cloud architecture where individual components can fail without affecting the availability of the entire system. To do this, Netflix uses techniques like graceful degradation on dependency failures, as well as node-, rack-, datacenter/availability-zone and even regionally-redundant deployments. However, designing a fault tolerant architecture is not enough, they have to be able to regularly test and know if they can survive any outage. So <a title="Netflix built chaos monkey" href="http://techblog.netflix.com/2010/12/5-lessons-weve-learned-using-aws.html">Netflix built Chaos Monkey</a>, a tool that randomly disables their production instances, to make sure Netflix can survive this common type of failure without any customer impact. Neflix runs this during regular business hours in a very controlled way, to learn about how their network responds, as they work to make it more resilient. Inspired by the success of the Chaos Monkey, they've started creating a whole new line of simians that induce various kinds of failures, or detect abnormal conditions, and test our ability to survive them:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Better Google Analytics
 url: http://kinlane.com/2009/12/03/better-google-analytics/
-source: http://kinlane.com/2009/12/03/better-google-analytics/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have been playing with a new tool that gives you more control over your Google Analytics called <a href="http://www.trakkboard.com/en">Trakkboard</a>. Google Analytics gives you a lot of tools, probably more than you really ever use. However I am always looking for new takes on how to access and absorb all of the data they give you. <a href="http://www.trakkboard.com/en">Trakkboard</a> gives you the opportunity to:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Mobile Phone as Your Physical Link and Communication Device
 url: http://kinlane.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
-source: http://kinlane.com/2008/01/23/mobile-phone-as-your-physical-link-and-communication-device/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just reading this article from the <a href="http://www.nytimes.com/2007/04/01/business/01code.html?ex=1333080000&amp;en=8bb1180541c7a895&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss">NY Times on the future of hand-held mobile devices</a> (well for us in the US, others are using it).
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Gmail Greasemonkey API issue and Social Programming
 url: http://kinlane.com/2008/01/29/gmail-greasemonkey-api-issue-and-social-programming/
-source: http://kinlane.com/2008/01/29/gmail-greasemonkey-api-issue-and-social-programming/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I really like Google approach to extending their applications beyond their core features and encouraging research and development by the masses.
      <br />

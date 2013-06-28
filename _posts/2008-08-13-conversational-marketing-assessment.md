@@ -2,12 +2,9 @@
 layout: post
 title: Conversational Marketing Assessment
 url: http://kinlane.com/2008/08/13/conversational-marketing-assessment/
-source: http://kinlane.com/2008/08/13/conversational-marketing-assessment/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      As part of every social media marketing strategy that we build we conduct a conversational marketing assessment that evaluates the target arena we are considering entering as part of the social media marketing campaign.
      <br />

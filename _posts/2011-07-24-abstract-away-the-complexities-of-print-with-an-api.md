@@ -2,12 +2,9 @@
 layout: post
 title: Abstract Away the Complexities of Print with an API
 url: http://kinlane.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
-source: http://kinlane.com/2011/07/24/abstract-away-the-complexities-of-print-with-an-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.mimeo.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>When I was being interviewed at Mimeo.com as the API evangelist, one big gap in my resume, that I was concerned about, was no print industry experience. Mimeo is a print company and naturally I should bring something to the table? My boss simply replied, We want someone with the tech, not the print. Someone who can think out of the box. For the first time I feel like I'm putting that lack of skill to use. It took me about 48 hours to get up and running hacking on the <a href="http://developer.mimeo.com/">Mimeo Connect Cloud Print API</a> when I first got hired. I was able to start using the API without any real documentation or help, just hacking. Even though I enjoy this type of hacking, it is about 47.5 hours too long for regular developers. I probably have shortened this time-frame with documentation, FAQ, code samples and how-tos. But there still are some considerable learning curves when it comes to connecting with the Mimeo.com print API. I see developers struggle with two hurdles:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Marketing through Reputation Management
 url: http://kinlane.com/2008/01/30/marketing-through-reputation-management/
-source: http://kinlane.com/2008/01/30/marketing-through-reputation-management/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I monitor my reputation basically on a daily basis as part of my routine. I Google myself and see how things are stacked and if there is anything new.
      <br />

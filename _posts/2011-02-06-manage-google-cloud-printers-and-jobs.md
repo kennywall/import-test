@@ -2,12 +2,9 @@
 layout: post
 title: Manage Google Cloud Printers and Jobs
 url: http://kinlane.com/2011/02/06/manage-google-cloud-printers-and-jobs/
-source: http://kinlane.com/2011/02/06/manage-google-cloud-printers-and-jobs/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-manage-printers.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.google.com/cloudprint/" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-manage-printers.png" alt="" width="300" align="right" /></a>After you <a href="http://www.google.com/chrome/intl/en/p/cloudprint.html" target="_blank">add a Google Cloud Printer</a> you will need to manage the printers you have registered with the Google Cloud Print (GCP) registry. You can manage your your Google Cloud Printer(s) at:
 </p>

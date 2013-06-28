@@ -2,12 +2,9 @@
 layout: post
 title: Use Flickr for Online and Social Media Marketing
 url: http://kinlane.com/2008/02/18/use-flickr-for-online-and-social-media-marketing/
-source: http://kinlane.com/2008/02/18/use-flickr-for-online-and-social-media-marketing/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have historically played around with many online marketing and social media marketing techniques. I play around from time to time to see what works and what doesn't.
      <br />

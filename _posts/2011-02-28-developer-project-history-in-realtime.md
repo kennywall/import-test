@@ -2,12 +2,9 @@
 layout: post
 title: Developer Project History in Real-Time
 url: http://kinlane.com/2011/02/28/project-history-in-real-time/
-source: http://kinlane.com/2011/02/28/project-history-in-real-time/
-domain: kinlane.com
 image: http://careers.stackoverflow.com/Content/Img/logo-careers-2-so.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://stackoverflow.com/" target="_blank"><img src="http://careers.stackoverflow.com/Content/Img/logo-careers-2-so.png" alt="" align="right" /></a>One of my biggest complaints about the concept of a resume is that you only update it when you need a job. If you only update your job or project history when your looking for a job, its going to go through quite a "fabrication" process. It won't represent what happened, how you felt, and all the details of the moment won't be there. I was building a <a href="http://elance.apievangelist.com/" target="_blank">prototype API developer area powered by Elance API</a> today, while designing the developers detail page I listed the last 5 jobs for their Elance Profile. This made me think about the recent release of <a href="http://stackoverflow.com/" target="_blank">Stack Overflows</a>, <a href="http://careers.stackoverflow.com/" target="_blank">Careers 2.0</a> developer resume tool. Social networks like LinkedIn, and developer tools like <a href="http://www.github.com" target="_blank">Github</a> are quickly become a real-time source of project and job history for developers. I'm creating a new <a href="http://www.kinlane.com/projects/" target="_blank">projects</a> page where I'm going to try and list projects I develop in real-time. I'm going to try and work my project history into my blogging schedule as much as I can.
 </p>

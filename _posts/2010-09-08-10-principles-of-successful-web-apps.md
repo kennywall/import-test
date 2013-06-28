@@ -2,12 +2,9 @@
 layout: post
 title: 10 Principles of Successful Web Apps
 url: http://kinlane.com/2010/09/08/10-golden-principles-of-successful-web-apps/
-source: http://kinlane.com/2010/09/08/10-golden-principles-of-successful-web-apps/
-domain: kinlane.com
 image: http://thinkvitamin.com/wp-content/themes/carsonified/img/tv_logo.png
 ---
 {% include JB/setup %}
-
 <p>
      Here are Fred Wilson's <a href="http://thinkvitamin.com/business/fred-wilsons-10-golden-principles-of-successful-web-apps/" target="_blank">10 Golden Principles of Successful Web Apps</a> from the February 2010 <a href="http://futureofwebapps.com/" target="_blank">Future of Web Apps</a> Miami conference. You can watch the video and get the full transcript over at <a href="http://thinkvitamin.com/business/fred-wilsons-10-golden-principles-of-successful-web-apps/" target="_blank">Think Vitamin</a>. Here are the 10 Principles of Successful Web Apps:
 </p>

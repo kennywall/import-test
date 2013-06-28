@@ -2,12 +2,9 @@
 layout: post
 title: Custom Amazon EC2 Research and Development
 url: http://kinlane.com/2008/02/25/custom-amazon-ec2-research-and-development/
-source: http://kinlane.com/2008/02/25/custom-amazon-ec2-research-and-development/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      We are now offering custom Amazon EC2 Research and Development services. If you are in need of custom EC2 instance deployment, feel free to contact us.
      <br />

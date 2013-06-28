@@ -2,12 +2,9 @@
 layout: post
 title: Smart People Use Firefox, Even Smarter People Use Chrome
 url: http://kinlane.com/2010/07/04/smart-people-use-firefox-even-smarter-people-use-chrome/
-source: http://kinlane.com/2010/07/04/smart-people-use-firefox-even-smarter-people-use-chrome/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/tech-blogs/ReadWriteWeb.PNG
 ---
 {% include JB/setup %}
-
 <p>
      I have been monitoring the traffic to several major technology blogs lately. This research is based upon specific domains with specific brand associate with them:
 </p>

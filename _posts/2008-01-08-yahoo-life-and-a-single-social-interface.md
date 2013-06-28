@@ -2,12 +2,9 @@
 layout: post
 title: Yahoo Life and a Single Social Interface
 url: http://kinlane.com/2008/01/08/yahoo-life-and-a-single-social-interface/
-source: http://kinlane.com/2008/01/08/yahoo-life-and-a-single-social-interface/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Reading several posts on Yahoo's CES announcement about Yahoo Life! at Mashable - <a href="http://mashable.com/2008/01/07/daily-poll-will-yahoo-life-revolutionize-the-way-we-use-e-mail/">Will Yahoo Life! Revolutionize the Way We Use E-Mail?</a>, and Read/Write/Web - <a href="http://www.readwriteweb.com/archives/yahoo_life_and_go_3_ces.php">Yahoo! Life! and Go 3.0 Announced at CES - is Yahoo! Back in '08?</a>, and ZDNet - <a href="http://blogs.zdnet.com/BTL/?p=7503">Jerry Yang offers sneak peak of Yahoo's future: Life!.</a>
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Turn Your Wordpress Blog into Mobile City Guide
 url: http://kinlane.com/2012/04/09/turn-your-wordpress-blog-into-mobile-city-guide/
-source: http://kinlane.com/2012/04/09/turn-your-wordpress-blog-into-mobile-city-guide/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Placeling-Logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Placeling" href="https://www.placeling.com/"><img class="aligncenter size-medium wp-image-1052" title="Placeling-Logo" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/Placeling-Logo-300x119.png" alt="" width="300" height="119" align="right" /></a>I'm always on the lookout for tools that CityGrid publishers can use alongside the web and mobile apps they've built using CityGrid Places and Advertising APIs.
 </p>

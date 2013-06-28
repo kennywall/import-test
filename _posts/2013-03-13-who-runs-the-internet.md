@@ -2,12 +2,9 @@
 layout: post
 title: Who Runs The Internet?
 url: http://kinlane.com/2013/03/13/who-runs-the-internet/
-source: http://kinlane.com/2013/03/13/who-runs-the-internet/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-runs-the-internet-infographic.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I came across the great infographic from <a href="http://www.icann.org/">ICANN</a> titled, Who Runs the Internet?  i want to brush up on my own knowledge about all the key stakeholders in the Internet, so I typed up some of the text from the infographic, for my own benefit, as well as to make it a little more interactive.
 </p>

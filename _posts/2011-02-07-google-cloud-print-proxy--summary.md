@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print Proxy - Summary
 url: http://kinlane.com/2011/02/07/google-cloud-print-proxy-summary/
-source: http://kinlane.com/2011/02/07/google-cloud-print-proxy-summary/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png
 ---
 {% include JB/setup %}
-
 <p>
      Ok that concludes my <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Proxy</a> work from the week. I've tried to summarize the work I've done in a series of blog posts and code samples. Here is a summary of what I've done to date with the <strong>Google Cloud Print API:</strong>
 </p>

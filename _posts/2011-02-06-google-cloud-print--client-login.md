@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print - Client Login
 url: http://kinlane.com/2011/02/06/google-cloud-print-client-login/
-source: http://kinlane.com/2011/02/06/google-cloud-print-client-login/
-domain: kinlane.com
 image: https://gist.github.com/813841.js?file=Google%20Cloud%20Print%20Services%20Interface%20-%20Client%20Login
 ---
 {% include JB/setup %}
-
 <p>
      Now lets start using <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print API</a>. First thing is we need to do, is authenticate with our targeted users Google Account using the C<a href="http://code.google.com/apis/accounts/docs/AuthForInstalledApps.html" target="_blank">lient Login API</a>. The easiest way to work with Google APIs in PHP, is to use the <a href="http://framework.zend.com/" target="_blank">Zend framework</a>. With just a couple lines of code we can authenticate with any users Google Account:
 </p><script src="https://gist.github.com/813841.js?file=Google%20Cloud%20Print%20Services%20Interface%20-%20Client%20Login" type="text/javascript">

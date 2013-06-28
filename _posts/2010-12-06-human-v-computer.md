@@ -2,12 +2,9 @@
 layout: post
 title: Human v Computer
 url: http://kinlane.com/2010/12/06/human-v-computer/
-source: http://kinlane.com/2010/12/06/human-v-computer/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Who is the number one user of your web site? Humans or other computers? According to Google Webmaster Tools, my top searches were for the following words:
 </p>

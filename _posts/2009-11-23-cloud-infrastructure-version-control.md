@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Infrastructure Version Control
 url: http://kinlane.com/2009/11/23/cloud-infrastructure-version-control/
-source: http://kinlane.com/2009/11/23/cloud-infrastructure-version-control/
-domain: kinlane.com
 image: http://www.freephotobank.org/d/4915-2/Cloud-08.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I use <a class="zem_slink" title="Subversion (software)" rel="homepage" href="http://subversion.tigris.org/">Subversion</a> pretty religiously in our development environment. It bothers a lot of developers and other key people because it can be perceived as a bottle-neck. I am always amazed at how many organizations I work with (tech development shops) do not use subversion at all. I feel its mandatory.
 </p>

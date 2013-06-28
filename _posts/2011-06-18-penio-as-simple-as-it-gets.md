@@ -2,12 +2,9 @@
 layout: post
 title: Pen.io, as Simple As It Gets
 url: http://kinlane.com/2011/06/18/pen-io-as-simple-as-it-gets/
-source: http://kinlane.com/2011/06/18/pen-io-as-simple-as-it-gets/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Pen.io" href="http://pen.io/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png" alt="" width="200" align="right" /></a>I really enjoy web applications that focus on doing one thing, and doing it well. <a title="Pen.io" href="http://pen.io/">Pen.io</a> is one of these apps. Pen.io is the fastest way to publish online. period. Pen.io allows you to add, edit, and delete pages. Thats it. You just give your page a title, set a password, and add. Then you can edit the body of your page and publish. <a title="Pen.io just launched a new API" href="http://pen.io/api/">Pen.io just launched a new API</a> to support the web application. It allows you to:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: New CityGrid Template for Wordpress Directory Plugin
 url: http://kinlane.com/2012/04/07/new-citygrid-template-for-wordpress-directory-plugin/
-source: http://kinlane.com/2012/04/07/new-citygrid-template-for-wordpress-directory-plugin/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/wordpress-logo.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="CityGrid Wordpress Directory Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-wordpress-plugin/"><img class="aligncenter size-medium wp-image-1002" title="CityGrid-Wordpress-Look-Feel" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/CityGrid-Wordpress-Look-Feel-300x260.png" alt="" width="300" height="260" align="right" /></a>I just pushed an update for the <a title="CityGrid Wordpress Directory Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-wordpress-plugin/">CityGrid Wordpress Directory Plugin</a>. The Wordpress Plugin lets any Wordpress site owner to launch a business directory for their site, allowing them to choose the business categories they wish to display.
 </p>

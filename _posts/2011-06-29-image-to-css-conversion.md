@@ -2,12 +2,9 @@
 layout: post
 title: Image to CSS Conversion
 url: http://kinlane.com/2011/06/29/image-to-css-conversion/
-source: http://kinlane.com/2011/06/29/image-to-css-conversion/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am playing around with a cool new web application that converts image files into HTML / CSS, appropriately called <a title="IMG to CSS" href="http://www.imgtocss.com/">IMG to CSS</a>. The site doesn't look like much, but what it does is pretty cool. I ran the Mimeo logo through it.  
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Instaper Pulls Free Version from App Store
 url: http://kinlane.com/2011/04/26/instaper-pulls-free-version-from-app-store/
-source: http://kinlane.com/2011/04/26/instaper-pulls-free-version-from-app-store/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.instapaper.com/"><img src="http://kinlane-productions.s3.amazonaws.com/instapaper.png" alt="" width="150" align="right" /></a><a href="http://www.instapaper.com/">Instapaper</a> pulled its free version of its IPhone app from the Apple App Store over a month ago...and well, sales of the paid app are fine. <a title="Marco Arment" href="https://twitter.com/#!/marcoarment">Marco Arment</a>, creator of Instapaper just tweeted:
 </p>

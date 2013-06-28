@@ -2,12 +2,9 @@
 layout: post
 title: OpenSecrets Open Data
 url: http://kinlane.com/2010/01/12/opensecrets-open-data/
-source: http://kinlane.com/2010/01/12/opensecrets-open-data/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I love data. When I find great sources of data I have to record it. Here is RAW and API data from the Federal Government. <strong><a href="http://www.opensecrets.org/action/data.php">OpenSecrets Open Data</a></strong> It has:
 </p>

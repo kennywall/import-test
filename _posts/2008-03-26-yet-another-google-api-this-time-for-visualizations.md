@@ -2,12 +2,9 @@
 layout: post
 title: Yet Another Google API, this Time for Visualizations
 url: http://kinlane.com/2008/03/26/yet-another-google-api-this-time-for-visualizations/
-source: http://kinlane.com/2008/03/26/yet-another-google-api-this-time-for-visualizations/
-domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/R-sacNuUEfI/AAAAAAAAAyw/r92UFRiyJhs/s320/gauge.png
 ---
 {% include JB/setup %}
-
 <p>
      The <a href="http://code.google.com/apis/visualization/">Google Visualization API</a> lets you access multiple sources of structured data that you can display, choosing from a large selection of visualizations.
      <br />

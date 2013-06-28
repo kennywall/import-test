@@ -2,12 +2,9 @@
 layout: post
 title: Encrypted Cloud Storage with Python
 url: http://kinlane.com/2012/04/15/encrypted-cloud-storage-with-python/
-source: http://kinlane.com/2012/04/15/encrypted-cloud-storage-with-python/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/python-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-python.png" alt="" width="200" align="right" />
 </p>

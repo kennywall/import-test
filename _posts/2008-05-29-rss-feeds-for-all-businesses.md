@@ -2,12 +2,9 @@
 layout: post
 title: RSS Feeds for All Businesses
 url: http://kinlane.com/2008/05/29/rss-feeds-for-all-businesses/
-source: http://kinlane.com/2008/05/29/rss-feeds-for-all-businesses/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I know I've ranted about this before, but here we go again. It cannot be said enough. EVERY business that has a web site and has information on the Internet needs to provide RSS Feeds for that data.
      <br />

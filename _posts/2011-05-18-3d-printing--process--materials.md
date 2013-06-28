@@ -2,12 +2,9 @@
 layout: post
 title: 3D Printing - Process & Materials
 url: http://kinlane.com/2011/05/18/3d-printing-process-materials/
-source: http://kinlane.com/2011/05/18/3d-printing-process-materials/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-process-materials.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-process-materials.jpg" alt="" width="200" align="right" />Once in production, a 3D model will be printed layer by layer using one of four potential 3D printing processes and corresponding materials:
 </p>

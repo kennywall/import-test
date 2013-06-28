@@ -2,12 +2,9 @@
 layout: post
 title: Application Ideas: Google Project
 url: http://kinlane.com/2008/01/02/application-ideas-google-project/
-source: http://kinlane.com/2008/01/02/application-ideas-google-project/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have this notebook of application ideas that I have from time to time. Its overflowing with lots of stupid ideas.
      <br />

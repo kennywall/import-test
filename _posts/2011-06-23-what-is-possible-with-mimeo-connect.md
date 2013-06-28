@@ -2,12 +2,9 @@
 layout: post
 title: What is Possible with Mimeo Connect?
 url: http://kinlane.com/2011/06/23/what-is-possible-with-mimeo-connect/
-source: http://kinlane.com/2011/06/23/what-is-possible-with-mimeo-connect/
-domain: kinlane.com
 image: http://b.scorecardresearch.com/beacon.js?c1=7&amp;c2=7400849&amp;c3=1&amp;c4=&amp;c5=&amp;c6=
 ---
 {% include JB/setup %}
-
 <p>
      I'm working on a series of presentations showing what is possible with the <a title="Mimeo Connect Cloud Print Platform" href="../../">Mimeo Connect Cloud Print Platform</a>. Sometimes its difficult to show people the 100K foot level of what you can do with the <a title="print API" href="http://developer.mimeo.com">print API</a>. This presentation is from a demo I did for some print industry executives, to wet their appetite for what is possible. It covers:
 </p>

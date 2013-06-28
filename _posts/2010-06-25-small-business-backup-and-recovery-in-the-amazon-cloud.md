@@ -2,12 +2,9 @@
 layout: post
 title: Small Business Backup and Recovery in the Amazon Cloud
 url: http://kinlane.com/2010/06/25/small-business-backup-and-recover-in-the-amazon-cloud/
-source: http://kinlane.com/2010/06/25/small-business-backup-and-recover-in-the-amazon-cloud/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/jungle-disk-logo.gif
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Jungle Disk" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/jungle-disk-logo.gif" alt="" width="242" height="42" align="right" />Many businesses are growing into the clouds, but there are still are many on the fence. Before a business moves their entire <a href="http://www.kinlane.com/2010/06/amazon-cloud-small-business-setup/">small business setup to the Amazon cloud</a>, they might consider using <a href="http://aws.typepad.com/aws/2010/06/amazon-web-services-for-backup-and-disaster-recovery.html">Amazon S3 just for backup and recovery</a>. A quick way to put the cloud to work for your small business, is to start backing up your data to Amazon S3. There are two great tools for backing up to the clouds off servers and workstations:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Domain Names
 url: http://kinlane.com/2009/02/25/domain-names/
-source: http://kinlane.com/2009/02/25/domain-names/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p class="c1">
      So I am continuing cleaning up my world. I recently let probably 20-30 domains expire. In the past I have had a domain adiction....I just buy them thinking...someday I will do something with that.
 </p>

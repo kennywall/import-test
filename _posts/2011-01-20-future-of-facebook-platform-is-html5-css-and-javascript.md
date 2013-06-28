@@ -2,12 +2,9 @@
 layout: post
 title: Future of Facebook Platform is HTML5, CSS and JavaScript
 url: http://kinlane.com/2011/01/20/future-of-facebook-platform-is-html5-css-and-javascript/
-source: http://kinlane.com/2011/01/20/future-of-facebook-platform-is-html5-css-and-javascript/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.png
 ---
 {% include JB/setup %}
-
 <p>
      Facebook is jumping on the <a href="http://www.kinlane.com/category/html-5/">HTML5</a> bandwagon and <a href="http://developers.facebook.com/blog/post/448" target="_blank">supporting it within their developers community</a>. They are counting on HTML5 helping developers operate across web, desktop and <a href="http://www.kinlane.com/category/mobile/">mobile</a> devices. They are proposing that all you would need to build <a href="http://www.kinlane.com/category/facebook/">Facebook</a> apps is HTML, <a href="http://www.kinlane.com/category/javascript/">JavaScript</a> and <a href="http://www.kinlane.com/category/css/" target="_blank">CSS</a>. They are holding a Tech Talk on this subject on <strong>Wednesday, January 26 at 7PM</strong>. Spearkers will include: <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.png" alt="" width="250" align="right" />
 </p>

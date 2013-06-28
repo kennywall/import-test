@@ -2,12 +2,9 @@
 layout: post
 title: Moving to the Next Challenge and Shifting From Web Programming
 url: http://kinlane.com/2008/02/01/moving-to-the-next-challenge-and-shifting-from-web-programming/
-source: http://kinlane.com/2008/02/01/moving-to-the-next-challenge-and-shifting-from-web-programming/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I waiting a while before I started blogging about this topic until everything was in place. It seems all the pieces have fallen in place so I am going to start on this new path.
      <br />

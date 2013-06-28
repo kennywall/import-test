@@ -2,12 +2,9 @@
 layout: post
 title: Printing Flyers and Books with Google Docs
 url: http://kinlane.com/2011/06/12/printing-brochures-and-books-with-google-docs/
-source: http://kinlane.com/2011/06/12/printing-brochures-and-books-with-google-docs/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-2.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://developer.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-2.png" alt="" width="250" align="right" /></a><a title="Google Apps" href="http://www.google.com/apps/intl/en/business/index.html">Google Apps</a> provides a very powerful document management solution, <a title="Google Docs" href="https://docs.google.com">Google Docs</a>. With Google Docs you can upload and create many different types of documents. The Google Apps platform also allows users to collaborate, share, translate, download and print documents in Google Apps. This is pretty powerful stuff, when it comes to business publishing and printing. A couple months ago I built a <a title="prototype of a commercial print application using google Cloud print" href="http://googlecloudprinters.laneworks.net/">prototype of a commercial print application using Google Cloud Print</a>. The platform allows users to sign on and create and / or register cloud printers with Google's Cloud Print (GCP) registry. Google Apps users can then print single sheet, bound document, and binders using Google Cloud Print and Mimeo.com. I wanted to simplify what I built. So I made some time this last week, to strip out three core pieces of functionality. I wanted to enable developers to do three separate types of simple print integrations:
 </p>

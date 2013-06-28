@@ -2,12 +2,9 @@
 layout: post
 title: Mimeo Connect Poster Printing API
 url: http://kinlane.com/2011/09/03/mimeo-connect-poster-printing-api/
-source: http://kinlane.com/2011/09/03/mimeo-connect-poster-printing-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/posters-sample.png
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/posters-sample.png" alt="" align="right" />We've added a new<a title="API that provides poster printing services" href="http://mimeoconnect.3scale.net/wiki/poster-printing-api">API that provides poster printing services</a>for developers. It enables you to price and order commercially printed posters in different sizes, paper, lamination and mounting from within your web and mobile applications. These are the different settings currently available for posters:
 </p>

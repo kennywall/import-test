@@ -2,12 +2,9 @@
 layout: post
 title: Evolve My Google Reader Network
 url: http://kinlane.com/2010/12/03/evolve-my-google-reader-network/
-source: http://kinlane.com/2010/12/03/evolve-my-google-reader-network/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/google_reader_rss_icons.jpg" alt="" width="300" align="right" />A <a href="../2010/12/ideation-and-project-evolution/" target="_blank">project I'm moving off the back-burner and into the public domain</a> is a project I called Google Reader Network. Google Reader battles for #1 on my daily use tools, along with Gmail. I live in there each and every day. I depend on it for my information intake. So my Google Reader network is very important to me. I started looking for ways to maximize my RSS intake, and it involved cultivation of my Google Reader network. I would follow people for very different reasons than I would on Twitter, Facebook or LinkedIn. I wanted people who would read things and route new stuff my way. Example: My GF Audrey works for ReadWriteWeb and she monitors Mashable, Techcrunch and other major sources of aggregated tech news. Why do I need to follow these? She will star and share the best of. Network efficiency. I will depend on my network to route common information my way, I will specialize in specific areas such as cloud computing or application programming interfaces (API). So I wanted to find other Google Reader users and enhance my network, here is what I did:
 </p>

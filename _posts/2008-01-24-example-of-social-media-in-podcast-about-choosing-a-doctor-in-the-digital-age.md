@@ -2,12 +2,9 @@
 layout: post
 title: Example of Social Media in Podcast about Choosing a Doctor in the Digital Age
 url: http://kinlane.com/2008/01/24/example-of-social-media-in-podcast-about-choosing-a-doctor-in-the-digital-age/
-source: http://kinlane.com/2008/01/24/example-of-social-media-in-podcast-about-choosing-a-doctor-in-the-digital-age/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Was listening to <a href="http://www.npr.org/templates/story/story.php?storyId=18349445">NPR today and a podcast on Choosing a Doctor in the Digital Age</a>. It was great about how to use online review sites to find out what people are saying about doctors.
      <br />

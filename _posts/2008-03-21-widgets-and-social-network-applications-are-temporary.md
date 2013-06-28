@@ -2,12 +2,9 @@
 layout: post
 title: Widgets and Social Network Applications are Temporary
 url: http://kinlane.com/2008/03/21/widgets-and-social-network-applications-are-temporary/
-source: http://kinlane.com/2008/03/21/widgets-and-social-network-applications-are-temporary/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just driving home tonight and thinking about all the widgets and OpenSocial applications I have been developing lately.
      <br />

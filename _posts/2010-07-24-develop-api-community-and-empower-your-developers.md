@@ -2,12 +2,9 @@
 layout: post
 title: Develop API Community and Empower Your Developers
 url: http://kinlane.com/2010/07/24/develop-api-community-and-empower-your-developers/
-source: http://kinlane.com/2010/07/24/develop-api-community-and-empower-your-developers/
-domain: kinlane.com
 image: http://t3dd09.typo3.org/typo3temp/pics/02c9763015.jpeg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://t3dd09.typo3.org/home.html" target="_blank"><img class="alignnone c1" title="Developer Community" src="http://t3dd09.typo3.org/typo3temp/pics/02c9763015.jpeg" alt="" width="325" align="right" /></a>A couple of weeks ago I was writing about <a href="http://www.kinlane.com/2010/07/tools-you-should-offer-with-your-application-program-interface-api/">tools you should offer with your Application Programming Interface (API).</a> I was putting together some thoughts on ways a vendor could improve their API developer experience. I have several deployments with their API under my belt and felt I had some advice to offer. We have had a few major problems with outages and errors with the vendor's API. Howver most of our problems as an API consumner has been around:
 </p>

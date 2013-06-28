@@ -2,12 +2,9 @@
 layout: post
 title: Google Sites / Wiki Automation Scripts
 url: http://kinlane.com/2010/06/05/google-sites-wiki-management-scripts/
-source: http://kinlane.com/2010/06/05/google-sites-wiki-management-scripts/
-domain: kinlane.com
 image: http://code.google.com/apis/sites/images/gdata-sites-150.png
 ---
 {% include JB/setup %}
-
 <p>
      Having fun playing with <a href="http://code.google.com/apis/sites/">Google Sites API</a> today. Audrey is setting up Wikis for different research areas to support her new <a href="http://www.hackeducation.com/">Hack Education</a> site. I am reviving my <a href="http://cloud.kinlane.com">cloud computing research wiki</a>. I am looking for new ways to keep sections of the wiki alive programatically. A couple ways I've brainstormed:<img class="alignnone c1" title="Google Sites" src="http://code.google.com/apis/sites/images/gdata-sites-150.png" alt="" width="150" height="150" align="right" />
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: IPhone 4 Upgrade
 url: http://kinlane.com/2011/02/11/iphone-4-upgrade/
-source: http://kinlane.com/2011/02/11/iphone-4-upgrade/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I just made the upgrade from my IPhone 3GS to IPhone 4. I 've been waiting because it is really a luxury, not a need. However my IPhone is getting slower and slower and was actually keeping me from doing work. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg" alt="" width="250" align="right" /> I chose not to have the store transfer my data, I enjoy doing myself and rewiring my world. Finding new ways of doing things if possible. I just finished downloading the handful of apps I use daily:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Demographic bidding using Google Adwords
 url: http://kinlane.com/2008/01/26/demographic-bidding-using-google-adwords/
-source: http://kinlane.com/2008/01/26/demographic-bidding-using-google-adwords/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Ever wish you could show your ads to a specific group like women aged 25-34? Want to see how your ads perform with certain demographic groups and then adjust your bids accordingly?
      <br />

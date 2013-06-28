@@ -2,12 +2,9 @@
 layout: post
 title: Different Approaches to an API Ecosystem
 url: http://kinlane.com/2010/09/02/different-approaches-to-an-api-ecosystem/
-source: http://kinlane.com/2010/09/02/different-approaches-to-an-api-ecosystem/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.scribd.com/developers" target="_blank"><img class="alignnone c1" title="Scribd" src="http://kinlane-productions.s3.amazonaws.com/Scribd.PNG" alt="" width="132" height="46" align="right" /></a>I'm reviewing four major Application Programming Interfaces (API) today. <a href="http://www.zendesk.com/api" target="_blank">Zendesk</a>, <a href="http://www.scribd.com/developers" target="_blank">Scribd</a>, <a href="http://www.twilio.com/" target="_blank">Twilio</a>, and <a href="http://www.evernote.com/about/developer/" target="_blank">Evernote</a>. These are all top web 2.0 or cloud applications. Whichever label you wish to apply. I am evaluating the different approaches to delivering their API Ecosystem:
 </p>

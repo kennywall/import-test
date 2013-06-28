@@ -2,12 +2,9 @@
 layout: post
 title: API Evangelist - The Business of Your API
 url: http://kinlane.com/2010/11/09/api-evangelist-the-business-of-your-api/
-source: http://kinlane.com/2010/11/09/api-evangelist-the-business-of-your-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have launched a new site called <a href="http://www.apievangelist.com" target="_blank">API Evangelist</a>. I have been operating in stealth mode because I'm not 100% done with all the API Ecosystem building block pages. I've had a couple people ask if I'm a perfectionist, and why don't I just launch. So here we go. My goal behind <a href="http://www.apievangelist.com/" target="_blank">API Evangelist</a>. is to go beyond just the technology of APIs or being a directory of APIs like <a href="http://www.programmableweb.com" target="_blank">ProgrammableWeb</a> is. I want to focus on the business of APIs, which is an area I feel is neglected in over 75% of APIS, even the successful ones. API Evangelist reflects my research, and I'm looking to provide the following types of posts:
 </p>

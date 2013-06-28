@@ -2,12 +2,9 @@
 layout: post
 title: In-House Social Media Marketing Campaign Strategy and Execution
 url: http://kinlane.com/2008/08/28/in-house-social-media-marketing-campaign-strategy-and-execution/
-source: http://kinlane.com/2008/08/28/in-house-social-media-marketing-campaign-strategy-and-execution/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Lately we have been receiving a lot of requests for in-house <a href="http://www.socialmediasquad.com/services/index.html">social media marketing trainings</a>. Clients are requesting that we come on site to assist them in developing a social media marketing campaign strategy. The downturn in the economy has really hit small businesses and they are looking for new ways to find and retain customers. Social Media and Social Networks are a great avenue for finding new customers and maintaining the relationship with your existing customer base. We are always working to provide new white papers, case studies and operations manuals for social media marketing campaigns in many different industries and conversations. These materials assist small business owners who may not be able to afford a full-blown social media marketing campaign. Social Media Squad has been assisting businesses and organizations on-site with the following:
 </p>

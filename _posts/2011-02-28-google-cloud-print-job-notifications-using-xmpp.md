@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print Job Notifications Using XMPP
 url: http://kinlane.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
-source: http://kinlane.com/2011/02/28/google-cloud-print-xmpp-print-job-notifications/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png" alt="" width="350" align="right" />I made it over the last hurdle building my <a title="Google Cloud Print Proxy" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy</a> in PHP. I have a prototype for the Google Cloud Print, XMPP Print Job Notification Service. Even though you can pull print jobs via the GCP /fetch interface, Google requires cloud print proxies to receive print job notifications via an XMPP push, rather than constantly polling the /fetch interface. It make sense. Using XMPP is a great way to receive API notifications, and minimize requests to an API. Companies like Superfeedr are using<a title="PubSubHubbub for API Notifications" href="http://blog.apievangelist.com/2011/02/23/pubsubhubbub-for-apis/">PubSubHubbub for API notifications</a>. I am building on top the <a title="XMPHP Library" href="http://code.google.com/p/xmpphp/">XMPPHP library</a> for my Google Cloud Print XMPP Service. First I authenticate with the Google Talk Service using Client Login and ChromiumSync Service.
 </p>

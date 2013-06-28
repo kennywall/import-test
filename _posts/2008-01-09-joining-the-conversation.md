@@ -2,12 +2,9 @@
 layout: post
 title: Joining the Conversation
 url: http://kinlane.com/2008/01/09/joining-the-conversation/
-source: http://kinlane.com/2008/01/09/joining-the-conversation/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Joining the Conversation is one my new catch phrases. It just sounds good, and it really means so much to me in the 2.0 world.
      <br />

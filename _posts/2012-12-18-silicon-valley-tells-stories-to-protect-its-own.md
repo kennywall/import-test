@@ -2,12 +2,9 @@
 layout: post
 title: Silicon Valley Tells Stories to Protect Its Own
 url: http://kinlane.com/2012/12/18/silicon-valley-tells-stories-to-protect-its-own/
-source: http://kinlane.com/2012/12/18/silicon-valley-tells-stories-to-protect-its-own/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/telling-stories.gif
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/telling-stories.gif" alt="" width="250" align="right" />
 </p>

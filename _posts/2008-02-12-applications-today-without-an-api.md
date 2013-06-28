@@ -2,12 +2,9 @@
 layout: post
 title: Applications Today Without an API
 url: http://kinlane.com/2008/02/12/applications-today-without-an-api/
-source: http://kinlane.com/2008/02/12/applications-today-without-an-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am doing a lot of research right now on quality web 2.0 applications for specific purposes. It really is frustrating when I find the perfect aplication with all the features we are looking for except for one. An API.
      <br />

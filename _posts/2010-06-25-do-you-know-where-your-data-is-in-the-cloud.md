@@ -2,12 +2,9 @@
 layout: post
 title: Do You Know Where Your Data Is In The Cloud?
 url: http://kinlane.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
-source: http://kinlane.com/2010/06/25/do-you-know-where-your-data-is-in-the-cloud/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map.PNG
 ---
 {% include JB/setup %}
-
 <p>
      I was just reading about <a href="http://www.centrilogic.com/services/cloud/" target="_blank">CentriLogic's new cloud hosting services.</a> They store your data across data centers in <a href="http://www.centrilogic.com/services/facilities/roc.php" target="_blank">Rochester NY</a>, <a href="http://www.centrilogic.com/services/facilities/buff.php" target="_blank">Buffalo NY</a>, <a href="http://www.centrilogic.com/services/facilities/tor.php" target="_blank">Toronto ON</a>, and <a href="http://www.centrilogic.com/services/facilities/miss.php">Mississauga, ON</a>. With <a href="http://www.kinlane.com/category/amazon/amazon-ec2/">Amazon EC2</a> and <a href="http://www.kinlane.com/category/amazon/amazon-cloudfront/">cloudfront distributions</a> you can deploy your data across United States, European, Hong Kong and Singapore, and Japan edge locations. <a href="http://www.forrester.com/cloudprivacyheatmap">Country-specific regulations governing privacy and data protection</a> vary greatly. <a href="http://www.forrester.com/cloudprivacyheatmap">Here is a map that outlines the degree of legal strictness across a range of nations</a>: <strong>Most Restrictive</strong><img class="alignnone c1" title="Interactive Data Heap Map" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map.PNG" alt="" width="400" align="right" /><img class="alignnone c1" title="Interactive Data Heap Map" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map2.PNG" alt="" width="400" align="right" /><img class="alignnone c1" title="Interactive Data Heap Map" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/Interactive-Data-Heat-Map3.PNG" alt="" width="400" align="right" />
 </p>

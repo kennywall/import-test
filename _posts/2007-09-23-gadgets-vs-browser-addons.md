@@ -2,12 +2,9 @@
 layout: post
 title: Gadgets vs. Browser Add-Ons
 url: http://kinlane.com/2007/09/23/gadgets-vs-browser-add-ons/
-source: http://kinlane.com/2007/09/23/gadgets-vs-browser-add-ons/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      While working more and more with my Google Home Page, gadgets and apps I have found that not quite everything I need in my daily operations is available in a gadget or part of the Google Application Pool.
      <br />

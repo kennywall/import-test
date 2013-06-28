@@ -2,12 +2,9 @@
 layout: post
 title: Youtube Releases New API
 url: http://kinlane.com/2008/03/12/youtube-releases-new-api/
-source: http://kinlane.com/2008/03/12/youtube-releases-new-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Youtube finally has reworked their API to allow for uploading of videos. This was a huge problem in <a href="http://www.socialmediasquad.com/">integrating YouTube in Social Media Campaigns</a>.
      <br />

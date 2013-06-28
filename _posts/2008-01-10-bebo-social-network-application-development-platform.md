@@ -2,12 +2,9 @@
 layout: post
 title: Bebo Social Network Application Development Platform
 url: http://kinlane.com/2008/01/10/bebo-social-network-application-development-platform/
-source: http://kinlane.com/2008/01/10/bebo-social-network-application-development-platform/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I went ahead and signed up for Bebo Social Network tonight. I was reading a blog post on Techcrunch called <a href="http://www.techcrunch.com/2008/01/10/bebos-platform-now-open-for-all-developers/">Bebo's Platform Now Open for All Developers</a> and thought I should go ahead check it out for myself.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Facebook Responds to Data Concerns
 url: http://kinlane.com/2011/01/18/facebook-responds-to-data-concerns/
-source: http://kinlane.com/2011/01/18/facebook-responds-to-data-concerns/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook_logo-icon.png
 ---
 {% include JB/setup %}
-
 <p>
      Last week Facebook expanded the information available to external websites and applications to include profile address and mobile number. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/facebook_logo-icon.png" alt="" width="250" align="right" /> Ummm....Not Cool. Today they responded with:
 </p>

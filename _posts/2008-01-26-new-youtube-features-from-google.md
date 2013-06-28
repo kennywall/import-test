@@ -2,12 +2,9 @@
 layout: post
 title: New Youtube Features from Google
 url: http://kinlane.com/2008/01/26/new-youtube-features-from-google/
-source: http://kinlane.com/2008/01/26/new-youtube-features-from-google/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      The Youtube team recently release a couple of new features for the Youtube video platform.
      <br />

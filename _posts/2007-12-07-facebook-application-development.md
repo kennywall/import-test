@@ -2,12 +2,9 @@
 layout: post
 title: Facebook Application Development
 url: http://kinlane.com/2007/12/07/facebook-application-development/
-source: http://kinlane.com/2007/12/07/facebook-application-development/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Been spending more time lately thinking about Facebook Application Development for small businesses.
      <br />

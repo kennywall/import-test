@@ -2,12 +2,9 @@
 layout: post
 title: Information Curation with My Google Reader
 url: http://kinlane.com/2011/01/15/information-curation-with-my-google-reader/
-source: http://kinlane.com/2011/01/15/information-curation-with-my-google-reader/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/scrabble.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I have a central keyword list that I use as a reference on a daily basis. <a href="http://www.danielbowen.com/2004/05/28/superscrabble/" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/scrabble.jpg" alt="" width="175" align="right" /></a> I track these keywords across many tools from <a href="www.google.com/reader" target="_blank">Google Reader</a>, <a href="http://www.google.com/webmasters/" target="_blank">Google Webmaster</a>, <a href="www.google.com/analytics/" target="_blank">Google Analytics</a>, and Wordpress. These keywords help me identify important topics that I then follow, learn about and develop content around. Within my <a href="http://www.kinlane.com/category/google/google-reader-google/" target="_blank">Google Reader</a> I tag content in real-time using my central keyword list. I recently started sharing these keywords as public RSS feeds. I'm experimenting with different ways of syndicating this content, and sharing these curated feeds with others. I have setup syndication "end points" for the following keywords:
 </p>

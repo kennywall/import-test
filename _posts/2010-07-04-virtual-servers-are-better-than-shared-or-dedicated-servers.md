@@ -2,12 +2,9 @@
 layout: post
 title: Virtual Servers Are Better Than Shared or Dedicated Servers
 url: http://kinlane.com/2010/07/04/virtual-servers-are-better-than-shared-or-dedicated-servers/
-source: http://kinlane.com/2010/07/04/virtual-servers-are-better-than-shared-or-dedicated-servers/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      This is taken from the <a href="http://www.linode.com/why.cfm" target="_blank">Why Linode Page:</a>
 </p>

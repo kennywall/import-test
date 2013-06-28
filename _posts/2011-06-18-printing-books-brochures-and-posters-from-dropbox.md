@@ -2,12 +2,9 @@
 layout: post
 title: Printing Books, Brochures and Posters from Dropbox
 url: http://kinlane.com/2011/06/18/printing-books-brochures-and-posters-from-dropbox/
-source: http://kinlane.com/2011/06/18/printing-books-brochures-and-posters-from-dropbox/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Dropbox" href="https://www.dropbox.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jpg" alt="" width="200" align="right" /></a><a title="Dropbox" href="https://www.dropbox.com/">Dropbox</a> is a dead simple, web-based file hosting service, that uses cloud computing to enable users to store and share files with others across the Internet using file synchronization. Dropbox is a perfect platform for printing from. You can store all your PDF print files on Dropbox, and print with <a title="Mimeo Connect" href="http://developer.mimeo.com">Mimeo Connect</a>. So I threw together a couple of PHP script to show how to print a couple of common documents from Dropbox, and have delivered to your business the next day.
 </p>

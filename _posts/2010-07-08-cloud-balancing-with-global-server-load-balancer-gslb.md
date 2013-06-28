@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Balancing with Global Server Load Balancer (GSLB)
 url: http://kinlane.com/2010/07/08/cloud-balancing-with-global-server-load-balancer-gslb/
-source: http://kinlane.com/2010/07/08/cloud-balancing-with-global-server-load-balancer-gslb/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/Global-Load-Balancing.PNG
 ---
 {% include JB/setup %}
-
 <p>
      Last year I moved web site, database and email services for the <a href="https://www.sapandasug.com/">SAP SAPPHIRE</a> event to the Amazon Cloud. We needed to scale our infrastructure dramatically to support the event for about 4 months out of the year. This was our second year running the conference in the Amazon Cloud and we were able to scale up nicely to handle the traffic. There were still issues. <a href="http://www.zeus.com/" target="_blank"><img class="alignnone c1" title="Global Server Load Balancing" src="http://kinlane-productions.s3.amazonaws.com/cloud-computing/Global-Load-Balancing.PNG" alt="" width="286" height="192" align="right" /></a> <strong>Global Traffic and Latency</strong> We ran systems to support SAPPHIRE Frankfurt as well as the <a href="http://www.sapphirenow.com/">Virtual SAPPHIRE</a>. So our traffic was from all over the world, and specifically in Europe for a large portion. Availability and latency with various web applications become critical. I am research different methods for addressing not only for SAPPHIRE next year but a year round calendar of events for SAP, Google and other clients. I'm researching DNS-based Global Server Load Balancing or GSLB solutions such as <a href="http://dyn.com/dynect" target="_blank">Dynect</a>. GSLB allows you to distribute application load between data centers or cloud providers in any zone or global region you choose. Traffic can be routed based upon:
 </p>

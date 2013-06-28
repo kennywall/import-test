@@ -2,12 +2,9 @@
 layout: post
 title: Email Infrastructure in the Amazon Cloud
 url: http://kinlane.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
-source: http://kinlane.com/2010/07/03/email-infrastructure-in-the-amazon-cloud/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/email_icon.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Email in the Clouds" src="http://kinlane-productions.s3.amazonaws.com/email_icon.jpg" alt="" width="250" align="right" />I am playing with different ways of monetizing my skills and knowledge. I wrote a white paper on how to setup your core email infrastructure in the Amazon cloud. I haven't spent a lot of time polishing, because I am not a writer. I have spent hundreds of hours polishing the approach. I am offering this white papers for $25.00. I will be spending more time in the next couple weeks to syndicate this white paper and probably increase the rate. Let me know if your interested. Email is a mission critical business operation. It needs to work and your business needs to be able to control all aspects of your email chain. This guide offers a step by step guide to setting up your business email infrastructure running on Amazon Web Services. The Amazon cloud offers lots of advantages for email, but until recently wasn't a complete solution for all your email sending and receiving needs. Now the Amazon cloud is ready for your core email infrastructure and this is the guide to help walk you through.<img class="alignnone c1" title="Email in the Clouds" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg" alt="" width="250" align="right" /> This guide assumes:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Evaluating Who You Should Build Relationships With
 url: http://kinlane.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
-source: http://kinlane.com/2010/06/14/evaluating-who-you-should-build-relationships-with/
-domain: kinlane.com
 image: http://blog.postrank.com/images/PostRank_logo.png
 ---
 {% include JB/setup %}
-
 <p>
      Back when I ran my social media marketing company in 2008 I would help clients understand what blogs were important in their industry, and which blogs they should be working to build a relationship with.<img class="c1" title="PostRank" src="http://blog.postrank.com/images/PostRank_logo.png" alt="" width="200" height="200" align="right" /> We used all types of tools and metrics for making this decision from Alexa ranking, number of comments on site to just a gut feeling.<a href="http://www.postrank.com"></a>I was playing with <a href="http://www.postrank.com/">Postrank</a> tonight. My girl <a href="http://www.audreywatters.com">Audrey</a> uses it at her job with <a href="http://www.readwriteweb.com">RWW</a> to determine valuable information sources. I came across their <a href="http://apidocs.postrank.com/Domain-Activity">Domain Activity API</a>. The <a href="http://apidocs.postrank.com/Domain-Activity">Domain Activity API</a> provides metrics on activity for domains. The information is rolled up to a day level and provides some of the following information:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Mobile Web Site Development Considerations
 url: http://kinlane.com/2010/07/08/mobile-web-site-development-considerations/
-source: http://kinlane.com/2010/07/08/mobile-web-site-development-considerations/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mobile-site-development/mobile-browser.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Mobile Browser" src="http://kinlane-productions.s3.amazonaws.com/mobile-site-development/mobile-browser.jpg" alt="" width="250" align="right" />I'm refining my strategy for best practices in designing mobile web sites. I just added a few RSS feeds from quality design firms, and added a Google Alert. I've put together a few things to consider when designing your web site for mobile browsers:
 </p>

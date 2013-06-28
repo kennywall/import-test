@@ -2,12 +2,9 @@
 layout: post
 title: CityGrid Local, Mobile, Social Stack: Verizon Mapkit API
 url: http://kinlane.com/2012/03/05/citygrid-local-mobile-social-stack-verizon-mapkit-api/
-source: http://kinlane.com/2012/03/05/citygrid-local-mobile-social-stack-verizon-mapkit-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/verizon-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Verizon Mapkit API" href="http://developer.verizon.com/content/vdc/en/verizon-tools-apis/verizon_apis/navbuilder-inside-sdk/verizon-toolsandapis-NBI-tech-resources/verizon-nbi-map-kit-api-reference.html"><img class="aligncenter size-medium wp-image-814" title="verizon-logo" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/03/verizon-logo1-300x193.jpg" alt="" width="250" align="right" /></a>I'm spending more time building, what I've dubbed the <a title="CityGrid Local, Mobile, Social Stack" href="http://www.citygridmedia.com/developer/blog/tag/stack/">CityGrid Local, Mobile, Social Stack</a>, a list of APIs, platforms and tools that you can use in your local-mobile applications.  With the latest move by <a title="Foursquare to join the OpenStreetMaps" href="http://blog.programmableweb.com/2012/03/01/how-foursquare-dropped-google-and-joined-the-openstreetmap-movement/">Foursquare to join the OpenStreetMaps</a> movement, I'm focused on finding the best mapping tools for the CityGrid Local, Mobile, Social Stack.
 </p>

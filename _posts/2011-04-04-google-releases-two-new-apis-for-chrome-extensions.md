@@ -2,12 +2,9 @@
 layout: post
 title: Google Releases Two New APIs for Chrome Extensions
 url: http://kinlane.com/2011/04/04/google-releases-two-new-apis-for-chrome-extensions/
-source: http://kinlane.com/2011/04/04/google-releases-two-new-apis-for-chrome-extensions/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg" alt="" width="250" align="right" />In the latest Chrome Beta release, Google made available <a title="two new experimental extension APIs" href="http://blog.chromium.org/2011/04/new-experimental-apis-for-chrome.html">two new experimental extension APIs</a>: the Web Navigation and Proxy Extension APIs.
 </p>

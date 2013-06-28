@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print - Control
 url: http://kinlane.com/2011/02/08/google-cloud-print-control/
-source: http://kinlane.com/2011/02/08/google-cloud-print-control/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://mimeo.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a>The whole point of deploying a <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Proxy</a> is to be able to manage print jobs. After authenticating using <a href="http://code.google.com/apis/accounts/docs/AuthForInstalledApps.html" target="_blank">Google ClientLogin API,</a> you can then fetch an existing Google Cloud Print Job from the users queue. Each print job has an ID that you can use to reference the print job and control the status with /control service.
 </p><script src="https://gist.github.com/815881.js?file=GCP%20-%20Control" type="text/javascript">

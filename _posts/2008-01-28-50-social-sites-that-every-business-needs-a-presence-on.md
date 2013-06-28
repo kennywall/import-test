@@ -2,12 +2,9 @@
 layout: post
 title: 50 Social Sites That Every Business Needs a Presence on
 url: http://kinlane.com/2008/01/28/50-social-sites-that-every-business-needs-a-presence-on/
-source: http://kinlane.com/2008/01/28/50-social-sites-that-every-business-needs-a-presence-on/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Everyone is a little intimidated and overwhelmed about where to start with your <a href="http://www.socialmediasquad.com/">social media marketing campaign</a>. There are so many sites and so few metrics for evaluating your success.
      <br />

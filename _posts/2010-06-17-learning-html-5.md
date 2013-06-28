@@ -2,12 +2,9 @@
 layout: post
 title: Learning HTML 5
 url: http://kinlane.com/2010/06/17/learning-html-5/
-source: http://kinlane.com/2010/06/17/learning-html-5/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I'm enjoying learning about HTML 5. I haven't been this excited about HTML since 1995(well maybe the day I actually understood the DOM also). I recently played around with the <a href="http://www.kinlane.com/category/html-5/html5-web-storage/">HTML5 Local Web Storage</a> and <a href="http://www.kinlane.com/category/html-5/html5-web-sql-database/">HTML5 Web SQL Database</a> in a <a href="http://www.kinlane.com/2010/06/html-5-web-sql-database/">HTML local contact management prototype</a> I am building. As I'm learning about the other features of HTML5 I will document the best learning tools here:
 </p>

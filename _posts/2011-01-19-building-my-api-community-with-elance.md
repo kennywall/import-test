@@ -2,12 +2,9 @@
 layout: post
 title: Building My API Community with Elance
 url: http://kinlane.com/2011/01/19/building-my-api-community-with-elance/
-source: http://kinlane.com/2011/01/19/building-my-api-community-with-elance/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I'm building the <a href="http://www.apievangelist.com/">API</a> area for the <a href="http://www.mimeo.com">Mimeo</a> Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> API currently. When it is ready, I will need developers. I will need developers to write code samples, working on internal projects and be available to work on partner projects. I can't wait to build momentum and attract developers. I need developers now! I'm working on a strategy to build my community using the <a href="http://www.elance.com/" target="_blank">Elance expert community</a>. It is a ready to go community of developers. <a href="http://www.mimeo.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg" alt="" width="250" align="right" /></a> I'm working on some tools for:
 </p>

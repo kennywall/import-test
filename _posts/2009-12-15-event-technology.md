@@ -2,12 +2,9 @@
 layout: post
 title: Event Technology
 url: http://kinlane.com/2009/12/15/event-technology/
-source: http://kinlane.com/2009/12/15/event-technology/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am doing a lot of research in applications and tools that are available out there for the event and conference industry. I am always evaluating broad categories of event technology, but recently I am focusing on:
 </p>

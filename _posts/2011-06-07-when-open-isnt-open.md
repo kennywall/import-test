@@ -2,12 +2,9 @@
 layout: post
 title: When Open Isn't Open
 url: http://kinlane.com/2011/06/07/when-open-isnt-open/
-source: http://kinlane.com/2011/06/07/when-open-isnt-open/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Open Xerox" href="https://open.xerox.com/"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/open-xerox.png" alt="" align="right" /></a>I spend time each day monitoring how technology is impacting various industries. APIs are playing a major role in evolving how business is done in just about any sector. In my search for new APIs and technologies for the print and publishing industry I came across a new community called <a title="Open Xerox" href="https://open.xerox.com/">Open Xerox</a>. <a title="Open Xerox" href="http://developer.mimeo.com/blog/blog_detail.php?ID=123">Open Xerox</a> is a web portal that hosts technology prototypes from the Xerox R&amp;D labs, making them accessible to external user community for review and comment before the launch of a product offering. The site speaks in all the tags I'm interested in: converter, document, analysis, ebook, epub, ereader, language, pdf, simple text. They have some very interesting web services and applications available like PDF to EPub Converter, Langugage Identifier, and TagSearch. Everything looks great. Except the open. I don't see any open-source technologies and when I try to sign up to submit my open-source tools I got this:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Optical Character Recognition (OCR) with Google Docs API
 url: http://kinlane.com/2011/02/22/optical-character-recognition-ocr-with-google-docs-api/
-source: http://kinlane.com/2011/02/22/optical-character-recognition-ocr-with-google-docs-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/PDF-OCR.png
 ---
 {% include JB/setup %}
-
 <p>
      Using the <a href="http://code.google.com/apis/documents/" target="_blank">Google Docs List API</a> you can convert high-resolution PDFs or images into editable text using <a class="zem_slink" title="Optical character recognition" rel="wikipedia" href="http://en.wikipedia.org/wiki/Optical_character_recognition">Optical Character Recognition (OCR)</a>. <a href="http://www.soliddocuments.com/info.htm?id=233&amp;product=SolidPDFTools&amp;subject=CreateSearchableLayer" target="_blank"><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/mimeo/PDF-OCR.png" alt="" width="250" align="right" /></a> Google Docs List API can extract the text from the following document formats:
 </p>

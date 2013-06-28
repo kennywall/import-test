@@ -2,12 +2,9 @@
 layout: post
 title: LinkedIn Offers Company Profiles
 url: http://kinlane.com/2008/03/21/linkedin-offers-company-profiles/
-source: http://kinlane.com/2008/03/21/linkedin-offers-company-profiles/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      LinkedIn just announced they are offering that, "<a href="http://blog.linkedin.com/blog/2008/03/company-profile.html">Now Companies too have profiles on LinkedI</a>n".
      <br />

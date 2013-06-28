@@ -2,12 +2,9 @@
 layout: post
 title: Google's New Social Graph API
 url: http://kinlane.com/2008/02/02/googles-new-social-graph-api/
-source: http://kinlane.com/2008/02/02/googles-new-social-graph-api/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Google just release a <a href="http://google-code-updates.blogspot.com/2008/02/urls-are-people-too.html">social graph API</a> out into the wild.
      <br />

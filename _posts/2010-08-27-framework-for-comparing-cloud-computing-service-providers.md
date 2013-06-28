@@ -2,12 +2,9 @@
 layout: post
 title: Framework for Comparing Cloud Computing Service Providers
 url: http://kinlane.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
-source: http://kinlane.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/
-domain: kinlane.com
 image: http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.cloudcommons.com/web/guest/home" target="_blank"><img class="alignnone c1" title="CloudCommons" src="http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif" alt="" width="195" height="48" align="right" /></a> <a href="http://www.cloudcommons.com/web/guest/home" target="_blank">CloudCommons</a> has developed the Service Measurement Index (SMI) Framework, a set of <a href="http://www.cloudcommons.com/web/guest/article-display?p_p_id=cc_fullcontent&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_col_id=column-1&amp;p_p_col_count=4&amp;_cc_fullcontent_struts_action=%2Fdigitas%2Fcc_fullcontent%2Fview_content&amp;_cc_fullcontent_assetId=11156&amp;_cc_fullcontent_urlTitle=first-holistic-framework-for-comparing-business-services&amp;_cc_fullcontent_type=content&amp;redirect=%2Fweb%2Fguest%2Fhome" target="_blank">tools for comparing cloud computing service providers</a>. The <a href="http://www.cloudcommons.com/web/guest/about-smi" target="_blank">Service Measurement Index (SMI) Framework</a> uses the following metrics:
 </p>

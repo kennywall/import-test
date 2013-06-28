@@ -2,12 +2,9 @@
 layout: post
 title: Private Profile Items vs. Public Profile Items
 url: http://kinlane.com/2007/10/24/private-profile-items-vs-public-profile-items/
-source: http://kinlane.com/2007/10/24/private-profile-items-vs-public-profile-items/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      There is a lot of information that exists in a dual format in my public and private life. A lot of what I do I don't mind it being public. That is my personality.
      <br />

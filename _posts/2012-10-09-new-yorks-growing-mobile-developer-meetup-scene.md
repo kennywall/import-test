@@ -2,12 +2,9 @@
 layout: post
 title: New York's Growing Mobile Developer Meetup Scene
 url: http://kinlane.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
-source: http://kinlane.com/2012/10/09/new-yorks-growing-mobile-developer-meetup-scene/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meetup_logo.gif
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Meetup" href="http://www.meetup.com/"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif" alt="" width="250" align="right" /></a>
 </p>

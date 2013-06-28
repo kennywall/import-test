@@ -2,12 +2,9 @@
 layout: post
 title: Quick Launch RSS from Blog on Web Site
 url: http://kinlane.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
-source: http://kinlane.com/2008/07/23/quick-launch-rss-from-blog-on-web-site/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was looking for a quick way to get our <a href="http://blog.socialmediasquad.com">Social Media Squad</a> blog on the home page and feature area on our new Social Media Squad web site.
      <br />

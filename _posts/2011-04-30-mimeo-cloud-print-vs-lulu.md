@@ -2,12 +2,9 @@
 layout: post
 title: Mimeo Cloud Print vs. Lulu
 url: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-source: http://kinlane.com/2011/04/30/mimeo-cloud-print-vs-lulu/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg" alt="" width="200" align="right" /> <span id="internal-source-marker_0.2542797683272511">One search term I've seen come up in my Google Analytics frequestly is:</span>
 </p>

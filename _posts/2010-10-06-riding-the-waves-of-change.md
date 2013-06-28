@@ -2,12 +2,9 @@
 layout: post
 title: Riding the Waves of Change
 url: http://kinlane.com/2010/10/06/2237/
-source: http://kinlane.com/2010/10/06/2237/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/waves.jpg
 ---
 {% include JB/setup %}
-
 <p>
      Change happens. With technology, change seems to be accelerating, or at least the waves of change seem to come more frequently. I feel I've developed a certain rhythm for riding these waves. Part of this rhythm is a regular evaluation of where I stand, a sort of agile career methodology. I'm in one of those evaluation periods right now. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/waves.jpg" alt="" width="350" align="right" /> What wave is next? In January 2007 I found myself jumping on the social media wave, in which I still ride to some degree. In Spring of 2008 I found myself jumping on the cloud computing wave, in which I'm still totally drowning in. What wave is next? Mobile? Big Data? Semantics? There are many things I consider when evaluating what I will focus my attention on. I want to make sure I will be investing in learning that will benefit my professional development. One thing I look for are constants within all the waves I ride. One constant I've seen between Social media and Cloud Computing are APIs. If you take a deeper look:
 </p>

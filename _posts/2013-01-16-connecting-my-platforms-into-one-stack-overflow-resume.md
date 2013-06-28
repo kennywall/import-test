@@ -2,12 +2,9 @@
 layout: post
 title: Connecting My Platforms Into One Stack Overflow Resume
 url: http://kinlane.com/2013/01/16/connecting-my-platforms-into-one-stack-overflow-resume/
-source: http://kinlane.com/2013/01/16/connecting-my-platforms-into-one-stack-overflow-resume/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Stack-OverFlow-Careers-20-Kin-Lane.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/stack-overflow/Stack-OverFlow-Careers-20-Kin-Lane.png" alt="" width="300" align="right" />
 </p>

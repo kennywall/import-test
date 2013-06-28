@@ -2,12 +2,9 @@
 layout: post
 title: Why We Give More Weight to Facebook Application Development Over MySpace
 url: http://kinlane.com/2008/03/04/why-we-give-more-weight-to-facebook-application-development-over-myspace/
-source: http://kinlane.com/2008/03/04/why-we-give-more-weight-to-facebook-application-development-over-myspace/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I was just reading <a href="http://www.web-strategist.com/blog/2008/03/04/myspace-developer-platform-jim-benedetto-myspace/" rel="bookmark">MySpace Developer Platform: Jim Benedetto, MySpace</a> on Jeremiah Owyang's blog. He is at the Social Graph Conference in San Diego. I wish I was there.
      <br />

@@ -2,12 +2,9 @@
 layout: post
 title: Social Network Authentication Using Singly (PHP Edition)
 url: http://kinlane.com/2012/09/12/social-network-authentication-using-singly-php-edition/
-source: http://kinlane.com/2012/09/12/social-network-authentication-using-singly-php-edition/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.singly.com/"><img class="c1" src="https://s3.amazonaws.com/kinlane-productions/singly/singly-twitter-linkedin-github-facebook-authentication.png" alt="" width="175" align="right" /></a>
 </p>

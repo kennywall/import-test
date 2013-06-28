@@ -2,12 +2,9 @@
 layout: post
 title: Google Apps Available Offline
 url: http://kinlane.com/2009/03/04/google-apps-available-offline/
-source: http://kinlane.com/2009/03/04/google-apps-available-offline/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      So Google has release offline access for Google Calendar to all users. Now I have offline access enabled for my key Google Apps.
 </p>

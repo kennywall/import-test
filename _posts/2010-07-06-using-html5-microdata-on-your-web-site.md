@@ -2,12 +2,9 @@
 layout: post
 title: Using HTML5 Microdata on Your Web Site
 url: http://kinlane.com/2010/07/06/using-html5-microdata-on-your-web-site/
-source: http://kinlane.com/2010/07/06/using-html5-microdata-on-your-web-site/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/microformats.png
 ---
 {% include JB/setup %}
-
 <p>
      <img class="alignnone c1" title="Microformats" src="http://kinlane-productions.s3.amazonaws.com/microformats.png" alt="" width="120" height="127" align="right" />When it comes to HTML5, for some reason the less visual and more functional aspects of HTML5 is what excites me. I was just reading more about the <a href="http://www.w3.org/TR/html5/microdata.html" target="_blank">HTML5 Microdata specification</a>. Microdata is part of the HTML5 specs that is relevant to sharing data. MicroData helps web page data to be processed, organized, structured or presented in context. Microdata, is a way of embedding information in your web page that makes your existing data machine readable. Some example uses of HTML5 MicroData are:
 </p>

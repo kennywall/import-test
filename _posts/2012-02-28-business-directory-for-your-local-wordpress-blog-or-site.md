@@ -2,12 +2,9 @@
 layout: post
 title: Business Directory for your Local Wordpress Blog or Site
 url: http://kinlane.com/2012/02/28/business-directory-for-your-local-wordpress-blog-or-site/
-source: http://kinlane.com/2012/02/28/business-directory-for-your-local-wordpress-blog-or-site/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/wordpress-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="https://s3.amazonaws.com/kinlane-productions/wordpress.jpg" alt="" width="200" align="right" />
 </p>

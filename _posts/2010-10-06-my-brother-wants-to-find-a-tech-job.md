@@ -2,12 +2,9 @@
 layout: post
 title: My Brother Wants to Find a Tech Job
 url: http://kinlane.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
-source: http://kinlane.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      My little brother Michael is looking for a job in the tech industry. He asked if he could send his resume my way. I said sure. I opened his resume and scanned it as I would any other potential hire. It read:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: OExchange - Sharing Standard
 url: http://kinlane.com/2010/06/04/oexchange-sharing-standard/
-source: http://kinlane.com/2010/06/04/oexchange-sharing-standard/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.oexchange.org/">OExchange</a> is an open protocol for sharing any URL with any service on the web. <strong>The Problem</strong> Lots of services accept URL-based content � social networks, news and bookmarking sites, communication tools, long-tail forums, translation and printing utilities � and more appear every day. Why do blogs still show chiclets for only the top few social networks? Why can't users engage with more personal, relevant, dynamically-discovered options? Why are sharing tools still "integrating" with services individually? <strong>The Solution</strong> <a href="http://www.oexchange.org/">OExchange</a> makes it possible to share any URL-based content with any service on the web. It defines:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Google Docs File Size Limitations
 url: http://kinlane.com/2011/02/22/google-docs-file-size-limitations/
-source: http://kinlane.com/2011/02/22/google-docs-file-size-limitations/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg" alt="" width="200" align="right" />I spent some time this evening researching file size limitations for Google Docs. Here is what I found:
 </p>

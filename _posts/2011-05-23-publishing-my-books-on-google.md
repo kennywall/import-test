@@ -2,12 +2,9 @@
 layout: post
 title: Publishing My Books On Google
 url: http://kinlane.com/2011/05/23/publishing-my-books-on-google/
-source: http://kinlane.com/2011/05/23/publishing-my-books-on-google/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg
 ---
 {% include JB/setup %}
-
 <p>
      I've started exploring <a title="Google Books" href="http://books.google.com/">Google Books</a> as a publishing platform for my books. I write my own books, but I want to explore what it looks like to be a publisher using Google Books and Mimeo Connect Cloud Print. <span>As a publisher, Google Book allows me to:</span><img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg" alt="" width="150" align="right" />
 </p>

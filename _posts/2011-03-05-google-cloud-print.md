@@ -2,12 +2,9 @@
 layout: post
 title: Google Cloud Print
 url: http://kinlane.com/2011/03/05/google-cloud-print/
-source: http://kinlane.com/2011/03/05/google-cloud-print/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/GCP-Overview.png
 ---
 {% include JB/setup %}
-
 <p>
      <a title="Google Cloud Print" href="http://code.google.com/apis/cloudprint/docs/overview.html">Google Cloud Print</a> provides a printing platform that allow printers to be accessed over the Internet by mobile phone, tables and computers. Google Cloud Print enables printing over the Internet to web enabled printers or older printers using a proxy software that users can installed on Windows, and soon Mac and Linux platforms. Cloud Printing is available in Google Apps like Docs and Gmail, Chrome Browser, and the <a title="Google Chrome OS" href="http://www.google.com/chromeos/index.html">Google Chrome Operating System.</a> <a href="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/GCP-Overview.png"><img class="aligncenter" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/GCP-Overview.png" alt="" width="550" /></a> Third party software developers can access GCP using an API called the <a title="Google Cloud Print Services Interface" href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html">Google Cloud Print (GCP) Services Interface</a>. The GCP API provides access to the following services for cloud printers:
 </p>

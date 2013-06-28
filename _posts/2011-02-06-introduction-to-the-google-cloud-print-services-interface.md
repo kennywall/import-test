@@ -2,12 +2,9 @@
 layout: post
 title: Introduction to the Google Cloud Print Services Interface
 url: http://kinlane.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
-source: http://kinlane.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
 {% include JB/setup %}
-
 <p>
      The <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print services interface</a> or <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print API</a> is where the whole cloud print thing starts getting cool. The Google Cloud Print service interfaces allow you to create a cloud print proxy that gives you a virtual cloud printer you can send jobs to. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png" alt="" width="300" align="right" /> I'm developing a PHP / MySQL proxy that enables me to register a virtual cloud printer with Google Cloud Print (GCP) registry. Once the printer is registered with the service, it can then receive jobs from and communicate status with Google Cloud Print. Google defines a <strong><em>Cloud Print Proxy</em></strong> as: <em>A cloud print proxy can be a piece of software that runs on a computer connected to a non-cloud-aware printer, a small add-on hardware device that contains the proxy interface and connects to the printer, or firmware that is built in to printers of the future.</em> I want to evolve the proxy definition beyond just hardware, I want to proxy Google Cloud Print jobs and translate them into anything, but first what is the GCP services interface? The <strong>URL for the GCP services interface</strong> is:
 </p>

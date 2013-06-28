@@ -2,12 +2,9 @@
 layout: post
 title: Usage of My Public Profile Information
 url: http://kinlane.com/2007/10/18/usage-of-my-public-profile-information/
-source: http://kinlane.com/2007/10/18/usage-of-my-public-profile-information/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Since everything with my public profile is accessible to the general public in some form, there should be a easy profile page get at my bio and display links to all my public information.
      <br />

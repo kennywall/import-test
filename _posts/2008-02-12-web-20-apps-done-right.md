@@ -2,12 +2,9 @@
 layout: post
 title: Web 2.0 Apps Done Right
 url: http://kinlane.com/2008/02/12/web-20-apps-done-right/
-source: http://kinlane.com/2008/02/12/web-20-apps-done-right/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I have blogged several times about web 2.0 applications and what I look for in them. I have been evaluating a lot of applications lately and a good application really stands out.
      <br />

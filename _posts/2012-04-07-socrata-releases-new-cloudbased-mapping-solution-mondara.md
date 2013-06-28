@@ -2,12 +2,9 @@
 layout: post
 title: Socrata Releases New Cloud-Based Mapping Solution Mondara
 url: http://kinlane.com/2012/04/07/socrata-releases-new-cloud-based-mapping-solution-mondara/
-source: http://kinlane.com/2012/04/07/socrata-releases-new-cloud-based-mapping-solution-mondara/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/socrata-1.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a href="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/socrata-1.jpg"><img class="aligncenter size-medium wp-image-1006" title="socrata-1" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/socrata-1-300x201.jpg" alt="" width="225" align="right" /></a>The <a title="Open Data Platform Socrata" href="http://www.socrata.com/">open data platform Socrata</a> just released a new cloud mapping software called <a title="Mondara" href="http://www.socrata.com/mondara/">Mondara</a>, designed for users with no GIS expertise, allowing them to build online maps from existing data Shapefile or KML files.
 </p>

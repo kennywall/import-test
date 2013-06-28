@@ -2,12 +2,9 @@
 layout: post
 title: Not All Browsers Are the Same
 url: http://kinlane.com/2009/02/27/not-all-browsers-are-the-same/
-source: http://kinlane.com/2009/02/27/not-all-browsers-are-the-same/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      As part of my 3rd party service development plan for my company I make recommendations for external systems that my company should be using for its operations. We don't buy or develop everything internally. There are some amazing 3rd party applications. A couple notable ones are:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: Benefits of Transparency
 url: http://kinlane.com/2011/01/20/benefits-of-transparency/
-source: http://kinlane.com/2011/01/20/benefits-of-transparency/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg
 ---
 {% include JB/setup %}
-
 <p>
      One of the aspects of my current job that I enjoy, is the transparent nature of my role. My job is to generate attention for <a href="http://www.mimeo.com">Mimeo</a> and the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>. Let me give you an example. In various roles I've had at companies as lead developer, director of technology, or just a developer I spend a lot of time researching new technologies. When I research new technologies I usually create some sort of overview document, a presentation and probably some sort of sample code or prototype. <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg" alt="" width="250" align="right" /> In legacy positions I do all this hard work, and usually submit to my boss and maybe do apresentationto other teams. Often times, my work goes nowhere. In my new role as an API Evangelist I enjoy a lot of transparency. I get to talk about my work as I'm learning. For exmple I wrote these blog posts yesterday:
 </p>

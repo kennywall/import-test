@@ -2,12 +2,9 @@
 layout: post
 title: Mobile Data Gathering
 url: http://kinlane.com/2009/12/15/mobile-data-gathering/
-source: http://kinlane.com/2009/12/15/mobile-data-gathering/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      While playing around with Google Fusion Tables tonight I came across the <a href="http://code.google.com/p/open-data-kit/">Open Data Kit</a> (ODK). Open Data Kit (ODK) is a suite of tools to help organizations collect, aggregate and visualize their data. The project's goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale. The project consists of:
 </p>

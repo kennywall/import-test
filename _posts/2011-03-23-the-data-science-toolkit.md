@@ -2,12 +2,9 @@
 layout: post
 title: The Data Science Toolkit
 url: http://kinlane.com/2011/03/23/the-data-science-toolkit/
-source: http://kinlane.com/2011/03/23/the-data-science-toolkit/
-domain: kinlane.com
 image: http://petewarden.typepad.com/.a/6a00d83454428269e20147e36ce562970b-800wi
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://petewarden.typepad.com/.a/6a00d83454428269e20147e36ce562970b-800wi" alt="" width="275" align="right" />The <a title="Data Science Toolkit" href="http://www.datasciencetoolkit.org/">Data Science Toolkit</a> is a collection of open source tools wrapped in an easy-to-use REST/JSON interface, and available for download as a virtual machine image. Some of the tools included are<a title="Boilerpipe" href="http://code.google.com/p/boilerpipe/">Boilerpipe</a>,GeoIQ/Shuyler Erle's <a title="Geocoder" href="https://github.com/geocommons/geocoder">Geocoder</a>, and <a title="Geodict" href="https://github.com/petewarden/geodict">Geodict</a>. The Data Science Toolkit is assembled by <a title="Pete Warden" href="http://petewarden.typepad.com/searchbrowser/">Pete Warden</a> in an attempt to get these important data tools in the hands of more developers. The toolkit provides:
 </p>

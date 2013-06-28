@@ -2,12 +2,9 @@
 layout: post
 title: New Google Features - Google News and Videos
 url: http://kinlane.com/2008/01/14/new-google-features-google-news-and-videos/
-source: http://kinlane.com/2008/01/14/new-google-features-google-news-and-videos/
-domain: kinlane.com
 image: http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s320/Google+News+1.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s1600-h/Google+News+1.jpg"><img class="c1" src="http://bp1.blogger.com/_9OGzs28s_k4/R4wuTEgj35I/AAAAAAAAAuE/AUVJhF_1LuE/s320/Google+News+1.jpg" alt="" id="BLOGGER_PHOTO_ID_5155546578595078034" border="0" /></a>It is fun finding new Google Features. I never really know when they come out, but when I find them they are new to me so I am blogging about them.
      <br />

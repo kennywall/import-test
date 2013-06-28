@@ -2,12 +2,9 @@
 layout: post
 title: File Formats for Google Docs API
 url: http://kinlane.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
-source: http://kinlane.com/2011/02/23/google-docs-file-formats-viewer-web-and-api/
-domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}
-
 <p>
      <img class="c1" src="http://kinlane-productions.s3.amazonaws.com/googleapps.jpg" alt="" width="240" align="right" />I am defining various aspects of the <a href="http://docs.google.com" target="_blank">Google Docs</a> platform in conjunction with my <a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Print Proxy</a> work. I need to know what is possible via the <a href="http://code.google.com/apis/documents/" target="_blank">Google Docs Listing API</a> for managing documents prior to cloud printing. I am focusing on what file types and sizes are viable through the Google Docs Web Interface, Google Docs Viewer and the Google Docs Listing API. The following formats are available for use in the Google Docs Viewer:
 </p>

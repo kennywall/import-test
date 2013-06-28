@@ -2,12 +2,9 @@
 layout: post
 title: Wordpress Installation and Hosting on the Cloud
 url: http://kinlane.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
-source: http://kinlane.com/2008/03/11/wordpress-installation-and-hosting-on-the-cloud/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Just got a request to install Wordpress blog for a client that will potentially receive a large amount of traffic.
      <br />

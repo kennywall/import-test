@@ -2,12 +2,9 @@
 layout: post
 title: Application Idea using the Google Platform
 url: http://kinlane.com/2008/01/23/application-idea-using-the-google-platform/
-source: http://kinlane.com/2008/01/23/application-idea-using-the-google-platform/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      Had a new idea on how to use the Google Platform today. Reading so much about micro-blogging and twitter these days in the blogosphere.
      <br />

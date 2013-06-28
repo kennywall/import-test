@@ -2,12 +2,9 @@
 layout: post
 title: Cloud Computing for the Government
 url: http://kinlane.com/2009/04/26/cloud-computing-for-the-government/
-source: http://kinlane.com/2009/04/26/cloud-computing-for-the-government/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I am conducting my <a href="http://cloud.kinlane.com">cloud computing research</a> and specifically focusing on:
 </p>

@@ -2,12 +2,9 @@
 layout: post
 title: My Google Results
 url: http://kinlane.com/2009/09/16/my-google-results/
-source: http://kinlane.com/2009/09/16/my-google-results/
-domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
-
 <p>
      I guess Facebook beating out my blog when searching for my name "Kin Lane" @ Google was a temporary thing . The results are fairly normal now. I haven't reported what my top 10 are for a while. They tend to reflect the top social platforms out there.
 </p>
