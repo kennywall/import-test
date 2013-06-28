@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/08/01/application-programming-interfaces-a
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api/mashery.gif
 ---
-{% include JB/setup %}<p>I am fascinated by APIs.  I got to listen to the engineer from Mashery talk about their API services the other day.  Ever since then I've been thinking a lot more about APIs.  I just reviewed 25 top APIs out there:
+{% include JB/setup %}I am fascinated by APIs.  I got to listen to the engineer from Mashery talk about their API services the other day.  Ever since then I've been thinking a lot more about APIs.  I just reviewed 25 top APIs out there:
 
 	Flickr API
 	Evernote
@@ -35,6 +35,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api/mashery.gif
 	Shopping.com
 
 I've been looking at each providers approach to delivering an API ecosystem.  Lots of different approaches and common building blocks.
-Google wins for the most simplest approach to deploying APIs. Salesforce definitely is the leader in delivering a very robust and complete API ecosystem, its no wonder they are the leading Software as a Service (SaaS) provider.</p>
-<center><p><a href="http://apievangelist.com/2010/08/01/application-programming-interfaces-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Google wins for the most simplest approach to deploying APIs. Salesforce definitely is the leader in delivering a very robust and complete API ecosystem, its no wonder they are the leading Software as a Service (SaaS) provider.

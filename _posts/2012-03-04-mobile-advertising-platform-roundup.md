@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/03/04/mobile-advertising-platform-round-up
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/CityGrid-Mobile-Advertising.png
 ---
-{% include JB/setup %}<p>I&rsquo;m doing more research for my&nbsp;Local, Mobile, Social Stack, and spending some time understanding the mobile advertising space.
+{% include JB/setup %}I&rsquo;m doing more research for my&nbsp;Local, Mobile, Social Stack, and spending some time understanding the mobile advertising space.
 So far I&rsquo;ve found 24 mobile advertising platforms:
 
 Adfonic&nbsp;- Global mobile advertising marketplace
@@ -35,6 +35,4 @@ xAd&nbsp;- Mobile advertising service
 
 This is is just a round-up, next I will profile what each of the mobile advertising providers offer and see how the&nbsp;CityGrid advertising network&nbsp;compares.
 Many of these networks offer mobile advertising for the entire world, beyond the local advertising space, but I want to see as many of the providers as I can.
-Stayed tuned for more detail on mobile advertising as part of the&nbsp;CityGrid local, mobile, social stack.</p>
-<center><p><a href="http://apievangelist.com/2012/03/04/mobile-advertising-platform-round-up/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Stayed tuned for more detail on mobile advertising as part of the&nbsp;CityGrid local, mobile, social stack.

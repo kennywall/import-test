@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/12/15/mobile-data-gathering/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>While playing around with Google Fusion Tables tonight I came across the Open Data Kit (ODK).
+{% include JB/setup %}While playing around with Google Fusion Tables tonight I came across the Open Data Kit (ODK).
 Open Data Kit (ODK) is a suite of tools to help organizations collect, aggregate and visualize their data. The project's goals are to make open-source and standards-based tools which are easy to try, easy to use, easy to modify and easy to scale.
 The project consists of:
 
@@ -18,6 +18,3 @@ The project consists of:
 
 Cool stuff!
 Great way to build mobile survey and data gathering applications that can be easily downloaded onto mobile phones such as Google Android.
-</p>
-<center><p><a href="http://apievangelist.com/2009/12/15/mobile-data-gathering/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

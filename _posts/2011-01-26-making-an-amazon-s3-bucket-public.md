@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/26/making-an-amazon-s3-bucket-public/
 domain: apievangelist.com
 image: http://a0.twimg.com/profile_images/1176550371/5163129933_353fc10a38_m_normal.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -38,6 +38,3 @@ Paste this bucket policy with [bucket name] changed to your bucket name.
 }
 ]
 }
-</p>
-<center><p><a href="http://apievangelist.com/2011/01/26/making-an-amazon-s3-bucket-public/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

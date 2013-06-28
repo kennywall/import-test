@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-jooml
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
-{% include JB/setup %}<p>Amazon Web Services has partnered with JumpBox to deliver a suite of hosted applications using Amazon Web Services.
+{% include JB/setup %}Amazon Web Services has partnered with JumpBox to deliver a suite of hosted applications using Amazon Web Services.
 Using AWS and Jumpbox you can launch a:
 
 	Wordpress Blog
@@ -19,6 +19,3 @@ Each application runs already installed and configured on its own Amazon EC2 ins
 
 After launching you can make all your configurations using a password-protected control panel that controls the application and EC2 instance its running on.
 Very cool, turn-key cloud applications from JumpBox and Amazon Web Services.
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/08/wordpress-drupal-mediawiki-and-joomla-on-aws-with-jumpbox/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

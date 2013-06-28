@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/08/07/internet-service-provider-isp-at-ama
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
-{% include JB/setup %}<p>I was just refining a wiki page of various building blocks I use at Amazon Web Services. I noticed it would make a great Internet Service Provider (ISP) package for someone who wanted to start an ISP, or even used as model for an existing ISP looking to migrate to cloud computing.
+{% include JB/setup %}I was just refining a wiki page of various building blocks I use at Amazon Web Services. I noticed it would make a great Internet Service Provider (ISP) package for someone who wanted to start an ISP, or even used as model for an existing ISP looking to migrate to cloud computing.
 These are a few of the components I have my list:
 
 	Web Server on Amazon EC2
@@ -54,6 +54,3 @@ These are a few of the components I have my list:
 
 These are just a few of the building blocks I have on my list. There are many other possibilities and configurations. You slap on an ISP Cloud Management tool like Plesk from Parallels and you can manage your network without much headache.
 You are going to see many Internet Service Providers (ISP) make the jump to the cloud because of cost and ease of deployment. There are just too many benefits to ignore the cloud.
-</p>
-<center><p><a href="http://apievangelist.com/2010/08/07/internet-service-provider-isp-at-amazon-web-services-aws/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

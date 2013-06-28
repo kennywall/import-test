@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/09/30/do-it-yourself-gadgets/
 domain: apievangelist.com
 image: http://www.buglabs.net/assets/105/BUGbase_1.3_Product_Page.jpg
 ---
-{% include JB/setup %}<p>I was just checking out BUG Labs do it yourself DIY gadgets. They have created a sweet array of little open source programmable gadgets. For those of us who spent our youths taking apart stereos, tvs and anything that plugged in when we were little....these are cool.
+{% include JB/setup %}I was just checking out BUG Labs do it yourself DIY gadgets. They have created a sweet array of little open source programmable gadgets. For those of us who spent our youths taking apart stereos, tvs and anything that plugged in when we were little....these are cool.
 Here is what they are all about from their own site:
 Bug Labs is a new kind of technology company, enabling a new generation of engineers to tap their creativity and build any type of device they want, without having to solder, learn solid state electronics, or go to China. Bug Labs envisions a future where CE stands for Community Electronics, the term mashups applies equally to hardware as it does to Web services, and entrepreneurs can appeal to numerous markets by inventing The Long Tail of devices.
 Here are the different gadgets they have:
@@ -21,6 +21,4 @@ Here are the different gadgets they have:
 
 Amazing potential here. You think of what has happened with the DIY online world of social media, youtube, facebook and content generation. Think about the DIY physical world.
 Have an idea for a new implementation, get a BUGbase and write some custom scripts to run any of the other gadgets....or build on them and the sky is the limit.
-Cool stuff...will be watching where this is going.</p>
-<center><p><a href="http://apievangelist.com/2009/09/30/do-it-yourself-gadgets/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Cool stuff...will be watching where this is going.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/04/05/a-fresh-look-at-what-amazon-brings-t
 domain: apievangelist.com
 image: http://awsmedia.s3.amazonaws.com/logo_aws.gif
 ---
-{% include JB/setup %}<p>One of the reasons I blog is to provide a focus to my research and  learning. I use this research to help me revisit many of the  technologies that I stay in tune with. With many of the top cloud  providers I like to step back and look at what they offer from time to  time to see if I have missed anything or may see things in a different  light.
+{% include JB/setup %}One of the reasons I blog is to provide a focus to my research and  learning. I use this research to help me revisit many of the  technologies that I stay in tune with. With many of the top cloud  providers I like to step back and look at what they offer from time to  time to see if I have missed anything or may see things in a different  light.
 Take a look at a a current overview of Amazon Web Services.
 Compute
 
@@ -65,6 +65,4 @@ Workforce
 	Amazon  Mechanical Turk - Amazon Mechanical Turk is a marketplace for work  that requires human  intelligence. The Mechanical Turk web service enables companies to  programmatically access this marketplace and a diverse, on-demand  workforce. Developers can leverage this service to build human  intelligence directly into their applications.
 
 Amazon was one  of the first movers in the Cloud Infrastructure as a Service (IaaS)  arena. They have dominated this space and are providing backbone  services to many of the top Software as a Service (SaaS) and even  Platform as a Service (PaaS) providers.
-Most of their cloud offerings are available through the Amazon Console,  and all of them through the Application Programming Interface (API) for  full access. Amazon has addressed many of the pain points in developing platforms and software that runs in the clouds. A pretty impressive offering.</p>
-<center><p><a href="http://apievangelist.com/2010/04/05/a-fresh-look-at-what-amazon-brings-to-the-cloud/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Most of their cloud offerings are available through the Amazon Console,  and all of them through the Application Programming Interface (API) for  full access. Amazon has addressed many of the pain points in developing platforms and software that runs in the clouds. A pretty impressive offering.

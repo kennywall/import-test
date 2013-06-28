@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/28/private-label-cloud-provider/
 domain: apievangelist.com
 image: http://www.elasticstack.com/images/elasticstack.jpg
 ---
-{% include JB/setup %}<p>Tired of sending people to Amazon, Rackspace, or GoGrid. You can now start your own cloud computing provider.
+{% include JB/setup %}Tired of sending people to Amazon, Rackspace, or GoGrid. You can now start your own cloud computing provider.
 TelasticStack allows you to offer your own brand of cloud servers:
 
 	Turnkey Cloud Platform
@@ -22,6 +22,4 @@ They say they have cloud hosting solutions for:
 	Cloud Startups
 	Private Clouds
 
-Seems like a viable business model in the cloud computing game. With everyone jumping on the "cloud" bandwagon a private label solution seems like a perfect option.</p>
-<center><p><a href="http://apievangelist.com/2010/06/28/private-label-cloud-provider/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Seems like a viable business model in the cloud computing game. With everyone jumping on the "cloud" bandwagon a private label solution seems like a perfect option.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/25/3d-printing-and-manufacturing-with-g
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 ---
-{% include JB/setup %}<p>I'm watching the future of manufacturing and printing unfold slowly in front of us.  I'm paying attention to 3D printing solutions evolving from companies like Shapeways, MakerBot, Materialise, ZCorp, and Objet.
+{% include JB/setup %}I'm watching the future of manufacturing and printing unfold slowly in front of us.  I'm paying attention to 3D printing solutions evolving from companies like Shapeways, MakerBot, Materialise, ZCorp, and Objet.
 At the same time I'm involved with the rollout of Google Cloud Print Services Interface, an API for managing printing to any printer over the Internet.
 I'm using Google Docs as a publishing platform, integrating Google Cloud Print with the Mimeo Connect API and evolving whats possible with commercial cloud printing.
 Google has added support for many more native file formats in Google Docs.  Now all they need to do is add support for common 3D printing file formats:
@@ -19,6 +19,4 @@ Google has added support for many more native file formats in Google Docs.  Now 
 To support 3D printing file formats I'm sure they will have to introduce a new app to the Google Apps suite or evolve Google Drawings.
 Google Drawings only supports importing of .wmf files and exporting of .jpg, .pdf, .png, and .svg formats.
 I'm working on some modifications to the Google Cloud Print capabilities definition via .ppd or .xps for commericial cloud printing, I think we could also bend this definition to support 3D printing and mnufacturing.
-We have a ways to go, but I see the future of cloud 3D printing and manufacturing unfold in front of us with 3-D printing and cloud printing.</p>
-<center><p><a href="http://apievangelist.com/2011/04/25/3d-printing-and-manufacturing-with-google/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+We have a ways to go, but I see the future of cloud 3D printing and manufacturing unfold in front of us with 3-D printing and cloud printing.

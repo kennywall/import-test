@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/28/managing-google-cloud-print/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
-{% include JB/setup %}<p>I have been getting a lot of questions from users regarding how to manage their Google Cloud Printers.
+{% include JB/setup %}I have been getting a lot of questions from users regarding how to manage their Google Cloud Printers.
 To help guide users stumbling across my site, there are two types of Google Cloud Print Users:
 
 	End Users - You are installing Google Cloud Print on your Windows machine to print to it on your mobile phone.
@@ -34,6 +34,3 @@ Related articles
 	Google Cloud Print Proxy (Cloud Printer) (kinlane.com)
 	Print from Your Phone with Google Cloud Print [Cloud Print] (lifehacker.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/28/managing-google-cloud-print/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

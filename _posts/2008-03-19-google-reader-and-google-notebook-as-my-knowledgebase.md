@@ -6,6 +6,4 @@ source: http://apievangelist.com/2008/03/19/google-reader-and-google-notebook-as
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I use Google Reader and Google Notebook on a daily basis.  I read and consume feeds from 300+ blogs daily.  I scan, read, visit and participate in many of the posts. I then either tag the blog entries in my Google Reader.Or I visit the blog and highlight some or all of the text and add to my Google Notebook.I keep huge amounts of information in both of these. With the combination of tagging in Google Reader and organizing in notebooks in Google Notebook and keep track of meaningful information.Both give me a search tool to then pull this information up at anytime.What a great database.</p>
-<center><p><a href="http://apievangelist.com/2008/03/19/google-reader-and-google-notebook-as-my-knowledgebase/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}I use Google Reader and Google Notebook on a daily basis.  I read and consume feeds from 300+ blogs daily.  I scan, read, visit and participate in many of the posts. I then either tag the blog entries in my Google Reader.Or I visit the blog and highlight some or all of the text and add to my Google Notebook.I keep huge amounts of information in both of these. With the combination of tagging in Google Reader and organizing in notebooks in Google Notebook and keep track of meaningful information.Both give me a search tool to then pull this information up at anytime.What a great database.

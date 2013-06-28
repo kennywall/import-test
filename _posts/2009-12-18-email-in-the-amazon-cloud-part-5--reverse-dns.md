@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-5-rev
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I was really excited when I got this email response on my ticket from Amazon Web Services:
+{% include JB/setup %}I was really excited when I got this email response on my ticket from Amazon Web Services:
 
 We've reached out to the Amazon EC2 team and here are the next steps. In order for us to proceed, we'll need to setup DNS PTR records for EIPs (incl xxx.xxx.xxx.xxx) under your AWS account. Hence could you provide us with the names you would like to use and the corresponding EIPs (being used for email purposes)?
 I believe the DNS PTR names should match the DNS 'A' records you may currently have resolving to these addresses. Provide us with the name you would like to use and we'll start the process on our end.
@@ -18,6 +18,3 @@ I immediately approached Trend Micro MAPS and asked them one more time to de-lis
 I found my faith in the cloud coming back.
 Email in the Amazon Cloud - Part 1 - Part 2 - Part 3 - Part 4 - Part 5 - Part 6 - Guide  to Email in the Amazon Cloud
 http://www.mail-abuse.com/
-</p>
-<center><p><a href="http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-5-reverse-dns/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/07/03/allstate-accident-forgiveness/
 domain: apievangelist.com
 image: http://thesettlementchannel.squarespace.com/storage/allstate%20logo.jpeg
 ---
-{% include JB/setup %}<p>Its not often I blog about non technical issues and just rant and rave. This is one of those moments. This particular rant is about Allstate, and cutting through the hype.
+{% include JB/setup %}Its not often I blog about non technical issues and just rant and rave. This is one of those moments. This particular rant is about Allstate, and cutting through the hype.
 I've been a loyal Allstate customer for at least 10 years now, unsure of exact date...but around 10 years.  I have never had an accident. Never had an auto claim on my insurance.
 I was pulling out of the office a month or so ago and tapped a co-workers car. I mean tapped. I was able to push the corner of her plastic bumper out...no dent...just a scuff.
 I told her to get me a copy of the bill. It was $1200.00. There are sensors, yada yada in the bumper. Ok.
@@ -23,6 +23,4 @@ So I call them and ask real nicely, why did my rates go up? er uh...why did my r
 All 3 were reasons. I said...well I haven't owned two cars since my divorce over 2 years ago. So that is not true.
 She said...oh yeah...you right.
 I told her about the claims adjuster who said my rates wouldn't go up. She said oh. Sorry. I said well I can understand a standard rate increase, but when you advertise about accident forgiveness, I am a 10 year no accident customer, and you tell me it won't raise my rates...and it does? She was silent.
-That is just dishonest Allstate....I'm now shopping around for car insurance. And spending 1 hour a week telling this story on various blogs, forums, QA sites, and hitting other news sources.</p>
-<center><p><a href="http://apievangelist.com/2010/07/03/allstate-accident-forgiveness/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+That is just dishonest Allstate....I'm now shopping around for car insurance. And spending 1 hour a week telling this story on various blogs, forums, QA sites, and hitting other news sources.

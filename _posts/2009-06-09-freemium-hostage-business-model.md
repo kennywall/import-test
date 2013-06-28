@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/06/09/freemium-hostage-business-model/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I am a big fan of the Fremium Business Model. Where you offer a base account that is free to get users in the door. Then you can upsell them on premium features. It just makes sense.
+{% include JB/setup %}I am a big fan of the Fremium Business Model. Where you offer a base account that is free to get users in the door. Then you can upsell them on premium features. It just makes sense.
 I am also a big fan of the Free Trial for web based software as well. I think this is crucial to allow people to test drive your application and see if it will work for them.
 However nothing makes me more mad then the Free trial that really isn't Free. They make you put in a credit card then start charging you after the trial period.
 I dub this the Freemium Hostage model.
@@ -17,6 +17,4 @@ I log in and cancel the account....in which it quickly asks a reason why....righ
 So now it doesn't matter to me if they have a good tool. There is no way I'm going to use it, because their business model already rubbed me wrong. They are making a business model off offering up something Free, bait and switching and then taking advantage of people forgetting to cancel.
 That just doesn't fly in this era of Cloud Computing, SaaS, and pay as you go.
 So my review of Share File - Secure File Transfer is DO NOT USE THEM. Do not support Freemium Hostage Business Model. Boooooo!!!
-I may change my tune if they changed their business model.</p>
-<center><p><a href="http://apievangelist.com/2009/06/09/freemium-hostage-business-model/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I may change my tune if they changed their business model.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/11/03/facebook-the-future-is-mobile/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/facebook/fb_invite.jpg
 ---
-{% include JB/setup %}<p>I just finished attending the Facebook Mobile Event, a press conference to inform everyone about several new mobile initiatives coming out of Facebook.
+{% include JB/setup %}I just finished attending the Facebook Mobile Event, a press conference to inform everyone about several new mobile initiatives coming out of Facebook.
 Primarily Facebook reaffirmed their commitment to mobile by updating their releases of Android, IPhone mobile apps and the SDK to support these platforms.
 
 More specifically Facbook launched three new services:
@@ -16,6 +16,4 @@ More specifically Facbook launched three new services:
 	Deals - Individual, loyalty, friend and charity deals for businesses and organizations to launch on the Facebook platform for local users
 
 I think their local places and deal services will immediately provide value to the average mainstream Facebook user and could spell trouble for Foursquare and Gowalla.
-Beyond places, and deals I think the real story is Facebook's acknowledgement of mobile computing being future.  The Facebook team repeated several times that mobile is the future when it comes to business and gaming applications and back this up with their release of new Apps, SDKs and service.</p>
-<center><p><a href="http://apievangelist.com/2010/11/03/facebook-the-future-is-mobile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Beyond places, and deals I think the real story is Facebook's acknowledgement of mobile computing being future.  The Facebook team repeated several times that mobile is the future when it comes to business and gaming applications and back this up with their release of new Apps, SDKs and service.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/12/22/a-quick-walk-through-the-local-and-p
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -158,6 +158,4 @@ After Fwix I found a couple of other mapping, location and places data services:
 	Compass -Allows access to a database of 16 million business establishments in the USA.
 
 These providers either didn't have clear market share or started deviating into other parallel universes of content and services to location and places, so I'm going to stop here.
-These 17 places and location API providers are a lot to process. I want to spend some time getting a handle on the types of services they offer, before I dive into the peripheral services as well as the players that have less market share. But in my style, I'll keep posting my findings as I pull them together.</p>
-<center><p><a href="http://apievangelist.com/2011/12/22/a-quick-walk-through-the-local-and-places-api-landscape/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+These 17 places and location API providers are a lot to process. I want to spend some time getting a handle on the types of services they offer, before I dive into the peripheral services as well as the players that have less market share. But in my style, I'll keep posting my findings as I pull them together.

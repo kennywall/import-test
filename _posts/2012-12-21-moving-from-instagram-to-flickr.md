@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/12/21/moving-from-instagram-to-flickr/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/instagram-logo.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I stopped using my Instagram account this week.  I migrated all of my photos to Flickr, and removed Instagram from my iPhone.
 I&rsquo;m doing this in protest of the recent Instagram terms of service change.  At this point, no matter what position they take, it shows they stopped giving a shit about solving problems for Instagram users, and are more focused on revenue.
 But the move to Flickr wasn&rsquo;t that big of a switch.  I only started using Instagram 2 years ago, where I&rsquo;ve been using Flickr since January of 2007.  I&rsquo;ve also paid for Flickr Pro since 2008.
@@ -23,6 +23,4 @@ Licensing - I am in control of my licensing at Flickr!
 The migration was a no brainer, because I had invested in Flickr already.  They had invested in me with premium services and mediocre technology, but when Flickr upgraded and surpassed Instagram--it made Instagram relevant. &nbsp;But the licensing stance of Flickr seals the deal. &nbsp;I'm in control over the licensing definition. &nbsp;End of story. &nbsp;
 Instagram has stopped caring about its users and is caring more about monetizing the platform.  Instagram could monetize while still caring for their users--it would just take a little imagination.&nbsp;
 No matter what dance Instagram does now, the damage is already done.  Tech companies need to realize that the sands can shift at digital speeds now.  Companies need to be as thoughtful and imaginative as possible when planning their roadmaps and communication with the public.
-It is a much different landscape in the clouds.</p>
-<center><p><a href="http://apievangelist.com/2012/12/21/moving-from-instagram-to-flickr/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+It is a much different landscape in the clouds.

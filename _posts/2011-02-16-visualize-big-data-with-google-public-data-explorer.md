@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/16/visualize-big-data-with-google-publi
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-public-data-explorer.png
 ---
-{% include JB/setup %}<p>Google launched a powerful new big data visualization tool today. The Google Public Data Explorer allows users to upload their own datasets for visualization and exploration.
+{% include JB/setup %}Google launched a powerful new big data visualization tool today. The Google Public Data Explorer allows users to upload their own datasets for visualization and exploration.
 
 The Public Data Explorer requires your datasets be described using the Dataset Publishing Language (DSPL), an open, XML-based metdata format optimized for data visualization.
 DSPL provides a framework for:
@@ -27,6 +27,3 @@ Related articles
 	Six months after "What is data science?" (radar.oreilly.com)
 	Visualize Big Data with BigQuery and Google Spreadsheets (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/16/visualize-big-data-with-google-public-data-explorer/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/19/spending-priorities-with-the-federal
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/budget/us-whitehouse-logo.jpg
 ---
-{% include JB/setup %}<p>Most of the time I feel pretty powerless when it comes to politics in our country. As I see it I have two ways to express myself:
+{% include JB/setup %}Most of the time I feel pretty powerless when it comes to politics in our country. As I see it I have two ways to express myself:
 
 	Voting
 	Taxes
@@ -29,6 +29,3 @@ Related articles
 	House GOP trying to wrap up budget cuts (cnn.com)
 	How Budgeting Leads to Freedom (getrichslowly.org)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/19/spending-priorities-with-the-federal-budget-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

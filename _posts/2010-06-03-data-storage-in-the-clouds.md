@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I have been answering a lot of questions on LinkedIn and Quora lately about where the best place to store data in the clouds. There are a lot of answers to this question.
+{% include JB/setup %}I have been answering a lot of questions on LinkedIn and Quora lately about where the best place to store data in the clouds. There are a lot of answers to this question.
 Cloud storage comes in many shapes, sizes, and prices. Business class, personal usage, storage APIs and much more.
 I store my:
 
@@ -32,6 +32,4 @@ I don't feel Amazon  S3 is best storage solution for every person or business. I
 Most importantly because I have control over my data. I've been up there over over 2 years now. I've never lost any data. I pay a low price and I know I own my data.
 It won't disappear when the start-up goes out of business or is acquired.
 I keep my business files, taxes, music, photos, videos and much more up there. My data is important, and I will pay to keep it organized in one place in clouds.
-Amazon  S3 has overwhelmingly won over my continued business.</p>
-<center><p><a href="http://apievangelist.com/2010/06/03/data-storage-in-the-clouds/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Amazon  S3 has overwhelmingly won over my continued business.

@@ -6,6 +6,4 @@ source: http://apievangelist.com/2011/10/02/printing-from-cloud-storage-platform
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p></p>
-<center><p><a href="http://apievangelist.com/2011/10/02/printing-from-cloud-storage-platforms/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}

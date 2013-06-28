@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/17/making-e-commerce-real-time/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png
 ---
-{% include JB/setup %}<p>I haven't seen much movement forward in the e-commerce / payment services space for a few years now. Granted there are a lot of players in this space, but nothing that has been game changing.
+{% include JB/setup %}I haven't seen much movement forward in the e-commerce / payment services space for a few years now. Granted there are a lot of players in this space, but nothing that has been game changing.
 Setting up a site for e-commerce has always taken time. Its not a quick process. Paypal has made most of the advances in this space, but it still can take several hours to get up and going with their Paypal basic, and could be days to get up and going with Paypal Advanced integration.
 
 I came across a company called Tinypay.me the other day. I learned about them through Mashape, who Tinypay.me uses for their API.
@@ -22,6 +22,3 @@ Related articles
 	PayPal gears up to face Google, Apple (boston.com)
 	Tinypay.me - A crazy simple way to sell stuff (TCTV) (eu.techcrunch.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/17/making-e-commerce-real-time/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

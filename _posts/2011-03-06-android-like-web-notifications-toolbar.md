@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/06/android-like-web-notifications-toolb
 domain: apievangelist.com
 image: http://www.webmonkey.com/wp-content/uploads/2010/08/w3c_main-300x45.png
 ---
-{% include JB/setup %}<p>I just had a new idea for a startup. I'm in love with everything about technology startups except actually starting another one myself.
+{% include JB/setup %}I just had a new idea for a startup. I'm in love with everything about technology startups except actually starting another one myself.
 So I kind of work the opposite of the rest of Silicon Valley, when I have an idea I just put it out there on the open Internet.
 I'm reading Scott's analysis of theWeb Notifications API over at webmonkey.
 I like my Google Gmail notifications. I also like the way Android does mobile notifications.  So does Fred Wilson.
@@ -17,6 +17,3 @@ It would be in their browser on their laptop, mobile phone, and tablets.
 Keep it simple, do one thing well, stay in tune with where each browser is going with their support for the Web Notifications API, and I'm sure someone will invest in you.
 Maybe Union Square Ventures? Fred believes "mobile notifications are one of the biggest game changers to come along in our world recently".
 &nbsp;
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/06/android-like-web-notifications-toolbar-startup/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

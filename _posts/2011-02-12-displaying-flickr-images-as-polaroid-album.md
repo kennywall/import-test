@@ -6,9 +6,7 @@ source: http://apievangelist.com/2011/02/12/displaying-flickr-images-as-polaroid
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
-{% include JB/setup %}<p>Next I wanted to merge my Polaroid Photo Layout in CSS with my images from Flickr with Zend.
+{% include JB/setup %}Next I wanted to merge my Polaroid Photo Layout in CSS with my images from Flickr with Zend.
 
 No I have a polaroid layout of my Instagram photos from Flickr, to use in my photo book.
-I'm going to work on other layouts for the Instagram photo book, and then we'll begin the printing process.</p>
-<center><p><a href="http://apievangelist.com/2011/02/12/displaying-flickr-images-as-polaroid-album/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm going to work on other layouts for the Instagram photo book, and then we'll begin the printing process.

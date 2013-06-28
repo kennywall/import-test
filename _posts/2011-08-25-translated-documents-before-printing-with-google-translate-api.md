@@ -6,6 +6,4 @@ source: http://apievangelist.com/2011/08/25/translated-documents-before-printing
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p></p>
-<center><p><a href="http://apievangelist.com/2011/08/25/translated-documents-before-printing-with-google-translate-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}

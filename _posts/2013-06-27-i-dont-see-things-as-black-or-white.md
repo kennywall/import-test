@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/06/27/i-dont-see-things-as-black-or-white/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p><p><img style="padding: 15p;" src="https://s3.amazonaws.com/kinlane-productions/pif/pif-smaller.jpg" alt="" align="right" /></p>
+{% include JB/setup %}<p><img style="padding: 15p;" src="https://s3.amazonaws.com/kinlane-productions/pif/pif-smaller.jpg" alt="" align="right" /></p>
 <!-- TABLE.c{width:97%; border:0; border-collapse:collapse; margin: auto;}  TABLE.c TR {border-top:35px solid white;}  TABLE.c TH{border:0; padding:3px; text-align:right; font-weight:normal;}  TABLE.c TD{border:0; padding:25px; width:80px;} TABLE.t{width:97%; border-collapse:collapse; border-top:50px solid white;} TABLE.t TR {border-top:10px solid white;}  TABLE.w{width:90%; border:0; border-collapse:collapse;}  TABLE.w TR{border:0;}  TABLE.w TH{border:1px solid silver; padding:3px; text-align:left; font-weight:normal;}  TABLE.w TD{border:1px solid silver; padding:25px; width:80px;} span.label {background-color:white; padding:2px; border:0px; font-family:courier; width:90%;}  TABLE.swatch {width:97%; border:0; border-collapse: separate; margin: auto; border-spacing:10px;} TABLE.swatch CAPTION{margin-left: 10px; margin-right: 10px; background-color: #CCDDFF; padding:5px; width:auto; text-align:center;letter-spacing:0.5em;font-weight:bold; text-transform:uppercase;} TABLE.swatch TD{border-bottom:1px solid silver; padding:0px; width:auto; height:100px; vertical-align:top;} TABLE.swatch SPAN{display:block; border: 1px solid silver; margin:0px; padding: 3px; text-align:left; width: auto; background-color: white;} -->
 <p>As I prepare to go to Washington DC, to work with the Department of Veterans Affiars (VA), I'm spending a lot of time thinking about how I'll prepare for my year, working within the federal government. &nbsp;</p>
 <p>While working for the White House, and at the VA, will most definitely be an entirely new experience for me, I feel my approach and experience within the API space will benefit me greatly.&nbsp;</p>
@@ -329,6 +329,4 @@ image:
 </tbody>
 </table>
 <p>This iapproach to monitoring the API universe has allowed me to better understand the differences between APIs and the companie or individauls behind them. &nbsp;</p>
-<p>I feel this will help me understand how Washington works, and continue to find, simple, meaningful, API driven approaches to helping our government innovate.</p></p>
-<center><p><a href="http://apievangelist.com/2013/06/27/i-dont-see-things-as-black-or-white/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+<p>I feel this will help me understand how Washington works, and continue to find, simple, meaningful, API driven approaches to helping our government innovate.</p>

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/12/documents-as-cloud-printing-objects/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
-{% include JB/setup %}<p>I know very little about the Print industry.  As I'm learning I find myself applying my programming and IT background to everything.
+{% include JB/setup %}I know very little about the Print industry.  As I'm learning I find myself applying my programming and IT background to everything.
 
 Currently I'm prototyping a Cloud Print platform that provides 2 step commercial Printing service from top cloud service providers:
 
@@ -29,6 +29,4 @@ Each cloud print object contains the properties most people who are printing fro
 	5 X 8 Print Size (A5)
 	Color or Black and White
 
-I'm enjoying defining these different objects for use in cloud printing.  These are my basic bound document definitions, I will be defining more single sheet, flyer and large format cloud print objects like posters next.</p>
-<center><p><a href="http://apievangelist.com/2011/01/12/documents-as-cloud-printing-objects/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm enjoying defining these different objects for use in cloud printing.  These are my basic bound document definitions, I will be defining more single sheet, flyer and large format cloud print objects like posters next.

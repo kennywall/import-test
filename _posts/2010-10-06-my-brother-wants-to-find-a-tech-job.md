@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/10/06/my-brother-wants-to-find-a-tech-job/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>My little brother Michael is looking for a job in the tech industry.  He asked if he could send his resume my way.  I said sure.
+{% include JB/setup %}My little brother Michael is looking for a job in the tech industry.  He asked if he could send his resume my way.  I said sure.
 I opened his resume and scanned it as I would any other potential hire.  It read:
 
 	I'm very excited about technology
@@ -25,6 +25,3 @@ So him and my other 2 sisters were home schooled, after which he immediately att
 Its not his fault he doesn't have the experience to identify what he needs to stand out.  He's a typical geek and focused on writing good code.  I'll see if I can help him a little more.
 More blog posts to come, with suggestions of how my brother can find a tech job.
 If your looking for a sharp .NET developer, you can download Michael's resume.
-</p>
-<center><p><a href="http://apievangelist.com/2010/10/06/my-brother-wants-to-find-a-tech-job/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

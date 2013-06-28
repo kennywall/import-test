@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/05/01/selling-access-to-my-google-analytic
 domain: apievangelist.com
 image: http://www.avc.com/.a/6a00d83451b2c969e201538e3180d2970b-500wi
 ---
-{% include JB/setup %}<p>I'm an avid reader of Fred Wilsons blog, A VC.  He provides a "real" perspective into his world, and thus the world of VCs.
+{% include JB/setup %}I'm an avid reader of Fred Wilsons blog, A VC.  He provides a "real" perspective into his world, and thus the world of VCs.
 Yesterday he posted a blog post titled, "A Month Of Traffic To A VC".
 He shared what a months worth of traffic looks like to his A VC blog.
 Now why would he do this?
@@ -25,6 +25,4 @@ I would share this data, especially if I was able to make money from it. I'm sur
 A marketplace could be generated setting the value of web history, social stream, and blog traffic based upon volume and the type of data.
 Just another one of my rants, but sounds like an interesting startup idea for someone.
 Why speculate, get the data straight from the horses mouth.
-&nbsp;</p>
-<center><p><a href="http://apievangelist.com/2011/05/01/selling-access-to-my-google-analytics-to-the-highest-bidder/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+&nbsp;

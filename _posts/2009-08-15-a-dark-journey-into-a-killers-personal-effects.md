@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/08/15/a-dark-journey-into-a-killers-person
 domain: apievangelist.com
 image: http://media.npr.org/assets/artslife/books/2009/08/personal.jpg?t=1250271503&amp;s=2
 ---
-{% include JB/setup %}<p>I was listening to my NPR today and I just heard an episode called A Dark Journey Into A Killer's Personal Effects. It is a thriller novel about a serial killer, however I find very interesting is the are creating what they call a "multiplatform transmedia experience."
+{% include JB/setup %}I was listening to my NPR today and I just heard an episode called A Dark Journey Into A Killer's Personal Effects. It is a thriller novel about a serial killer, however I find very interesting is the are creating what they call a "multiplatform transmedia experience."
 
 
 
@@ -19,6 +19,3 @@ Production companies should extend their tv shows into Facebook characters and b
 You could spread the show between TV, Facebook , Youtube, MySpace and many more media outlets that would allow viewers to be part of it in their daily lives.
 The authors of Personal Effects are definitely onto something, and they are stepping into the next era of storytelling.
 
-</p>
-<center><p><a href="http://apievangelist.com/2009/08/15/a-dark-journey-into-a-killers-personal-effects/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

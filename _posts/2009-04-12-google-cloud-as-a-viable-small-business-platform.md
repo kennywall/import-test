@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/12/google-cloud-as-a-viable-small-busin
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>So I have used Google as a platform for a while. I did several large scale social media marketing campaigns completely using Google as a platform.
+{% include JB/setup %}So I have used Google as a platform for a while. I did several large scale social media marketing campaigns completely using Google as a platform.
 They just have the best software services, platform services, and infrastructure services.
 I have been finding the best route to provide a easy, but effective solution for some my mom and brother's technology platform.
 Google is the logical choice because with a domain I immediately get email, calendaring, document sharing, wiki / sites, and a dashboard.
@@ -14,6 +14,4 @@ I was just playing with the sites again to see how far it can be customized. Not
 The Google Sites has very nice Google Document integration. You can embed anything from Google Apps.
 You can quickly embed a calendar, document, picasa web slideshow, presentation, spreadsheet, spreadsheet form, videos, or gadgets. And with gadgets...the sky is the limit.
 So I setup a site for my cloud computing research I am doing. I have a site with home, about, and contact information.
-Researching more advanced tools now....</p>
-<center><p><a href="http://apievangelist.com/2009/04/12/google-cloud-as-a-viable-small-business-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Researching more advanced tools now....

@@ -6,7 +6,5 @@ source: http://apievangelist.com/2009/08/23/so-little-time/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Going through all my spam comments, and editing a few recent posts. Just don't have time to blog lately. So busy with WebEvents that I just haven't found the energy.
-Have lots of material I will be working through soon.</p>
-<center><p><a href="http://apievangelist.com/2009/08/23/so-little-time/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}Going through all my spam comments, and editing a few recent posts. Just don't have time to blog lately. So busy with WebEvents that I just haven't found the energy.
+Have lots of material I will be working through soon.

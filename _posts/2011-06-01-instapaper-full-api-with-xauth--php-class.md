@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/01/instapaper-full-api-with-xauth-php-c
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
-{% include JB/setup %}<p>I'm working my way through a list of projects I have, and currently theInstapaper API is top of my list.
+{% include JB/setup %}I'm working my way through a list of projects I have, and currently theInstapaper API is top of my list.
 I couldn't find an easy to use PHP class for authenticating against Instapaper's Full API using XAuth.
 So I downloaded @abraham Twitter OAuth and stripped out all as much of theunnecessarypieces as I could.
 I was quickly able to get it up and running authenticating with Instapaper's Full API usingXAuth.
@@ -25,6 +25,3 @@ Related articles
 	Read It Later Binder Using Instapaper (kinlane.com)
 	Instapaper Mobile App and API Strategy (apievangelist.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/01/instapaper-full-api-with-xauth-php-class/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

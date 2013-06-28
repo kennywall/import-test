@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/09/02/different-approaches-to-an-api-ecosy
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 ---
-{% include JB/setup %}<p>I'm reviewing four major Application Programming Interfaces (API) today. Zendesk, Scribd, Twilio, and Evernote.
+{% include JB/setup %}I'm reviewing four major Application Programming Interfaces (API) today. Zendesk, Scribd, Twilio, and Evernote.
 These are all top web 2.0 or cloud applications. Whichever label you wish to apply.
 I am evaluating the different approaches to delivering their API Ecosystem:
 
@@ -17,6 +17,3 @@ I am evaluating the different approaches to delivering their API Ecosystem:
 
 Twilio represents a new age Software as a Service (SaaS) where the entire product is built around an API offering. So they are kind of a different beast.
 I would have to say that Scribd delivers the cleanest API Ecosystem with a great quick start, and robust set of building blocks for their API community. Zendesk and Evernote have great API, but their focus on delivering a complete API Ecosystem is a little fragmented and overshadowed by their core web application offerings.
-</p>
-<center><p><a href="http://apievangelist.com/2010/09/02/different-approaches-to-an-api-ecosystem/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/01/12/opensecrets-open-data/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I love data. When I find great sources of data I have to record it.
+{% include JB/setup %}I love data. When I find great sources of data I have to record it.
 Here is RAW and API data from the Federal Government.
 OpenSecrets Open Data
 It has:
@@ -18,6 +18,3 @@ It has:
 	Resource tables such as Category Codes, Expense Codes, Members of Congress, etc
 
 Good stuff. I will start working through this data.
-</p>
-<center><p><a href="http://apievangelist.com/2010/01/12/opensecrets-open-data/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

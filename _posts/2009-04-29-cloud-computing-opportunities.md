@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/29/cloud-computing-opportunities/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I have been spending time researching different aspects of cloud computing and opportunities out there to evangelize about it.
+{% include JB/setup %}I have been spending time researching different aspects of cloud computing and opportunities out there to evangelize about it.
 I was researching Recovery money going to the National Science Foundation. As of today it isn't flowing quite yet.
 Then I got curious of other project funding opportunities there are with the National Science Foundation. There are so many of them. I started looking at technology specific funding opportunities that would easily apply to cloud computing.
 Here are a handful of areas I found:
@@ -28,6 +28,3 @@ However the best funding opportunity I came across was this one:
 The Broadening Participation in Computing opportunity I think has the greatest potential for evolving cloud computing. This represents why I am doing this research on cloud computing. I think cloud computing can bring some amazing opportunities to people around the country. I came from a small town and still remember the first opportunities I was given in school playing with the Apple and Tandy computers.
 I could envision IPhone Application Development Programs, Social Network Development Programs, Amazon and Azure Cloud Platform Programs, and other cloud computing curriculum at Universities. Providing core and advanced training to students. With the popularity of the Iphone and Social Networks, it would be a sure way to lure people into technology and computer science programs.
 Good stuff, I see some great opporunities for all out there, let's get this money flowing and put us out on top when it comes to cloud computing.
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/29/cloud-computing-opportunities/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/20/real-time-api-updates-with-xmpp/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png
 ---
-{% include JB/setup %}<p>I'm working on my prototype for a Google cloud printer that runs on a server.
+{% include JB/setup %}I'm working on my prototype for a Google cloud printer that runs on a server.
 To set the stage, I want to get cloud print jobs sent from Google Docs using the Google Cloud Print Services Interface.
 You can retrieve a print job from the Google Cloud Print Services interface using /fetch.
 All it takes to get a new job is making a call to the Google Cloud Print (GCP) API on a regular schedule.
@@ -28,6 +28,3 @@ Related articles
 	Email, XMPP, and Task Queues in Google AppEngine (oreilly.com)
 	Google Cloud Print - Fetch (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/20/real-time-api-updates-with-xmpp/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

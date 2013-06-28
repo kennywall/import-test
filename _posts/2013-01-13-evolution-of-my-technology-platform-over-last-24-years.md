@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/01/13/evolution-of-my-technology-platform-
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/cobol.jpeg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 Every couple of years I migrate my platform a little bit forward (hopefully) and begin weaving in new tools into my personal and business world.  I recently spent some time looking back, and trying to map out the last 24 years of my professional technology career--in hopes of helping me understand how far I've come.
 1988 - When I first started programming, I was still in high school.  I was recommended for a job by my high school computer science teacher Mr. Smith and went to work for Mt Rose Software where I spent my time assisting the owner in building student information systems in Cobol.  We compiled, distributed and installed this software ourselves.
 1993 - As we made our way into the 1990's we rewrote the codebase from Cobol to Foxpro, but still the systems were compiled and installed database systems, that we had to distribute to all school districts manualy.  No servers or Internet in my world yet.
@@ -20,6 +20,4 @@ Every couple of years I migrate my platform a little bit forward (hopefully) and
 2013 This year I'm still keeping my core LAMP stack running the cloud, but it is becoming just the core of what I call the "Laneworks Network".  While I still rely on LAMP to do the heavy lifting an data crunching in the clouds, I am migrating projects and public sites to run as Github repositories using Github Pages.  This new approach uses Github Pages for static pages, Jekyll for the blog and JSON output from the core lane works on a schedule, taking advantage of mustache templates and JavaScript for display.
 I have been pushing the boundaries of what I know, and which tools I use for 24 years now.  I'm excited about the potential of all my sites and projects being completely open source and running as exclusively client side projects on the Internet.  i feel the potential is much greater when I leverage the open and social environment of Github.  90% of all my work be open, public repositories with only a handful held back as private repositories.
 Additionally, a growing part of my platform is dependent on APIs.  APIs I create or those of providers like AWS to Pinboard.  While i still rely on my core Laneworks operations to make things function, in 2013 my world is becoming mostly &nbsp;API driven client side applications written in HTML, CSS and JavaScript.
-I'm excited for the potential!</p>
-<center><p><a href="http://apievangelist.com/2013/01/13/evolution-of-my-technology-platform-over-last-24-years/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm excited for the potential!

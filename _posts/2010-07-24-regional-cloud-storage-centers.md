@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/datacenter2.png
 ---
-{% include JB/setup %}<p>This is a second post in a series about where cloud computing is headed.  In addition to regional cloud computing centers, the need for  raw cloud storage is growing. A handful of providers are leading the charge in cloud  compute Infrastructure as a Service (IaaS):
+{% include JB/setup %}This is a second post in a series about where cloud computing is headed.  In addition to regional cloud computing centers, the need for  raw cloud storage is growing. A handful of providers are leading the charge in cloud  compute Infrastructure as a Service (IaaS):
 
 Amazon Web Services
 Rackspace  Cloud
@@ -19,6 +19,4 @@ Local and Regional Storage Centers
 Industry Niche Storage Centers
 Municipal and Government Storage Centers
 
-Service providers are already lining up to ensure interoperability  between their cloud storage software and the OpenStack. Now all we need are more data center  nodes to plug into the cloud infrastructure and provide specialty and  regional cloud storage. With these types of storage facilities you can know where your data is at a very granular level.</p>
-<center><p><a href="http://apievangelist.com/2010/07/24/regional-cloud-storage-centers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Service providers are already lining up to ensure interoperability  between their cloud storage software and the OpenStack. Now all we need are more data center  nodes to plug into the cloud infrastructure and provide specialty and  regional cloud storage. With these types of storage facilities you can know where your data is at a very granular level.

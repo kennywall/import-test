@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/08/01/my-3d-printed-junk-drawer/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/junk-drawer.jpg
 ---
-{% include JB/setup %}<p>I had a discussion yesterday with Audrey Wattersabout the infamous junk drawer(s) that exists in every house. That end of the counter drawer that seems to accumulate everything from around our house that we think we may some day use.
+{% include JB/setup %}I had a discussion yesterday with Audrey Wattersabout the infamous junk drawer(s) that exists in every house. That end of the counter drawer that seems to accumulate everything from around our house that we think we may some day use.
 Junk drawers possess those small items that hold our lives together. Nuts, bolts, fasteners, knobs, hinges and handles as well as the tools we use to assemble the futon, bikes, shelves and other household appliances. We keep all these items because we don't want to throw them away. We will use them some day right?
 We all live with this delusion. I have no hard data on what we actually use from the junk drawer, but we all have them, and I'm sure many of us have just taken that entire drawer to the Goodwill, sold at a yard sale, or worse.....thrown away.
 Instead of having a junk drawer, what if we could take a picture of each object with our mobile devices. The mobile app would use image recognition or some sort of image scanning to identify the object. The mobile application would scan potentially millions of parts and pieces to identify this little piece of treasure in our lives. Once identified it would pull all meta data related to it, identifying it as a ¼ screw, faster for a futon or drawer handle from IKEA.
@@ -20,6 +20,3 @@ Related articles
 	3D Printing and the Replicator Economy (tech.slashdot.org)
 	Junk drawers: Yay or nay? (timesunion.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/08/01/my-3d-printed-junk-drawer/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

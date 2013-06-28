@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/18/statusnet-an-open-and-distributed-mi
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/statusnet-logo-500x300.png
 ---
-{% include JB/setup %}<p>StatusNet is a microblogging platform that can be installed on any server.
+{% include JB/setup %}StatusNet is a microblogging platform that can be installed on any server.
 Think of it as your own private Twitter service.
 StatusNet offers similar functionality to Twitter, but allows business and individuals to control their own services and data, while still inter-operating with existing microblogging platformslike Twitter and Facebook.
 StatusNet is open source, and provides APIs for custom integration.
@@ -15,6 +15,3 @@ The platform provides a directory of themes, plugins, and applications built on 
 Identi.ca, a popular microblogging service runs on the StatusNet platform.
 I consider platforms like StatusNet very important for the future of the Internet. They offer open, standards based solutions to communication and collaboration while still inter-operating with other major platforms.
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/18/statusnet-an-open-and-distributed-microblogging-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

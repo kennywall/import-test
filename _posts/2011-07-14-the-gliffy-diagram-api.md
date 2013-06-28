@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/07/14/the-gliffy-diagram-api/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-logo.gif
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 The Gliffy API makes it possible for developers to add Glffy diagramming software to other web applications.
 The Gliffy API provides a RESTful web service and set of embeddable tools for adding flow charts, network diagrams, class diagrams and more to their wiki pages, blogs, content management systems (CMS), and sites.
 
@@ -18,6 +18,3 @@ Gliffy also provides two embeddable tools for working with the Gliffy API:
 
 Gliffy stores all documents in their company data center, with plans to allow storage elsewhere in the future.
 You can build a set of diagrams using the Gliffy web application, and pull these drawings using the Gliffy API. Then make available for wiki pages, blogs, articles, presentations and other sites. Or, you can just embed the editor and let users create their own drawings.
-</p>
-<center><p><a href="http://apievangelist.com/2011/07/14/the-gliffy-diagram-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

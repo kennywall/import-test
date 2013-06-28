@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/10/03/2012-presidential-debates/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>While your all reasserting and protecting your already existing position on your political views based upon what you saw on TV tonight&hellip;please try to step back and look at the bigger picture.
+{% include JB/setup %}While your all reasserting and protecting your already existing position on your political views based upon what you saw on TV tonight&hellip;please try to step back and look at the bigger picture.
 Your in a world of a lot of people, whether you like it or not.  You have to exist with everyone else in it.  For better or for worse.  And no matter how much you wish everyone to be just like you, we aren't.  And that is the beauty of it.
 And when you want to blindly cut government spending because someone told you government is bad. It isn't that easy.  Answer this for me, which of the 246 federal agencies you want to see go away the most? or stay?  I've looked through all 246 of them.  I can't decide, without more understanding of what they do. Can you?
 Do you like the roads you drive on?  Do you like the Internet?  Do you like that phone call finding you on your cell phone?  I hate to say that was all subsidized by the government.  Do you eat produce?  Do you drive a car?  Do you do anything?  It was all assisted by our government.  And yes, market forces too.  It takes a balance of both to make shit happen.
@@ -18,6 +18,4 @@ I couldn't even stomach watching the debates tonight I just watched what all of 
 I want to educate everyone.  I don't want any single party in a two party system to win. If I see it that way--we all have fucking lost.
 How about we make sure that we remember we are all in this together.  Not everybody believes in your god.  And we are all wanting the best for ourselves and our children and try to find the answers that work for each of us.
 Please try to be as civil as you can throughout this election, don't speak in lies--and remember we are a melting pot of some pretty fascinating folks from around the world.
-Alright&hellip;back to work.</p>
-<center><p><a href="http://apievangelist.com/2012/10/03/2012-presidential-debates/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Alright&hellip;back to work.

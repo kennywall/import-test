@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/28/github-releases-new-api-version/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/github/github-round.png
 ---
-{% include JB/setup %}<p>Github has released version 3.0 of their API.
+{% include JB/setup %}Github has released version 3.0 of their API.
 Using the new Github API users canmanage labels, issue comments, milestones, and events.
 The new API also has full support for Gists.
 They've also made several updates to their RESTful approach:
@@ -19,6 +19,4 @@ They've also made several updates to their RESTful approach:
 
 The new version of the API only supports JSON as the request and response format.
 There is also a new daily cap of 5000 requests for the API.
-There are still supporting API v2, and will announce deprecation plans soon.</p>
-<center><p><a href="http://apievangelist.com/2011/04/28/github-releases-new-api-version/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+There are still supporting API v2, and will announce deprecation plans soon.

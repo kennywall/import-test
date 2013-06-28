@@ -6,6 +6,4 @@ source: http://apievangelist.com/2008/03/07/chris-anderson-of-wired-and-michael-
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Was just watching and enjoying a show of Charlie Rose that had  Chris Anderson of Wired and Michael Arrington of TechCrunch.Chris was very informative and I'll have to watch again.Michael Arrington was impressive.   He covered tech as social issues in a way that kept me listening.Will write more about.  Good show guys.</p>
-<center><p><a href="http://apievangelist.com/2008/03/07/chris-anderson-of-wired-and-michael-arrington-of-techcrunch/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}Was just watching and enjoying a show of Charlie Rose that had  Chris Anderson of Wired and Michael Arrington of TechCrunch.Chris was very informative and I'll have to watch again.Michael Arrington was impressive.   He covered tech as social issues in a way that kept me listening.Will write more about.  Good show guys.

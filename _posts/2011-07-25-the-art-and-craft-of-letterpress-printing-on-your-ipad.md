@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/07/25/the-art-and-craft-of-letterpress-pri
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMePress-Kickstarter.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I found a new path to help me define the future of print. I'm going to walk through the history of print, and use the very technology we often kill off, as we blindly roll forward with our new and shiny technology, to define the future of print and publishing.
 This idea came from a project someone introduced me to on Kickstarter,called LetterMpress™.
 LetterMpress™ will be a virtual letterpress environment, released first on the iPad, that will allow anyone to create authentic-looking letterpress designs and prints.
@@ -16,6 +16,3 @@ Letterpress has had a growing interest over the past decade amongst designers, a
 Unfortunately, much of the letterpress's traditional technology was sold for scrap metal and replaced with computers over the last 30 years. Wood type was burned, thrown in a landfill, or divided up as knick-knacks in antique and craft shops.
 The LetterMpress™ Kickstarter project looks to give designers, artists, students, lovers of type, the ability to produce their own authentic letterpress designs and artwork.
 The LetterMpress™ Kickstarter project has exceeded its original goal of raising $15,000, and it is just the beginning of using the history of publishing, to help define the future of publishing.
-</p>
-<center><p><a href="http://apievangelist.com/2011/07/25/the-art-and-craft-of-letterpress-printing-on-your-ipad/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week…ap
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -73,6 +73,3 @@ Withings
 
 
 10-30-2012 -&nbsp;Wireless Scale: it&rsquo;s smart and easy&hellip; and now it&rsquo;s out!
-</p>
-<center><p><a href="http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week…api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

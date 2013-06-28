@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/20/building-vs-buying-my-api-area/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png
 ---
-{% include JB/setup %}<p>For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community.
+{% include JB/setup %}For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community.
 I looked at the three major API service providers, Mashery, Apigee, and 3Scale.  I also took a look at a new player, Mashape.
 After four months, whats the plan? I'm going to build my own API area.
 Keep in mind, I already have a REST API with everything I need.  I just don't have any supporting area, metrics, or security tools.
@@ -40,6 +40,3 @@ So I am:
 Then I am going to spend the next six months learning, understanding whats possible, playing with different prototypes and getting to know my developer community.
 Then we'll re-evaluate and see if an API service provider is right for me.
 &nbsp;
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/20/building-vs-buying-my-api-area/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

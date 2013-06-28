@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/27/internet-explorer-9-html-5-support/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/InternetExplorer.jpg
 ---
-{% include JB/setup %}<p>Microsoft recently released some new additions to their Windows Internet Explorer Platform, aka. Internet Explorer 9.
+{% include JB/setup %}Microsoft recently released some new additions to their Windows Internet Explorer Platform, aka. Internet Explorer 9.
 They are working hard to support more of the HTML5 standard.
 Features Available (Blue are New Releases)
 
@@ -56,6 +56,4 @@ Features Partially Implemented  (Blue are New  Releases)
 	CSS3 Fonts - font-size-adjust and advanced font features are not supported
 	DataURI - Support in script source
 
-Looks like they are trying to get up to speed with other browsers in the HTML 5 support game. I will take some time to compare against the HTML core specs to see how they are doing overall.</p>
-<center><p><a href="http://apievangelist.com/2010/06/27/internet-explorer-9-html-5-support/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Looks like they are trying to get up to speed with other browsers in the HTML 5 support game. I will take some time to compare against the HTML core specs to see how they are doing overall.

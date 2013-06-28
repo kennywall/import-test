@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/15/google-doc-access-integration-with-g
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I am going through my notes of blog ideas from the last couple of weeks and getting a few things out of the way. I have been coding for a while and need to blog.
+{% include JB/setup %}I am going through my notes of blog ideas from the last couple of weeks and getting a few things out of the way. I have been coding for a while and need to blog.
 And since I am talking about Google features I want, I have another request.
 I am using the Google Platform for a research project on cloud computing in my spare time. I am storing my research in Google Docs and organizing my research using a Google Site or Wiki. It is working very well.
 I am making all my information on the wiki available to the public as well as using it to organize my thoughts and information. Some of it is not ready for prime time so I store in a Google Doc and link to it from the wiki. The public can't access the document. That is fine.
@@ -14,6 +14,3 @@ I have some other documents I would be happy to share, but have spent a great de
 Right now I will just put the icon next to file and allow them to pay. Once I receive the payment email I will manually add acess to the file for the user.
 However it would be a huge boost to the Google Docs platform to allow paid access per file. Can you please do this Google?
 
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/15/google-doc-access-integration-with-google-checkout/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

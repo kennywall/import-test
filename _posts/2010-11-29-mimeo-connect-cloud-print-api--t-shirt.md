@@ -6,6 +6,4 @@ source: http://apievangelist.com/2010/11/29/mimeo-connect-cloud-print-api-t-shir
 domain: apievangelist.com
 image: http://d1.scribdassets.com/ScribdViewer.swf
 ---
-{% include JB/setup %}<p></p>
-<center><p><a href="http://apievangelist.com/2010/11/29/mimeo-connect-cloud-print-api-t-shirt/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}

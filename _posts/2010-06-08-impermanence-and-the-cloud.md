@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/08/impermanence-and-the-cloud/
 domain: apievangelist.com
 image: http://tapchisonghuong.com.vn/Image/Image/buddha-cloud.jpg
 ---
-{% include JB/setup %}<p>I was reminded today that nothing is permanent in the cloud. I accidentally terminated my primary database instance running on Amazon EC2. 319 databases, 100 GB of data running on SQL Server 2008.
+{% include JB/setup %}I was reminded today that nothing is permanent in the cloud. I accidentally terminated my primary database instance running on Amazon EC2. 319 databases, 100 GB of data running on SQL Server 2008.
 I was removing 2 decommissioned server instances, I selected both of them and clicked terminate. About 60 seconds later I started getting alerts that my web sites are down. I refreshed my Amazon Console and saw that my primary database instance was terminating.
 5 hours later I have everything restored. Another four hours of cleanup and testing we are almost back to normal. 
 In cloud computing nothing is permanent. Your GMail account could disappear at any moment. Your cloud provider could be acquired and shut-down. Your Amazon EC2 instance could get accidentally shut down.
@@ -18,6 +18,4 @@ I think the lack of hardware to touch is what scares a lot of IT folks. The same
 Most people are comfortable with things they see and can touch. They get comfortable in their process around these things. They create sort of permanence around their racks, severs, cords, wires and process.
 I also think its easy to cover up IT ignorance and lack of process in a traditional IT infrastructure. IT is good at creating smoke and mirrors around what we do. In the cloud with the threat of impernance, you may have to work and have your processes together.
 I been busy lately with other things and let the maintenance on my cloud IT infrastructure slack a little bit. I was also a little too comfortable. Then the cloud taught me a lesson in permanence. I need to go through every bit of my cloud platform and audit everything. Make sure I'm not forgetting anything. I need to continue to clean house where I can. 100 GB can probably be trimmed here an there.
-IT is possible in the cloud. You must understand that nothing is fixed or permanent. Every thing  is subject to change. You must be ready to be tested at any moment. Recover. Learn and grow.</p>
-<center><p><a href="http://apievangelist.com/2010/06/08/impermanence-and-the-cloud/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+IT is possible in the cloud. You must understand that nothing is fixed or permanent. Every thing  is subject to change. You must be ready to be tested at any moment. Recover. Learn and grow.

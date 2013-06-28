@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/08/2822/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
-{% include JB/setup %}<p>Now that you have aGoogle Cloud Printer registered with the Google Cloud Print (GCP) registry, you can retrieve jobs for that printer.
+{% include JB/setup %}Now that you have aGoogle Cloud Printer registered with the Google Cloud Print (GCP) registry, you can retrieve jobs for that printer.
 After authenticating using Google ClientLogin API, you can then fetch a list Google Cloud Print Job from the users queue.
  The Google Cloud Print /fetch endpoint accepts the following parameter:
 
@@ -21,6 +21,3 @@ Related articles
 	Solving Windows 7 Print Spooler Problems (brighthub.com)
 	Print From iOS and Android to Any Printer with Google Cloud Print (wired.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/08/2822/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,6 +6,4 @@ source: http://apievangelist.com/2008/03/17/adobe-air-applications/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>So recently I have installed 2 Adobe Air applications.  I installed twhirl a twitter client built on the Air platform, and now I just did Snippely a snippet code tool from MooTools.I really like the install process which is very smooth and makes installing new apps so easy.I really like the application itself too.  They are very sexy, clean interfaces and lightweight.  They have all the functionality of a desktop application but seem like a browser web app as well.Interesting blend, would like to find time and play with developing Air apps myself.</p>
-<center><p><a href="http://apievangelist.com/2008/03/17/adobe-air-applications/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}So recently I have installed 2 Adobe Air applications.  I installed twhirl a twitter client built on the Air platform, and now I just did Snippely a snippet code tool from MooTools.I really like the install process which is very smooth and makes installing new apps so easy.I really like the application itself too.  They are very sexy, clean interfaces and lightweight.  They have all the functionality of a desktop application but seem like a browser web app as well.Interesting blend, would like to find time and play with developing Air apps myself.

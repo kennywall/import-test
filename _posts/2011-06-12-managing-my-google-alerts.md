@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/12/managing-my-google-alerts/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-alerts.jpg
 ---
-{% include JB/setup %}<p>I am making some adjustments to my Google Alerts today.
+{% include JB/setup %}I am making some adjustments to my Google Alerts today.
 I removed a few and added a few alerts.
 Here are my current Google Alerts:
 
@@ -26,6 +26,4 @@ Here are my current Google Alerts:
 	Web Services
 
 I have all of them delivered once a day, via RSS feeds.  This way I can monitor in real-time using Google Reader.
-I adjust these every week if I can, but sometimes it remains pretty constant. It depends on topic.</p>
-<center><p><a href="http://apievangelist.com/2011/06/12/managing-my-google-alerts/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I adjust these every week if I can, but sometimes it remains pretty constant. It depends on topic.

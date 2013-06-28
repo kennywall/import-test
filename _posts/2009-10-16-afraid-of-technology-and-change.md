@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/10/16/afraid-of-technology-and-change/
 domain: apievangelist.com
 image: http://www.freeuni.edu.ge/shortprograms/blog/wp-content/uploads/2008/12/fear.gif
 ---
-{% include JB/setup %}<p>As a technology leader I face a lot of resistance from employers, partners and co-workers regarding the usage of new technology. I spent a great deal of time each day reading technical blogs and learning about new technologies. I test drive new tools and applications almost daily to see what is out there and the benefit they offer.
+{% include JB/setup %}As a technology leader I face a lot of resistance from employers, partners and co-workers regarding the usage of new technology. I spent a great deal of time each day reading technical blogs and learning about new technologies. I test drive new tools and applications almost daily to see what is out there and the benefit they offer.
 
 I am always very cautious about whether a new application, service or tool will actually add value to a company and its process. This are can really be a double edge sword. There is an amazing number of tools out their in this 2.0 age, this also means many of these tools could go away at any moment. You have to ask of a company:
 
@@ -33,6 +33,3 @@ There is a lot of information to evaluate before integrating third party service
 
 It is really hard for geeks to slow down our brains and explain tools to the average user. A common ground needs to be established through questions, discussion, education and process. This can't happen without dialogue from both sides.
 This is a tough thing for both sides of the fence and I know some of us geeks can be less than friendly about explaining or pushing new technologies. But the place to start is with some dialogue and asking questions.
-</p>
-<center><p><a href="http://apievangelist.com/2009/10/16/afraid-of-technology-and-change/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

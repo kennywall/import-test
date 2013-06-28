@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/28/updated-google-cloud-print-website/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
-{% include JB/setup %}<p>Google updated the Google Cloud Print website today with all new documentation, code samples and other goodies to help get up and running using Google Cloud Print.
+{% include JB/setup %}Google updated the Google Cloud Print website today with all new documentation, code samples and other goodies to help get up and running using Google Cloud Print.
 The restructured site pulls together months of learning from behind the scenes by Google, partners and developers on the GCP platform.
 The new site starts with a introduction to Google Cloud Print and walks you through each of the components of the Google Cloud Print architecture:
 
@@ -41,6 +41,3 @@ The new Google Cloud Print site provides two main areas for integration with the
 
 The new Google Cloud Print update provides much more complete documentation on submitting print jobs and the XMPP integration for print job notification.
 They also provide python code samples for integrating with GCP.  You can also use the Mimeo PHP Google Cloud Print samples that I wrote earlier this year, and I will be working on a set of C# samples also, and publish when ready.
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/28/updated-google-cloud-print-website/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

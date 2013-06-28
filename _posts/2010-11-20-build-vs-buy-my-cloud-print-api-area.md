@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/11/20/build-vs-buy-my-cloud-print-api-area
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/3Scale-Logo.jpg
 ---
-{% include JB/setup %}<p>I need to get an API area around my REST Cloud Print API.  I have a functional set of RESTful cloud print services, but not much else.
+{% include JB/setup %}I need to get an API area around my REST Cloud Print API.  I have a functional set of RESTful cloud print services, but not much else.
 Where do I start?   I need a plan.  I need to know exactly what it takes to get this API open for business.   I built a list of what I need for phase 1-3 of my API area, from the essentials to nice to have.
 Now I know what I want...how do I get there?  I have the skills to build this myself, and there are also API service providers available that specialize in API delivery.   3Scale, Apigee, and Mashery are three such providers that can help you get your API community up and running.
 
@@ -33,6 +33,4 @@ The process will force you to write down your goals and discuss them with their 
 
 Its clear that 3Scale, Apigee, and Mashery are all still trying to figure this all out just like we are.  Its shows in their informal process when discussing your goals, the marketing, pricing and overall flexible approach to solving these problems.
 I still haven't decided whether I will build my API area, or buy it from 3Scale, Apigee or Mashery.   Although I do understand my position a lot better,  and I have read a bunch of case studies, white papers and discussed different approaches.
-I'm spending a few days more on my build strategy before I make a decision.</p>
-<center><p><a href="http://apievangelist.com/2010/11/20/build-vs-buy-my-cloud-print-api-area/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm spending a few days more on my build strategy before I make a decision.

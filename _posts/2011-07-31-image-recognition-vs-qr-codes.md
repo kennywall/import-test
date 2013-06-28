@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/07/31/image-recognition-vs-qr-codes/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png
 ---
-{% include JB/setup %}<p>I wrote a post last month called, Are QR Codes Relevant Anymore? In a world where everyone has a camera phone, and with image recognition technology like Google Googles, are QR codes a realistic way to bridge the physical world with our online lives?
+{% include JB/setup %}I wrote a post last month called, Are QR Codes Relevant Anymore? In a world where everyone has a camera phone, and with image recognition technology like Google Googles, are QR codes a realistic way to bridge the physical world with our online lives?
 I have been a big fan of QR codes for years, and I think other supporters will keep them alive for years to come. But there are a lot of really cool technologies emerging, like Moodstocks API.
 The Moodstocks API is low cost image recognition service, that allows any developer to build in object recognition into their own applications. Developers can record object reference images with the API, that set a definition for searches using the image recognition API. This allows you to create an image definition of any object you like, and attach any meaning to it you wish via your application.
 You can even use Moodstocks API for barcode and QR code recognition. So with this kind of object recognition power, is the concept of a QR code even relevant?
@@ -32,6 +32,3 @@ Moodstocks makes some other suggestions about uses cases for the image recogniti
 	Get coupons - You're having a drink with a bunch of friends. Oh yeah: a fresh beer is always nice… But did you know that it could get even nicer? If you scan it you might save money!
 
 Those are some pretty cool examples of applications that use image recognition. There is too much momentum behind the QR code movement to say QR codes are dead. But I can't imagine they will find much more adoption with image recognition technology like Moodstocks API, allowing us to derive meaning and a definition for any object we take pictures of.
-</p>
-<center><p><a href="http://apievangelist.com/2011/07/31/image-recognition-vs-qr-codes/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

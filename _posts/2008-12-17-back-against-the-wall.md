@@ -6,7 +6,7 @@ source: http://apievangelist.com/2008/12/17/back-against-the-wall/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Sit with your back against the brick wall
+{% include JB/setup %}Sit with your back against the brick wall
 At least I won't get shot in the back
 Sizing everyone up
 Establishing the threat level
@@ -19,6 +19,4 @@ Where is the guy in plaid from
 I don't know...
 Bricks are warm
 Doors are in view
-Now I can think clearly.</p>
-<center><p><a href="http://apievangelist.com/2008/12/17/back-against-the-wall/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Now I can think clearly.

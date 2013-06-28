@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/05/google-cloud-print-hp-eprint-and-app
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/apple-airprint/ipad-and-airprint.jpg
 ---
-{% include JB/setup %}<p>I've been spending time learning about the three major platform we think about when we hear the term cloud printing.
+{% include JB/setup %}I've been spending time learning about the three major platform we think about when we hear the term cloud printing.
 
 	Apple Airprint
 	HP ePrint
@@ -32,6 +32,3 @@ HP ePrint can only print to HP printers, but is available anywhere over the Inte
 Google has the Android platform, Google Apps and Google Chrome OS.  Google also is accessible on the IPhone and IPad as well as having an application on the HP ePrint platform. Google provides support for any printer, new or old as well provides access to commercial printers.
 Currently Google seems to have the lead with a much wider platform and accessibility.  Although there is no questioning Apples dominance in the mobile market, and HP in the printer market.
 It will be an interesting year to see where these cloud print players go with their platforms.
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/05/google-cloud-print-hp-eprint-and-apple-airprint/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

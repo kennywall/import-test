@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/07/when-open-isnt-open/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 ---
-{% include JB/setup %}<p>I spend time each day monitoring how technology is impacting various industries.   APIs are playing a major role in evolving how business is done in just about any sector.  In my search for new APIs and technologies for the print and publishing industry I came across a new community called Open Xerox.
+{% include JB/setup %}I spend time each day monitoring how technology is impacting various industries.   APIs are playing a major role in evolving how business is done in just about any sector.  In my search for new APIs and technologies for the print and publishing industry I came across a new community called Open Xerox.
 Open Xerox is a web portal that hosts technology prototypes from the Xerox R&amp;D labs, making them accessible to external user community for review and comment before the launch of a product offering.
 The site speaks in all the tags I'm interested in: converter, document, analysis, ebook, epub, ereader, language, pdf, simple text.
 They have some very interesting web services and applications available like PDF to EPub Converter, Langugage Identifier, and TagSearch.
@@ -25,6 +25,3 @@ Related articles
 	Transform Images Online With Magickly (programmableweb.com)
 	Collecta Gets Dispensed: Was It Solving a Hard Enough Problem? (programmableweb.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/07/when-open-isnt-open/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

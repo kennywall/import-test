@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>There are many features that operating in the clouds using Amazon EC2 brings to the table.
+{% include JB/setup %}There are many features that operating in the clouds using Amazon EC2 brings to the table.
 
 Although there are two areas that make me so nervous:
 
@@ -19,6 +19,4 @@ However still terminating an instance always makes me soooo nervous.  Its just s
 
 Ok...well this is just a Dev server that we upgraded from a 32 bit instance to a 64 bit instance.  I have to kill the 32 bit instance....
 
-Here it goes....</p>
-<center><p><a href="http://apievangelist.com/2009/02/18/terminating-amazon-ec2-instances/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Here it goes....

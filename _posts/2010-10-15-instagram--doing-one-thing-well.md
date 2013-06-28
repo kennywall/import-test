@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/10/15/instagram-doing-one-thing-well/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
-{% include JB/setup %}<p>I have talked in the past about doing one thing and doing it well in the technology space.  A mistake I've made many times, and other developers make is trying to do too much when building applications.
+{% include JB/setup %}I have talked in the past about doing one thing and doing it well in the technology space.  A mistake I've made many times, and other developers make is trying to do too much when building applications.
 You build a system and try to please everyone, by including lots of features, tools, integrations and support many platforms.  I always tell myself, sllow it down!  Focus on one thing and do it really well.
 I just finished meeting the founder of Instagram and listening to the story behind the building, and the recent launch of their IPhone based photo application.  Throughout developed they focused on:
 
@@ -18,6 +18,3 @@ He noted their web site is very incomplete and lacking in a lot of features, and
 As it stands their application is intuitive, you don't have to ask what it does.  Its pretty clear.  You take photos, apply filters and share.  Once you add a bunch more features you can lose the simplicity.
 He noted they have had a lot of international adoption because of the lack of words and simplistic features.  Pictures and Social Sharing are Universal.
 It was very interesting to listen to the Instagram story, and really re-enforced my belief in doing one thing and doing it well when building mobile and web applications.
-</p>
-<center><p><a href="http://apievangelist.com/2010/10/15/instagram-doing-one-thing-well/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

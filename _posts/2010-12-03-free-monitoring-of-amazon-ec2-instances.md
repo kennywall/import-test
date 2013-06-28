@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/03/free-monitoring-of-amazon-ec2-instan
 domain: apievangelist.com
 image: http://media.amazonwebservices.com/blog/cw_ec2_metrics.png
 ---
-{% include JB/setup %}<p>Amazon CloudWatch has matured and now is available with a Freemium tier for monitoring your EC2 instance at no charge.
+{% include JB/setup %}Amazon CloudWatch has matured and now is available with a Freemium tier for monitoring your EC2 instance at no charge.
 
 Amazon Cloudwatch allows you to monitor:
 
@@ -16,6 +16,4 @@ Amazon Cloudwatch allows you to monitor:
 
 For your Amazon EC2 instances. The data is collected every five minutes and stored for two weeks.
 In true essence of a Freemium model you can then upgrade to a more detailed monitoring for .0015 / per hour per instance.
-If you are looking to take advantage of truly auto-scaling your Amazon EC2 infrastructure you need to start getting familiar with how Amazon CloudWatch works</p>
-<center><p><a href="http://apievangelist.com/2010/12/03/free-monitoring-of-amazon-ec2-instances/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+If you are looking to take advantage of truly auto-scaling your Amazon EC2 infrastructure you need to start getting familiar with how Amazon CloudWatch works

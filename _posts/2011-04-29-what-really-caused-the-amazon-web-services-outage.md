@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/29/what-really-caused-the-amazon-web-se
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.jpg
 ---
-{% include JB/setup %}<p>Amazon released a summary of the Amazon EC2 and Amazon RDS service disruption in the US East Region today.
+{% include JB/setup %}Amazon released a summary of the Amazon EC2 and Amazon RDS service disruption in the US East Region today.
 These so caled stuck volumes and stuck EC2 instances, well those were mine.
 Right after midnight on April 21st I was working on one of my harvest tools,  which pulls feeds from all major blogs, breaks them down and stores them for analysis.
 I was reviewing the analysis for what it pulled in the last hour, then my EC2 instance froze.   I closed everything down and logged back into the root, but it took be about 45 minutes to actually get things to load back up.
@@ -33,6 +33,4 @@ The last file I found modified was a log file with timestamp Sunday at 8:01:00 P
 I'm not sure what all this is, but it seemed to only exist on my server and started at the same time everyone started complaining about an outage.  Amazons report on outage, says a similar time:  12:47 AM PDT on April 21st.
 They claim it was due to a "network change".  Interesting.
 It may have coincided with a network change, but what I saw seemed like something else.  What I saw, seemed to be some sort of machine learning or evolving intelligence.
-Maybe its all part of my imagination....oh wait...it is....none of this happened.</p>
-<center><p><a href="http://apievangelist.com/2011/04/29/what-really-caused-the-amazon-web-services-outage/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Maybe its all part of my imagination....oh wait...it is....none of this happened.

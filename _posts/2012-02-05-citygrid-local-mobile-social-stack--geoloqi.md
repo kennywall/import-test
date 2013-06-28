@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/02/05/citygrid-local,-mobile,-social-stack
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Geoloqi_Logo.png
 ---
-{% include JB/setup %}<p>In February I&rsquo;m spending more time building, what I&rsquo;ve dubbed the CityGrid Local, Mobile, Social Stack, a list of APIs, platforms and tools that you can use in your local-mobile applications.
+{% include JB/setup %}In February I&rsquo;m spending more time building, what I&rsquo;ve dubbed the CityGrid Local, Mobile, Social Stack, a list of APIs, platforms and tools that you can use in your local-mobile applications.
 Of course CityGrid&nbsp;Places,&nbsp;Offers,&nbsp;Reviews&nbsp;and&nbsp;Advertising&nbsp;are first in that stack, but I want to identify other APIs, tools and platforms that can also assist you in quickly building your mobile app.
 As I add items to this stack. I will showcase them one by one here on the blog. The first one on my list is&nbsp;Geoloqi, which offers a pretty impressive set of location tracking, message and geofencing APIs and SDKS:
 
@@ -45,6 +45,4 @@ Optimized for use with real-time applications and battery-safe operations
 
 Geoloqi&nbsp;is a perfect addition to the CityGrid Local, Mobile, Social Stack. They offer some essential location tracking, location messaging and storage every mobile app can take advantage of, and they do it all in a way that considers your users battery life--which will make for a much better user experience.
 In Spring 2012 they are also working on rich location based analytics, so you can gain more insight into your mobile app users behavior.
-I&rsquo;m adding Geoloqi to the CityGrid Local, Mobile, Social Stack and will be weaving more of their services into what we offer here in the CityGrid Developer Center as well as our hackathon tools.</p>
-<center><p><a href="http://apievangelist.com/2012/02/05/citygrid-local,-mobile,-social-stack--geoloqi/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I&rsquo;m adding Geoloqi to the CityGrid Local, Mobile, Social Stack and will be weaving more of their services into what we offer here in the CityGrid Developer Center as well as our hackathon tools.

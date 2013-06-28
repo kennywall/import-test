@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/08/document-management-in-icloud/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage.png
 ---
-{% include JB/setup %}<p>Apple's new iCloud platform provides a centralized cloud storage solution for managing documents from any computer and iOS device.
+{% include JB/setup %}Apple's new iCloud platform provides a centralized cloud storage solution for managing documents from any computer and iOS device.
 iCloud document storage is not just cloud storage.  It provides a complete document management solution that keeps files synced between a user's mobile and desktop devices, with a copy always available in the cloud.
 When any documents is created on a device using iCloud document storage it first gets stored in the application's local sandbox and moved to a user's iCloud account later.  On its way to the iCloud, it is first moved out of the application's local sandbox and into a local system-managed directory where it can be monitored by the iCloud service. After that transfer, the file is transferred to iCloud and to the user's other devices when network conditions are optimal.
 The iCloud storage service requires files to be stored locally to prevent large numbers of conflicting changes from occurring at the same time. The iCloud storage service uses file coordinators to mediate changes between applications and the service that facilitates the transfer of the document to and from iCloud. The file coordinator acts like a locking mechanism for documents, preventing applications and the storage service from modifying the document simultaneously.
@@ -22,6 +22,3 @@ Related articles
 	iCloud Storage APIs (kinlane.com)
 	Documents in the Cloud with Apple iCloud (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/08/document-management-in-icloud/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

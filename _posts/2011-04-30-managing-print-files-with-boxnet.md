@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/30/3509/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
-{% include JB/setup %}<p> As the Mimeo.com API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the Mimeo Connect Cloud Print API.
+{% include JB/setup %} As the Mimeo.com API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the Mimeo Connect Cloud Print API.
 One such platform that I've identified as a Mimeo.com partner platform is Box.net.
 Box.net provides a complete cloud storage platform, with a powerful developer platform and application directory called OpenBox.
 Mimeo.com provides commercial web to print services, and with Mimeo Connect Cloud Print API you can integrate print file management from Box.net
@@ -41,6 +41,4 @@ Here is a sample code file for doing this:
 
 The above code sample demonstrates how to build a print file manager using Box.net cloud storage and Mimeo Connect Cloud Print API.
 Any company can use  Box.net to manage their print files, and allow commercial printing using Mimeo.com
-You can dowload a complete library of PHP code samples for integrating Box.net with Mimeo.com at Github.</p>
-<center><p><a href="http://apievangelist.com/2011/04/30/3509/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+You can dowload a complete library of PHP code samples for integrating Box.net with Mimeo.com at Github.

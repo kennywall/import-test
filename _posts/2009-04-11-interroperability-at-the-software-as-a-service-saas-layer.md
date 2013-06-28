@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/11/interroperability-at-the-software-as
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I encounter this problem all the time, but I am doing a fresh round of thinking trying to help my mom and brother with their Internet Operations for their small businesses.
+{% include JB/setup %}I encounter this problem all the time, but I am doing a fresh round of thinking trying to help my mom and brother with their Internet Operations for their small businesses.
 When my brother and I were talking about his web site needs, I said...
 What do you want your web site to do?
 He said company info, blog, calendar, and kept going from there.
@@ -20,6 +20,3 @@ Then I setup a LinkedIn and Facebook profile for his business, now he has two ot
 I would like to easily just add WordPress admin to the IGoogle interface, same with Facebook and LinkedIn. Same with any other SaaS I sign them up for...and aggregate all the administrative tools through a single IGoogle interface.
 Now this is just one example. If all SaaS providers had a standardized OpenSocial interface for their application that offered widget and full application view of their service, this would be a good start on SaaS Interoperability.
 So could OpenSocial be the standard to follow for Software as a Service (SaaS) interroperability in the cloud?
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/11/interroperability-at-the-software-as-a-service-saas-layer/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2008/12/17/in-a-dark-barely-lit-room/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>In a dark, barely lit room
+{% include JB/setup %}In a dark, barely lit room
 Monday night maestro
 Twice nightly in Birmingham
 Sold in cardboard boxes
@@ -21,6 +21,4 @@ Not much to be said.
 So much to be written
 I am writing so fast
 I am not even stopping
-To read my writing</p>
-<center><p><a href="http://apievangelist.com/2008/12/17/in-a-dark-barely-lit-room/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+To read my writing

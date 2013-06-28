@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/09/13/google-reader-api/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg
 ---
-{% include JB/setup %}<p>One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications.
+{% include JB/setup %}One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications.
 Well except for one application, Google Reader. Google has never made an API for Google Reader. It onlyallowsyou to use RSS feeds and sharing them publicly. I've always wanted to get at thewealthof knowledge that is curated daily in my Google Reader.
 So I tend to look regularly to see if they have put one out. Tonight I came across a Google Code project that says it:
 Hosts documentation and the issue tracker for the (unofficial) Google Reader API.
@@ -24,6 +24,4 @@ Here are the pages currently up:
 	Authentication - Making authenticated requests with OAuth and ClientLogin
 
 I'm going to make some time this weekend to play with more and write some code. I would like to rework my tagging system in Google Reader and drive information for sites that run in my new content management system.
-I'm excited to finally see a potential API for Google Reader, and the possibility that they are not going to abandon one of my favorite tools.</p>
-<center><p><a href="http://apievangelist.com/2011/09/13/google-reader-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm excited to finally see a potential API for Google Reader, and the possibility that they are not going to abandon one of my favorite tools.

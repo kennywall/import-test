@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/10/event-social-media-footprint/
 domain: apievangelist.com
 image: http://staynalive.com/files/2009/11/OpenID-Logo.gif
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 Blog - A blog to give the event a voice.
 
 RSS Feed - An RSS feed from the event blog or other event elements.
@@ -74,6 +74,4 @@ Event Directory / Calendar
 	 Eventful- A event directory listing on popular event site.
 
 There are definitely a lot of ways event managers can use social media and social networking to drive traffic to their web site and increase attendance. More importantly these tools can be used to offer a better event experience for attendees, speakers, and exhibitors.
-Social networking and social media tools can extend the event experience beyond just the on-site experience. You can see patterns emerging in social tools being used by leading edge technology and social media conferences. There needs to be much more education and awareness developed among more mainstream events and conferences in other industries.</p>
-<center><p><a href="http://apievangelist.com/2010/06/10/event-social-media-footprint/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Social networking and social media tools can extend the event experience beyond just the on-site experience. You can see patterns emerging in social tools being used by leading edge technology and social media conferences. There needs to be much more education and awareness developed among more mainstream events and conferences in other industries.

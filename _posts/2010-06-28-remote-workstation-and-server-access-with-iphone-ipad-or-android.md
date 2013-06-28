@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/28/remote-workstation-and-server-cloud-
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/vendors/wyse/pocket-cloud.PNG
 ---
-{% include JB/setup %}<p>Wyse PocketCloud gives you access to a cloud, your PC, Remote Desktop Services, a Terminal Server, VMware View or virtual machine securely from your desktop and your iPhone, iPod touch, iPad or Android devices.
+{% include JB/setup %}Wyse PocketCloud gives you access to a cloud, your PC, Remote Desktop Services, a Terminal Server, VMware View or virtual machine securely from your desktop and your iPhone, iPod touch, iPad or Android devices.
 
 Connection Protocols
 
@@ -18,6 +18,4 @@ Wyse PocketCloud Security
 	Secure Sockets Layer (SSL)
 	RSA Two-Factor Authentication
 
-Pretty cool technology for staying connected to your workstations or servers on your IPod, IPad or Android device. Would definitely help when your out of the office.</p>
-<center><p><a href="http://apievangelist.com/2010/06/28/remote-workstation-and-server-cloud-access-with-iphone-ipad-or-android/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Pretty cool technology for staying connected to your workstations or servers on your IPod, IPad or Android device. Would definitely help when your out of the office.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/11/proofing-scribd-pdf-using-mimeo-conn
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 Now the PDF we pulled from Scribd is proofed.   With the Product ID returned from the Mimeo Proof Service we can get the details of the proof.
 We need to make a second call to the Proof Service and Get the Proof.
 $root_url = "connect.sandbox.mimeo.com/2010/09/";
@@ -35,6 +35,4 @@ Now our PDF content pulled from Scribd and proofed with the Mimeo Cloud Print AP
 	We can leave file in our My Mimeo Library &gt; Proofed PDFs for future use.
 
 
-No matter what we do our content stored at Scribd is now ready to start building a document for printing with Mimeo.</p>
-<center><p><a href="http://apievangelist.com/2011/01/11/proofing-scribd-pdf-using-mimeo-connect/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+No matter what we do our content stored at Scribd is now ready to start building a document for printing with Mimeo.

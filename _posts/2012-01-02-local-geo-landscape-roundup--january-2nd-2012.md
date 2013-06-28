@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>From the Foursquare Blog
+{% include JB/setup %}From the Foursquare Blog
 
 	3-2-1 foursquare Follow Friday, New Years Eve edition! #4sqFF- (12-30-2011) - Still figuring out your plans for celebrating the end of 2011? Check out these New Years Eve lists from New York, North Carolina, Miami, India, and all around the world! Know of celebrations going on in your town?
 
@@ -30,6 +30,3 @@ Tweets from InfoChimps
 Tweets from  Acxiom 
 
 	(12-29-2011) A look back on marketing trends of 2011 - new media, social CRM, and more - and questions for what's to come in 2012 http://t.co/P2R6KtoE
-</p>
-<center><p><a href="http://apievangelist.com/2012/01/02/local-geo-landscape-roundup-january-2nd-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

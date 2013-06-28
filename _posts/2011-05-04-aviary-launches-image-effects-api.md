@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png
 ---
-{% include JB/setup %}<p>Aviary, a creator of web-based image editing tools, launched a new Effects API that can apply filters and utilities to photos via a RESTful interface.
+{% include JB/setup %}Aviary, a creator of web-based image editing tools, launched a new Effects API that can apply filters and utilities to photos via a RESTful interface.
 What used to be done with server-side components like ImageMagick, can now be down through web APIs.
 The Aviary Effects API provides the following functionality:
 
@@ -26,6 +26,4 @@ Along with the release of the Effects API, Aviary has launched a new area to sup
 	Developer forum for developers to share and discover information.
 
 The Effects API provides much needed tools for applications that are looking to build photo books, cards, posters and any other printed documents, where you will use photos and images.
-With the Feather API and Suite API you can even enable users of your application to create and manipulate images within your app before exporting to PDF and publishing to the Mimeo Connect Cloud Print API.</p>
-<center><p><a href="http://apievangelist.com/2011/05/04/aviary-launches-image-effects-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+With the Feather API and Suite API you can even enable users of your application to create and manipulate images within your app before exporting to PDF and publishing to the Mimeo Connect Cloud Print API.

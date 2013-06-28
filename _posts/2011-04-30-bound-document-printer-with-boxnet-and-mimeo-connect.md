@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/30/bound-document-printer-with-box-net-
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
-{% include JB/setup %}<p>As the Mimeo.com API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the Mimeo Connect Cloud Print API.
+{% include JB/setup %}As the Mimeo.com API Evangelist one of my jobs is to find other platforms, services and technology that goes well with the Mimeo Connect Cloud Print API.
 One such platform that I've identified as a Mimeo.com partner platform is Box.net.
 Box.net provides a complete cloud storage platform, with a powerful developer platform and application directory called OpenBox.
 Mimeo.com provides commercial printing of many types of bound documents including spiral bound, magazine style, and perfect bound, and with Mimeo Connect Cloud Print API you can integrate printing of these using Box.net
@@ -43,6 +43,4 @@ The above code sample demonstrates how to build a bound document printer using B
 With this bound document printer you can public books, magazines, newsletters, reports and many other types of bound documents.
 You can build any custom bound document with your Mimeo.com account, with specific binding, paper, folds, covers, and much more.  Then merge this document with any multi-page document from Box..net
 Any company can build a Box.net Cloud Printer and publish to the OpenBox directory, to allow commercial printing using
-Mimeo.com  You can dowload a complete library of PHP code samples for integrating Box.net with Mimeo.com at Github.</p>
-<center><p><a href="http://apievangelist.com/2011/04/30/bound-document-printer-with-box-net-and-mimeo-connect/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Mimeo.com  You can dowload a complete library of PHP code samples for integrating Box.net with Mimeo.com at Github.

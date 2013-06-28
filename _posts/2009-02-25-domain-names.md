@@ -6,12 +6,9 @@ source: http://apievangelist.com/2009/02/25/domain-names/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>So I am continuing cleaning up my world. I recently let probably 20-30 domains expire. In the past I have had a domain adiction....I just buy them thinking...someday I will do something with that.
+{% include JB/setup %}So I am continuing cleaning up my world. I recently let probably 20-30 domains expire. In the past I have had a domain adiction....I just buy them thinking...someday I will do something with that.
 I know plenty of other geeks who do this. You just think....$10.00 for a domain...I can afford that!
 Then 50-100 domains later you start questioning. What is wrong with me. Then you check-in to Betty Ford Clinic.
 So anyways...I let a whole bunch of domains expire that I have registered with GoDaddy. In Janurary as I was getting the flood of emails saying each domain was expiring I somehow let www.kinlane.com expire. DOH!
 Then I go into GoDaddy and they have a recover domain option. However it costs $90.00!! What the hell.....I spent so much money on domains it is hard to believe they now charge to recover a domain registration. Many times in the past when this happens for clients I just call and say I need to renew...and they just charge for renewal. Not recovery.
 I'm a little disappointed GoDaddy.
-</p>
-<center><p><a href="http://apievangelist.com/2009/02/25/domain-names/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

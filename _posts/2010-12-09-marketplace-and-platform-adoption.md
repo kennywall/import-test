@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/09/marketplace-and-platform-adoption/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/chrome-web-store.jpg
 ---
-{% include JB/setup %}<p>I am spending a couple hours today going through popular app marketplaces looking for document management and collaboration applications. I'm also comparing each marketplace as browse through them..
+{% include JB/setup %}I am spending a couple hours today going through popular app marketplaces looking for document management and collaboration applications. I'm also comparing each marketplace as browse through them..
 
 I'm looking through four primary marketplaces:
 
@@ -32,6 +32,4 @@ While doing this research I also searched Google for more "application marketpla
 	Windows Phone Marketplace - Can't forget Window Mobile.
 	Blackberry App Store - Can't forget Blackberry either.
 
-I then went through about 10 pages of Google results. A couple other no name marketplaces. What other top marketplaces am I missing?</p>
-<center><p><a href="http://apievangelist.com/2010/12/09/marketplace-and-platform-adoption/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I then went through about 10 pages of Google results. A couple other no name marketplaces. What other top marketplaces am I missing?

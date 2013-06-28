@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/07/20/openstack-open-source-open-standards
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-computing/OpenStack_200.jpeg
 ---
-{% include JB/setup %}<p>I am impressed with Rackspace donating the code for their compute and object storage platform and creating the OpenStack. There has been a lot of discussion around the need for a cloud storage API standard, and whether or not Amazon should be the base for an cloud computing standard.
+{% include JB/setup %}I am impressed with Rackspace donating the code for their compute and object storage platform and creating the OpenStack. There has been a lot of discussion around the need for a cloud storage API standard, and whether or not Amazon should be the base for an cloud computing standard.
 I think it is a very smart move for Rackspace to step up in this way. It will do a lot for the industry and cloud adoption, and put them ahead in the game. I see a couple of immediate benefits:
 
 	Availability of proven open source software to get compute or storage infrastructure up and running
@@ -29,6 +29,4 @@ Check out this list of projects they are working on:
 	OpenStack  Object Storage (swift)
 
 Open Source cloud compute power and cloud object storage. Mobile platform support for IPad, IPhone, and Android. Management tools and development tools. Very nice.
-And you can't have a much cooler launch partner than NASA.</p>
-<center><p><a href="http://apievangelist.com/2010/07/20/openstack-open-source-open-standards-cloud/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+And you can't have a much cooler launch partner than NASA.

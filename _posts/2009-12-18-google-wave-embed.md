@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/12/18/google-wave-embed/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-wave_embed/Wave-CMS-Editor.jpg
 ---
-{% include JB/setup %}<p>I was playing with Google Wave tonight. I am curious to see how I can use it. I keep thinking about using Google Wave as a content management system (CMS).
+{% include JB/setup %}I was playing with Google Wave tonight. I am curious to see how I can use it. I keep thinking about using Google Wave as a content management system (CMS).
 I am starting with the basics. First I started a new wave and filled it with some dummy content.
 
 Then using the Google Wave Embed API I can quickly grab the Wave ID and embed it in a web page using a simple little JavaScript that creates and manipulates a Google Wave Embed Panel.
@@ -32,6 +32,3 @@ Right now Google has wave embed limited to the Google Wave Sandbox. So its hard 
 
 This is just one page, however I can see the potential. You can basically crowd source the management of a web site across many different people using Google Wave.
 I still have some public and user editing isuess on the embed page to figure out. I will also create some sort of web site registry tool that will build the site map and handle organizing all the waves.
-</p>
-<center><p><a href="http://apievangelist.com/2009/12/18/google-wave-embed/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

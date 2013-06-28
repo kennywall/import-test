@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/08/instagram-launches-api-2/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
-{% include JB/setup %}<p>The mobile photo sharing site Instagram officially launched an API this evening.
+{% include JB/setup %}The mobile photo sharing site Instagram officially launched an API this evening.
 This comes just under a month after the company asked developers to stop using a rogue API that was reverse engineered by an outside developer.
 Instagram is accepting signups for access to their new API at:
 
@@ -22,6 +22,3 @@ Related articles
 	Instagram API Accepting Sign-ups for Public Beta (programmableweb.com)
 	Instagram Shifting Focus to an Open Platform With API (macstories.net)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/08/instagram-launches-api-2/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

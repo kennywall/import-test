@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/10/17/startup-school-2010/
 domain: apievangelist.com
 image: http://i.bnet.com/blogs/andy-bechtlesheim.jpg
 ---
-{% include JB/setup %}<p>I was fortunate enough to attend Startup School 2010 yesterday. #sus2010
+{% include JB/setup %}I was fortunate enough to attend Startup School 2010 yesterday. #sus2010
 Startup School is a day of learning for anyone with either early onset or chronic entrepreneurialism.  I suffer chronically, but have it under control.
 I was impressed with all the youthful, intelligent energy at the event.   Unfortunately not a very diverse crowd, it was the usual male imbalance.  C'mon guys....lets work on this.
 The speaker lineup was pretty impressive:
@@ -35,6 +35,3 @@ Brian Chesky is the founder of Airbnb.
 Brian I thought really delivered one of the most inspirational start-up stories of the day.  I had heard of Airbnb, but did not know the whole story behind it.  He delivered the timeline of his start-up over the 1000 days it took to develop,. evolved, and launch....and well relaunch the idea multiple times before it found success.  He walked us through the entertaining saga, and showed the innovation behind what he calls a marketplace for space in the world.  It is a great idea, and a great story behind an inspirational Y Combinator start-up.
 I think the two most important things I took away from startup school 2010 was the important role of financing as a building block of the tech community, and how we really need to move beyond taking offline processes, add the Internet and call it innovation.  We need to truly think outside of the box when it comes to solving problems with technology and financing these start-ups.
 I was very thankful to have a chance to attend the Startup School and see some of the most innovative minds of our generation.  So much more to think about.  Thanks Audrey.
-</p>
-<center><p><a href="http://apievangelist.com/2010/10/17/startup-school-2010/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

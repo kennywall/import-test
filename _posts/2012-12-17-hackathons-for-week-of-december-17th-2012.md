@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>These are the hackathons we are tracking on at&nbsp;Hack Weekends. It looks like about 21 different events in the United States.
+{% include JB/setup %}These are the hackathons we are tracking on at&nbsp;Hack Weekends. It looks like about 21 different events in the United States.
 
 
 
@@ -151,6 +151,4 @@ Washington, DC
 
 
 
-If we missed one please let us know, and for a full calendar of hackathon events visit the&nbsp;main hackathon calendar.</p>
-<center><p><a href="http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+If we missed one please let us know, and for a full calendar of hackathon events visit the&nbsp;main hackathon calendar.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/31/googles-vision-of-the-future-of-clou
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
-{% include JB/setup %}<p>Google is moving forward with their vision of Cloud Printing in a much larger, comprehensive and decisive way compared with HP ePrint or Apple Airprint.
+{% include JB/setup %}Google is moving forward with their vision of Cloud Printing in a much larger, comprehensive and decisive way compared with HP ePrint or Apple Airprint.
 They have rolled out the Google Cloud Print Services Interface as well as an XMPP jobs notification system.
 GCP supports printing on mobile phones using Google Docs and Gmail, while also supporting printing in Chrome on Windows, and now on the Mac Platform.
 They quickly evolved from a Google Client Login to support OAuth 2.0, to keep in line with the rest of the Google API ecosystem when it comes to authentication.
@@ -22,6 +22,4 @@ This can be done without forcing printers to route through a proxy.   If manufac
 
 This just makes sense.   I get a lot of questions via email, twitter and comments on my site regarding how to diagnose printer problems using Google Cloud Print.
 The biggest question I get is how users can print when their computers are offline.   I think this is the most obvious aspect that Google is trying to point out with their vision.   If devices are web-enabled and work directly with GCP, it eliminates the need to leave computers on and introducing another point where problems can occur.
-The goal of Google Cloud Print is empower the user with easy, hassle free printing to any device.</p>
-<center><p><a href="http://apievangelist.com/2011/03/31/googles-vision-of-the-future-of-cloud-printing/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+The goal of Google Cloud Print is empower the user with easy, hassle free printing to any device.

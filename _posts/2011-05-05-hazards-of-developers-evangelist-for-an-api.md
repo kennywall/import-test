@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/05/05/hazards-of-developers-evangelist-for
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
-{% include JB/setup %}<p>I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API.
+{% include JB/setup %}I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API.
 One concept that is tough to understand at first, is that all printing starts with a Mimeo document.
 Then using the API you can either order that document as is, or merge one or many PDF documents with it, generate a dynamic document, then order this new document.
 As part of our API, we have a Document Listing Service, except it only pulls documents from a central account I have control of.
@@ -23,6 +23,4 @@ I explain it doesn't work without dashes.
 His response is, Developers will understand, and know to put dashes back in.
 And that is a hazard of putting developers as the public face of your API.
 They make a lot of assumptions based upon what they know.
-API Evangelists and developer advocates should definitely have programming skills, but ideally they should have a balance of proramming, business and marketing skills.</p>
-<center><p><a href="http://apievangelist.com/2011/05/05/hazards-of-developers-evangelist-for-an-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+API Evangelists and developer advocates should definitely have programming skills, but ideally they should have a balance of proramming, business and marketing skills.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/03/ideation-and-project-evolution/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>During my 20 years in the technology industry and many failed entrepreneurial endeavors I have gained some wisdom around managing my ideas and evolving them into projects.
+{% include JB/setup %}During my 20 years in the technology industry and many failed entrepreneurial endeavors I have gained some wisdom around managing my ideas and evolving them into projects.
 Most of my startups and side-projects have gone nowhere. Have they failed? I think that is a matter of opinion. If you ask my ex-wife...she will say yes.
 I say no. They were all learning experiences and evolved myself and my knowledge forward.
 I have developed a method for recording my ideas using Evernote. I then high grade them based upon how much I think about them, evolve them and overall the potential of the idea.
@@ -20,6 +20,4 @@ Anyways, I am shutting down a couple Amazon EC2 instances and RDS deployments to
 	Tech Blogger Analysis
 
 These are three ideas I am setting free. I want to share them with everyone, maybe generate some interest. At least just give them proper closure. I don't have time or $$ to move them forward. I am way to busy in the API space.
-Let me know if you have any interest in them. Happy to geek out with you about them.</p>
-<center><p><a href="http://apievangelist.com/2010/12/03/ideation-and-project-evolution/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Let me know if you have any interest in them. Happy to geek out with you about them.

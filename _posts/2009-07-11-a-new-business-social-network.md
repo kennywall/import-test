@@ -6,10 +6,7 @@ source: http://apievangelist.com/2009/07/11/a-new-business-social-network/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Came across a blog posting for a new social network / platform call Smibs. We ahead and signed up for it. I am always curious how fast these networks will grow.
+{% include JB/setup %}Came across a blog posting for a new social network / platform call Smibs. We ahead and signed up for it. I am always curious how fast these networks will grow.
 I monitor my Google rankings pretty thoroughly. Curious to see how fast it rises in the ranks.
 Sometimes I will see them popup on my first page pretty quickly. Sometimes I never see them at all.
 It is an interesting approach to social networking. I got my basic profile in there, I will play with more later. (maybe)
-</p>
-<center><p><a href="http://apievangelist.com/2009/07/11/a-new-business-social-network/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

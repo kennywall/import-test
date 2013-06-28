@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/05/05/nyc-tech-meetup/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png
 ---
-{% include JB/setup %}<p>I was fortunate enough to attend the NY Tech Meetup last night at NYU while I was in town.
+{% include JB/setup %}I was fortunate enough to attend the NY Tech Meetup last night at NYU while I was in town.
 Interesting to see the startup energy in NY compared with Silicon Valley.
 Anyways I got to see some cool startups and tech businesses:
 
@@ -23,6 +23,4 @@ Anyways I got to see some cool startups and tech businesses:
 I would say all these startups are truly working to solve actual problems in everyday life, which I think is important with startups.
 There are times when I'm sitting in pitches in Silicon Valley and I don't think people are solve real-life problems.  Well real-life problems outside the echo chamber.
 It was interesting to see the passion NYC startup energy and mingle with some of the tech folks here.
-Look forward to coming out more often and attending future NY Tech Meetups.</p>
-<center><p><a href="http://apievangelist.com/2011/05/05/nyc-tech-meetup/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Look forward to coming out more often and attending future NY Tech Meetups.

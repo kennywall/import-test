@@ -6,10 +6,8 @@ source: http://apievangelist.com/2009/08/24/facebook-is-1/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Alright, what gives? My Facebook profile just beat out my blog www.kinlane.com for the number #1 search position for "kin lane" at Google.
+{% include JB/setup %}Alright, what gives? My Facebook profile just beat out my blog www.kinlane.com for the number #1 search position for "kin lane" at Google.
 Wondering what in the algorithm would cause that?
 Is it because there is more activity on my Facebook than my blog?
 Is it because Facebook has more prominence?
-Interesting change in my Google search results and profile rankings.</p>
-<center><p><a href="http://apievangelist.com/2009/08/24/facebook-is-1/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Interesting change in my Google search results and profile rankings.

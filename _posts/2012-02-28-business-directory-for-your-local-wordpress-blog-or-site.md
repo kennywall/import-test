@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/02/28/business-directory-for-your-local-wo
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/wordpress-logo.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I finished the first version of a business directory WordPress plugin that you can use to deploy a local directory for your Wordpress site or blog.  I wanted to make an easy way for non-developers, to launch a local directory for one or multiple business categories.
 The Hyp3rL0cal Wordpress Plugin uses two APIs:
 
@@ -29,6 +29,4 @@ What - Keywords separated by commas (pizza, pubs, hair salon, auto parts). Each 
 Ads - Whether or not you want to show ads on your site.
 
 I tried to find strike a balance between simplicity, while also giving site owners a very robust local directory for their site.  My goal is to empower non-developers with the ability to launch local business directories for any topic or geographic location at a city level.
-This is just version 1.0 of the CityGrid Hyp3rL0cal Wordpress Plugin, so if you find problems, or there are things you would like to see in future versions, please tweet your feedback @citygridapiteam or leave comments on the CityGrid Dev Talk Forum.</p>
-<center><p><a href="http://apievangelist.com/2012/02/28/business-directory-for-your-local-wordpress-blog-or-site/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+This is just version 1.0 of the CityGrid Hyp3rL0cal Wordpress Plugin, so if you find problems, or there are things you would like to see in future versions, please tweet your feedback @citygridapiteam or leave comments on the CityGrid Dev Talk Forum.

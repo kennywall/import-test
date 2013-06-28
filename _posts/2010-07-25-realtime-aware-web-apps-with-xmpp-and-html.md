@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/07/25/real-time-aware-web-apps-with-xmpp-a
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/html5.jpg
 ---
-{% include JB/setup %}<p>I am spending time each week learning something new about HTML5 and brainstorming ways it can be applied in my every day business world.
+{% include JB/setup %}I am spending time each week learning something new about HTML5 and brainstorming ways it can be applied in my every day business world.
 Here are two areas I am researching:
 
 	Using HTML 5 Web SQL Database and HTML5 Web Storage to make web applications run more efficiently by running them locally.
@@ -14,6 +14,4 @@ Here are two areas I am researching:
 
 I also just finished reading How to Create an XMPP-Driven Application in JavaScript. Using HTML 5 Web Sockets you can interface with any XMPP server and create a full-duplex communications channel within the web browser.
 With all these improvements to HTML, HTML 5 seems like a logical choice for web and mobile application development.
-Update: Also found this web socket extension for Apache Web Server.</p>
-<center><p><a href="http://apievangelist.com/2010/07/25/real-time-aware-web-apps-with-xmpp-and-html/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Update: Also found this web socket extension for Apache Web Server.

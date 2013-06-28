@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/15/amazon-s3-client-tool/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I am constantly looking for better tools to manage my cloud environments. I have been using Amazon S3 since it first came out. I really saw the potential Amazon S3 had early on, as storage for all my web applications.
+{% include JB/setup %}I am constantly looking for better tools to manage my cloud environments. I have been using Amazon S3 since it first came out. I really saw the potential Amazon S3 had early on, as storage for all my web applications.
 I ran a web application development company with my now ex-wife for eight years called Original Web Solutions. We were on version 4.0 of our content management system when we dissolved the company. Version 4.0 was a completely SaaS based system and utilized Amazon S3 for all heavy lifting storage. I put all images, PDF's, videos, word docs, etc. up on Amazon S3. An application was purely made of just HTML / CSS / JavaScript pages with a PHP / MySQL backend.
 I also store all my data at Amazon S3 for my personal and business use. I have used Firefox Add-On S3 Fox to upload and download all my data. It has worked very well to meet my needs, except it fails a lot. It doesn't handle large files very well, and doesn't recover from poor connection failures. Its crude, but gets the job done.
 For the most part I rely on writing custom code to upload files to Amazon S3.
@@ -19,6 +19,3 @@ I highly recommend it for those of you who wish to start using the cloud for you
 
 
 
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/15/amazon-s3-client-tool/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

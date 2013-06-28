@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/03/19/i-have-an-idea-lets-launch-an-analyt
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/analytics-trend.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 During my monitoring for the API stack this last week, I noticed that both Parse and New Relic had launched mobile analytics platforms.  I&rsquo;ve been tracking on various API driven analytics platforms, and after seeing both Parse and New Relic launch their offerings, I thought, who else is doing this?
 Here are a few of the analytics platforms that launched in the last 30 days:
 
@@ -21,6 +21,4 @@ Here are a few of the analytics platforms that launched in the last 30 days:
 03/12/2013 - Houzz Launches New Analytics Tool for Remodeling and Design Professionals Participating in Pro+ Program
 03/19/2013 - App Annie launches Amazon Appstore analytics
 
-It seems that everyone is getting pretty excited about the growth of big data and mobile.  Analytics seems to be the latest boom area, something I will add to my list of API driven trends I&rsquo;m monitoring.</p>
-<center><p><a href="http://apievangelist.com/2013/03/19/i-have-an-idea-lets-launch-an-analytics-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+It seems that everyone is getting pretty excited about the growth of big data and mobile.  Analytics seems to be the latest boom area, something I will add to my list of API driven trends I&rsquo;m monitoring.

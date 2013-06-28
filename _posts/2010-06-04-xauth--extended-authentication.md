@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/04/xauth-extended-authentication/
 domain: apievangelist.com
 image: http://developer.yahoo.net/blog/xAuth.png
 ---
-{% include JB/setup %}<p>XAuth is a standard that is going to help make the social web smarter and more relevant. The goal of XAuth is to create a more relevant social experience across the web, and it is truly exciting that all of our partners are united on this front.
+{% include JB/setup %}XAuth is a standard that is going to help make the social web smarter and more relevant. The goal of XAuth is to create a more relevant social experience across the web, and it is truly exciting that all of our partners are united on this front.
 It includes a light-weight XAuth JavaScript library that will allow service providers like Google, Microsoft, MySpace, Yahoo! to extend authenticated user services across the web to developers like Meebo, Gigya, DISQUS, and Janrain.
 Intelligent Social Tools
 There are too many choices when it comes to social sharing and as sites become more social, they are including JavaScript libraries or widgets for multiple services. Many of these services may attempt to make a connection back to their services to see if you are authenticated so that they can appear more relevant. Meanwhile the site is also trying to load the rest of its own page. The consequence is that the publisher's site may take just a bit longer to load, resulting in a possibly relevant but slower user experience.
@@ -15,6 +15,4 @@ Most service providers take privacy very seriously and have their own privacy po
 Evolution of the Standard
 XAuth is only available as a preview right now for service providers and developers. Meebo, Google and Microsoft have put together a few demo pages to give developers a preview of what will be possible.
 You can got to xauth.org/info to learn more about XAuth. In the future they will continue to move forward on XAuth and collaborate further with additional partners, the Open Identity Exchange (OIX) and the OpenID Foundation to facilitate an open consortium to host the XAuth technology.
-?</p>
-<center><p><a href="http://apievangelist.com/2010/06/04/xauth-extended-authentication/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+?

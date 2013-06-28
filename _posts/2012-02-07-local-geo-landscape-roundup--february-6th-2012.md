@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-februar
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>From the&nbsp;Facebook&nbsp;Blog
+{% include JB/setup %}From the&nbsp;Facebook&nbsp;Blog
 
 Join the Facebook Platform team at GDC in March&nbsp;- (02/06/2012) - We're excited to announce Facebook Developer Day at Game Developer Conference in San Francisco on Monday, March 5th. Conference attendees are invited to join the Facebook Platform team for interactive discussions throughout the day on best practices and pro-tips for building social games. At this all-day event, developers will learn the fundamentals of building successful social games across platforms, including mobile and console, and how to deeply integrate apps with timeline through Open Graph. Register now for an "All-Access" or "Summit &amp; Tutorials" pass to GDC San Francisco to secure your spot at Facebook Developer Day on Monday, March 5th.
 Creating Featured Stories with Action Specs&nbsp;- (02/03/2012) - Recently we announced a new way of creating Featured Stories (previously "Sponsored Stories") on the Ads API by using action specs. These changes make the Ads API more flexible and will make it easier for developers to adapt to new story types as we launch them. We will be deprecating the old sponsored stories creative types as of May 1. Prior to this change Sponsored Stories were defined by choosing the correct Ad Creative type for the specific Sponsored Story type. E. g. a page like sponsored story was type 9, a page post like sponsored story was type 17 etc. This made it complicated for developers to incorporate new Sponsored Story types as each Sponsored Story required different fields per story type.
@@ -29,6 +29,3 @@ Processing Twitter for Acxiom
 From the&nbsp;InMobi&nbsp;Blog
 
 Developers' Guide to MWC&nbsp;- (02/06/2012) - Business Cards How many cards were you planning on bringing? Nope - bring twice as many! Make sure you actually do something with the cards you pick up - I like WorldCard for scanning in cards. Pick Up All The Schwag Every company will be handing out free posters, stressballs, branded USB sticks, samples, and - in some cases - giving away phones. Take everything you can lay your hands on. Hand Sanitiser You're going to be shaking hands with thousands of people. Take along a bottle of hand sanitiser to help prevent picking up the MWC lurgy. Throat Lozenges Talking everyone through your app is hard on the vocal chords - especially if you've spent all night at the karaoke!
-</p>
-<center><p><a href="http://apievangelist.com/2012/02/07/local,-geo-landscape-roundup-february-6th,-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

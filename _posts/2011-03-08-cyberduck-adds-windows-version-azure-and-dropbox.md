@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/08/cyberduck-adds-windows-version-azure
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cyberduck.png
 ---
-{% include JB/setup %}<p>Cyberduck, the open source FTP client has made some pretty significant updates including a version for Microsoft Windows XP, Windows Vista &amp; Windows 7.
+{% include JB/setup %}Cyberduck, the open source FTP client has made some pretty significant updates including a version for Microsoft Windows XP, Windows Vista &amp; Windows 7.
 Cyberduck has also added two more cloud storage providers:
 
 	Windows Azure Blob Storage
@@ -25,6 +25,3 @@ Related articles
 	Easily Upload your Desktop Folders to Google Docs [Google Docs] (lifehacker.com)
 	Back up Google Docs to your hardisk with CyberDuck (otterman.wordpress.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/08/cyberduck-adds-windows-version-azure-and-dropbox/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

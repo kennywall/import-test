@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/10/cloud-platform-as-a-service-paas/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/Squarespace.PNG
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I was helping someone choose a blogging platform today and they sent me a link for a possible choice. It was Squarespace.
 At first I thought, "This isn't a quick and dirty FREE blogging platform." I left the tab open and quickly setup a Wordpress blog for them.
 I came back to the Squarespace site and went through their product tour.
@@ -37,6 +37,4 @@ I consider this an excellent example of PaaS standards. The only elements I woul
 
 With a robust developer ecoystem that has reseller tools, template system, and development modules it would truly be dubbed a high quality Platform as a Service (PaaS).
 They have the greatest explanation of why they aren't FREE. "Squarespace provides a premium, time saving service and charges for it.".
-Its nice to see a quality platform running in the clouds, I predict good things for Squarespace.</p>
-<center><p><a href="http://apievangelist.com/2010/06/10/cloud-platform-as-a-service-paas/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Its nice to see a quality platform running in the clouds, I predict good things for Squarespace.

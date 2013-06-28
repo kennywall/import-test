@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/01/07/browser-usage/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I just realized a funny thing.  I use 3 different browsers on a daily basis now.
+{% include JB/setup %}I just realized a funny thing.  I use 3 different browsers on a daily basis now.
 
 I use Firefox for my personal sites and web applications.
 I use Chrome for my work sites and web applications.
@@ -16,6 +16,4 @@ I generally have work and personal in separate browsers so I can logged into bot
 
 Then I use IE for media just because if it freezes up and crashes it leaves my work and personal browsers alone.
 
-Funny realization.</p>
-<center><p><a href="http://apievangelist.com/2010/01/07/browser-usage/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Funny realization.

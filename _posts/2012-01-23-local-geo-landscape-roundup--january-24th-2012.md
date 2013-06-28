@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/01/23/local-geo-landscape-roundup-january-
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>From the Foursquare Blog
+{% include JB/setup %}From the Foursquare Blog
 
 Hey LA, now its your turn to save $5 on every Restaurant Week meal! - (01/23/2012) - New York Restaurant Week partnership with American Express, saving Card members $5 on every lunch and dinner they have at over 300 New York eateries. Today, we're excited to extend the same deal to hungry explorers in Los Angeles: Spend $21 hundreds of restaurants participating in dine LA's Restaurant Week, and you'll get a $5 credit back on your American Express statement. Redeeming your free money is just as easy as with past American Express specials:Check in at a Restaurant Week restaurant. Go to the Special screen and tap the Load to Card button (you'll also be able to sync your card if you have&rsquo;nt yet).
 Hit the slopes! foursquare Follow Friday, winter edition! #4sqFF - (01/20/2012) - Up for anything? Check out the Best Skiing in the World! In Vermont? This is your list. Aloha Ski and Snowboard Rentals in Park City, Utah has great recommendations, including where to stay and store your gear. Aspen/Snowmassin Aspen, Colorado has great tips and lists on where to eat, hiking spots, and more. Exclusive Resorts has a list of great US ski spots. Or, perhaps Dolce&amp;Gabbanas list of cozy, glamorous snow spots around the world is more your style. We&rsquo;ve also partnered with a bunch of ski resorts - check out their lists below, and check in when you visit to unlock their badges! Mount Snow in Vermont has tips on how to beat the crowds, food and rental recommendations, and more.
@@ -36,6 +36,3 @@ Handset Stats - 2010-2011 - (01/17/2012) - What a difference a year makes! You c
 From the PlaceCast Blog
 
 Text Tops Smartphone Usage, While Check-Ins Decline - (01/20/2012) - Insight Express released the latest update to its quarterly Digital Consumer Portrait which reveals some very interesting observations on the mobile behavior of mainstream smartphone users. As Kathryn Koegel pointed out in her AdAge column yesterday, there is an overwhelming counter-intuitive trend emerging from the data: some advanced mobile behaviors are not on an ever-increasing trajectory. Specifically, that text continues to top the charts for usage, while novelty behavior like check-ins are in decline.
-</p>
-<center><p><a href="http://apievangelist.com/2012/01/23/local-geo-landscape-roundup-january-24th-2012/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

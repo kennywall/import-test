@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/28/twitter-for-business/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/Twitter-Logo.jpg
 ---
-{% include JB/setup %}<p>Twitter has a business center setup to help people make the most of Twitter for their business.
+{% include JB/setup %}Twitter has a business center setup to help people make the most of Twitter for their business.
 You can find tools, starting with the basis:
 
 	What is Twitter?
@@ -28,6 +28,4 @@ Then you can take advantage of the pay for play portion of Twitter:
 	Promoted Accounts
 	Analytics
 
-Looks like everything you need to get up and going and be successful using the Twitter platform.</p>
-<center><p><a href="http://apievangelist.com/2010/12/28/twitter-for-business/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Looks like everything you need to get up and going and be successful using the Twitter platform.

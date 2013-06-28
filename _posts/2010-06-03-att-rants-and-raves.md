@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/06/03/att-rants-and-raves/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>ATT decided to stop offering unlimited data plans to new customers  today. I'm going to ride the Anti ATT sentiment for a bit.
+{% include JB/setup %}ATT decided to stop offering unlimited data plans to new customers  today. I'm going to ride the Anti ATT sentiment for a bit.
 I  have several complaints about AT&amp;T that I need to explore here on my  blog.
 I have had the phone number 541-913-2328 on the  AT&amp;T network since January 1999. It was my primary business line  for the eight years I ran a web application development company. I have had my  complaints, but remained a loyal AT&amp;T customer.
 As time moves on  and I do more business with AT&amp;T I increasingly get frustrated with them.
@@ -30,6 +30,4 @@ I have a couple of areas I'm  going to explore to express how I feel about AT&am
 
 It frustrates me that ATT doesn't  understand me as a user and the don't offer services and pricing plans that  reflect my needs. Beyond not understanding, they actually  seem to work against me.
 I have long felt that the traditional  Telecom Good Ol Boy network was bad for the open Internet. They just  seem to be stuck in in the old days of the telecommunication industry.  They don't get the Internet and understand how to change.
-I worry  that the American telecommunications industry will contribute to the  decline of the United States as a competitor in the global marketplace  by suffocating innovation in the name of profits.</p>
-<center><p><a href="http://apievangelist.com/2010/06/03/att-rants-and-raves/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I worry  that the American telecommunications industry will contribute to the  decline of the United States as a competitor in the global marketplace  by suffocating innovation in the name of profits.

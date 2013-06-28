@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/11/small-business-online-presence/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Hitting on a common problem I have, and just need to talk it out a little bit on here so I can continue finding the right approach.
+{% include JB/setup %}Hitting on a common problem I have, and just need to talk it out a little bit on here so I can continue finding the right approach.
 My brother Richard has an accounting firm in Hawaii, and my mom and her partner have an alternative health business I guess you'd call it. They both do well.
 However they struggle with their web site and Internet presence. I have offered up to help before, but because I am busy or something else happens I don't deliver. This was back more when I had my web development business with my ex-wife.
 They have the same basic need, but slightly different scenarios. First of all one is a service based business and the other is a product / service based business.
@@ -30,6 +30,3 @@ They are busy. I am busy.
 They have knowledge of their businesses, and I have knowledge of the technology.
 So we need to sit down and map out a strategy for each of their businesses. Figure out priorities, goals, and budgets. Help them understand the complexities and how to simplify their goals so something that gets done, and help me understand their frustrations and the intricacies of their businesses.
 Then we with a strategy we can figure out the next steps....
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/11/small-business-online-presence/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

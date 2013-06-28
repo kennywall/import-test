@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/07/16/finally-a-solution-to-my-time-tracki
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg
 ---
-{% include JB/setup %}<p>Like everyone else, I struggle with keeping track of my time. What projects did I work on, how much time did I spend researching, reading and writing each day.
+{% include JB/setup %}Like everyone else, I struggle with keeping track of my time. What projects did I work on, how much time did I spend researching, reading and writing each day.
 I've used Bascamp, Microsoft Project and even spreadsheets to track time in the past. Each solution always starts the same. There is a honeymoon period where I keep everything up to date, and it works well. Then slowly, but surely I get so busy I cannot carve out the time to keep my project management and time tracking up to date. The solution fails.
 The other day I got email introducing me to Chrometa. Chrometa is a desktop app + web application that tracks your time without notes or timers. It automatically captures and categories what you do for you.
 I install the desktop app which runs in the background. It tracks what I do. Everything. It is a little creepy, but the benefits outweigh my concerns.
@@ -17,6 +17,3 @@ Chrometa even asks me how I want to categorize my downtime when I come back to w
 I'm only on day two of using Chrometa. I'm still getting my categories and rules organized and accumulating data. So far it is the missing link in my time tracking. It is the reverse of what I'm used to, meaning it doesn't expect me to do anything up front. It tracks what I do and then its up to me to setup a framework to make meaning out of that activity.
 In addition to specific projects I am curious to see how much time I spend reading or writing, and snapshots of how much time I spend social networking on Facebook, Twitter and that new time sucker Google +.
 Chrometa also has a RESTful API for accessing your time tracking data. I will spend more time using the application, and considering how I can efficiently track my world in real-time, then spend some time thinking what I could do with this data via the API.
-</p>
-<center><p><a href="http://apievangelist.com/2011/07/16/finally-a-solution-to-my-time-tracking/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/12/printing-brochures-and-books-with-go
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-2.png
 ---
-{% include JB/setup %}<p>Google Apps provides a very powerful document management solution, Google Docs.
+{% include JB/setup %}Google Apps provides a very powerful document management solution, Google Docs.
 With Google Docs you can upload and create many different types of documents. The Google Apps platform also allows users to collaborate, share, translate, download and print documents in Google Apps. This is pretty powerful stuff, when it comes to business publishing and printing.
 A couple months ago I built a prototype of a commercial print application using Google Cloud Print.  The platform allows users to sign on and create and / or register cloud printers with Google's Cloud Print (GCP) registry.  Google Apps users can then print single sheet, bound document, and binders using Google Cloud Print and Mimeo.com.
 I wanted to simplify what I built. So I made some time this last week, to strip out three core pieces of functionality.  I wanted to enable developers to do three separate types of simple print integrations:
@@ -25,6 +25,3 @@ Related articles
 	Mimeo Connect API Ecosystem (kinlane.com)
 	Mimeo Cloud Print vs. Lulu (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/12/printing-brochures-and-books-with-google-docs/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

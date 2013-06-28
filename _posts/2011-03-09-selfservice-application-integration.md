@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/09/self-service-application-integration
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplace.jpg
 ---
-{% include JB/setup %}<p>Today is the first birthday of the Google Apps Marketplace, and what better time to talk about the significance of application ecosystems.
+{% include JB/setup %}Today is the first birthday of the Google Apps Marketplace, and what better time to talk about the significance of application ecosystems.
 I would call Google Apps Marketplace a success, even though many Internet users may not even know it exists.
 As a developer I understand the power of being able to integrate with a larger platform ecosystem.
 Google Apps Marketplace enables me to build an application that users to add to their Google Apps account.
@@ -28,6 +28,3 @@ Related articles
 	Create a Cloud Printing with Box.net (kinlane.com)
 	Google Apps Marketplace: New EDU applications ratchet up the value (zdnet.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/09/self-service-application-integration/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

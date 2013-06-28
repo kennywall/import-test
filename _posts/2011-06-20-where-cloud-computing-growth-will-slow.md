@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/20/where-cloud-computing-growth-will-sl
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
-{% include JB/setup %}<p>Cloud computing holds the promise of infinite scalability and capacity.  We hust pay for what we use, and whatever capacity you need is there.
+{% include JB/setup %}Cloud computing holds the promise of infinite scalability and capacity.  We hust pay for what we use, and whatever capacity you need is there.
 This holds true on the server and back-end of the cloud.  Where this promse will begin to break down is on the front-end of the network.
 The faces of the front-end of the cloud, are companies like Comcast, and ATT and Verizon.  These Internet and mobile providers provide everyone the connectivity to the cloud.
 These providers are increasingly capping, slowing and filtering connectivity to the Internet in an effort to control and squeeze more profits out of their networks.
@@ -18,6 +18,4 @@ That is, until we got on-site at the Orlando Convention Center, Moscone or any o
 So it didn't matter how much capacitiy, redundancy, or scalability I had in the cloud.  It all went out the window because of the client side of my network.
 The Internet and mobile internet providers will continue to work harder at controlling, limiting and monetizing their networks, over rolling out the capacity necessary to scale along with cloud computing.
 I've been one of the biggest fans of cloud computing.  I pushed for deploying AWS at SAP events against the recommendation of SAP IT in Germany.  I have fought many entrenched IT folks when it comes to cloud computing.   I just believe in the cloud.
-Except, the vision and promise will fall short in the hands of the cable and telecom companys who control the Internet connectivity in our country.</p>
-<center><p><a href="http://apievangelist.com/2011/06/20/where-cloud-computing-growth-will-slow/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Except, the vision and promise will fall short in the hands of the cable and telecom companys who control the Internet connectivity in our country.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/01/03/service-offered-by-local-social-mobi
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png
 ---
-{% include JB/setup %}<p>To kick-off my role as API Evangelist at CityGrid, I took a quick walk through the world of location and places API.
+{% include JB/setup %}To kick-off my role as API Evangelist at CityGrid, I took a quick walk through the world of location and places API.
 The CityGrid API centers around places API which provides rich local business data via a RESTful API. So getting familiar with other location and places API is critical to my role.
 While going through each of these APIs in the space I flushed out what I'd consider the high levels areas that these APIs offer. This list is a work in progress, with a goal in helping see the industry, and potentially identify where players are leading the industry, and where there are gaps.
 Of course it all starts with places information. Rich content about businesses and other geographic points of interest. CityGrid, Google, Yahoo, Bing and other players like Foursquare, SimpleGeo, InfoChimps and Factual all bring places data to the table.
@@ -50,6 +50,4 @@ Next I broke out a group of location specific services, that provide location to
 While doing the review of location and places APIs I also notice mobile specific tools offered by a few of the provider like mobile network probe for identifying network quality, and mobile specific SDKs, making sure mobile developers can take maximize their usage of services.
 Last but not least are a handful of social tools that bring the social to local, mobile, social. Mostly these are hooks into Twitter and Facebook friend networks, but some bring their own social networks to the table, such as Foursquare.
 This is just my first draft of the different areas of APIs, tools and services provide by location and places API providers. Its by no means a complete listing, and is meant to give me a start in understanding and organizing the local, mobile, social API space.
-If you know of any areas I'm missing and should be considering, please let me know.</p>
-<center><p><a href="http://apievangelist.com/2012/01/03/service-offered-by-local-social-mobile-api-providers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+If you know of any areas I'm missing and should be considering, please let me know.

@@ -6,11 +6,8 @@ source: http://apievangelist.com/2010/01/12/use-google-apps-as-hard-drive/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Over the next few weeks Google is rolling out the ability to upload all file types to the cloud through Google Docs, giving you one place where you can upload and access your key files online.
+{% include JB/setup %}Over the next few weeks Google is rolling out the ability to upload all file types to the cloud through Google Docs, giving you one place where you can upload and access your key files online.
 Google Docs now supports files up to 250 MB in size, which is larger than the attachment limit on most email applications, you'll be able to backup large graphics files, RAW photos, ZIP archives and much more to the cloud.
 Now instead of carrying a USB drive, you can now use Google Docs as a more convenient option for accessing your files on different computers.
 Google is taking a big step to be at the center of everyone's online office.
 Update (02-07-2010): I started using Gladinet to map a network drive to my Google and Google Apps accounts. It allows you to quicly access on your Google Accounts. I stopped running my backup on my office folders and just centralizing them on my personal and business Google Docs
-</p>
-<center><p><a href="http://apievangelist.com/2010/01/12/use-google-apps-as-hard-drive/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

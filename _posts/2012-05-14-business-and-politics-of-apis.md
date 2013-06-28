@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/05/14/business-and-politics-of-apis/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-Cloud-Deep-Research-Twitter.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 This summer its been 2 years since I started API Evangelist.  API Evangelist started as my research project into the Business of APIs, and became a full time career.
 While over the last two years I&rsquo;ve worked for clients like Mimeo and CityGrid, my ultimate goal is to focus on studying the Business of APIs.  So whenever I get the time, I study how popular APIs operate, and how they are transforming industries.
 This month, I&rsquo;m getting the opportunity to dive deeper into my research around different API business models, with the chance to look at the politics within specific API ecosystems.
@@ -33,6 +33,4 @@ Raw Research - A searchable repository of curated research and notes from my wor
 
 Then making this work available across both apievangelist.com and my new blog apivoice.com, which tends to focus on the politics of APIs including legal and other issues affecting developer ecosystems.
 I feel pretty strongly that this new round of research will help me better understand the business and politics of APIs, produce rich research, stories and industry reports that I can make available--helping us all better understand this ever changing API economy.
-If you'd like to get involved and fund any portion of this research, feel free to contact me.</p>
-<center><p><a href="http://apievangelist.com/2012/05/14/business-and-politics-of-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+If you'd like to get involved and fund any portion of this research, feel free to contact me.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/04/30/cloud-printing-with-box-net/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I'm publishing some recent work I've been doing with the cloud storage platform Box.net.
 Box.net provides enterprise class, cloud storage services, and their developer program and the OpenBox platform makes it easy to integrate commercial printing services with Mimeo.com.
 I've finished three working examples for printing from Box.net:
@@ -18,6 +18,4 @@ I've finished three working examples for printing from Box.net:
 
 Managing print files in the cloud with Box.net makes sense.  They provide some pretty amazing web-based and mobile tools for business to manage documents in the cloud.
 With their self-service application development environment anyone can easily integrate the cloud storage platform with Mimeo Connect Cloud Print API.
-These samples introduce the concepts of printing from Box.net, there are plenty of other scenarios where developers could deploy applications that generate revenue from cloud printing services.</p>
-<center><p><a href="http://apievangelist.com/2011/04/30/cloud-printing-with-box-net/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+These samples introduce the concepts of printing from Box.net, there are plenty of other scenarios where developers could deploy applications that generate revenue from cloud printing services.

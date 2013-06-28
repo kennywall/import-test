@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/04/17/your-glasses-are-prime-real-estate-f
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/google-glasses.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I&rsquo;m closely following the Human Computer Interaction (HCI) world lately, in an attempt to understand the role APIs will play in this expanding tech sector.  One product that is of particular interest is Google Glasses, which I think is one of the most exciting and scariest technologies to emerge in recent times.
 As I look across the landscape of emerging HCI technology and other more known and adopted technologies such as smart phones, GPS, etc, I can&rsquo;t help but think about how Google is genius for targeting the most ideal real estate in our physical world.
 Think about the other pieces of tech in our lives:
@@ -19,6 +19,4 @@ Wearable Tech - Our clothes are beginning to get equipped with digital goods fro
 
 Alll of these areas of evolution in the technology space offer some pretty interesting opportunities for digital integration into our physical worlds, but none of them have the potential of glasses.  We would wear our glasses everywhere (potentially) and they sit on our heads, giving them the primest body real estate, and are responsive to what we see, and where we are at at any moment.
 This prime real estate is no doubt why Google is putting all this money into Google Glasses.  HCI through glasses offers the most possibilities for innovation, but also posses the highest probably for abuse. &nbsp;Think about it, its on your head, sees everything you see, and sits next to your ears, eyes and brain. There will be abuse!
-Although I&rsquo;m following this space with enthusiasm, as with any other tech, I&rsquo;m extremeley skeptical about how it will be used, and constantly pondering the negative potential, while trying to showcase the positive use of this powerful technology.</p>
-<center><p><a href="http://apievangelist.com/2013/04/17/your-glasses-are-prime-real-estate-for-a-human-compute-interaction/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Although I&rsquo;m following this space with enthusiasm, as with any other tech, I&rsquo;m extremeley skeptical about how it will be used, and constantly pondering the negative potential, while trying to showcase the positive use of this powerful technology.

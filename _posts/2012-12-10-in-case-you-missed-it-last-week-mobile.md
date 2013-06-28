@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/12/10/in-case-you-missed-it-last-week-mobi
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -96,6 +96,3 @@ Tiggzi
 
 
 12-08-2012 -&nbsp;Webinar: Building Windows 8 Apps with Tiggzi
-</p>
-<center><p><a href="http://apievangelist.com/2012/12/10/in-case-you-missed-it-last-week-mobile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

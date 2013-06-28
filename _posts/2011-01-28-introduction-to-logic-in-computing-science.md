@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/28/introduction-to-logic-in-computing-s
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/logic.jpg
 ---
-{% include JB/setup %}<p>This course is based on the following philosophical principle:
+{% include JB/setup %}This course is based on the following philosophical principle:
 
 	All computing scientists must be able to employ rigorous reasoning to justifytheir claims about thebehaviorof the programs they produce.
 
@@ -22,6 +22,4 @@ Tweedledum: Contrariwise, if it was so, it might be; if it were so, it would be;
 That's logic.
 Introduction to Logic in Computing Science
 University of Alberta - Department of Computing Science
-CMPUT 172</p>
-<center><p><a href="http://apievangelist.com/2011/01/28/introduction-to-logic-in-computing-science/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+CMPUT 172

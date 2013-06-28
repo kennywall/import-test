@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/06/introduction-to-the-google-cloud-pri
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png
 ---
-{% include JB/setup %}<p>The Google Cloud Print services interface or Google Cloud Print API is where the whole cloud print thing starts getting cool.
+{% include JB/setup %}The Google Cloud Print services interface or Google Cloud Print API is where the whole cloud print thing starts getting cool.
 The Google Cloud Print service interfaces allow you to create a cloud print proxy that gives you a virtual cloud printer you can send jobs to.
 
 I'm developing a PHP / MySQL proxy that enables me to register a virtual cloud printer with Google Cloud Print (GCP) registry. Once the printer is registered with the service, it can then receive jobs from and communicate status with Google Cloud Print.
@@ -38,6 +38,3 @@ Related articles
 	Wireless Printing From Gmail Coming Soon to Android and iOS (mashable.com)
 	Google Cloud Print lets you print GMail content from your mobile device (macworld.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/06/introduction-to-the-google-cloud-print-services-interface/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

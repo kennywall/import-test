@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/19/instagram-photo-book-idea/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 ---
-{% include JB/setup %}<p>This is another post in my API Ideas series, I'm posting all my ideas for applications that could be built using the Mimeo Connect Cloud Print API.
+{% include JB/setup %}This is another post in my API Ideas series, I'm posting all my ideas for applications that could be built using the Mimeo Connect Cloud Print API.
 Instagr.am a popular Photo sharing IPhone applications has become popular among the highly influential IPhone user base.
 Instagram allows you to take photos on your IPhone apply unique filters to them which change color, brightness, borders and create an entirely new version of your photo.
 
@@ -17,6 +17,4 @@ A Rogue Instagram API was exposed using the same mechanims the IPhone app uses, 
 I was able to pull my photos via my Flickr account.  Using the Flickr API I was able to pull all instagr.am photos using the tag instagram app.
 Then I was able to assemble the photos onto an HTML page with desired formatting, once formatted I render the HTML to a PDF and send to the Mimeo Connect Cloud Print API Proofing Service.
 After proofing I'm able to preview my Instagram Photo Book and send to the Mimeo Connect Cloud Print API Order Service and actually order my physical Instagram Photo Book and have it delivered.
-There is definitely a huge opportunity for some entrepreneur out there to build a Instagram Photo Book Web Application.</p>
-<center><p><a href="http://apievangelist.com/2011/01/19/instagram-photo-book-idea/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+There is definitely a huge opportunity for some entrepreneur out there to build a Instagram Photo Book Web Application.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/01/15/information-curation-with-my-google-
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/scrabble.jpg
 ---
-{% include JB/setup %}<p>I have a central keyword list that I use as a reference on a daily basis.
+{% include JB/setup %}I have a central keyword list that I use as a reference on a daily basis.
 
 I track these keywords across many tools from Google Reader, Google Webmaster, Google Analytics, and Wordpress.
 These keywords help me identify important topics that I then follow, learn about and develop content around.
@@ -32,6 +32,4 @@ These words represent the most important key words and phrases in my daily life.
 
 These keywords drive what I read and curate, and what people search for on the Internet and find my web sites.
 The posts published to these "end points" represent blog posts and articles I've reading from hundreds of sources and felt they were relevant enough to tag in my Google Reader.
-These are topics I pay attention to, and stay educated on.  These end points give me a way of sharing, syndicating, and tracking my information curation that occurs daily in my Google Reader.</p>
-<center><p><a href="http://apievangelist.com/2011/01/15/information-curation-with-my-google-reader/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+These are topics I pay attention to, and stay educated on.  These end points give me a way of sharing, syndicating, and tracking my information curation that occurs daily in my Google Reader.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/24/google-docs-as-a-publishing-platform
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
-{% include JB/setup %}<p>As I'm spending a lot of time with Google Docs lately, I'm getting to see it in a different perspective.
+{% include JB/setup %}As I'm spending a lot of time with Google Docs lately, I'm getting to see it in a different perspective.
 Google Docs has always been a singular document editor for me.  When you step back and look at it from 100K foot, you start to see a bigger picture.
 I'm seeing the potential of Google Docs as a publishing platform. Google Docs can support publishing in three main areas:
 Document Management
@@ -54,6 +54,3 @@ Related articles
 	Google Cloud Connect: A Microsoft Office Plugin for Syncing with Google Docs (readwriteweb.com)
 	Cloud Printing and Importance of the Google Docs Template Gallery (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/24/google-docs-as-a-publishing-platform/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

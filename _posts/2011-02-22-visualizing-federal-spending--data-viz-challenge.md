@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/22/visualizing-federal-spending-data-vi
 domain: apievangelist.com
 image: http://3.bp.blogspot.com/-5SMO-mBHvg8/TWPvE6ASrxI/AAAAAAAAHmU/KvmqXR9IbxI/datavizchallenge-screenshot.png
 ---
-{% include JB/setup %}<p>Understanding how the federal government spends our money is on all of our minds, especially this time of year.  I recently pulled out an old tool I build last year to visual the State of Oregon spending, and reworked it to help visualize Obamas 2012 Federal Budget.  I wanted to set what my priorities were regarding the federal budget. I'm not 100% finished, still have a little work to do on it.
+{% include JB/setup %}Understanding how the federal government spends our money is on all of our minds, especially this time of year.  I recently pulled out an old tool I build last year to visual the State of Oregon spending, and reworked it to help visualize Obamas 2012 Federal Budget.  I wanted to set what my priorities were regarding the federal budget. I'm not 100% finished, still have a little work to do on it.
 Today I came across a very cool data visualization contest called the Data Viz Challenge.
 The Challenge: Visualize how your individual federal income taxes are spent.
 Using data provided by WhatWePayFor.com, they are challenge developers to create a data visualization that will make it easier for U.S. citizens to understand how the government spends taxpayers money.
@@ -20,6 +20,3 @@ Related articles
 	The Data Viz Challenge: can you make tax data exciting? (googlecode.blogspot.com)
 	The Data Viz Challenge: can you make tax data exciting? (googleblog.blogspot.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/22/visualizing-federal-spending-data-viz-challenge/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

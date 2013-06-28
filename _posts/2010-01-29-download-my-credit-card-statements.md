@@ -6,8 +6,6 @@ source: http://apievangelist.com/2010/01/29/download-my-credit-card-statements/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>It just drives me nuts that I can't get good data access to my credit cards. I just want an easy download of ALL my credit card transactions.
+{% include JB/setup %}It just drives me nuts that I can't get good data access to my credit cards. I just want an easy download of ALL my credit card transactions.
 You'd think you could but Chase now B of A. You just can't easily.
-Ok...I was able to download an easy spreadsheet for last year at American Express.</p>
-<center><p><a href="http://apievangelist.com/2010/01/29/download-my-credit-card-statements/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Ok...I was able to download an easy spreadsheet for last year at American Express.

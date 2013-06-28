@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/09/05/spiral-notebook-printing-api/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/Spiral-Notebook-Example-Image.png
 ---
-{% include JB/setup %}<p>We've added a newAPI that provides spiral notebook printing services for developers. It enables you to price and order commercially printed notebooks in different sizes, covers, paper, color, with or without hole punches and binding from within your web and mobile applications.
+{% include JB/setup %}We've added a newAPI that provides spiral notebook printing services for developers. It enables you to price and order commercially printed notebooks in different sizes, covers, paper, color, with or without hole punches and binding from within your web and mobile applications.
 These are the different settings currently available for spiral notebooks:
 
 	size- 8.5×11, 5.5×8.5
@@ -26,6 +26,4 @@ The Spiral Notebook Printing API has five methods currently:
 	Place Order (POST)
 	Order Status (GET)
 
-You will also find common error codes, PHP code samples. I will be adding more code samples as they become available.</p>
-<center><p><a href="http://apievangelist.com/2011/09/05/spiral-notebook-printing-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+You will also find common error codes, PHP code samples. I will be adding more code samples as they become available.

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/06/26/how-to-break-the-information-bottlen
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg
 ---
-{% include JB/setup %}<p>The New York Times just covered the problems faced when opening up government data, in the article, How to Break an Information Bottleneck?
+{% include JB/setup %}The New York Times just covered the problems faced when opening up government data, in the article, How to Break an Information Bottleneck?
 At the beginning of his presidency, President Obama expressed that, All agencies should adopt a presumption in favor of disclosure, in a memorandum he wrote about the Freedom of Information Act.
 After two and a half years after the president's call for openness, only 49 of 90 federal agencies have reported making changes to their FOIA procedures
 How do you get these government bureaucracies to change their ways?  There are no easy answers.  It will take a lot of education of all levels of government, and showing how it will actually save the taxpayers money before anything will change.
@@ -26,6 +26,3 @@ The new frontier in government accountability is not faster responses to informa
 That would eliminate the need for many people to file individual FOIA requests - and for agencies to undertake the labor-intensive process of answering them.
 The ROI on making all government data open would be huge.  If government departments put their information online in usable, search-able formats in real-time, it would eliminate the need for people to file FOIA requests, and for the agencies to respond to these requests.
 This type of change will have to start with education amongst all government employees about good data practices.  Show them how these good habits can improve their daily lives, but also help alleviate the larger bottleneck of government data.
-</p>
-<center><p><a href="http://apievangelist.com/2011/06/26/how-to-break-the-information-bottleneck-in-government-data/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

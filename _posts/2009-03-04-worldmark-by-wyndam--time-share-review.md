@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/03/04/worldmark-by-wyndam-time-share-revie
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>In the last year or so of my marriage I signed up for Trendswest vacation resort. We went to their resort in St George Utah and went Zion and Bryce canyon. It was nice. Then Trendswest got bought by Worldmark.
+{% include JB/setup %}In the last year or so of my marriage I signed up for Trendswest vacation resort. We went to their resort in St George Utah and went Zion and Bryce canyon. It was nice. Then Trendswest got bought by Worldmark.
 I have never been good at taking vacations so I thought this would be a great way to force myself into taking vacations around some beautiful places. They give you a book with the 80 plus locations as well as the worldwide RCI catalog.
 Now after having the package for a couple of years now I want out. I have a bunch of credits upwards of 45,000 and I could stay at most resorts. My main problem with the program is mostly based around the hidden fees.
 They nickel and dime you for everything.....you stay somewhere and you still pay cleaning and maintenance fees. You pay those every month in addition to when you stay somewhere.
@@ -16,6 +16,4 @@ It has really become a trap feeling and doesn't feel like a vacation at all...ev
 Now my next big complain is around availability. If your planning your vacation 6 months down the road it works pretty good (beyond the hidden fees), just for booking. However if you are taking a trip next month and want book something too bad. Unless you are going somewhere nobody wants to go like Klamath Falls.
 I was going to San Francisco one time and tried booking 2 weeks out and there was nothing available....so I went to travelocity to try and get separate room and what comes up? Oh the Worldmark resort. Interesting that I am a vested paying member and I don't get a room...but they are for sale on travelocity. This happened again going to San Diego one time.....was able to get 2 nights.....then hit travelocity and saw the rest of the week I could pay top dollar for the rest of the week.
 All I have to say is Worldmark by Wyndam / Trendswest is not what they sell it as. You end up paying for every stay, nickel and dime you all along the way, they harass you with annoying sales calls, and they sell the rooms you supposedly own before you can actually use it yourself.
-So if you are doing research on signing up for the program. Don't.</p>
-<center><p><a href="http://apievangelist.com/2009/03/04/worldmark-by-wyndam-time-share-review/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+So if you are doing research on signing up for the program. Don't.

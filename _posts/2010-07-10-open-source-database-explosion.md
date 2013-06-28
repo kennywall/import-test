@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/07/10/open-source-database-explosion/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/Conferences/OreillyOscon.PNG
 ---
-{% include JB/setup %}<p>I am spending some time researching various open source and cloud computing service providers using the exhibitors list for OSCON 2010. Audrey needs some tech research done, before she attends the event. She wants to be prepared So I'm going through each exhibitor and learning and documenting as much as I can.
+{% include JB/setup %}I am spending some time researching various open source and cloud computing service providers using the exhibitors list for OSCON 2010. Audrey needs some tech research done, before she attends the event. She wants to be prepared So I'm going through each exhibitor and learning and documenting as much as I can.
 One thing I'm seeing is an explosion of open source database offerings, I'm counting seven systems (yes I didn't include Oracle):
 
 	BlackRay - BlackRay is an innovative, fully relational in-memory database system designed to offer performance features commonly associated with search engines. It offers fulltext search, function based indeces, JDBC/ODBC via Postgres drivers as well as object oriented APIs. BlackRay is available under the GPLv2.
@@ -17,6 +17,4 @@ One thing I'm seeing is an explosion of open source database offerings, I'm coun
 	MongoDB - 10gen sponsors the open source project MongoDB, and provides commercial support, consulting, and training for Mongo. MongoDB (from "humongous") is a scalable, high-performance, document-oriented database. MongoDB bridges the gap between key-value stores (which are fast and highly scalable) and traditional RDBMS systems (which provide rich queries and deep functionality). 
 	PostgreSQL - PostgreSQL is the world's most advanced and rapidly evolving open source database, with more than 20 years of development by a community of hundreds of database developers from dozens of countries. Our long time support of an enterprise level feature set including transactions, SQL standards compliance, aggregation and subqueries makes PostgreSQL suitable for large enterprises and governments. Easy extensibility through stored procedures and custom data objects makes PostgreSQL exciting for developers. Try PostgreSQL for your next database application!
 
-I'm seeing a big shift away from the database world I've known for the last 15 years. Microsoft SQL Server, Access, Oracle, and MySQL. I'm seeing a big shift with cloud database providers like Amazon SimpleDB and Google Fusion Tables. And I"m seeing an all out mutiny with the NoSQL movement. Seeing all this energy and change with databases after 20 years in the business is really exciting.</p>
-<center><p><a href="http://apievangelist.com/2010/07/10/open-source-database-explosion/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I'm seeing a big shift away from the database world I've known for the last 15 years. Microsoft SQL Server, Access, Oracle, and MySQL. I'm seeing a big shift with cloud database providers like Amazon SimpleDB and Google Fusion Tables. And I"m seeing an all out mutiny with the NoSQL movement. Seeing all this energy and change with databases after 20 years in the business is really exciting.

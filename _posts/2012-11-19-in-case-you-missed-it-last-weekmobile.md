@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…mo
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -91,6 +91,3 @@ Tiggzi
 
 
 11-14-2012 - HTML5 App Builder is Now the Default Builder
-</p>
-<center><p><a href="http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…mobile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

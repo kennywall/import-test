@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/03/07/mashape-improves-api-security-and-la
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mashape-logo.png
 ---
-{% include JB/setup %}<p>Mashape, the API framework and marketplace service provider has recently released some new features and resources for developers.
+{% include JB/setup %}Mashape, the API framework and marketplace service provider has recently released some new features and resources for developers.
 Additions include new language libraries and plugins:
 
 	Python - Along with PHP and Ruby, Mashape now provides Python client libraries
@@ -24,6 +24,3 @@ Related articles
 	The 11 rules of the HP Garage (where all began) - Mashape's Voice (mashape.com)
 	Mashape API Service Provider (apievangelist.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/03/07/mashape-improves-api-security-and-language-libraries/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

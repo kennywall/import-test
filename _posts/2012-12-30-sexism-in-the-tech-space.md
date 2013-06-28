@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/12/30/sexism-in-the-tech-space/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/kin-lane-serious.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I just finished reading Asher Wolf&rsquo;s Dear Hacker Community &ndash; We Need To Talk.  I have so many emotions bubbling up, it&rsquo;s hard to know how to organize them.  I envy her for being able to express them so eloquently and in detail.
 First, before I cycle through some of my emotions.  Please don&rsquo;t leave the space Asher.  Keep fighting, we need you!
 Ok, now let me cycle through and process some of my own feelings on this.   My first reaction is similar to when I read the comments on Audrey&rsquo;s blog, when she challenges the hacker community on things--I want to feel my big black boot up against their head.  I miss the days when I could deal with problems that way. I would challenge any of you piss ant commenters to come say that shit to her face. &nbsp;You can't. Because your a worthless sack o shit, I wouldn't even need to kick your ass, she does just fine on her own.
@@ -21,6 +21,4 @@ If you are a guy in the space and are getting your feathers ruffled at all by th
 If you are thinking about opening up your mouth and saying any of this is hypocrisy, you are wrong. You can't balance this out without pushing things back the other direction sorry. Its just like racism. You can't erase hundreds of years of wrong doing in a couple years, and with an "I'm sorry". Your going to have to feel a little uncomfortable dude. Maybe even a lot uncomfortable.
 So, let's please have lots more discussions about this, online and at events. Every event should open with a discussion about how to treat women and make things inclusive, letting us guys know where we stand--if you have a problem with it, you know where the door is. Go home and live with the fact that you are what is wrong with our world.
 Don't get me wrong. I have my own mommy and ex-wife issues to contend with. I'm not perfect. But you know what? They are my problems, they aren't any of these amazing women in the tech space problems. They are mine to work through, and you should work to acknowledge yours. You have them! &nbsp;If you act like there isn't any problems with sexism in the space, your in total denial. &nbsp;End of story.
-I hope we can spend the next decade having these conversations, repeatedly until us men have beat back our insecurities, healed whatever trauma we've experienced and realize we need women in our project groups, at our events and an EQUAL part of the tech experience that is Silicon Valley. Without it, none of this will be sustainable.</p>
-<center><p><a href="http://apievangelist.com/2012/12/30/sexism-in-the-tech-space/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I hope we can spend the next decade having these conversations, repeatedly until us men have beat back our insecurities, healed whatever trauma we've experienced and realize we need women in our project groups, at our events and an EQUAL part of the tech experience that is Silicon Valley. Without it, none of this will be sustainable.

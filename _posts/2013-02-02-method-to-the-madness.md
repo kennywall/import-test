@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/02/02/method-to-the-madness/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/global-gears.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I'm always working to find a way to organize my world, to help me better keep track of my wealth of content and information, while also assisting people in navigating my sometimes chaotic world of sites, blogs and projects.
 To help organize this, I'm breaking my navigation on KinLane.com into two main groups. &nbsp;The first area is overview information about my world in the following sections:
 
@@ -29,6 +29,4 @@ IPA Evangelist&nbsp;- My personal blogging about my love of IPAs
 Hacker Storytelling&nbsp;- A format I'm using in 2013 to make my projects open and machine readable by default
 
 When you google my name, KinLane.com comes up first. &nbsp;So I want to make sure and provide one click access to everything I have going on. &nbsp;
-I will adjust this from time to time, and work to keep each of these sections up to date as things shift.</p>
-<center><p><a href="http://apievangelist.com/2013/02/02/method-to-the-madness/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+I will adjust this from time to time, and work to keep each of these sections up to date as things shift.

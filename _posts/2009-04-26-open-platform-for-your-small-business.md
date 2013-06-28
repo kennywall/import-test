@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/04/26/open-platform-for-your-small-busines
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Reading various posts about application development platforms for IPhone, Blackberry, Vodafone, Android and many others.
+{% include JB/setup %}Reading various posts about application development platforms for IPhone, Blackberry, Vodafone, Android and many others.
 Being a big fan of Wikinomics, Crowdsourcing and all those visionary 2.0 concepts....I can't help think....should every company have an open platform for their business?
 Is this R&amp;D 2.0. Many companies can't even afford an R&amp;D Department, maybe they can crowdsource it?
 Seems the place to start for most companies is having a blog where people can comment on company activities, this is the first step.
@@ -22,6 +22,3 @@ Definitely at first glance this seems like a utopian view, but if you think abou
 
 Think about it. You may be missing opportunities in this tough economic times to grow your R&amp;D without any new financial investments. You might get your most passionate users involved in ways you never dreamed of.
 Poke your head into a new way of thinking for your business with an Open Platform for Your Small Business.
-</p>
-<center><p><a href="http://apievangelist.com/2009/04/26/open-platform-for-your-small-business/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,6 +6,4 @@ source: http://apievangelist.com/2011/12/26/local-geo-landscape-roundup-december
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p></p>
-<center><p><a href="http://apievangelist.com/2011/12/26/local-geo-landscape-roundup-december-26th-2011/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+{% include JB/setup %}

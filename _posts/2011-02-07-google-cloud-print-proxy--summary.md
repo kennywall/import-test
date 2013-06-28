@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/07/google-cloud-print-proxy-summary/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png
 ---
-{% include JB/setup %}<p>Ok that concludes my Google Cloud Print Proxy work from the week.
+{% include JB/setup %}Ok that concludes my Google Cloud Print Proxy work from the week.
 I've tried to summarize the work I've done in a series of blog posts and code samples.
 Here is a summary of what I've done to date with the Google Cloud Print API:
 
@@ -36,6 +36,3 @@ Related articles
 	Google Cloud Print - Client Login (kinlane.com)
 	Google Cloud Print - Register (kinlane.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/07/google-cloud-print-proxy-summary/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

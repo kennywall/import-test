@@ -6,7 +6,7 @@ source: http://apievangelist.com/2013/04/26/who-are-the-customers-for-your-start
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/bw-question-mark.png
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -75,6 +75,3 @@ Who is the customer of your startup?
 
 
 
-</p>
-<center><p><a href="http://apievangelist.com/2013/04/26/who-are-the-customers-for-your-startup/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

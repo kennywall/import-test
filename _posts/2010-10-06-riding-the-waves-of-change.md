@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/10/06/2237/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/waves.jpg
 ---
-{% include JB/setup %}<p>Change happens.  With technology, change seems to be accelerating, or at least the waves of change seem to come more frequently.
+{% include JB/setup %}Change happens.  With technology, change seems to be accelerating, or at least the waves of change seem to come more frequently.
 I feel I've developed a certain rhythm for riding these waves.   Part of this rhythm is a regular evaluation of where I stand, a sort of agile career methodology.  I'm in one of those evaluation periods right now.
 
 What wave is next?
@@ -31,6 +31,3 @@ Change is upon me again, whatever the next wave is, I feel I'm secure in focusin
 I am leaving a position as a Director of Technology with a focus on cloud computing to a position as an API Evangelist and with a focus on the business of APIs.
 This is where I feel future of cloud computing is, as well as many other sectors of our society, throughout business, education, government and much more.
 Change is exciting.  More to come.
-</p>
-<center><p><a href="http://apievangelist.com/2010/10/06/2237/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

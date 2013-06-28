@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/12/telehash-node-runners-in-egypt/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/high-stakes-hackathon-egypt.jpg
 ---
-{% include JB/setup %}<p>I'm learning more about distributed technologies like TeleHash and Kademlia and matching with other wireless infrastructure knowledge I have.  Telling in fictional stories helps me apply and understand in my brain.   Here is one story from Egypt.
+{% include JB/setup %}I'm learning more about distributed technologies like TeleHash and Kademlia and matching with other wireless infrastructure knowledge I have.  Telling in fictional stories helps me apply and understand in my brain.   Here is one story from Egypt.
 
 My name is James, I'm from London.  I'm in Cairo, Egypt working for an NGO distributing food, watter and other supplies.
 Even as efficient as our operations can be, I find myself sitting in the alley behind our temporary facility most of the time reading.  I can't use my cell phone or my laptop, so I'm reading a paper I found.
@@ -27,6 +27,3 @@ Ok...so where do the last mile runners get their Internet?
 They are constantly on the look of for metropolitan area network (MAN) nodes.   These are larger installations primary vehicle based that roam around the mountains and hilltops out side of the city.  They require a lot more power and receive line of site broadband from other MAN nodes up to 40 miles away or eventually a fixed broadband provider connected to fiber or other physical or satellite Internet.
 It may take multiple MAN nodes on hilltops to bridge to Banha,  Tanta or maybe all the way to the coast at Alexendria.   We may have hundreds of vehicles creating several redundant Internet backbones from where-ever the nearest Internet provider might be.  Could be an ISP in Egypt flying under radar, across the border in Israel or could be a ship in the Mediterranean that is rebroadcasting a satellite feed.
 I'm not trained all those operations.  My job is to run around the city and make sure my TeleHash node sends and receives as many messages as it can.   I'm just one node in a larger vision to keep information flowing in an area where the Internet has been cut-off or is not available.
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/12/telehash-node-runners-in-egypt/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

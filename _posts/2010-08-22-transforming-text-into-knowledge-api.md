@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api
 domain: apievangelist.com
 image: http://www.alchemyapi.com/images/alchemyAPI.jpg
 ---
-{% include JB/setup %}<p>I had a chance to play with the AlchemyAPI I came across today. AlchemyAPI is a semantic tagging and text mining Application Programming Interface (API).
+{% include JB/setup %}I had a chance to play with the AlchemyAPI I came across today. AlchemyAPI is a semantic tagging and text mining Application Programming Interface (API).
 I have about 10K web pages I want to extract top keywords and key phrases from. I want meaning extracted from the words on each page.
 AlchemyAPI provides nine methods:
 
@@ -22,6 +22,3 @@ AlchemyAPI provides nine methods:
 
 I'm only using the keyword extraction and named entity extraction for what I am doing. The whole API provides some great tools to quickly harvest, scrape and process content from the open Internet.
 Their API is extremely easy to use and you can be up and running in about 10 minutes harvesting and processing pages.
-</p>
-<center><p><a href="http://apievangelist.com/2010/08/22/transforming-text-into-knowledge-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/07/04/updated-blog-sharing/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/core-share-buttons.png
 ---
-{% include JB/setup %}<p>I updated the sharing tools on blog.apievangelist.com today.  Previously it had eight buttons, representing the top social network channels that drive traffic to the blog.
+{% include JB/setup %}I updated the sharing tools on blog.apievangelist.com today.  Previously it had eight buttons, representing the top social network channels that drive traffic to the blog.
 I'm changing it, putting emphasis on:
 
 	Google +1
@@ -31,6 +31,3 @@ At first I used AddThis for the whole share toolbar, but I couldn't get it to la
 	Reddit
 
 I will be making some major updates to kinlane.com and using the same share strategy for the blog and web site.  I'll keep adjusting to keep in line with top channels that drive traffic to my blogs.
-</p>
-<center><p><a href="http://apievangelist.com/2011/07/04/updated-blog-sharing/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

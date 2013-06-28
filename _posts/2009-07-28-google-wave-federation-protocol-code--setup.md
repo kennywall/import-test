@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/07/28/google-wave-federation-protocol-code
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>One of the more mysterious parts of the Google Wave environment is the core operations of wave communications.
+{% include JB/setup %}One of the more mysterious parts of the Google Wave environment is the core operations of wave communications.
 
 	How does the server work?
 	How can you develop in-house tools to keep wave communications behind the firewall?
@@ -21,6 +21,3 @@ I was beginning to wonder if Google was keeping this part of the architecture a 
 
 I am not a Java developer and will have to rely on partners to evaluate this code and its use. I am hoping other platforms follow suit and would like to see a Python and / or PHP based Google Wave Protocol server deployment.
 We'll see how this plays out. Its exciting stuff.
-</p>
-<center><p><a href="http://apievangelist.com/2009/07/28/google-wave-federation-protocol-code-setup/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

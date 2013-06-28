@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/11/28/3d-printing-prototyping-and-manufact
 domain: apievangelist.com
 image: http://cdn.venturebeat.com/wp-content/uploads/2008/07/shapeways_logo.png
 ---
-{% include JB/setup %}<p>As the Mimeo Connect Cloud Print API Evangelist, I get asked why I would be an evangelist for technology in a dying industry.  Print and Publishing.
+{% include JB/setup %}As the Mimeo Connect Cloud Print API Evangelist, I get asked why I would be an evangelist for technology in a dying industry.  Print and Publishing.
 My primary argument is: Through new technology such as cloud computing, social media, and mobile the print and publishing industry will be redefined.  We won't even recognize it as the old beast.
 One example of this is Shapeways.  Shapeways turns 3D designs and drawings to tangible products through 3D printing.
 
@@ -21,6 +21,4 @@ Once in production, the 3D model in your digital file will be printed layer by l
 
 Plastic objects are printed and delivered in 10 working days, and metal objects take 14 working days to arrive.
 Cloud print Application Programming Interfaces (API) will allow web and mobile applications to interface with new print and manufacturing technology spanning facilities world wide.
-Cloud print and manufacturing APIs will give existing publishing and manufacturing industries new life, and invent entirely new forms of printing, prototyping, and manufacturing we haven't even conceived.</p>
-<center><p><a href="http://apievangelist.com/2010/11/28/3d-printing-prototyping-and-manufacturing/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Cloud print and manufacturing APIs will give existing publishing and manufacturing industries new life, and invent entirely new forms of printing, prototyping, and manufacturing we haven't even conceived.

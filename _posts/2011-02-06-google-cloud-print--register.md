@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/02/06/google-cloud-print-register/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
-{% include JB/setup %}<p>Now that we are authenticated with a specific users Google Account using the Google Client Login API, we can start registering a cloud printer.
+{% include JB/setup %}Now that we are authenticated with a specific users Google Account using the Google Client Login API, we can start registering a cloud printer.
 We will register using the GCP /register endpoint:
 
 	http://www.google.com/cloudprint/interface/register
@@ -31,6 +31,3 @@ Related articles
 	Google Cloud Print lets you print GMail content from your mobile device (macworld.com)
 	Google to offer cloud printing for Chrome OS, web apps - predicts "cloud-aware" printers [TNW Google] (thenextweb.com)
 
-</p>
-<center><p><a href="http://apievangelist.com/2011/02/06/google-cloud-print-register/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

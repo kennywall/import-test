@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/01/20/internet-at-conferences-and-hackatho
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/internet-pipes.jpg
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 I was at the Facebook Mobile Hackathon&nbsp;at a hotel in Boston today, and during the event the Internet started going in and out, and eventually stopped working.
 Since every demo was using the Facebook platform they required live Internet.  It basically brought things to a screeching halt, when nobody could present, or hack.
 This was a small event, but it hurts just as bad, no matter the event size.  It happens at most events I attend, no matter the size.
@@ -17,6 +17,4 @@ At most event and conference centers you are at the mercy of the venue for Inter
 I had to use the services of the provider that had the contract with the venue.  Nothing else was allowed.  So I watched for two years as some pretty amazing Google I/O sessions failed. &nbsp;I had local databases, so registration generally went smoothly. &nbsp;
 Todays hackathon was Facebook, but it was a small event.  I&rsquo;ve watched in the past as Google, SAP and other Internet giants are reduced nothing because the Internet has failed at their events.
 In my opinion these existing business practices and contracts stifle innovation and the ability for companies and individuals to share ideas, collaborate, and learn.
-As we discuss the damaging effects of SOPA and PIPA, which look to put in new ways of limiting innovation, we need to also look at what historical practices that are in place in the name of &ldquo;business&rdquo;, which may ensure a few individuals make money, but limit the forward motion of innovation in general.</p>
-<center><p><a href="http://apievangelist.com/2012/01/20/internet-at-conferences-and-hackathons-shows-how-existing-business-practices-can-slow-innovation/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+As we discuss the damaging effects of SOPA and PIPA, which look to put in new ways of limiting innovation, we need to also look at what historical practices that are in place in the name of &ldquo;business&rdquo;, which may ensure a few individuals make money, but limit the forward motion of innovation in general.

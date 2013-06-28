@@ -6,7 +6,7 @@ source: http://apievangelist.com/2011/05/29/read-it-later-binder-using-instapape
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/instapaper-logo-250.png
 ---
-{% include JB/setup %}<p>Instapaper is a dead simple tool to save web pages for reading later. It allows bookmarking of web pages, blog posts and any web or mobile content. Once bookmarked the content is available for reading on Instapaper web site and mobile.
+{% include JB/setup %}Instapaper is a dead simple tool to save web pages for reading later. It allows bookmarking of web pages, blog posts and any web or mobile content. Once bookmarked the content is available for reading on Instapaper web site and mobile.
 Instapaper enables users to save web content using browser bookmarklets, IPhone or IPad App, Email, and is available in a long list of other web and mobile applications.
 Instaper provides a RESTFUL API for developers to post content to any users Instapaper account, and a read API is available for users who have a paid account.
 Instpaper does one thing, and does it very well: Save content for reading it later.
@@ -18,6 +18,3 @@ With its simple web interface, mobile applications, integrations into  other app
 Mimeo Connect Print on Demand Application Idea:
 
 	Friday Read It Later Binder with Instapaper
-</p>
-<center><p><a href="http://apievangelist.com/2011/05/29/read-it-later-binder-using-instapaper/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

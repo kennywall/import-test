@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/13/google-apps/
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/google/google_apps.jpg
 ---
-{% include JB/setup %}<p>In a little over three weeks Google has released 14 of their regular web applications as part of the Google Apps cloud platform.
+{% include JB/setup %}In a little over three weeks Google has released 14 of their regular web applications as part of the Google Apps cloud platform.
 Now in addition to the core email, docs, calendar, sites, and chat you have 14 new web applications:
 
 	Google Custom Search
@@ -25,6 +25,4 @@ Now in addition to the core email, docs, calendar, sites, and chat you have 14 n
 	Google Reader
 
 I have been waiting for a couple of these apps to be added, like Google Reader and Google Voice. A few of the other just make sense, you want to have your Checkout, Analytics and Adwords part of your core business business account.
-All of these apps, plus the Google Apps Marketplace really makes Google Apps a complete business platform.</p>
-<center><p><a href="http://apievangelist.com/2010/12/13/google-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+All of these apps, plus the Google Apps Marketplace really makes Google Apps a complete business platform.

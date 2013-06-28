@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-4-tre
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I woke up one morning and got an email from a project manager. The original email from a client had a returned email with the following email server response:
+{% include JB/setup %}I woke up one morning and got an email from a project manager. The original email from a client had a returned email with the following email server response:
 Remote server replied: 550 5.7.1 ... Mail from xxx.xxx.xxx.xxx blocked using Trend Micro RBL+. Please see http://www.mail-abuse.com/cgi-bin/lookup?ip_address=xx.xxx.xxx.xxx
 We were black listed. So I went to their removal page, entered my IP address and waited. Later that day I get an email from them:
 xxx.xxx.xxx.xxx is listed on the DUL because it is not defined in rDNS
@@ -23,6 +23,3 @@ So I needed to just wait for Amazon to do something or Trend Micro MAPS. So I ju
 They both pointed the finger at the other side. I escalated my ticket with Amazon Web Services and emailed Trend Micro MAPS on a daily basis asking them to not hold our business hostage any more.
 Then I got a response on my Amazon Web Services support ticket one day about reverse DNS on our IP addresses.
 Email in the Amazon Cloud - Part 1 - Part 2 - Part 3 - Part 4 - Part 5 - Part 6 - Guide  to Email in the Amazon Cloud
-</p>
-<center><p><a href="http://apievangelist.com/2009/12/18/email-in-the-amazon-cloud-part-4-trendmicro-maps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

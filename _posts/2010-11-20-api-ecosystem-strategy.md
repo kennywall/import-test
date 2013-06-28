@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/11/20/api-ecosystem-strategy/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>I am working on my API Ecosystem Strategy. First I started with the essentials for my Mimeo Connect REST Cloud Print area.  These are the building blocks I must have to get my API open for business.
+{% include JB/setup %}I am working on my API Ecosystem Strategy. First I started with the essentials for my Mimeo Connect REST Cloud Print area.  These are the building blocks I must have to get my API open for business.
 I can't stop there, these are only the essentials.
 These building blocks only deliver what is needed to get access, learn about and get up and running using the REST Cloud Print API.  There is much more needed.
 I have assembled a set of phase two building blocks to help me market and support the API area:
@@ -34,6 +34,4 @@ I have made a phase three list of building blocks:
 	Ideas
 
 These would round off the Mimeo API area and give me to the tools to start evolving it into a community around API access to My Mimeo and Mimeo Marketplace.
-Then I should be in a good place for 2011, to begin redefining print with the help of our community by merging traditional print and next generation of social, cloud and mobile technology.</p>
-<center><p><a href="http://apievangelist.com/2010/11/20/api-ecosystem-strategy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Then I should be in a good place for 2011, to begin redefining print with the help of our community by merging traditional print and next generation of social, cloud and mobile technology.

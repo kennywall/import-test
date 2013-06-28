@@ -6,7 +6,7 @@ source: http://apievangelist.com/2009/07/19/social-profile-order/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>For some reason I happen to go to my Twitter profile today. I almost never pay attention to my Twitter stream. I have moments where I pay attention using twhirl, but for the most part I just broadcast to it without paying much attention.
+{% include JB/setup %}For some reason I happen to go to my Twitter profile today. I almost never pay attention to my Twitter stream. I have moments where I pay attention using twhirl, but for the most part I just broadcast to it without paying much attention.
 So anyways I went to my profile today....saw I rolled over 1000 followers while I haven't been paying attention. Wooohoo. So exciting.
 I am starting to notice my social networking profiles are taking some sort of order. This may sound a little elitist, but oh well.
 My MySpace is a place where mostly my personal contacts gather. These are friends that usually are from the more personal area of my life....dating...older high school friends. These are usually friends who aren't usually associated with my professional life in any way. Sometimes there are family members here, but most seemed to have migrated to Facebook.
@@ -15,6 +15,3 @@ LinkedIn gets a lot less activity, but it is definitely only positioned around m
 Twitter is purely a broadcast communications tool. I have over 1000 followers and don't care about organizing or cleaning them up. I just broadcast messages here.
 I wouldn't want to forget my Flickr profile. I tend to publish a visual journal of my world there....but very little interaction with the rest of my world. Its a one way street.
 Just a little exploration of my social networking profiles.
-</p>
-<center><p><a href="http://apievangelist.com/2009/07/19/social-profile-order/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

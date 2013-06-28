@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-comput
 domain: apievangelist.com
 image: http://www.cloudcommons.com/digitas-cloud-theme/images/logo.gif
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 CloudCommons has developed the Service Measurement Index (SMI) Framework, a set of tools for comparing cloud computing service providers.
 The Service Measurement Index (SMI) Framework uses the following metrics:
 
@@ -18,6 +18,3 @@ The Service Measurement Index (SMI) Framework uses the following metrics:
 	Capabilities - The definition of a given service can be found in the list of essential capabilities that it provides; an email service must be able to send and receive email and an e-commerce service must be able to manage orders. These key capabilities can be evaluated for completeness or user satisfaction, and joined by a larger set of essential other capabilities to further differentiate between various providers.
 
 I'm very optimistic about where the cloud computing industry is going with standards like this for comparing cloud service providers and the DeltaCloud Cloud API becoming a standard.
-</p>
-<center><p><a href="http://apievangelist.com/2010/08/27/framework-for-comparing-cloud-computing-service-providers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

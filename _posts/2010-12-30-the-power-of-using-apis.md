@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/12/30/the-power-of-using-apis/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Here is a brief example of how APIs can quickly deliver value in every day business.
+{% include JB/setup %}Here is a brief example of how APIs can quickly deliver value in every day business.
 I wanted a way to evaluate the content of bookmarks using my Pinboard (anti-social) application  So I employed the Pinboard Bookmarking API to pull one of my latest bookmarks:
 Using Twitter to predict stock moves | Analysis &amp; Opinion | - http://blogs.reuters.com/felix-salmon/2010/12/23/using-twitter-to-predict-stock-moves/
 I have these curated bookmarks, but I want the text content from these URLs so I can evaluate it further.
@@ -20,6 +20,4 @@ Conceptually, I suppose it makes a certain amount of sense that stocks would fal
 It also makes sense that if you're going to try to use Twitter to predict moves in the stock market, you want to concentrate on what it's good at, which is giving a real-time glimpse into the sentiment of millions of people. As Pascal-Emmanuel Gobry points out, the algorithm here deliberately strips out stock-related tweets.
 I'm sure that the new hedge fund, called Derwent Capital Markets, will be shelling out the maximum $360,000 a year for access to 50% of Twitter's live stream. So someone's making money here. But I'm skeptical that Derwent is going to be very successful. After all, predictive power isn't enough to make money in the stock market: it's perfectly possible to make money 87.6% of the time but still lose money over the long run.
 I also suspect that these kind of algorithms are going to have difficulty keeping up with Twitter as it evolves away from people broadcasting the minutiae of their lives, and towards more sophisticated conversations which are less susceptible to n-gram analysis. But the Derwent crew will certainly be doing some very sophisticated and interesting research on Twitter in the coming months and years. I hope that, eventually, they'll make some of their results public.
-Good example of using the Pinboard Bookmarking API to pull bookmarks, then use the Alchemy Text Extraction Web API to get the content of each bookmark.</p>
-<center><p><a href="http://apievangelist.com/2010/12/30/the-power-of-using-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
+Good example of using the Pinboard Bookmarking API to pull bookmarks, then use the Alchemy Text Extraction Web API to get the content of each bookmark.

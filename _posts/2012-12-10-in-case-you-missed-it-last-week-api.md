@@ -6,7 +6,7 @@ source: http://apievangelist.com/2012/12/10/in-case-you-missed-it-last-week…ap
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>
+{% include JB/setup %}
 
 
 
@@ -92,6 +92,3 @@ Wordpress
 
 
 12-06-2012 -&nbsp;Platform Updates: Posting Endpoints
-</p>
-<center><p><a href="http://apievangelist.com/2012/12/10/in-case-you-missed-it-last-week…api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
