@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evernote OAuth and Zapier
+title: Evernote, OAuth and Zapier
 url: http://kinlane.com/2013/03/02/evernote-oauth-and-zapier/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/evernote-hacked-03-2013.png
 ---

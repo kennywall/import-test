@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usually When Developers Are Mean It Is About Power
+title: Usually When Developers Are Mean, It Is About Power
 url: http://kinlane.com/2013/03/30/usually-when-devs-are-mean-it-is-about-power/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/angry-bird.jpg
 ---

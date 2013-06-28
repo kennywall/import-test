@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hackathons for Week of December 17th 2012
+title: Hackathons for Week of December 17th, 2012
 url: http://kinlane.com/2012/12/17/hackathons-for-week-of-december-17th-2012/
 image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The API Pipes From Resource to Last Mile
+title: The API Pipes, From Resource to Last Mile
 url: http://kinlane.com/2013/03/17/apis-from-resource-to-last-mile/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apis-resource-to-last-mile.png
 ---
