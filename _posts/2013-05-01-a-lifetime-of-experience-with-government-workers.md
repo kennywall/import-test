@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Lifetime of Experience with 'Government Workers'
+title: A Lifetime of Experience with Government Workers
 url: http://kinlane.com/2013/05/01/a-lifetime-of-experience-with-government-workers/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/uncle-sam.jpg
 ---
