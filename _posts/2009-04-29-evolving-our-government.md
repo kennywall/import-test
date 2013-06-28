@@ -1,0 +1,25 @@
+---
+layout: post
+title: Evolving Our Government
+url: http://kinlane.com/2009/04/29/evolving-our-government/
+source: http://kinlane.com/2009/04/29/evolving-our-government/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Lately I am very interested in the Government usage of social media and cloud computing (<a class="zem_slink" title="Cloud Computing" rel="wikinvest" href=
+    "http://www.wikinvest.com/concept/Cloud_Computing">SaaS</a>, <a class="zem_slink" title="Infrastructure as a service" rel="wikipedia" href=
+    "http://en.wikipedia.org/wiki/Infrastructure_as_a_service">IaaS</a>, and <a class="zem_slink" title="Platform as a service" rel="wikipedia" href=
+    "http://en.wikipedia.org/wiki/Platform_as_a_service">PaaS</a>) . I have been reading and doing a lot of research in this area lately. I came across great post on <a href=
+    "http://www.programmableweb.com">programmableweb</a> today called <a href="http://blog.programmableweb.com/2009/04/27/an-online-dialogue-to-shape-recoverygov/">An Online Dialogue to Shapre
+    Recovery.gov</a>. Lots of great information, and showcases how the administration is trying open up government data and make things more transparent. There is also lots of information on the
+    stimulus money available to fund the next round of growth of the Internet and Cloud Computing
+  </body>
+</html></p>
+

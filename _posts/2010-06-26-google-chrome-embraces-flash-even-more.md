@@ -1,0 +1,23 @@
+---
+layout: post
+title: Google Chrome Embraces Flash Further
+url: http://kinlane.com/2010/06/26/google-chrome-embraces-flash-even-more/
+source: http://kinlane.com/2010/06/26/google-chrome-embraces-flash-even-more/
+domain: kinlane.com
+image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <img class="alignnone" style="padding: 10px;" title="Google Chrome" src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg" alt="" width="250" align="right" />Google releasde
+    <a href="http://googlechromereleases.blogspot.com/2010/06/stable-channel-update_24.html">Google Chrome 5.0.375.86</a> on Thursday which includes <em><strong>integrated flash player being enabled
+    by default</strong></em>. Interesting positioning by Google in the Flash v HTML5 battle. Google Chrome is a leader in embracing <a href="http://www.kinlane.com/category/html-5/">HTML5
+    standards</a> in their browser. Now they are also further embracing Flash by allowing default integration and updates within Chrome. I think this is a wise move to encourage widespread adoption
+    of <a href="http://www.google.com/chrome">Google Chrom</a>e as default browser.
+  </body>
+</html></p>
+

@@ -1,0 +1,31 @@
+---
+layout: post
+title: Google Releases Two New APIs for Chrome Extensions
+url: http://kinlane.com/2011/04/04/google-releases-two-new-apis-for-chrome-extensions/
+source: http://kinlane.com/2011/04/04/google-releases-two-new-apis-for-chrome-extensions/
+domain: kinlane.com
+image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    <img src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg" alt="" width="250" align="right" />In the latest Chrome Beta release, Google made available <a title=
+    "two new experimental extension APIs" href="http://blog.chromium.org/2011/04/new-experimental-apis-for-chrome.html">two new experimental extension APIs</a>: the Web Navigation and Proxy Extension
+    APIs.
+    <ul class="mainlist">
+      <li>
+        <a title="Web Navigation Extension API" href="http://code.google.com/chrome/extensions/trunk/experimental.webNavigation.html">Web Navigation Extension API</a> - Allows extension developers to
+        observe browser navigation events. The API therefore allows an extension to keep track of exactly what page the tab is showing, and how the user got there.
+      </li>
+      <li>
+        <a title="Proxy Extension API" href="http://code.google.com/chrome/extensions/trunk/experimental.proxy.html">Proxy Extension API</a> - Allows users to configure Chrome's proxy settings via
+        extensions. Proxies can be configured for the entire browser or independently for regular and incognito windows.
+      </li>
+    </ul>You can test drive these new APIs by enabling Experimental Extension APIs. Until the APIs are stable, they require explicit permission from users.
+  </body>
+</html></p>
+

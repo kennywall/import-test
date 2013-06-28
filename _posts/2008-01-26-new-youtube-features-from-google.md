@@ -1,0 +1,27 @@
+---
+layout: post
+title: New Youtube Features from Google
+url: http://kinlane.com/2008/01/26/new-youtube-features-from-google/
+source: http://kinlane.com/2008/01/26/new-youtube-features-from-google/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    The Youtube team recently release a couple of new features for the Youtube video platform.<br />
+    <br />
+    They added: New View for Videos tab which improves the video browsing experience by fully exposing the search options on the videos page. This makes it easier to find what you're looking for
+    quickly<br />
+    <br />
+    Also Added a display of the most recent comments you have made on YouTube videos, choose the new 'My Recent Comments' setting on your profile page. On your channel page, users can also click
+    'View All' to see all comments you have ever made.<br />
+    <br />
+    Google features rolling out all over the place
+  </body>
+</html></p>
+

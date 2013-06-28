@@ -1,0 +1,27 @@
+---
+layout: post
+title: Reputation Management
+url: http://kinlane.com/2008/08/25/reputation-management/
+source: http://kinlane.com/2008/08/25/reputation-management/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I was Googling my name as I usually do on a Monday morning as part of my personal <a href="http://www.socialmediasquad.com/services/index.html">reputation management</a>.<br />
+    <br />
+    I noticed a social network profile I signed up for a few months back called <a href="http://www.naymz.com/">Naymz</a> has grown significantly in PageRank as well as made it to the first page on
+    my Google Results.<br />
+    <br />
+    So I figured I better work to complete my profile on it and make it as robust and relevant as possible to the conversation(s) I have positioned myself in.<br />
+    <br />
+    <a href="http://www.naymz.com/">Naymz</a> looks like it has become a great social network profile to use in your <a href="http://www.socialmediasquad.com/services/index.html">online reputation
+    management campaign</a>.
+  </body>
+</html></p>
+

@@ -1,0 +1,20 @@
+---
+layout: post
+title: Launched Instance in New Amazon Region - US West
+url: http://kinlane.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
+source: http://kinlane.com/2009/12/06/launched-instance-in-new-amazon-region-us-west/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I just launched my first Amazon EC2 instance in the new US West Region. They recently extended the cloud to a Northern California region. So I thought I' d test drive with a new instance and went
+    ahead and reserved 5 IP address for use with other instances. Can't wait to see a South America, Asian and other Regions for easy global cloud deployment.
+  </body>
+</html></p>
+

@@ -1,0 +1,29 @@
+---
+layout: post
+title: Youtube Approach to their New API
+url: http://kinlane.com/2008/03/12/youtube-approach-to-their-new-api/
+source: http://kinlane.com/2008/03/12/youtube-approach-to-their-new-api/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    I wrote earlier about Youtube's new API. I am really happy they updated it. It has several features that I feel are key to using their platform.<br />
+    <br />
+    However in thinking more about it and reading other posts about it I realize their approach and openness is the real gem.<br />
+    <br />
+    Youtube understands the basic 2.0 concept that user activity should not have to occur on your site. This is a very tough concept for some players to understand.<br />
+    <br />
+    Key player still think that they can force or entice customers to join their social network, use their tools, and participate in activities only on their site.<br />
+    <br />
+    Understanding that you need a quality site presence as well as a quality presence on the open Internet.<br />
+    <br />
+    Google and Youtube gets this and made their API refelect this. You don't have to upload, search, and view videos on Youtube.
+  </body>
+</html></p>
+

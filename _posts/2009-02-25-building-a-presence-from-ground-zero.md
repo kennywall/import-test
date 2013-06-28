@@ -1,0 +1,25 @@
+---
+layout: post
+title: Building a presence from ground zero
+url: http://kinlane.com/2009/02/25/building-a-presence-from-ground-zero/
+source: http://kinlane.com/2009/02/25/building-a-presence-from-ground-zero/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    After I deal with all emails, fires, top requests, and spend a large amount of time on all my top projects I try to work on areas that are going to move my company forward. Creating a presence on
+    the Internet is priority one. WebEvents Global is 10 years old, has a very mature software package, and handles some large events for prominent names such as SAP, Google, Schwab. However our web
+    presence is non-existent. The event planning industry is a very incestual industry where most people know each other and most referrals are through word of mouth. We have done well with this
+    methodology. Part of my role is to steer the company into the next generation of its development. So this involves bringing in the next generation of clientelle....this requires having a presence
+    on the Internet and Social Media. So where do you start? A web site of course.....well we just got a newer version up. It isn't all it could be...but its a presence. So next steps are social
+    networking profiles, a corporate blog and other online channels where we can share information about our company and the unique innovative way we conduct approach event management. More to come
+    as I continue down this road...
+  </body>
+</html></p>
+

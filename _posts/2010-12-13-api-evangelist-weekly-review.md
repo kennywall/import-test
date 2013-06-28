@@ -1,0 +1,42 @@
+---
+layout: post
+title: API Evangelist Weekly Review
+url: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
+source: http://kinlane.com/2010/12/13/api-evangelist-weekly-review/
+domain: kinlane.com
+image: 
+---
+{% include JB/setup %}<p><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title></title>
+  </head>
+  <body>
+    Here is the coverage for the week from <a href="http://www.apievangelist.com" target="_blank">API Evangelist</a>.
+    <ul class="mainlist">
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/09/evernote-api-review/" target="_blank">Evernote API Review</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/09/android-and-ios-sdks-for-amazon-web-services/" target="_blank">Android and IOS SDKs for Amazon Web Services</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/09/glue-api-review/" target="_blank">Glue API Review</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/10/foursquare-api-version-2-0/" target="_blank">Foursquare API Version 2.0</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/10/infochimps-api-review/" target="_blank">Infochimps API Review</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/11/importance-of-developer-community-metrics/" target="_blank">Importance of Developer Community Metrics</a>
+      </li>
+      <li>
+        <a href="http://blog.apievangelist.com/2010/12/12/google-maps-api-review/" target="_blank">Google Maps API Review</a>
+      </li>
+    </ul>API Evangelist is where I publish blog posts specific to the <a href="http://blog.apievangelist.com/" target="_blank">business of APIs</a>.
+  </body>
+</html></p>
+
