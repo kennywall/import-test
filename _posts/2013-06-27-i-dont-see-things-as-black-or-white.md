@@ -18,7 +18,6 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      When it comes to the tech, business and politics of APIs I don't see things as:
 </p>
 <table class="c">
-     
           <tr>
                <th width="15%">
                     black
@@ -29,14 +28,12 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <td bgcolor="#000000">
                      
                </td>
-          </tr>
-     
+          </tr>    
 </table>
 <p>
      OR
 </p>
-<table class="c">
-     
+<table class="c">   
           <tr>
                <th width="15%">
                     white
@@ -47,14 +44,12 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <td bgcolor="#FFFFFF">
                      
                </td>
-          </tr>
-     
+          </tr>    
 </table>
 <p>
      I see things as grey, and try to empathize and understand with all the shades of grey:
 </p>
-<table class="c">
-     
+<table class="c">    
           <tr>
                <th>
                     gray3
@@ -1124,8 +1119,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                      
                </th>
-          </tr>
-     
+          </tr>    
 </table>
 <p>
      This iapproach to monitoring the API universe has allowed me to better understand the differences between APIs and the companie or individauls behind them.  
