@@ -6,7 +6,11 @@ source: http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week-mobi
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Appcelerator
+{% include JB/setup %}<p>
+
+
+
+Appcelerator
 
 
 
@@ -26,7 +30,13 @@ Buddy Platform
 
 
 10-30-2012 -&nbsp;Buddy Announces Leading BaaS Support for Windows Phone 8
-10-30-2012 -&nbsp;Announcing Nokia&rsquo;s Premium Developer Program, Including Buddy!CloudMine
+10-30-2012 -&nbsp;Announcing Nokia&rsquo;s Premium Developer Program, Including Buddy!
+
+
+
+
+
+CloudMine
 
 
 
@@ -81,6 +91,29 @@ Proxomo
 
 
 
-11-01-2012 -&nbsp;Proxomo November Events &ndash; You are Invited!Sencha.</p>
+11-01-2012 -&nbsp;Proxomo November Events &ndash; You are Invited!
+
+
+
+
+
+Sencha.io
+
+
+
+
+10-30-2012 -&nbsp;Sencha Touch with Windows Phone 8
+
+
+
+
+
+Tiggzi
+
+
+
+
+10-29-2012 -&nbsp;Building a Windows 8 App in Tiggzi
+</p>
 <center><p><a href="http://apievangelist.com/2012/11/05/in-case-you-missed-it-last-week-mobile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

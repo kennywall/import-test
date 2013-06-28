@@ -11,7 +11,10 @@ image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
 	Pulling a PDF Using Scribd API and PHP
 	Proofing a Scribd PDF Using Mimeo Connect
 
-I want to help developers integrate Scribd document storage and Mimeo printing into their applications.You can see this in action on my working example, Pulling a PDF from Scribd and Proofing with Mimeo.I have also created a git and svn repository so you can check out these projects:
+I want to help developers integrate Scribd document storage and Mimeo printing into their applications.
+
+You can see this in action on my working example, Pulling a PDF from Scribd and Proofing with Mimeo.
+I have also created a git and svn repository so you can check out these projects:
 
 	git (github) repository
 	svn (google code) repository

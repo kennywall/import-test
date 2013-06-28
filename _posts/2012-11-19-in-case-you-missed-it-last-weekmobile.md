@@ -6,7 +6,11 @@ source: http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…mo
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>CloudMine
+{% include JB/setup %}<p>
+
+
+
+CloudMine
 
 
 
@@ -34,7 +38,13 @@ mobeelizer
 
 
 11-14-2012 - Examples on Windows platform
-11-12-2012 - New people on the board!Parse
+11-12-2012 - New people on the board!
+
+
+
+
+
+Parse
 
 
 
@@ -54,6 +64,33 @@ Proxomo
 
 
 11-16-2012 - Campus 2.0 Day 1 Recap &ndash; Great Day with Innovative Ideas blended with the Proxomo Backend
-11-13-2012 - Proxomo C#.</p>
+11-13-2012 - Proxomo C# .NET MVC4 Example Code Goodness
+11-12-2012 - Startup Weekend Plano &ndash; Proxomo BaaS Recap
+
+
+
+
+
+Sencha.io
+
+
+
+
+11-16-2012 - Building Sencha Touch Custom Components, Part 3
+11-14-2012 - Building Sencha Touch Custom Components, Part 2
+11-13-2012 - Building Sencha Touch Custom Components, Part 1
+11-13-2012 - How to Integrate CakePHP and Sencha Frameworks with Bancha
+
+
+
+
+
+Tiggzi
+
+
+
+
+11-14-2012 - HTML5 App Builder is Now the Default Builder
+</p>
 <center><p><a href="http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…mobile/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

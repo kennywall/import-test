@@ -6,7 +6,9 @@ source: http://apievangelist.com/2011/01/19/programming-with-images-using-imagem
 domain: apievangelist.com
 image: http://www.imagemagick.org/image/wizard.jpg
 ---
-{% include JB/setup %}<p>ImageMagick is open source Apache 2.0 project that allows you to programmaticaly create, edit, compose, or convert bitmap images.It can read and write images in over 100 formats:
+{% include JB/setup %}<p>ImageMagick is open source Apache 2.0 project that allows you to programmaticaly create, edit, compose, or convert bitmap images.
+
+It can read and write images in over 100 formats:
 
 	GIF
 	JPEG
@@ -18,12 +20,13 @@ ImageMagick can scale, flip, mirror, rotate, distort, shear and transform images
 ImageMagick is a command line utility which you can choose from several libraries:
 
 	JMagick for Java
-	MagickNet for.NET
+	MagickNet for .NET
 	MagickWand for PHP
 	IMagick for PHP
 	PythonMagick for Python
 	RMagick for Ruby
 
-I spent about an hour looking a wide variety of commercial image manipulation applications before I stumbled across ImageMagick.Ive seen it before, but dont remember it being so functional.</p>
+I spent about an hour looking a wide variety of commercial image manipulation applications before I stumbled across ImageMagick. I've seen it before, but don't remember it being so functional.
+Its great to see such innovative and powerful open-source projects in a sea of spammy and commercial software offerings.</p>
 <center><p><a href="http://apievangelist.com/2011/01/19/programming-with-images-using-imagemagick/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

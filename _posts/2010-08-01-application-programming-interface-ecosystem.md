@@ -6,7 +6,7 @@ source: http://apievangelist.com/2010/08/01/application-programming-interface-ec
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Last night I went through 25 of the top Application Programming Interfaces (API), and documented what type of services they offer as part of their API Ecoystem.Im trying to get a handle on best approaches to delivering an API.Im still processing this information but so far I have these API Ecosystem building blocks:
+{% include JB/setup %}<p>Last night I went through 25 of the top Application Programming Interfaces (API), and documented what type of services they offer as part of their API Ecoystem. I'm trying to get a handle on best approaches to delivering an API. I'm still processing this information but so far I have these API Ecosystem building blocks:
 
 
 
@@ -67,6 +67,7 @@ Other Tools / Not Categorized
 
 
 
-This list represents most of the tools provided to partners, developers and API consumers through existing top APIs.It is interesting to see how different players approach this area of their business.Some its their only business.</p>
+This list represents most of the tools provided to partners, developers and API consumers through existing top APIs. It is interesting to see how different players approach this area of their business. Some its their only business.
+I can't rave enough about how Salesforce delivers their API. They are definitely the industry standard for delivering a highly sophisticated API Ecosystem with their Software as a Service (SaaS).</p>
 <center><p><a href="http://apievangelist.com/2010/08/01/application-programming-interface-ecosystem/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

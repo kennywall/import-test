@@ -6,7 +6,11 @@ source: http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…ap
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Dropbox
+{% include JB/setup %}<p>
+
+
+
+Dropbox
 
 
 
@@ -34,6 +38,7 @@ Tumblr
 
 
 
-11-13-2012 -&nbsp;adamlaiacano: The Bad Data Handbook is finally out!It&rsquo;s the.</p>
+11-13-2012 -&nbsp;adamlaiacano: The Bad Data Handbook is finally out! It&rsquo;s the...
+</p>
 <center><p><a href="http://apievangelist.com/2012/11/19/in-case-you-missed-it-last-week…apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

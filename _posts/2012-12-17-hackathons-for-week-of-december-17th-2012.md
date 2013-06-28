@@ -6,7 +6,11 @@ source: http://apievangelist.com/2012/12/17/hackathons-for-week-of-december-17th
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>These are the hackathons we are tracking on at&nbsp;Hack Weekends.It looks like about 21 different events in the United States.Ann Arbor, MI
+{% include JB/setup %}<p>These are the hackathons we are tracking on at&nbsp;Hack Weekends. It looks like about 21 different events in the United States.
+
+
+
+Ann Arbor, MI
 
 
 &nbsp;
@@ -108,7 +112,12 @@ San Francisco, CA
 
 
 01/24/2013 -&nbsp;AngelHack Global Demo Day Fall 2012
-02/02/2013 -&nbsp;DeveloperWeek 2013 Hackathon!Shaker Heights, OH
+02/02/2013 -&nbsp;DeveloperWeek 2013 Hackathon!
+
+
+
+
+Shaker Heights, OH
 
 
 &nbsp;

@@ -6,7 +6,9 @@ source: http://apievangelist.com/2010/12/13/api-evangelist-weekly-review/
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>Here is the coverage for the week from API Evangelist.Evernote API Review
+{% include JB/setup %}<p>Here is the coverage for the week from API Evangelist.
+
+	Evernote API Review
 	Android and IOS SDKs for Amazon Web Services
 	Glue API Review
 	Foursquare API Version 2.0

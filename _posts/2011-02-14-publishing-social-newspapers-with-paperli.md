@@ -6,7 +6,9 @@ source: http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-pa
 domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 ---
-{% include JB/setup %}<p>Paper.li is a Software as a Service (SaaS) that organizes links shared on Twitter and Facebook into a newspaper-style format.There are four types of Twitter account based papers a user can create:
+{% include JB/setup %}<p> Paper.li is a Software as a Service (SaaS) that organizes links shared on Twitter and Facebook into a newspaper-style format.
+
+There are four types of Twitter account based papers a user can create:
 
 	Account Based Paper - A paper created using an entire Twitter account
 	Hashtag based Paper - A paper created using a specific #hashtag
@@ -15,6 +17,16 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 
 There is one type of Facebook paper currently:
 
-	Facebook Based Papers - A paper created on your Facebook account using search terms.Interesting option for aggregating Twitter or Facebook social streams into a familiar newspaper format for reading.Could be easily printed as a folded newsletter or booklet using a Cloud Print API.</p>
+	Facebook Based Papers - A paper created on your Facebook account using search terms.
+
+Interesting option for aggregating Twitter or Facebook social streams into a familiar newspaper format for reading.
+Could be easily printed as a folded newsletter or booklet using a Cloud Print API.
+Related articles
+
+	Publishing a Paper.li (paper.li)
+	Read Twitter &amp; Facebook as a Newspaper With paper.li (appreaders.com)
+	Are you reading the Twitter Daily News (toddrjordan.com)
+
+</p>
 <center><p><a href="http://apievangelist.com/2011/02/14/publishing-social-newspapers-with-paper-li/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

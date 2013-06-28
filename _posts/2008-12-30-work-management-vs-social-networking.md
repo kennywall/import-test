@@ -6,7 +6,7 @@ source: http://apievangelist.com/2008/12/30/work-management-vs-social-networking
 domain: apievangelist.com
 image: 
 ---
-{% include JB/setup %}<p>When I start working I tend to open a handful of work-based applications that I need open all the time while I work.A few of the must have applications are:
+{% include JB/setup %}<p>When I start working I tend to open a handful of work-based applications that I need open all the time while I work. A few of the must have applications are:
 
 	Google Home Page
 	GMail
@@ -25,6 +25,7 @@ A few applications that I open up that are not critical, but allow me to communi
 	LinkedIn
 	Twitter
 
-Just shows how some applicaitons become business critical for me and others are not.Seems I could get more done business wise within my Facebook or LinkedIn profiles.Need more applications and tools for doing this.</p>
+Just shows how some applicaitons become business critical for me and others are not. Seems I could get more done business wise within my Facebook or LinkedIn profiles.
+Need more applications and tools for doing this.</p>
 <center><p><a href="http://apievangelist.com/2008/12/30/work-management-vs-social-networking/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
