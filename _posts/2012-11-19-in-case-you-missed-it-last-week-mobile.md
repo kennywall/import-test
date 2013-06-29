@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Appcelerator" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/appcelerator.jpeg"  width="75"></a>
+                    <a title="Appcelerator" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/appcelerator.jpeg"  width="75" /></a>
                </td>
                <td>
                     <a title="Appcelerator" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Appcelerator</strong></a>
@@ -31,7 +31,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Buddy Platform" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/Buddy-logo.jpeg"  width="75"></a>
+                    <a title="Buddy Platform" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/Buddy-logo.jpeg"  width="75" /></a>
                </td>
                <td>
                     <a title="Buddy Platform" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Buddy Platform</strong></a>
@@ -49,7 +49,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="CloudMine" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/cloudmine.png"  width="75"></a>
+                    <a title="CloudMine" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/cloudmine.png"  width="75" /></a>
                </td>
                <td>
                     <a title="CloudMine" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>CloudMine</strong></a>
@@ -65,7 +65,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Firebase" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/firebase-logo-blog.png"  width="75"></a>
+                    <a title="Firebase" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/firebase-logo-blog.png"  width="75" /></a>
                </td>
                <td>
                     <a title="Firebase" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Firebase</strong></a>
@@ -81,7 +81,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="mobeelizer" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/mobeelizer.png"  width="75"></a>
+                    <a title="mobeelizer" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/mobeelizer.png"  width="75" /></a>
                </td>
                <td>
                     <a title="mobeelizer" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>mobeelizer</strong></a>
@@ -103,7 +103,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Parse" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/parse.png"  width="75"></a>
+                    <a title="Parse" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/parse.png"  width="75" /></a>
                </td>
                <td>
                     <a title="Parse" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Parse</strong></a>
@@ -125,7 +125,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Proxomo" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/proxomo.png"  width="75"></a>
+                    <a title="Proxomo" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/proxomo.png"  width="75" /></a>
                </td>
                <td>
                     <a title="Proxomo" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Proxomo</strong></a>
@@ -141,7 +141,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Sencha.io" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/sencha-io.png"  width="75"></a>
+                    <a title="Sencha.io" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/sencha-io.png"  width="75" /></a>
                </td>
                <td>
                     <a title="Sencha.io" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Sencha.io</strong></a>
@@ -157,7 +157,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Tiggzi" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/tiggzi.png"  width="75"></a>
+                    <a title="Tiggzi" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><img src="https://s3.amazonaws.com/kinlane-productions/baas/tiggzi.png"  width="75" /></a>
                </td>
                <td>
                     <a title="Tiggzi" href="http://landscapemonitoring.laneworks.net/in-case-you-missed-it.php?type=mobile"><strong>Tiggzi</strong></a>

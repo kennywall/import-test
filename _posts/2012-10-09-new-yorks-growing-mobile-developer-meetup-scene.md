@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meet
 ---
 {% include JB/setup %}
 <p>
-     <a title="Meetup" href="http://www.meetup.com/"><img src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif"  width="250" align="right"></a>
+     <a title="Meetup" href="http://www.meetup.com/"><img src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif"  width="250" align="right" /></a>
 </p>
 <p>
      I’m continuing my research into how various cities operate their developer meetups, with a focus on mobile developer gatherings. Today I’m focusing on New York City, a town that is fast becoming a contender with Silicon Valley for developer talent.

@@ -12,7 +12,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/sopa
       
 </p>
 <p>
-     <a href="http://projects.propublica.org/sopa/"><img src="http://kinlane-productions.s3.amazonaws.com/government/sopa-opera-count.png"  width="600"></a>
+     <a href="http://projects.propublica.org/sopa/"><img src="http://kinlane-productions.s3.amazonaws.com/government/sopa-opera-count.png"  width="600" /></a>
 </p>
 <p>
       

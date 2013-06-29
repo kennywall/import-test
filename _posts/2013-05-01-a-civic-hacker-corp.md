@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/hack
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/hacker-corps.png"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/hacker-corps.png"  width="250" align="right" />
 </p>
 <p>
      I've always been told, "If You Don't Vote, You Can't Bitch". This is a statement I've heard from hundreds of American citizens that I've encountered throughout my life, across every region of this great country. While I agree with the intent of this statement, I have to declare that it isn't enough!

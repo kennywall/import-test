@@ -72,5 +72,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-
      </li>
 </ul>
 <p>
-     <a href="http://www.icann.org/sites/default/files/assets/governance-2500x1664-08mar13-en.png" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/icann/who-runs-the-internet-infographic.jpg"  width="550"></a>
+     <a href="http://www.icann.org/sites/default/files/assets/governance-2500x1664-08mar13-en.png" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/icann/who-runs-the-internet-infographic.jpg"  width="550" /></a>
 </p>

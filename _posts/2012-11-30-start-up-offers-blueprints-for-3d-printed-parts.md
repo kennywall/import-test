@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/3d-p
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/3D-Printing/3d-printing-teenage-engineering.png"  width="175" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/3D-Printing/3d-printing-teenage-engineering.png"  width="175" align="right" />
 </p>
 <p>
      I read a great post recently about how a company called <a href="http://www.engineering.com/3DPrinting/3DPrintingArticles/ArticleID/4979/Start-Up-Offers-Blueprints-For-3D-Printed-Parts.aspx">Teenage Engineering has started providing 3D CAD files that allow their customers to 3D print replacement parts</a> for the products they make.

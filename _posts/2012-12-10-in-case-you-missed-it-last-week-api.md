@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  width="40" align="left"></a>
+                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Foursquare" href="https://singly.com/docs/foursquare"><strong>Foursquare</strong></a>
@@ -25,7 +25,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="GitHub" href="https://singly.com/docs/github"><img src="https://singly.com/images/service_icons/github.png"  width="40" align="left"></a>
+                    <a title="GitHub" href="https://singly.com/docs/github"><img src="https://singly.com/images/service_icons/github.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="GitHub" href="https://singly.com/docs/github"><strong>GitHub</strong></a>
@@ -51,7 +51,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Meetup" href="https://singly.com/docs/meetup"><img src="https://duxu47bnnuoax.cloudfront.net/service-icons/32px/meetup.png"  width="40" align="left"></a>
+                    <a title="Meetup" href="https://singly.com/docs/meetup"><img src="https://duxu47bnnuoax.cloudfront.net/service-icons/32px/meetup.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Meetup" href="https://singly.com/docs/meetup"><strong>Meetup</strong></a>
@@ -69,7 +69,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  width="40" align="left"></a>
+                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Tumblr" href="https://singly.com/docs/tumblr"><strong>Tumblr</strong></a>
@@ -85,7 +85,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Twitter" href="https://singly.com/docs/twitter"><img src="https://singly.com/images/service_icons/twitter.png"  width="40" align="left"></a>
+                    <a title="Twitter" href="https://singly.com/docs/twitter"><img src="https://singly.com/images/service_icons/twitter.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Twitter" href="https://singly.com/docs/twitter"><strong>Twitter</strong></a>
@@ -105,7 +105,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Withings" href="https://singly.com/docs/withings"><img src="https://singly.com/images/service_icons/withings.png"  width="40" align="left"></a>
+                    <a title="Withings" href="https://singly.com/docs/withings"><img src="https://singly.com/images/service_icons/withings.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Withings" href="https://singly.com/docs/withings"><strong>Withings</strong></a>
@@ -125,7 +125,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Wordpress" href="https://singly.com/docs/wordpress"><img src="https://singly.com/images/service_icons/wordpress.png"  width="40" align="left"></a>
+                    <a title="Wordpress" href="https://singly.com/docs/wordpress"><img src="https://singly.com/images/service_icons/wordpress.png"  width="40" align="left" /></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Wordpress" href="https://singly.com/docs/wordpress"><strong>Wordpress</strong></a>

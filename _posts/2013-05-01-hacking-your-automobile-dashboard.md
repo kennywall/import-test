@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/auto
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/automobile/automobile-dashboard-api.jpg"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/automobile/automobile-dashboard-api.jpg"  width="250" align="right" />
 </p>
 <p>
      In the tech space we use the term dashboard a lot. Think about how overused that term is when delivering web applications, portals, home page, start page and any other bullshit incarnation on the Internet where you heard the term dashboard applied to!

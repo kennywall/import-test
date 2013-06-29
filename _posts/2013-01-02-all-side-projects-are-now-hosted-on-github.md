@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png"  width="150" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png"  width="150" align="right" />
 </p>
 <p>
      I’m working through the 2012 year, <a href="http://personaldata.apievangelist.com/">trying to quantify what I did over the year</a>. It’s not as easy as it sounds. One area I’m having trouble quantifying is how much programming I do.

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/php-
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-php.png"  width="200" align="right">
+     <img src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-php.png"  width="200" align="right" />
 </p>
 <p>
      <a title="IDrive" href="http://idrive.com/">IDrive</a> now has PHP samples complete with full library you can use when developing your encrypted, versioned cloud storage for your software solution.

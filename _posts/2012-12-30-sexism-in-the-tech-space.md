@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/kin-
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-serious.jpg"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-serious.jpg"  width="250" align="right" />
 </p>
 <p>
      I just finished reading <a href="http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/">Asher Wolf’s Dear Hacker Community – We Need To Talk</a>. I have so many emotions bubbling up, it’s hard to know how to organize them. I envy her for being able to express them so eloquently and in detail.

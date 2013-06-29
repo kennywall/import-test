@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png"  width="300" align="right">
+     <img src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png"  width="300" align="right" />
 </p>
 <p>
      This summer its been 2 years since I started API Evangelist. API Evangelist started as my research project into the Business of APIs, and became a full time career.

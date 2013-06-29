@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/github-logo.png"  width="150" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/github-logo.png"  width="150" align="right" />
 </p>
 <p class="p1">
      You have the power to update your own profile on the <a href="https://github.com/1l2p/reclaimopen">#ReclaimOpen Github repository</a>, by editing and submitting a pull request. Here are some steps you will need to consider to accomplish this.

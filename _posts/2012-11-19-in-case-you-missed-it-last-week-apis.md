@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Dropbox" href="https://singly.com/docs/dropbox"><img src="https://singly.com/images/service_icons/dropbox.png"  width="40"></a>
+                    <a title="Dropbox" href="https://singly.com/docs/dropbox"><img src="https://singly.com/images/service_icons/dropbox.png"  width="40" /></a>
                </td>
                <td>
                     <a title="Dropbox" href="https://singly.com/docs/dropbox"></a><a title="Dropbox" href="https://singly.com/docs/dropbox"><strong>Dropbox</strong></a>
@@ -25,7 +25,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  width="40"></a>
+                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  width="40" /></a>
                </td>
                <td>
                     <a title="Foursquare" href="https://singly.com/docs/foursquare"><strong>Foursquare</strong></a>
@@ -43,7 +43,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  width="40"></a>
+                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  width="40" /></a>
                </td>
                <td>
                     <a title="Tumblr" href="https://singly.com/docs/tumblr"></a><a title="Tumblr" href="https://singly.com/docs/tumblr"><strong>Tumblr</strong></a>

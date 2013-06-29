@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://openspending.org/blog/2013/03/20/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website.html"><img src="https://s3.amazonaws.com/kinlane-productions/openspending/openspending-bubble-tree-visualization.png"  width="250" align="right"></a>
+     <a href="http://openspending.org/blog/2013/03/20/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website.html"><img src="https://s3.amazonaws.com/kinlane-productions/openspending/openspending-bubble-tree-visualization.png"  width="250" align="right" /></a>
 </p>
 <p>
      There are some really great examples of <a href="http://openspending.org/blog/2013/03/20/How-to-Embed-Open-Spending-Databases-to-Your-Own-Website.html">embeddable, open data goodness over at the OpenSpending project</a>, which is operated by the <a href="http://okfn.org/">Open Knowledge Foundation</a>, a non-profit with a missions to promote open knowledge and data.

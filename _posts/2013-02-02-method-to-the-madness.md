@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/glob
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/global-gears.jpg"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/global-gears.jpg"  width="250" align="right" />
 </p>
 <p>
      I'm always working to find a way to organize my world, to help me better keep track of my wealth of content and information, while also assisting people in navigating my sometimes chaotic world of sites, blogs and projects.

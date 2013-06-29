@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/IFTT
 ---
 {% include JB/setup %}
 <p>
-     <a href="https://ifttt.com/"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-logo.jpeg"  width="225" align="right"></a>
+     <a href="https://ifttt.com/"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-logo.jpeg"  width="225" align="right" /></a>
 </p>
 <p>
      I depend on <a href="https://ifttt.com/">If This Then That (IFTTT)</a> to move data around the cloud.  I syndicate blog posts from <a href="http://apievangelist.com">API Evangelist</a> to Blogger and Tumblr.  This isn't just blind syndication, it is SEO and also plan B scenarios to make sure my content exists in multiple areas.

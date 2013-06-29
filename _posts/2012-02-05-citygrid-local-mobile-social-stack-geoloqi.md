@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Geol
 ---
 {% include JB/setup %}
 <p>
-     <a title="Geoloqi" href="https://developers.geoloqi.com/"><img class="aligncenter size-full wp-image-589" title="Geoloqi_Logo" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/Geoloqi_Logo.png"  width="300" height="100" align="right"></a>In February I’m spending more time building, what I’ve dubbed the CityGrid Local, Mobile, Social Stack, a list of APIs, platforms and tools that you can use in your local-mobile applications.
+     <a title="Geoloqi" href="https://developers.geoloqi.com/"><img class="aligncenter size-full wp-image-589" title="Geoloqi_Logo" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/02/Geoloqi_Logo.png"  width="300" height="100" align="right" /></a>In February I’m spending more time building, what I’ve dubbed the CityGrid Local, Mobile, Social Stack, a list of APIs, platforms and tools that you can use in your local-mobile applications.
 </p>
 <p>
      Of course CityGrid <a title="Places" href="http://docs.citygridmedia.com/display/citygridv2/Places+API">Places</a>, <a title="Offers" href="http://docs.citygridmedia.com/display/citygridv2/Offers+API">Offers</a>, <a title="Reviews" href="http://docs.citygridmedia.com/display/citygridv2/Reviews+API">Reviews</a> and <a title="Advertising" href="http://docs.citygridmedia.com/display/citygridv2/Ads+by+CityGrid">Advertising</a> are first in that stack, but I want to identify other APIs, tools and platforms that can also assist you in quickly building your mobile app.

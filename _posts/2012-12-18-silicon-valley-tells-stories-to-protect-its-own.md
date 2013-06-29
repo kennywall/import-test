@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tell
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/telling-stories.gif"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/telling-stories.gif"  width="250" align="right" />
 </p>
 <p>
      I'm closely following the whole <a href="http://blogs.wsj.com/digits/2012/12/18/why-the-web-is-freaking-out-over-instagrams-new-terms-of-service/">Instagram terms of service discussion</a>. I will be watching closely and if Instagram follows through with implementing these TOS changes, I will migrate my photos and close my account.

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Guar
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.guardian.co.uk/news/datablog/2013/jan/16/helicopters-fly-over-london-data" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/guardian/Guardian-Helicopter-Data-2.png"  width="200" align="right"></a>
+     <a href="http://www.guardian.co.uk/news/datablog/2013/jan/16/helicopters-fly-over-london-data" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/guardian/Guardian-Helicopter-Data-2.png"  width="200" align="right" /></a>
 </p>
 <p>
      I’m a big fan of what <a href="http://www.guardian.co.uk/data">The Guardian is doing with their data and API strategy</a>. I think they are a model for what old media should be doing around the globe.

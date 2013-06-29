@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.singly.com/"><img src="https://s3.amazonaws.com/kinlane-productions/singly/singly-twitter-linkedin-github-facebook-authentication.png"  width="175" align="right"></a>
+     <a href="http://www.singly.com/"><img src="https://s3.amazonaws.com/kinlane-productions/singly/singly-twitter-linkedin-github-facebook-authentication.png"  width="175" align="right" /></a>
 </p>
 <p>
      As an active user of a variety of cloud services I’ve become very accustom to authenticating using my social networks, such as Facebook, Twitter, LInkedin or Github, rather than creating yet another new account.
@@ -21,19 +21,19 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="25">
-                    <a title="Facebook" href="https://singly.com/docs/facebook"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png"  width="25"></a>
+                    <a title="Facebook" href="https://singly.com/docs/facebook"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png"  width="25" /></a>
                </td>
                <td>
                     <a title="Facebook" href="https://singly.com/docs/facebook"><strong>Facebook</strong></a>
                </td>
                <td width="25">
-                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png"  width="25"></a>
+                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png"  width="25" /></a>
                </td>
                <td>
                     <strong><a title="Foursquare" href="https://singly.com/docs/foursquare">Foursquare</a></strong>
                </td>
                <td width="25">
-                    <a title="Github" href="https://singly.com/docs/github"><img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png"  width="25"></a>
+                    <a title="Github" href="https://singly.com/docs/github"><img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png"  width="25" /></a>
                </td>
                <td>
                     <strong><a title="Github" href="https://singly.com/docs/github">Github</a></strong>
@@ -41,19 +41,19 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
           <tr>
                <td width="25">
-                    <a title="Instagram" href="https://singly.com/docs/instagram"><img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png"  width="25"></a>
+                    <a title="Instagram" href="https://singly.com/docs/instagram"><img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png"  width="25" /></a>
                </td>
                <td>
                     <strong><a title="Instagram" href="https://singly.com/docs/instagram">Instagram</a></strong>
                </td>
                <td width="25">
-                    <a title="LinkedIn" href="https://singly.com/docs/linkedin"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png"  width="25"></a>
+                    <a title="LinkedIn" href="https://singly.com/docs/linkedin"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png"  width="25" /></a>
                </td>
                <td>
                     <strong><a href="https://singly.com/docs/linkedin">LinkedIn</a></strong>
                </td>
                <td width="25">
-                    <a title="Twitter" href="https://singly.com/docs/twitter"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png"  width="25"></a>
+                    <a title="Twitter" href="https://singly.com/docs/twitter"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png"  width="25" /></a>
                </td>
                <td>
                     <strong><a title="Twitter" href="https://singly.com/docs/twitter">Twitter</a></strong>
@@ -72,7 +72,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                          <strong>Step 1 - <a href="https://singly.com/signup?section=header" target="_blank">Sign up for Singly</a></strong>
                     </p>
                     <p>
-                         <a href="https://singly.com/signup?section=header" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Sign-Up.png"  width="250"></a>
+                         <a href="https://singly.com/signup?section=header" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Sign-Up.png"  width="250" /></a>
                     </p>
                </td>
                <td>
@@ -80,7 +80,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                          <strong>Step 2 - <a href="https://singly.com/apps/new" target="_blank">Create New Singly App</a></strong>
                     </p>
                     <p>
-                         <a href="https://singly.com/apps/new" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Create-New-App.png"  width="250"></a>
+                         <a href="https://singly.com/apps/new" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Create-New-App.png"  width="250" /></a>
                     </p>
                </td>
           </tr>
@@ -93,42 +93,42 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Facebook-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Facebook-New-App.png"  width="150" />
                </td>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Foursquare-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Foursquare-New-App.png"  width="150" />
                </td>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Github-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Github-New-App.png"  width="150" />
                </td>
           </tr>
           <tr>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Instagram-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Instagram-New-App.png"  width="150" />
                </td>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-LinkedIn-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-LinkedIn-New-App.png"  width="150" />
                </td>
                <td width="25">
-                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png"  width="25">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png"  width="25" />
                </td>
                <td>
-                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Twitter-New-App.png"  width="150">
+                    <img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Twitter-New-App.png"  width="150" />
                </td>
           </tr>
      </tbody>

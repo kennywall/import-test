@@ -7,7 +7,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Cost
 {% include JB/setup %}
 <div>
      <p>
-          <a href="http://www.costofinfo.info/"><img class="aligncenter size-medium wp-image-533" title="Cost-Of-Freedom-Map" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Cost-Of-Freedom-Map-300x259.png"  width="300" height="259" align="right"></a>Last week during the <a title="Hackathon for Social Good in New York City" href="http://www.apievangelist.com/events/hackathon_for_social_good.php">Hackathon for Social Good in New York City</a>, I was fortunate enough to be connected with Faye Anderson (<a href="https://twitter.com/#!/andersonatlarge">@andersonatlarge</a>) of the <a title="Cost of Freedom Project" href="http://www.costoffreedom.info/">Cost of Freedom Project</a>.  The Hackathon for Social Good was put on my <a title="WebVisions" href="http://www.webvisionsevent.com/">WebVisions</a>, using the hackathon model to further projects that are making a social impact in our lives.
+          <a href="http://www.costofinfo.info/"><img class="aligncenter size-medium wp-image-533" title="Cost-Of-Freedom-Map" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Cost-Of-Freedom-Map-300x259.png"  width="300" height="259" align="right" /></a>Last week during the <a title="Hackathon for Social Good in New York City" href="http://www.apievangelist.com/events/hackathon_for_social_good.php">Hackathon for Social Good in New York City</a>, I was fortunate enough to be connected with Faye Anderson (<a href="https://twitter.com/#!/andersonatlarge">@andersonatlarge</a>) of the <a title="Cost of Freedom Project" href="http://www.costoffreedom.info/">Cost of Freedom Project</a>.  The Hackathon for Social Good was put on my <a title="WebVisions" href="http://www.webvisionsevent.com/">WebVisions</a>, using the hackathon model to further projects that are making a social impact in our lives.
      </p>
      <p>
           The Cost of Freedom Project is centered around providing the necessary information and resources needed by U.S citizens to be able to vote in the 2012 elections, primarily targeted the 5 states that have strict laws requiring voters to show a government issued photo ID in order to vote.
@@ -16,8 +16,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Cost
           When it comes to making a social impact, Faye’s project is a shining example, and I couldn’t ignore her need for a hacker to move her project forward.  After hearing her pitch, I joined her project team which included Lori Widelitz-Cavallucci (<a href="https://twitter.com/#!/lwcavallucci">@lwcavallucci</a>) a UX Designer, and Jack Aboutboul (<a href="https://twitter.com/#!/jackfoundation">@jackfoundation</a>), Developer Evangelist from Twilio.
      </p>
      <p>
-          As Lori and Faye got to work on the site layout and user experience I started setting up the back-end that would be necessary to run the app:<br>
-          <img class="aligncenter size-medium wp-image-532" title="my-team-presenting-at-hackathon-for-social-good-in-nyc3" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/my-team-presenting-at-hackathon-for-social-good-in-nyc3-300x158.jpg"  width="300" height="158" align="right">
+          As Lori and Faye got to work on the site layout and user experience I started setting up the back-end that would be necessary to run the app:<br />
+          <img class="aligncenter size-medium wp-image-532" title="my-team-presenting-at-hackathon-for-social-good-in-nyc3" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/my-team-presenting-at-hackathon-for-social-good-in-nyc3-300x158.jpg"  width="300" height="158" align="right" />
      </p>
      <ul class="mainlist">
           <li>Amazon EC2 Instance Running Fedora Linux and Apache Web Server  PHP 5.3

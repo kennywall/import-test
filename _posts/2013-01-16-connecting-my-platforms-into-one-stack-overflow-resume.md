@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Stac
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/stack-overflow/Stack-OverFlow-Careers-20-Kin-Lane.png"  width="300" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/stack-overflow/Stack-OverFlow-Careers-20-Kin-Lane.png"  width="300" align="right" />
 </p>
 <p>
      I received an email from Stack Overflow today asking me to fill out a new <a href="http://careers.stackoverflow.com/">Careers 2.0</a> profile today.  After finishing I have to say, they provide a very slick process for populating <a title="Kin Lane" href="http://careers.stackoverflow.com/kinlane">my profile</a>, in a meaningful way, that was very easy, and is an approach other networks need to adopt.

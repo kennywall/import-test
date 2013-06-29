@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inst
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png"  width="175" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png"  width="175" align="right" />
 </p>
 <p>
      I stopped using my Instagram account this week. I <a href="http://freethephotos.com/">migrated all of my photos to Flickr</a>, and removed Instagram from my iPhone.
@@ -47,7 +47,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inst
      The migration was a no brainer, because I had invested in Flickr already. They had invested in me with premium services and mediocre technology, but when Flickr upgraded and surpassed Instagram--it made Instagram relevant.  But the licensing stance of Flickr seals the deal.  I'm in control over the licensing definition.  End of story.  
 </p>
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/flickr/Flickr-Default-Upload-Licensing.png"  width="500">Instagram has stopped caring about its users and is caring more about monetizing the platform. <a href="/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/">Instagram could monetize while still caring for their users--it would just take a little imagination</a>. 
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/flickr/Flickr-Default-Upload-Licensing.png"  width="500" />Instagram has stopped caring about its users and is caring more about monetizing the platform. <a href="/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/">Instagram could monetize while still caring for their users--it would just take a little imagination</a>. 
 </p>
 <p>
      No matter what dance Instagram does now, the damage is already done. Tech companies need to realize that the sands can shift at digital speeds now. Companies need to be as thoughtful and imaginative as possible when planning their roadmaps and communication with the public.

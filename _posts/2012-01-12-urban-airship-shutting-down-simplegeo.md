@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/simp
 ---
 {% include JB/setup %}
 <p>
-     <a title="SimpleGeo" href="https://simplegeo.com/"><img class="aligncenter size-full wp-image-481" title="simplegeo (1)" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-1.jpg"  width="200" align="right"></a>Just three months after <a title="Urban Airship" href="http://urbanairship.com/">Urban Airship</a> acquired <a title="SimpleGeo" href="https://simplegeo.com/">SimpleGeo</a>, they are <a title="shutting down the places, context and storage service" href="http://urbanairship.com/blog/2012/01/12/update-on-our-plan-to-integrate-location-and-context-services-into-our-push-messaging-platform/">shutting down the places, context and storage service</a>.
+     <a title="SimpleGeo" href="https://simplegeo.com/"><img class="aligncenter size-full wp-image-481" title="simplegeo (1)" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-1.jpg"  width="200" align="right" /></a>Just three months after <a title="Urban Airship" href="http://urbanairship.com/">Urban Airship</a> acquired <a title="SimpleGeo" href="https://simplegeo.com/">SimpleGeo</a>, they are <a title="shutting down the places, context and storage service" href="http://urbanairship.com/blog/2012/01/12/update-on-our-plan-to-integrate-location-and-context-services-into-our-push-messaging-platform/">shutting down the places, context and storage service</a>.
 </p>
 <p>
      Urban Airship is merging SimpleGeo services into their mobile customer engagement solution to offer location and context-based services as part of the package.

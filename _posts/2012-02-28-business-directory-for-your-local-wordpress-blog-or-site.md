@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/wordpress.jpg"  width="200" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/wordpress.jpg"  width="200" align="right" />
 </p>
 <p>
      I finished the first version of a <a title="business directory wordpress plugin" href="http://wordpress-local-directory.hyp3rl0cal.com/">business directory WordPress plugin</a> that you can use to deploy a local directory for your Wordpress site or blog. I wanted to make an easy way for non-developers, to launch a local directory for one or multiple business categories.
@@ -35,7 +35,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
      Once installed you should see a new menu in your Wordpress admin menu, called CityGrid. It contains an overview of the plugin and a setting page for configuring your Wordpress directory.
 </p>
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/citygrid/citygrid_logo.jpg"  width="250" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/citygrid/citygrid_logo.jpg"  width="250" align="right" />
 </p>
 <p>
      Using the settings page you can configure five elements of your local business directory:

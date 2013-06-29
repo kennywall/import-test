@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traf
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://trafficandweather.io/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"  width="200" align="right"></a>
+     <a href="http://trafficandweather.io/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"  width="200" align="right" /></a>
 </p>
 <p>
      I was finally catching up on all my podcasts this week, which includes <a href="http://trafficandweather.io/">Traffic and Weather</a>, which is an always informative source of news and commentary podcast about APIs and the cloud hosted by <a href="http://twitter.com/smarx">@smarx</a> and <a href="http://twitter.com/johnsheehan">@johnsheehan</a> 

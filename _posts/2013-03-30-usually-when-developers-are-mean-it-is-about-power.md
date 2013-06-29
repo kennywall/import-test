@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/angr
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.fanpop.com/clubs/angry-birds-are-amazing/images/32024326/title/angry-bird-photo" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/angry-bird.jpg"  width="250" align="right"></a>
+     <a href="http://www.fanpop.com/clubs/angry-birds-are-amazing/images/32024326/title/angry-bird-photo" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/angry-bird.jpg"  width="250" align="right" /></a>
 </p>
 <p>
      I’ve been programming professionally since 1988, so I’ve been around quite a few developers in my career. There seems to be a lot of moments lately that cause me to look back at this career, reassess what I've learned, and adjust the direction I'm going with this mined wisdom.  This week I’m reflecting on the recent insanity around Adria Richards, my role as the API Evangelist, and spending time thinking about the tech space's inclusiveness as I’m hanging out with my 12 year old daughter for spring break.
@@ -30,7 +30,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/angr
      While the root of this behavior I feel is insecurity, I think ultimately it is all about power. I also strongly believe one of the by-products of this reality is the sexism, racism and other negativity that is a systemic issue in the tech space.
 </p>
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/information-technology.jpg"  width="325" align="right">
+     <img src="https://s3.amazonaws.com/kinlane-productions/information-technology.jpg"  width="325" align="right" />
 </p>
 <p>
      I’m not writing this to say that all developers are power trippers. They aren’t. But us technologists have a huge problems with wanting to be keepers of the knowledge. I’m not excluding myself from this. I fall victim to the desire for power and glory. I’m not exempt. But I work really, really, really hard at trying to transcend this past I share with the rest of the tech space.

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Our-
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Our-Mobile-Planet.png"  width="150" align="right">
+     <img src="http://kinlane-productions.s3.amazonaws.com/Our-Mobile-Planet.png"  width="150" align="right" />
 </p>
 <p>
      I was reading a report commissioned by Google and conducted by Ipsos MediaCT in partnership with the Mobile Marketing Association and the Interactive Advertising Bureau, called <a title="Our Mobile Planet" href="http://www.ourmobileplanet.com/en/">Our Mobile Planet</a>.
@@ -15,7 +15,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Our-
      You can find the report at <a title="Our Mobile Planet" href="http://www.ourmobileplanet.com/en/">OurMobilePlanet.com</a>. Included with the report on the mobile consumer, the site provides access to the full set of data from the research through a chart creation tool or the direct download of full country level data files.
 </p>
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Our-Mobile-Planet-Chart.png"  width="275" align="right">
+     <img src="http://kinlane-productions.s3.amazonaws.com/Our-Mobile-Planet-Chart.png"  width="275" align="right" />
 </p>
 <p>
      The report is very informative, but the real story is how the report is published. It is a complete site, report, reporting tools and full access to the data. This is nothing new. Its something <a title="The Guardian" href="http://www.guardian.co.uk/data">The Guardian</a> does well in the context of data-driven journalism.
