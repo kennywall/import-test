@@ -254,12 +254,14 @@ p.note { border-top:1px solid #efe3ae; border-bottom:1px solid #efe3ae; backgrou
  
 .pagination {
   height: 36px;
+  border: 1px solid #000;
 }
  
 .pagination ul {
   display: inline-block;
   margin: 0;
   padding: 0;
+  border: 1px solid #000;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
