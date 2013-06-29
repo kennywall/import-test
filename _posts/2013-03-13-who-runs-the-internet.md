@@ -20,7 +20,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-
 <p>
      <strong>Here is how it works:</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Operations &amp; Services</strong> - Internet Operations span all aspects of hardware, software, and infrastructure required to make the Internet work. Services include education, access, web browsing, online commerce, social networking. etc
      </li>
@@ -37,7 +37,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-
 <p>
      <strong>Who is Involved:</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong><a href="http://iab.org" target="_blank">IAB</a></strong> - Internet Architecture Board - Oversees the technical and engineering development of the IEFT and IRTF
      </li>

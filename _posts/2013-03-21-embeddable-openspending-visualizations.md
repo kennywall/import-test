@@ -17,7 +17,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 <p>
      The OpenSpending platform has plenty of data visualizations avialable for use, but until recently these tools were only fixed and available on the OpenSpending site. Now they have begun developing and publishing a handful of cool, embeddable widgets that can be published anywhere:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="https://github.com/openspending/openspendingjs/tree/master/widgets/bubbletree">Bubble Tree</a>
      </li>
@@ -31,7 +31,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 <p>
      All three visualizations are available as open-source code on Github. OpenSpending also provides examples you can play with using <a href="http://jsfiddle.net/">jsfiddle</a>:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://jsfiddle.net/vitorbaptista/jhaKT/">Bubble Tree</a>
      </li>

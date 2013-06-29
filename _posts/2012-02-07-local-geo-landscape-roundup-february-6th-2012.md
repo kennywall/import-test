@@ -8,7 +8,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Facebook Blog" href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://working.laneworks.net/gather/">Join the Facebook Platform team at GDC in March </a>- (02/06/2012) - We're excited to announce Facebook Developer Day at Game Developer Conference in San Francisco on Monday, March 5th. Conference attendees are invited to join the Facebook Platform team for interactive discussions throughout the day on best practices and pro-tips for building social games. At this all-day event, developers will learn the fundamentals of building successful social games across platforms, including mobile and console, and how to deeply integrate apps with timeline through Open Graph. Register now for an "All-Access" or "Summit &amp; Tutorials" pass to GDC San Francisco to secure your spot at Facebook Developer Day on Monday, March 5th.
      </li>
@@ -34,7 +34,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="InfoChimps Blog" href="http://feeds.feedburner.com/infochimps-blog">InfoChimps</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/infochimps-blog/~3/WGaPi7IOIUA/">The Rise and Fall of the Fortune 500</a> - (02/01/2012) - this elegant interactive visualization of publicly available Wikipedia data around the Fortune 500, America's largest corporation. His intent was to show how 84,000 data points could be easily viewed and navigated in one interactive piece. We think he did an amazing job using the clean, simple display to tell rich stories of company histories and the rise and fall of our country's top corporations. One company that stands out in our minds is Eastman Kodak, who enjoyed growing revenues and steady profitability for decades.
      </li>
@@ -70,7 +70,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="InMobi Blog" href="http://www.inmobi.com/inmobiblog/feed/">InMobi</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://www.inmobi.com/inmobiblog/2012/02/06/developers-guide-to-mwc/">Developers' Guide to MWC</a> - (02/06/2012) - Business Cards How many cards were you planning on bringing? Nope - bring twice as many! Make sure you actually do something with the cards you pick up - I like WorldCard for scanning in cards. Pick Up All The Schwag Every company will be handing out free posters, stressballs, branded USB sticks, samples, and - in some cases - giving away phones. Take everything you can lay your hands on. Hand Sanitiser You're going to be shaking hands with thousands of people. Take along a bottle of hand sanitiser to help prevent picking up the MWC lurgy. Throat Lozenges Talking everyone through your app is hard on the vocal chords - especially if you've spent all night at the karaoke!
      </li>

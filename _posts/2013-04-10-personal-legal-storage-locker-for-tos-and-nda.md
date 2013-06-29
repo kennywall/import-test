@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/lock
 <p>
      My project from theHackathon this weekend was <a href="http://reclaimyourdomain.org">ReclaimYourDomain</a>, which I’ll write about in detail separately, but the overall project objective was to educate people about:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Owning Their Own Domain
      </li>
      <li>Taking Control Of Their Cotent

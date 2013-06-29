@@ -17,7 +17,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      That is a pretty good start. Two of my biggest networks allow me to download data. I wasn't so lucky with the next four:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Twitter - No
      </li>
      <li>Instagram - No

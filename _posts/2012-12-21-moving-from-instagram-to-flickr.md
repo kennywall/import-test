@@ -29,7 +29,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inst
 <p>
      There are several key elements that went into action in my decision:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Technology</strong> - Flickr launched a superior technology that negated Instagrams technology value in my life
      </li>

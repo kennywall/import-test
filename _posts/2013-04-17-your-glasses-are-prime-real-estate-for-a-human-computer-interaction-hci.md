@@ -17,7 +17,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/goog
 <p>
      Think about the other pieces of tech in our lives:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Smart Phone</strong> - A smart phone is a pretty desirable piece of virtual real estate. It has our GPS location, identity and contains a lot of info about our every day lives. But it tends to live in our pocket, purse or other location and is only engaged when we decide
      </li>

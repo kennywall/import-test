@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meet
 <p>
      I went through the meetups for New York City and found the following mobile developer meetup groups:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://www.meetup.com/sellmoreapps/">Android App Marketing</a> - founded 09/07/2011, with 12 members, and 0 meetups so far
      </li>

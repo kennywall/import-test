@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/anal
 <p>
      Here are a few of the analytics platforms that launched in the last 30 days:
 </p>
-<ul class="mainlist">
+<ul>
      <li>02/21/2013 - <a href="http://www.teoco.com/press-release/teoco-launches-inrange-location-based-predictive-analytics-solution">TEOCO Launches INrange™ Location-Based Predictive Analytics Solution</a>
      </li>
      <li>02/26/2013 - <a href="http://www-03.ibm.com/press/us/en/pressrelease/40435.wss" target="_blank">IBM Launches Cloud-Based Analytics and Mobile Initiatives for Global Ecosystem to Capture New Markets</a>

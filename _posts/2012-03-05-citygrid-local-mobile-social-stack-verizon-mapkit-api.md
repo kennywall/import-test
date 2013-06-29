@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/veri
 <p>
      The MapKit also provides a full set of search APIs delivering geocoding, geolocation and access to local content:<a title="Verizon Mapkit API" href="http://developer.verizon.com/content/vdc/en/verizon-tools-apis/verizon_apis/navbuilder-inside-sdk/verizon-toolsandapis-NBI-tech-resources/verizon-nbi-map-kit-api-reference.html"><img class="aligncenter size-medium wp-image-815" title="verizon-mapkit" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/03/verizon-mapkit-192x300.png"  width="192" height="300" align="right" /></a>
 </p>
-<ul class="mainlist">
+<ul>
      <li>Address Search (Geocoding)
      </li>
      <li>Reverse Geocoding

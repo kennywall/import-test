@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
 <p>
      The Hyp3rL0cal Wordpress Plugin uses two APIs:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a title="Places API" href="http://docs.citygridmedia.com/display/citygridv2/Places+API">CityGrid Places API</a>
      </li>
@@ -25,7 +25,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
 <p>
      To install the CityGrid Hyp3rL0cal Wordpress Plugin you have two options:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Search for it and install using the Plugin Search in your Wordpress site (this is the easiest).
      </li>
      <li>Download it from the <a title="CityGrid Hyp3rL0cal Wordpress Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-wordpress-plugin/">Wordpress plugin directory</a> or via <a title="CityGrid hyp3rl0cal Wordpress Plugin on Github" href="https://github.com/kinlane/Hyp3rL0cal-Wordpress-Plugin">Github</a>, and upload using the "plugin upload" in your Wordpress site.
@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
 <p>
      Using the settings page you can configure five elements of your local business directory:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>CityGrid Publisher Code</strong> - The API key that gives you access to CityGrid business data.
      </li>

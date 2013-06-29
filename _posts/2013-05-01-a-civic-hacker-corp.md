@@ -23,7 +23,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/hack
 <p>
      In its simplest form, I envision the Civic Hacker Corp to be about:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Tasks</strong> - Available tasks that need to be accomplished. Tasks would always be bite site chunks that wouldn't take weeks or months to accomplish, but could be done within 5-40 hours of work. Examples might be processing data, cleaning it up, normalizing, verification, pulling data from PDFs, OCR work, etc.  Tasks would be submitted by government organizations, in hopes of soliciting civic execution
      </li>

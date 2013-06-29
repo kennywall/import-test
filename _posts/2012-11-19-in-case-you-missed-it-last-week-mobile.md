@@ -17,7 +17,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>11-02-2012 - <a href="http://developer.appcelerator.com/blog/2012/11/titanium-sdk-2-1-4-rc-released-preliminary-support-for-new-ipads.html" target="_blank">Titanium SDK 2.1.4 RC Released — Preliminary Support for new iPads</a>
      </li>
      <li>11-01-2012 - <a href="http://developer.appcelerator.com/blog/2012/11/developer-preview-the-new-titanium-command-line-interface.html" target="_blank">Developer Preview: The New Titanium Command Line Interface</a>
@@ -39,7 +39,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-30-2012 - <a href="https://blog.buddy.com/2012/10/buddy-announces-leading-baas-support-for-windows-phone-8/" target="_blank">Buddy Announces Leading BaaS Support for Windows Phone 8</a>
      </li>
      <li>10-30-2012 - <a href="https://blog.buddy.com/2012/10/announcing-nokias-premium-developer-program-including-buddy/" target="_blank">Announcing Nokia’s Premium Developer Program, Including Buddy!</a>
@@ -57,7 +57,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-31-2012 - <a href="http://blog.cloudmine.me/post/34711216650" target="_blank">Design Breakdown: UX, UI and Why — The New Dashboard</a>
      </li>
 </ul>
@@ -73,7 +73,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-29-2012 - <a href="http://blog.firebase.com/post/34736770939" target="_blank">RealtimeConf in Portland</a>
      </li>
 </ul>
@@ -89,7 +89,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>11-02-2012 - <a href="http://www.mobeelizer.com/blog/2012/11/ios-conflicts-example/" target="_blank">iOS – Conflicts example</a>
      </li>
      <li>10-31-2012 - <a href="http://www.mobeelizer.com/blog/2012/10/ios-permissions-example/" target="_blank">iOS – Permissions example</a>
@@ -111,7 +111,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-31-2012 - <a href="http://blog.parse.com/2012/10/31/the-punniest-parser/" target="_blank">The Punniest Parser</a>
      </li>
      <li>10-31-2012 - <a href="http://blog.parse.com/2012/10/31/play-monster-mansion-for-a-frighteningly-good-time/" target="_blank">Play Monster Mansion for a Frighteningly Good Time</a>
@@ -133,7 +133,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>11-01-2012 - <a href="http://blog.proxomo.com/archives/proxomo-november-events-you-are-invited/" target="_blank">Proxomo November Events – You are Invited!</a>
      </li>
 </ul>
@@ -149,7 +149,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-30-2012 - <a href="http://www.sencha.com/blog/sencha-touch-with-windows-phone-8/" target="_blank">Sencha Touch with Windows Phone 8</a>
      </li>
 </ul>
@@ -165,7 +165,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<ul class="mainlist">
+<ul>
      <li>10-29-2012 - <a href="http://blog.tiggzi.com/2012/10/building-a-windows-8-app-in-tiggzi/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=building-a-windows-8-app-in-tiggzi" target="_blank">Building a Windows 8 App in Tiggzi</a>
      </li>
 </ul>

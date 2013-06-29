@@ -20,7 +20,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 <p>
      So in 2013, I am going to make Github repositories default for all side projects. Each project will start off as a repository, then I will enhance using:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Github Pages - Running a static site framework on Github, with subdomain
      </li>
      <li>Jekyll - Pages and blogs for each project running using Github Pages

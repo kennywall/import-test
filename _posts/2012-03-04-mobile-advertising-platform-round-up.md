@@ -11,7 +11,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/City
 <p>
      So far I’ve found 24 mobile advertising platforms:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://adfonic.com/">Adfonic</a> - Global mobile advertising marketplace
      </li>

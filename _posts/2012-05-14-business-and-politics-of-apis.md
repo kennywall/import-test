@@ -20,7 +20,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-
 <p>
      While my research will always span the entire API sector, this round I’m going to study the approach of some of the most successful APIs:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Twitter</strong> - Deep understanding of the largest, and most important API ecosystem
      </li>
@@ -43,7 +43,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-
 <p>
      I’m going to begin by <a title="analyzing the business and politics of Twitters API ecosystem" href="http://apivoice.com/2012/05/06/the-business-and-politics-of-twitters-api/">analyzing the business and politics of Twitters API ecosystem</a>, and as more funding comes through I’ll focus on the other APis. While studying each API I look at:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Historical company blog posts, tweets and press releases
      </li>
      <li>Historical blog posts and tweets from the blogosphere and developers
@@ -52,7 +52,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-
 <p>
      I organize all my research into a curation framework I’ve developed and will be generating:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Timeline</strong> - A easy to navigate, timeline of the APIs history through curated blog posts, tweets and company announcments.
      </li>

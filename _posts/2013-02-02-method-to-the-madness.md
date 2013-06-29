@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/glob
 <p>
      To help organize this, I'm breaking my navigation on KinLane.com into two main groups.  The first area is overview information about my world in the following sections:
 </p>
-<ul class="mainlist">
+<ul>
      <li class="page_item current_page_item">
           <a title="Home" href="/index.php">Blog</a> - My personal thoughts and random observations in blog form
      </li>
@@ -43,7 +43,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/glob
 <p>
      The second area is providing links to all my main properties:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://apievangelist.com/" target="_blank">API Evangelist</a> - Business of APIs
      </li>

@@ -8,7 +8,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Foursquare Blog" href="http://blog.foursquare.com/">Foursquare</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/thefoursquareblog/~3/jcII8oagst4/">From Starbucks to Sports Authority find your favorite places, even in a new city!</a> - (01/27/2012) - Love Starbucks? On Starbucks foursquare pageyoull see a map with all the locations nearby, so you can pick the closest one to visit. Plus, when youre on aparticular Starbucks venue page, well show you the other closest options. The nearby map is now on hundreds of business pages, with more to come soon. Here are some places to try out! Look for the closest Zipcar locationsand get away for the weekend! Museum lovers, find all of MoMAs locationsin New York (if you’re in New York, zoom out to see them all! ). Local business love! See The Beanerys locationsin Oregon. If your gym has multiple locations, you can find the closest place to work out, even when youre travelling.
      </li>
@@ -31,7 +31,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Facebook Blog" href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://working.laneworks.net/gather/">iOS and Android: Single Sign-On Best Practices</a> - (01/26/2012) - Over a year ago, we introduced Single Sign-On (SSO) for Android and iOS. Today, more than 350 million active users currently access Facebook through their mobile devices. Users logged into the Facebook for iOS or Facebook for Android app can use the Login with Facebook button and, in one-click through a permissions dialog, login to your app. This saves users from typing in an e-mail address and password for apps that require registered users. Since the launch of SSO, developers implementing it in their apps have enjoyed increased user registrations and access to the Graph API to build in-app social experiences.
      </li>
@@ -52,7 +52,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Factual Blog" href="http://blog.factual.com/">Factual</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/factualblog/~3/Dc9QJo8JbGo/factual-ruby-driver">Factual Ruby Driver</a> - (01/25/2012) - Ruby driver for our API. The driver supports Factual’s API features, including Crosswalk, Resolve, and geo location functionality around the Factual Places API. We put a priority on making this driver easy to use, and designed it “The Ruby Way”. It lets you focus on building your Factual queries and using the results in Ruby. It handles details like OAuth and url encoding, so you don’t have to. The driver and its associated gems are hosted at Rubygems. org. Install the driver as a gem in your project as follows:$ gem install factual-api Once you have the driver installed in your Ruby project, here’s how you create an authenticated handle to Factual:require 'factual'factual = Factual.
      </li>
@@ -66,7 +66,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="InfoChimps" href="http://blog.infochimps.com/">InfoChimps</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/infochimps-blog/~3/-TmtaakvJzM/">Fixies and Hipsters are Correlated?</a> - (01/27/2012) - Depending on who you are, the sight of a gorgeously simple yet eclectic fixed gear bicycle may make your mouth water or may fill you with ire. Perhaps if you feel the former, you are the current owner of several pairs of skinny jeans, a pearl snap vintage shirt and ironic glasses. In other words, you are a hipster. According to the folks on Quora, fixed gear bicycles (or fixies) are considered to be a strong indicator of hipsterness. The folks at Priceonomics blog, as part of their effort to build a comprehensive bicycle pricing guide, have measured what kinds of used bicycles people sell and the quantity sold in cities across the US. To find where the hipsters live, they mined their database of 1.
      </li>

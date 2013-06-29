@@ -11,7 +11,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/urba
 <p>
      Some examples they give are:
 </p>
-<ul class="mainlist">
+<ul>
      <li>a national retailer could off-load excess inventory held by various stores by targeting offers to people in those cities or multiple ZIP codes that have a preference for that product category.
      </li>
      <li>a sports or entertainment venue could target people that are nearby right now to drive attendance on a slow day, or offer longer-term promotions for people that were visitors within the last six months but not in the prior three months.

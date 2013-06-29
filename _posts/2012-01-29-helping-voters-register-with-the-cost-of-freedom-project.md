@@ -19,7 +19,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Cost
           As Lori and Faye got to work on the site layout and user experience I started setting up the back-end that would be necessary to run the app:<br />
           <img class="aligncenter size-medium wp-image-532" title="my-team-presenting-at-hackathon-for-social-good-in-nyc3" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/my-team-presenting-at-hackathon-for-social-good-in-nyc3-300x158.jpg"  width="300" height="158" align="right" />
      </p>
-     <ul class="mainlist">
+     <ul>
           <li>Amazon EC2 Instance Running Fedora Linux and Apache Web Server  PHP 5.3
           </li>
           <li>Twitter Bootstrap

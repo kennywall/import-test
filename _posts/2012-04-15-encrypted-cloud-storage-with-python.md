@@ -21,7 +21,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyth
      <tbody>
           <tr>
                <td>
-                    <ul class="mainlist">
+                    <ul>
                          <li>
                               <a href="http://evs.idrive.com/web-get-server-address-api.htm">Get Server Address</a>
                          </li>
@@ -55,7 +55,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyth
                     </ul>
                </td>
                <td>
-                    <ul class="mainlist">
+                    <ul>
                          <li>
                               <a href="http://evs.idrive.com/web-create-folder-api.htm">Create Folder</a>
                          </li>

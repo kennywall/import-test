@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meet
 <p>
      To start I am profiling the most obvious choice which is San Francisco / Bay Area. To begin my research, I'm focusing on mobile developer <a title="Meetup" href="http://www.meetup.com/">Meetup</a> groups in this top developer market:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong><a href="http://www.gtugsf.com/">San Francisco Google Technology Developers</a></strong> - Founded 0/06/2011, with 1,314 members and 20 meetups so far
      </li>
@@ -58,7 +58,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meet
 <p>
      While I still have lots of learning to do in this space, a couple of things stand out:
 </p>
-<ul class="mainlist">
+<ul>
      <li>Some meetups are very dedicated to developers
      </li>
      <li>Some meetups are more marketing and entrepreneurial focused

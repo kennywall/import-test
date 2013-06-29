@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/idri
 <p>
      <a title="IDrive" href="http://www.idrive.com/">IDrive</a> is working to provide these solutions for developers by delivering two interfaces for developers to integrate encrypted storage into their applications:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>Command Line Utility</strong> - Develop highly scalable, reliable and fast applications to manage your storage on IDrive EVS. Best for desktop applications and also ideal for CRON jobs.
      </li>
@@ -25,7 +25,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/idri
 <p>
      To help support our REST APIs users, IDrive has developed three new libraries supporting modern web languages:
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="https://github.com/idrivevangelist/IDrive-Encrypted-File-System--EVS--REST-API-PHP-Library">PHP</a>
      </li>

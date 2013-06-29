@@ -8,7 +8,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Foursquare Blog" href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/thefoursquareblog/~3/qywwqRn3PyU/">Hey LA, now its your turn to save $5 on every Restaurant Week meal!</a> - (01/23/2012) - New York Restaurant Week partnership with American Express, saving Card members $5 on every lunch and dinner they have at over 300 New York eateries. Today, we're excited to extend the same deal to hungry explorers in Los Angeles: Spend $21 hundreds of restaurants participating in dine LA's Restaurant Week, and you'll get a $5 credit back on your American Express statement. Redeeming your free money is just as easy as with past American Express specials:Check in at a Restaurant Week restaurant. Go to the Special screen and tap the Load to Card button (you'll also be able to sync your card if you have’nt yet).
      </li>
@@ -31,7 +31,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Facebook Developer" href="http://developers.facebook.com/blog/">Facebook Developer</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://developers.facebook.com/blog/post/635/">Platform Updates: Operation Developer Love</a> - (01/20/2012) - This week, we launched the improved auth dialog and over 60 new Open Graph apps. Approving Open Graph Actions We are now approving Open Graph Actions. If you are new to the Open Graph, please review the Tutorial on how to use the Open Graph to integrate your app with Facebook. Please review and check your Actions against the required criteria prior to submission. Writing Questions via Graph API We recently announced the ability to read questions via the Graph API. We are now adding the option to write them. 
      </li>
@@ -45,7 +45,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Google Geo Blog" href="http://googlegeodevelopers.blogspot.com/">Google Geo</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/blogspot/Gkaos/~3/7OeJD_X4XX4/introducing-pykml-python-library-for.html">Introducing pyKML - a Python library for manipulating KML</a> - (01/18/2012) - pyKML is an open source Python library for generating, parsing, and modifying KML, the geo-spatial data language used by Google Earth, Google Maps and a number of other GIS platforms.
      </li>
@@ -53,7 +53,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Factual Blog" href="http://blog.factual.com/">Factual</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/factualblog/~3/tvXWZeUL-Kk/factual-php-driver">Factual PHP Driver</a> - (01/23/2012) - We are pleased to report the availability of the official PHP driver for the Factual API. This driver wraps our Read, Crosswalk, Resolve, and Schema APIs, providing five-line access to our 55 million global places and other structured data. 
      </li>
@@ -61,7 +61,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="InMobiBlog" href="http://www.inmobi.com/inmobiblog/">InMobi</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://www.inmobi.com/inmobiblog/2012/01/17/handset-stats-2010-2011/">Handset Stats - 2010-2011</a> - (01/17/2012) - What a difference a year makes! You can download the full set of statistics from the InMobi Research Centre - here are some highlights. World We're close to hitting the point when half the advert requests we get are for smartphones. While sales of smartphones have taken off in recent years - there are still millions of people using regular phones. Are you targeting them all? Europe In Q4 of 2010, Android accounted for around 16. 7% of advertising impressions in Europe. In Q4 of 2011, it rocketed to 32% - zooming past iOS. North America With dozens of manufactures churning out lots of different models, it's always really interesting to see who's up and who's down.
      </li>
@@ -69,7 +69,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="PlaceCastBlog" href="http://blog.placecast.net/">PlaceCast</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://blog.placecast.net/post/16193868217">Text Tops Smartphone Usage, While Check-Ins Decline</a> - (01/20/2012) - Insight Express released the latest update to its quarterly Digital Consumer Portrait which reveals some very interesting observations on the mobile behavior of mainstream smartphone users. As Kathryn Koegel pointed out in her AdAge column yesterday, there is an overwhelming counter-intuitive trend emerging from the data: some advanced mobile behaviors are not on an ever-increasing trajectory. Specifically, that text continues to top the charts for usage, while novelty behavior like check-ins are in decline.
      </li>

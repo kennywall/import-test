@@ -11,7 +11,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Foursquare Blog" href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/thefoursquareblog/~3/pIPdG8g3Gb8/">Quick Tip: Finding last minute flowers, treats, and date night spots!</a> - (02/14/2012) - Explore on your phoneto find the nearest chocolates, flowers, or cupcakes on the way to your date tonight. (Try searching cozy, romantic, or delicious if youre still looking for a place to go! ) Good luck!
      </li>
@@ -34,7 +34,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the Facebook Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://working.laneworks.net/gather/">Early Success Stories: Timeline Apps and Open Graph</a> - (02/15/2012) - img. border { border-width: 1px; border-style: solid; border-color: CCCCCC;} There should be an app for everyone on Facebook, and people are quickly starting to use the apps you build to experience all of the things they love shopping, reading books, eating and traveling with their friends. A few weeks ago, more than 60 new timeline apps went live. These apps - many in the lifestyle category - broadened what was available to people on Facebook beyond the music, news and video apps that were introduced at f8 in September. Music apps like Spotify, Songza and Deezer are seeing dramatic increases in sharing and music discovery.
      </li>
@@ -57,7 +57,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="Google Geo Developers Blog" href="http://feeds.feedburner.com/blogspot/Gkaos">Google Geo Developers</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/blogspot/Gkaos/~3/s3z3zmP1PZs/fab-friday-three-quick-links.html">Fab Friday: Three Quick Links</a> - (02/10/2012) - Google Vector Layers: Google Vector Layers allows you to easily add one or more vector layers from a number of different geo web services to a Google Maps API based application.
      </li>
@@ -68,7 +68,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>Processing Twitter for Factual</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>(02/15/2012)</strong> <a href="https://twitter.com/!/factual/status/169876226792624128%3ELooking%20forward%20to%20hosting%20tomorrow%20night's%20LA%20Scalability%20Meetup.%20Still%20time%20to%20RSVP%20if%20you'd%20like%20to%20join%20us%20http://t.co/hvyUVSuE%3C/a%3E%3Cbr%20/%3E%3Cstrong%3E(02/13/2012)%3C/strong%3E%20%3Ca%20href=">Great news for Haskell fans. Thanks to @rudyl313 there's now a Haskell driver for the Factual API. http://t.co/L1URmXEm</a>
      </li>
@@ -79,7 +79,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>From the <a title="InfoChimps Blog" href="http://feeds.feedburner.com/infochimps-blog">InfoChimps</a> Blog</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <a href="http://feedproxy.google.com/~r/infochimps-blog/~3/BxtCu0luhgI/">Infochimps at Strata Conference 2012</a> - (02/10/2012) - We’re excited to have our CTO, Flip Kromer presenting a talk at Strata Conference in Santa Clara later this month. The discussion centers arounddisambiguation. Now you might be wondering… what is disambiguation? Simply put, disambiguation is the process of resolving conflicts to remove ambiguity. We’ve discussed this topic a number of times in this blog and Flip will be presenting on how this concept affects the way we ask questions and find answers about Big Data. For more details on the talk, check out the Strata schedule.
      </li>
@@ -87,7 +87,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>Processing Twitter for InfoChimps</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>(02/10/2012)</strong> <a href="https://twitter.com/!/infochimps/status/168104925618913280%3EInfochimps%20at%20Strata%20Conference%202012%20http://t.co/CtRuMDr7%3C/a%3E%3Cbr%20/%3E%3Cstrong%3E(02/10/2012)%3C/strong%3E%20%3Ca%20href=">We are super pumped for @StrataConf coming up later this month! Who else is going? http://t.co/QM16uu9c</a>
      </li>
@@ -107,7 +107,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>Processing Twitter for InfoGroup</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>(02/14/2012)</strong> <a href="https://twitter.com/!/Infogroup/status/169493944315551745%3EYesmail%20Market%20Intelligence%20Solution%20Launched%20Today!%20http://t.co/DT2GsYrK%20via%20@BusinessWire%3C/a%3E%3Cbr%20/%3E%3Cstrong%3E(02/14/2012)%3C/strong%3E%20%3Ca%20href=">.@dmnews Agree. Analytics and modeling are key to addressing big data. Transactional data help can narrow the field. twittues</a>
      </li>
@@ -124,7 +124,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>Processing Twitter for Acxiom</strong>
 </p>
-<ul class="mainlist">
+<ul>
      <li>
           <strong>(02/14/2012)</strong> <a href="https://twitter.com/!/Acxiom/status/169475695590907904%3ETake%20our%20survey%20on%20how%20data/analytics%20drive%20customer%20loyalty%20by%202/16%20for%20a%20chance%20to%20win%20a%20Kindle%20Fire!%20http://t.co/a6bgGeKZ%20via%20@loyalty360%3C/a%3E%3Cbr%20/%3E%3Cstrong%3E(02/13/2012)%3C/strong%3E%20%3Ca%20href=">CMOs who want a seat at the table will have to harness customer data and leverage it http://t.co/0kjKwXGs via @adage</a>
      </li>
