@@ -6,8 +6,4 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <strong>From the <a href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>
-<ul class="mainlist">
-     <li>
-          hello
-     </li>
-</ul><strong>From the <a href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
+<strong>From the <a href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
