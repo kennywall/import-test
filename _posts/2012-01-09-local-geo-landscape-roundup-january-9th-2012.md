@@ -23,3 +23,20 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      </li>
 </ul>
 <p>From the <a title="Fwix" href="http://blog.fwix.com/">Fwix</a> Blog</p>
+<ul>
+     <li>
+          <a href="https://twitter.com/!/Fwix/status/152105275241926656%3E@marshallk%20thanks%20for%20pointing%20@cynapse%20to%20us!%20@cynapse%20if%20you%20have%20any%20questions%20on%20our%20API,%20please%20let%20us%20know%20and%20happy%20to%20help.%3C/a%3E%3Cbr%20/%3E%3C/blockquote%3E%3Cstrong%3EProcessing%20RSS%20for%20InfoChimps%3C/strong%3E%3Cbr%20/%3E%3Cblockquote%3E%3Ca%20href=">More Facebook Users than Buddhists</a>- (12-27-2011) - Check out this neat visualization of different gatherings of people. Size of the bubble represents population and colors represent different types of gatherings, including religions, countries, online services and mass fatalities.
+     </li>
+</ul>Tweets from <a title="InfoChimps" href="https://twitter.com/!/infochimps">InfoChimps</a>
+<ul>
+     <li>(12-29-2011) 10 Trends for Online Marketers in 2012 <a href="http://t.co/IQv5x3EN">http://t.co/IQv5x3EN</a> via @entmagazine
+     </li>
+     <li>(12-29-2011) Seven Ways Business Owners Can Beat the January Doldrums <a href="http://t.co/AUFwlWre">http://t.co/AUFwlWre</a> via @entmagazine
+     </li>
+     <li>(12-28-2011) 7 Ways To Regain Your Productivity : Managing :: American Express OPEN Forum <a href="http://t.co/38enNTwa">http://t.co/38enNTwa</a> via @OpenForum
+     </li>
+     <li>(12-27-2011) Meet your 2012 goals with help from our List Services, designed to help your business grow List Services <a href="http://t.co/LRQAcCib">http://t.co/LRQAcCib</a> via @infogroup
+     </li>
+     <li>(12-27-2011) How will Digital Change Small Business in 2012? <a href="http://t.co/kkmTx9M7">http://t.co/kkmTx9M7</a> via @mashbusiness @mashable
+     </li>
+</ul>
