@@ -41,3 +41,8 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <li>(12-27-2011) How will Digital Change Small Business in 2012? <a href="http://t.co/kkmTx9M7">http://t.co/kkmTx9M7</a> via @mashbusiness @mashable
      </li>
 </ul>
+<p>Tweets from <a title="Acxiom" href="https://twitter.com/!/Acxiom">Acxiom</a>/p>
+<ul>
+     <li>(12-29-2011) A look back on marketing trends of 2011 - new media, social CRM, and more - and questions for what's to come in 2012 <a href="http://t.co/P2R6KtoE">http://t.co/P2R6KtoE</a>
+     </li>
+</ul>
