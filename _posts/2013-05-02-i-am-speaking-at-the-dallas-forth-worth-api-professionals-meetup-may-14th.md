@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
 ---
 {% include JB/setup %}
 <p>
-     <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/events/dfw-api-meetup-group/dfw-api-meetup-group.jpeg"  width="200" align="right"></a>
+     <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/"><img src="https://s3.amazonaws.com/kinlane-productions/events/dfw-api-meetup-group/dfw-api-meetup-group.jpeg"  width="200" align="right"></a>
 </p>
 <p>
      Hey everyone. I'm heading out to the Dallas-Fort Worth area the week after next, Tuesday, May 14, to kick off the <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/">DFW API Professionals Meetup</a>.
@@ -23,7 +23,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
 <p>
      Look forward to seeing you there and connecting.
 </p>
-<table cellspacing="1" cellpadding="5" width="95%">     
+<table cellspacing="1" cellpadding="5" width="95%">
+     <tbody>
           <tr>
                <td align="center">
                     <a title="TheRightAPI" href="http://www.therightapi.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png"  width="200"></a>
@@ -31,5 +32,6 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/dfw-
                <td align="center">
                     <a title="Proxomo" href="http://www.proxomo.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/serviceproviders/Proxomo-Logo.png"  width="200"></a>
                </td>
-          </tr>    
+          </tr>
+     </tbody>
 </table>
