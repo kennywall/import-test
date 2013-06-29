@@ -8,7 +8,7 @@ title: Kin Lane
 {% for post in paginator.posts %}
 <div class="post">
     
-    <p><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h3><strong>{{ post.title }}</strong></h3></a>
+    <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h3><strong>{{ post.title }}</strong></h3></a>
     <p><i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span> at <a href="http:{{ post.domain }}" target="_blank">{{ post.domain }}</a></strong></i></p>
     <p><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="150" align="right" /></a></p>
     <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
@@ -47,7 +47,17 @@ specified separately) -->
         <a href="/">1</a>
       </li>
     {% endif %}
-    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    {% for count in (2..10) %}
+      {% if count == paginator.page %}
+        <li class="active">
+          <a href="#">{{count}}</a>
+        </li>
+      {% else %}
+        <li>
+          <a href="/page{{count}}">{{count}}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
     {% if paginator.next_page %}
       <li>
         <a href="/page{{paginator.next_page}}">&raquo;</a>
@@ -59,3 +69,4 @@ specified separately) -->
     {% endif %}
   </ul>
 </div>
+
