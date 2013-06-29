@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="API O Mat" href="http://singlyblog.wordpress.com/wp-admin/url%20in%20/var/www/html/landscape-monitoring/in-case-you-missed-it.php%20on%20line%20258"><img src="https://s3.amazonaws.com/kinlane-productions/baas/apiomat-icon.png"  width="40" align="left" /></a>
+                    <a title="API O Mat" href="http://singlyblog.wordpress.com/wp-admin/url%20in%20/var/www/html/landscape-monitoring/in-case-you-missed-it.php%20on%20line%20258"><img src="https://s3.amazonaws.com/kinlane-productions/baas/apiomat-icon.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="API O Mat" href="http://singlyblog.wordpress.com/wp-admin/url%20in%20/var/www/html/landscape-monitoring/in-case-you-missed-it.php%20on%20line%20259"><strong>API O Mat</strong></a>
@@ -25,7 +25,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Appcelerator" href="http://developer.appcelerator.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/appcelerator.jpeg"  width="40" align="left" /></a>
+                    <a title="Appcelerator" href="http://developer.appcelerator.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/appcelerator.jpeg"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Appcelerator" href="http://developer.appcelerator.com/"><strong>Appcelerator</strong></a>
@@ -45,7 +45,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Firebase" href="http://www.firebase.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/firebase-logo-blog.png"  width="40" align="left" /></a>
+                    <a title="Firebase" href="http://www.firebase.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/firebase-logo-blog.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Firebase" href="http://www.firebase.com/"><strong>Firebase</strong></a>
@@ -61,7 +61,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Flurry" href="http://www.flurry.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/flurry-icon.png"  width="40" align="left" /></a>
+                    <a title="Flurry" href="http://www.flurry.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/flurry-icon.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Flurry" href="http://www.flurry.com/"><strong>Flurry</strong></a>
@@ -77,7 +77,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="mobeelizer" href="http://www.mobeelizer.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/mobeelizer.png"  width="40" align="left" /></a>
+                    <a title="mobeelizer" href="http://www.mobeelizer.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/mobeelizer.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="mobeelizer" href="http://www.mobeelizer.com/"><strong>mobeelizer</strong></a>
@@ -93,7 +93,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Parse" href="https://parse.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/parse.png"  width="40" align="left" /></a>
+                    <a title="Parse" href="https://parse.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/parse.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Parse" href="https://parse.com/"><strong>Parse</strong></a>
@@ -111,7 +111,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Sencha.io" href="http://www.sencha.com/products/io/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/sencha-io.png"  width="40" align="left" /></a>
+                    <a title="Sencha.io" href="http://www.sencha.com/products/io/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/sencha-io.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Sencha.io" href="http://www.sencha.com/products/io/"><strong>Sencha.io</strong></a>
@@ -127,7 +127,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td width="35" valign="middle">
-                    <a title="Tiggzi" href="http://tiggzi.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/tiggzi.png"  width="40" align="left" /></a>
+                    <a title="Tiggzi" href="http://tiggzi.com/"><img src="https://s3.amazonaws.com/kinlane-productions/baas/tiggzi.png"  width="40" align="left"></a>
                </td>
                <td align="left" valign="middle">
                     <a title="Tiggzi" href="http://tiggzi.com/"><strong>Tiggzi</strong></a>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/idri
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://evs.idrive.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IDrive/IDrive-EVS.png"  width="150" align="right" /></a>
+     <a href="http://evs.idrive.com/"><img src="http://kinlane-productions.s3.amazonaws.com/IDrive/IDrive-EVS.png"  width="150" align="right"></a>
 </p>
 <p>
      As more of our lives move online, into the clouds, <a title="encrypted backup and storage" href="http://evs.idrive.com/">encrypted backup and storage</a> of not just our vital data, but our personal photos, files and streams is becoming critical--this responsibility to provide secure cloud storage and backup solutions is up to developers of the software, people use every day.

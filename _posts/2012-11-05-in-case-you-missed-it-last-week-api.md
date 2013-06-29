@@ -9,7 +9,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  /></a>
+                    <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png" ></a>
                </td>
                <td>
                     <a title="Foursquare" href="https://singly.com/docs/foursquare"><strong>Foursquare</strong></a>
@@ -27,7 +27,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="LinkedIn" href="https://singly.com/docs/linkedin"><img src="https://singly.com/images/service_icons/linkedin.png"  /></a>
+                    <a title="LinkedIn" href="https://singly.com/docs/linkedin"><img src="https://singly.com/images/service_icons/linkedin.png" ></a>
                </td>
                <td>
                     <a title="LinkedIn" href="https://singly.com/docs/linkedin"><strong>LinkedIn</strong></a>
@@ -43,7 +43,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Runkeeper" href="https://singly.com/docs/runkeeper"><img src="https://singly.com/images/service_icons/runkeeper.png"  /></a>
+                    <a title="Runkeeper" href="https://singly.com/docs/runkeeper"><img src="https://singly.com/images/service_icons/runkeeper.png" ></a>
                </td>
                <td>
                     <a title="Runkeeper" href="https://singly.com/docs/runkeeper"><strong>Runkeeper</strong></a>
@@ -59,7 +59,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  /></a>
+                    <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png" ></a>
                </td>
                <td>
                     <a title="Tumblr" href="https://singly.com/docs/tumblr"><strong>Tumblr</strong></a>
@@ -75,7 +75,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Twitter" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/twitter.png"  /></a>
+                    <a title="Twitter" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/twitter.png" ></a>
                </td>
                <td>
                     <a title="Twitter" href="https://singly.com/docs/tumblr"><strong>Twitter</strong></a>
@@ -93,7 +93,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <tbody>
           <tr>
                <td>
-                    <a title="Withings" href="https://singly.com/docs/withings"><img src="https://singly.com/images/service_icons/withings.png"  /></a>
+                    <a title="Withings" href="https://singly.com/docs/withings"><img src="https://singly.com/images/service_icons/withings.png" ></a>
                </td>
                <td>
                     <a title="Withings" href="https://singly.com/docs/withings"><strong>Withings</strong></a>

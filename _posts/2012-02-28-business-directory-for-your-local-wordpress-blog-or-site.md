@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/wordpress.jpg"  width="200" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/wordpress.jpg"  width="200" align="right">
 </p>
 <p>
      I finished the first version of a <a title="business directory wordpress plugin" href="http://wordpress-local-directory.hyp3rl0cal.com/">business directory WordPress plugin</a> that you can use to deploy a local directory for your Wordpress site or blog. I wanted to make an easy way for non-developers, to launch a local directory for one or multiple business categories.
@@ -26,16 +26,16 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/word
      To install the CityGrid Hyp3rL0cal Wordpress Plugin you have two options:
 </p>
 <ul class="mainlist">
-     <li>Search for it and install using the Plugin Search in <span style="text-decoration: underline;">your Wordpress site (this is the easiest).
+     <li>Search for it and install using the Plugin Search in your Wordpress site (this is the easiest).
      </li>
-     <li>Download it from the <a title="CityGrid Hyp3rL0cal Wordpress Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-wordpress-plugin/">Wordpress plugin directory</a> or via <a title="CityGrid hyp3rl0cal Wordpress Plugin on Github" href="https://github.com/kinlane/Hyp3rL0cal-Wordpress-Plugin">Github</a>, and upload using the "plugin upload" in <span style="text-decoration: underline;">your Wordpress site.
+     <li>Download it from the <a title="CityGrid Hyp3rL0cal Wordpress Plugin" href="http://wordpress.org/extend/plugins/hyp3rl0cal-wordpress-plugin/">Wordpress plugin directory</a> or via <a title="CityGrid hyp3rl0cal Wordpress Plugin on Github" href="https://github.com/kinlane/Hyp3rL0cal-Wordpress-Plugin">Github</a>, and upload using the "plugin upload" in your Wordpress site.
      </li>
 </ul>
 <p>
      Once installed you should see a new menu in your Wordpress admin menu, called CityGrid. It contains an overview of the plugin and a setting page for configuring your Wordpress directory.
 </p>
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/citygrid/citygrid_logo.jpg"  width="250" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/citygrid/citygrid_logo.jpg"  width="250" align="right">
 </p>
 <p>
      Using the settings page you can configure five elements of your local business directory:

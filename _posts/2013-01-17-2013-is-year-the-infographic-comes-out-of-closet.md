@@ -12,10 +12,10 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/chec
      <tbody>
           <tr>
                <td align="center">
-                    <a href="https://marketplace.visual.ly/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/infographics/visually-infographic.gif"  width="300" /></a>
+                    <a href="https://marketplace.visual.ly/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/infographics/visually-infographic.gif"  width="300"></a>
                </td>
                <td>
-                    <a href="http://alaskarobotics.com/2013/01/07/check-your-facts-and-cite-your-sources/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/infographics/check-your-facts-525x655.jpg"  width="250" /></a>
+                    <a href="http://alaskarobotics.com/2013/01/07/check-your-facts-and-cite-your-sources/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/infographics/check-your-facts-525x655.jpg"  width="250"></a>
                </td>
           </tr>
      </tbody>

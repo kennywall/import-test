@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Stac
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/stack-overflow/Stack-OverFlow-Careers-20-Kin-Lane.png"  width="300" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/stack-overflow/Stack-OverFlow-Careers-20-Kin-Lane.png"  width="300" align="right">
 </p>
 <p>
      I received an email from Stack Overflow today asking me to fill out a new <a href="http://careers.stackoverflow.com/">Careers 2.0</a> profile today.  After finishing I have to say, they provide a very slick process for populating <a title="Kin Lane" href="http://careers.stackoverflow.com/kinlane">my profile</a>, in a meaningful way, that was very easy, and is an approach other networks need to adopt.
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Stac
      Using Github I’m able to import repositories that I’m currently maintaining via the social coding platform. Stack Overflow allows me to choose which repositories I to show, displaying the name, description, date repository was created and other vital statistics like number of followers and times it was forked.
 </p>
 <p>
-     Next I click on the connect to LinkedIn, and I can select from my work history and display my resume as I’ve built it on LinkedIn. This really helps, as LinkedIn is the <span style="text-decoration: underline;">only place I maintain my work history. Using LinkedIn via the API centrally like this, just make sense.
+     Next I click on the connect to LinkedIn, and I can select from my work history and display my resume as I’ve built it on LinkedIn. This really helps, as LinkedIn is the only place I maintain my work history. Using LinkedIn via the API centrally like this, just make sense.
 </p>
 <p>
      After Github and LinkedIn I’m able to add books that I’ve written or influenced me using the Amazon API. Additionally you can link to your Stack Exchange profile and fill out entries for your education, certifications as well as what you’re reading, apps and tools you use.

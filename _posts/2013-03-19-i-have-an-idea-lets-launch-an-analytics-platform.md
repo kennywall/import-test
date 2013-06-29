@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/anal
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/analytics-trend.jpg"  width="250" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/analytics-trend.jpg"  width="250" align="right">
 </p>
 <p>
      During my monitoring for the <a href="http://theapistack.com">API stack</a> this last week, I noticed that both <a href="http://blog.parse.com/2013/03/18/introducing-push-analytics-improved-insight-into-push-campaigns/" target="_blank">Parse</a> and <a href="http://newrelic.com/mobile-monitoring" target="_blank">New Relic</a> had launched mobile analytics platforms. I’ve been tracking on various <a href="http://apievangelist.com/2013/03/04/next-generation-of-api-driven-analytics-and-visualizations/">API driven analytics platforms</a>, and after seeing both Parse and New Relic launch their offerings, I thought, who else is doing this?

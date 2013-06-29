@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traf
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://trafficandweather.io/" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"  width="200" align="right" /></a>
+     <a href="http://trafficandweather.io/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/traffic-and-weather/Traffic-and-Weather.png"  width="200" align="right"></a>
 </p>
 <p>
      I was finally catching up on all my podcasts this week, which includes <a href="http://trafficandweather.io/">Traffic and Weather</a>, which is an always informative source of news and commentary podcast about APIs and the cloud hosted by <a href="http://twitter.com/smarx">@smarx</a> and <a href="http://twitter.com/johnsheehan">@johnsheehan</a> 
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Traf
      I read the original article back in March, jotted down some notes, but really didn't trigger much beyond that.  After listening to him talk about the post, it renewed some very interesting points for me--which I'm working through an dyou will see in future blog posts.  
 </p>
 <p>
-     It <span style="text-decoration: underline;">is a lot of work to craft a good quality blog posts that conveys difficult and often abstract API concepts to a wide audience.  <a href="http://apievangelist.com/2013/02/01/traffic-and-weather-virtualized-api-stacks/">I struggle with getting my ideas across, as well as coherency in much of my writing</a>. This got me thinking, maybe as part of my storytelling process I can try to work in an audio version, of me walking my readers (listeners) through it.
+     It is a lot of work to craft a good quality blog posts that conveys difficult and often abstract API concepts to a wide audience.  <a href="http://apievangelist.com/2013/02/01/traffic-and-weather-virtualized-api-stacks/">I struggle with getting my ideas across, as well as coherency in much of my writing</a>. This got me thinking, maybe as part of my storytelling process I can try to work in an audio version, of me walking my readers (listeners) through it.
 </p>
 <p>
      I'm not talking about something that reads the post to you. I'm talking about, me, actually walking you through the subject matter and post.  We'll see.  It is something I likely won't have time for with each post, but it would fun to try.  

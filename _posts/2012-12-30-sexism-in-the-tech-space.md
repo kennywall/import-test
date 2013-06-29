@@ -6,13 +6,13 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/kin-
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-serious.jpg"  width="250" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-serious.jpg"  width="250" align="right">
 </p>
 <p>
      I just finished reading <a href="http://asherwolf.net/dear-hacker-community-we-need-to-talk/101/">Asher Wolf’s Dear Hacker Community – We Need To Talk</a>. I have so many emotions bubbling up, it’s hard to know how to organize them. I envy her for being able to express them so eloquently and in detail.
 </p>
 <p>
-     First, before I cycle through some of my emotions. Please don’t leave the space Asher. <span style="text-decoration: underline;">Keep fighting, we need you!
+     First, before I cycle through some of my emotions. Please don’t leave the space Asher. Keep fighting, we need you!
 </p>
 <p>
      Ok, now let me cycle through and process some of my own feelings on this. My first reaction is similar to when I read the <a href="http://www.hackeducation.com/2011/10/28/codecademy-and-the-future-of-not-learning-to-code/">comments on Audrey’s blog</a>, when she challenges the hacker community on things--I want to feel my big black boot up against their head. I miss the days when I could deal with problems that way. I would challenge any of you piss ant commenters to come say that shit to her face.  You can't. Because your a worthless sack o shit, I wouldn't even need to kick your ass, she does just fine on her own.

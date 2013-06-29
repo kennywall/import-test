@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/city
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://digital.cityofchicago.org/" target="_blank"><img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/city/chicago/city-of-chicago-detail.jpg"  width="150" align="right" /></a>
+     <a href="http://digital.cityofchicago.org/" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/city/chicago/city-of-chicago-detail.jpg"  width="150" align="right"></a>
 </p>
 <p>
      Github is not just a site for managing code, for use by programmers. The platform can host code, data, markup, markdown and files like images, pdf, etc. Basically anything you can store in a file, and apply versioning to, you can put Github to work, helping you manage collaboration and the assets evolution.
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/city
      The move to Github goes beyond just making street locations, building footprints, bike routes, pedway routes and bike rack locations open for download and reuse. It will make the process of maintaining city data a public affair, allowing citizens to get involved, and empowering them to add and fix any incorrect data.
 </p>
 <p>
-     <img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/city/chicago/chicago-map-image.gif"  width="250" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/city/chicago/chicago-map-image.gif"  width="250" align="right">
 </p>
 <p>
      Github will make the process of maintaining valuable city data, something city workers, public partners and citizens do together. I envision a future where citizens can stop complaining about government bureaucracy and actually can roll up their sleeves and do something about it.

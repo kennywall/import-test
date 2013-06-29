@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/ruby
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-ruby.png"  width="200" align="right" />
+     <img src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-ruby.png"  width="200" align="right">
 </p>
 <p>
      <a href="http://www.idrive.com/">IDrive</a> just finished a set of Ruby samples complete with full library you can use when developing your encrypted, versioned cloud storage for your web application, using IDrive EVS REST API.

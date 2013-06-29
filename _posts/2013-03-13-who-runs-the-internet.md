@@ -53,7 +53,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-
      <li>
           <strong><a href="http://irtf.org" target="_blank">IRTF</a></strong> - Internet Research Task Force - Promotes research of the evolution of the Internet by creating focused, long-term research groups working on topics related to Internet protocols, applications, architecture and technology
      </li>
-     <li style="list-style: none">Governments and Inter-Governmental Organizations - Develop laws, regulations and policies applicable to the Internet within their jurisdictions; participants in multilateral and multi-stakeholder regional and internal fora on Internet Governance
+     <li>Governments and Inter-Governmental Organizations - Develop laws, regulations and policies applicable to the Internet within their jurisdictions; participants in multilateral and multi-stakeholder regional and internal fora on Internet Governance
      </li>
      <li>
           <strong><a href="http://iso.org/iso/country_codes.htm" target="_blank">ISO 3166 MA</a></strong> - International ORganization for Standardization, Maintenance Agency - Defines names and postal codes of countries, dependent territories, special areas of geographic significance
@@ -72,5 +72,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/who-
      </li>
 </ul>
 <p>
-     <a href="http://www.icann.org/sites/default/files/assets/governance-2500x1664-08mar13-en.png" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/icann/who-runs-the-internet-infographic.jpg"  width="550" /></a>
+     <a href="http://www.icann.org/sites/default/files/assets/governance-2500x1664-08mar13-en.png" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/icann/who-runs-the-internet-infographic.jpg"  width="550"></a>
 </p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/simp
 ---
 {% include JB/setup %}
 <p>
-     <img class="aligncenter size-medium wp-image-493" title="simplegeo-to-citygrid" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-to-citygrid-300x132.png"  width="300" height="132" align="right" />With <a title="Urban Airship shutting down SimpleGeo" href="http://www.citygridmedia.com/developer/blog/urban-airship-shutting-down-simplegeo/">Urban AirShip shutting down SimpleGeo</a> there are many developers left with the decision of where to go next, to get their places data, as well as context, storage and geocoding services.
+     <img class="aligncenter size-medium wp-image-493" title="simplegeo-to-citygrid" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/simplegeo-to-citygrid-300x132.png"  width="300" height="132" align="right">With <a title="Urban Airship shutting down SimpleGeo" href="http://www.citygridmedia.com/developer/blog/urban-airship-shutting-down-simplegeo/">Urban AirShip shutting down SimpleGeo</a> there are many developers left with the decision of where to go next, to get their places data, as well as context, storage and geocoding services.
 </p>
 <p>
      <a href="http://www.citygrid.com/">CityGrid</a> does not provide context, storage and geocoding services, but we can provide rich places data that developers can use in their web and mobile applications.

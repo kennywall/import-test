@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/city
 ---
 {% include JB/setup %}
 <p>
-     <img class="alignnone" title="CityGrid Logo" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg"  width="250" align="right" />I wanted a way to make the rich content available via <a title="CityGrid APIs" href="http://developer.citygridmedia.com/">CityGrid APIs</a> accessible to anyone, even if you weren't a developer.
+     <img class="alignnone" title="CityGrid Logo" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg"  width="250" align="right">I wanted a way to make the rich content available via <a title="CityGrid APIs" href="http://developer.citygridmedia.com/">CityGrid APIs</a> accessible to anyone, even if you weren't a developer.
 </p>
 <p>
      CityGrid has some great <a title="iOS and Android software development kits (SDK) available for building local, mobile applications" href="http://docs.citygridmedia.com/display/citygridv2/SDKs">iOS and Android software development kits (SDK) available for building local, mobile applications</a>.
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/city
      WordPress seemed like the perfect next step to reach a larger audience, so I took the PHP <a title="Hyp3rL0cal" href="/">Hyp3rL0cal</a> directory that uses <a title="CityGrid Places API" href="http://docs.citygridmedia.com/display/citygridv2/Places+API">CityGrid Places API</a>, and deployed it as a Wordpress Plugin.
 </p>
 <p>
-     <img class="alignnone" title="CityGrid Logo" src="http://kinlane-productions.s3.amazonaws.com/citygrid/CityGrid.png"  width="325" align="right" />Now you can launch a quick section on your Wordpress blog or site that allows you to display businesses for your area, in whatever category you wish.
+     <img class="alignnone" title="CityGrid Logo" src="http://kinlane-productions.s3.amazonaws.com/citygrid/CityGrid.png"  width="325" align="right">Now you can launch a quick section on your Wordpress blog or site that allows you to display businesses for your area, in whatever category you wish.
 </p>
 <p>
      This <a title="CityGrid Hyp3rL0cal Wordpress Plugin" href="http://wordpress-local-directory.hyp3rl0cal.com/">CityGrid Hyp3rL0cal Wordpress Plugin</a> is meant to be a project that developers can learn from and even deploy their own local WordPress Plugins that use CityGrid APIs.  However its completely functional and could be deployed by any non-developer as well.

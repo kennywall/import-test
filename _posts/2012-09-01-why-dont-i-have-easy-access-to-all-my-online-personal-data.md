@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/facebook/Facebook+Download+Your+Archive.png"  width="300" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/facebook/Facebook+Download+Your+Archive.png"  width="300" align="right">
 </p>
 <p>
      I was just downloading all of my Facebook data. You can <a href="https://www.facebook.com/download">go under your account settings and there is a little link</a> that lets you download everything.  It takes some time to generate a full archive, but once my archive is ready, they’ll email me and I can get at my data and see what the download format looks like.
@@ -31,7 +31,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      I use all six of these services daily. It bums me out that I can’t get out my own data. Of course all of these services have an API, which allows developers to get at my data, but even <a title="Twitter’s API doesn’t give me full access to all my accounts data" href="http://apivoice.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/">Twitter’s API doesn’t give me full access to all my accounts data</a>.
 </p>
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-My-Recipes.png"  width="300" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/IFTTT-My-Recipes.png"  width="300" align="right">
 </p>
 <p>
      I want access to a data store of all my <a title="Facebook" href="https://www.singly.com/docs/facebook">Facebook</a>, <a title="Google" href="https://www.singly.com/docs/gcontacts">Google</a>, <a title="Twitter" href="https://www.singly.com/docs/twitter">Twitter</a>, <a title="Instagram" href="https://www.singly.com/docs/instagram">Instagram</a>, <a title="Foursquare" href="https://www.singly.com/docs/foursquare">Foursquare</a> and <a title="LinkedIn" href="https://www.singly.com/docs/linkedin">LinkedIn</a> data in a single location. There are software available trying to solve this problem such as <a title="ThinkUp" href="http://thinkupapp.com/">ThinkUp</a> or <a title="The Locker Project" href="http://lockerproject.org/">The Locker Project</a>. As with APIs, these solutions require you to be a developer. (I see ThinkUp has a cloud solution now)

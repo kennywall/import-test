@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png"  width="125" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo.png"  width="125" align="right">
 </p>
 <p>
      I’m moving all my side projects to run on Github as open source repositories. One of my goals in doing this, is to facilitate engagement around my projects, as opposed to developing them in isolation.
@@ -29,7 +29,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
      </li>
 </ol>
 <p>
-     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/disqus/disqus-logo.gif"  width="200" align="right" />
+     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/disqus/disqus-logo.gif"  width="200" align="right">
 </p>
 <p>
      In 2013 my goal is to make sure all projects use this format by default. It really isn’t any more work than what I’m doing now--with a huge amount of benefits.

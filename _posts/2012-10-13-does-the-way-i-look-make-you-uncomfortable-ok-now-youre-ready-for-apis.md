@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Kin-
 ---
 {% include JB/setup %}
 <p>
-     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png"  width="200" align="right" />
+     <img src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png"  width="200" align="right">
 </p>
 
 <p>

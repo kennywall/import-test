@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Twit
 ---
 {% include JB/setup %}
 <p>
-     <a title="Twitter Boostrap" href="http://twitter.github.com/bootstrap/" target="_blank"><img class="aligncenter size-full wp-image-563" title="Twitter-Bootstrap-Bird" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Twitter-Bootstrap-Bird.png"  width="250" align="right" /></a>I’m a web application developer. I can efficiently build web applications, but when it comes to the UI, I know what looks good, but I struggle to actually implement a consistent look and feel.
+     <a title="Twitter Boostrap" href="http://twitter.github.com/bootstrap/" target="_blank"><img class="aligncenter size-full wp-image-563" title="Twitter-Bootstrap-Bird" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/01/Twitter-Bootstrap-Bird.png"  width="250" align="right"></a>I’m a web application developer. I can efficiently build web applications, but when it comes to the UI, I know what looks good, but I struggle to actually implement a consistent look and feel.
 </p>
 <p>
      Usually in a weekend I can throw together a pretty complete app, but when I try to make it look good it can take weeks, and often even kills a project before it get going.
