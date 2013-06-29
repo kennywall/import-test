@@ -53,7 +53,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      I see things as grey, and try to empathize and understand with all the shades of grey:
 </p>
-<table class="c">
+<table>
 <tr><th width="15%">black (Safe 16 SVG Hex3)</th><th width="5%">#000000</th><td bgcolor="#000000">&nbsp;</td><th width="15%">gray1</th><th width="5%">#030303</th><td bgcolor="#030303">&nbsp;</td><th width="15%">gray2</th><th width="5%">#050505</th><td bgcolor="#050505">&nbsp;</td></tr>
 <tr><th>gray3</th><th>#080808</th><td bgcolor="#080808">&nbsp;</td><th>gray4</th><th>#0A0A0A</th><td bgcolor="#0A0A0A">&nbsp;</td><th>gray5</th><th>#0D0D0D</th><td bgcolor="#0D0D0D">&nbsp;</td></tr>
 <tr><th>gray6</th><th>#0F0F0F</th><td bgcolor="#0F0F0F">&nbsp;</td><th>gray7</th><th>#121212</th><td bgcolor="#121212">&nbsp;</td><th>gray8</th><th>#141414</th><td bgcolor="#141414">&nbsp;</td></tr>
