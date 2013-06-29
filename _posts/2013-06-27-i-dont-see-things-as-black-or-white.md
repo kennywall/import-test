@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/pif/pif-smaller.jpg"  align="right">
+     <img style="padding: 15p;" src="https://s3.amazonaws.com/kinlane-productions/pif/pif-smaller.jpg"  align="right">
 </p>
 <p>
      As I prepare to go to Washington DC, to work with the Department of Veterans Affiars (VA), I'm spending a lot of time thinking about how I'll prepare for my year, working within the federal government.  
@@ -20,13 +20,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table>
      <tbody>
           <tr>
-               <th width="15%">
+               <th style="text-align: left;" width="15%">
                     black
                </th>
                <th width="5%">
                     #000000
                </th>
-               <td>
+               <td bgcolor="#000000">
                      
                </td>
           </tr>
@@ -38,13 +38,13 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table>
      <tbody>
           <tr>
-               <th width="15%">
+               <th style="text-align: left;" width="15%">
                     white
                </th>
                <th width="5%">
                     #FFFFFF
                </th>
-               <td>
+               <td bgcolor="#FFFFFF">
                      
                </td>
           </tr>
@@ -62,7 +62,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #080808
                </th>
-               <td>
+               <td bgcolor="#080808">
                      
                </td>
                <th>
@@ -71,7 +71,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #0A0A0A
                </th>
-               <td>
+               <td bgcolor="#0A0A0A">
                      
                </td>
                <th>
@@ -80,7 +80,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #0D0D0D
                </th>
-               <td>
+               <td bgcolor="#0D0D0D">
                      
                </td>
           </tr>
@@ -91,7 +91,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #0F0F0F
                </th>
-               <td>
+               <td bgcolor="#0F0F0F">
                      
                </td>
                <th>
@@ -100,7 +100,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #121212
                </th>
-               <td class="c9">
+               <td bgcolor="#121212">
                      
                </td>
                <th>
@@ -109,7 +109,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #141414
                </th>
-               <td class="c10">
+               <td bgcolor="#141414">
                      
                </td>
           </tr>
@@ -120,7 +120,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #171717
                </th>
-               <td class="c11">
+               <td bgcolor="#171717">
                      
                </td>
                <th>
@@ -129,7 +129,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #1A1A1A
                </th>
-               <td class="c12">
+               <td bgcolor="#1A1A1A">
                      
                </td>
                <th>
@@ -138,7 +138,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #1C1C1C
                </th>
-               <td class="c13">
+               <td bgcolor="#1C1C1C">
                      
                </td>
           </tr>
@@ -149,7 +149,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #1F1F1F
                </th>
-               <td class="c14">
+               <td bgcolor="#1F1F1F">
                      
                </td>
                <th>
@@ -158,7 +158,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #212121
                </th>
-               <td class="c15">
+               <td bgcolor="#212121">
                      
                </td>
                <th>
@@ -167,7 +167,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #242424
                </th>
-               <td class="c16">
+               <td bgcolor="#242424">
                      
                </td>
           </tr>
@@ -178,7 +178,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #262626
                </th>
-               <td class="c17">
+               <td bgcolor="#262626">
                      
                </td>
                <th>
@@ -187,7 +187,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #292929
                </th>
-               <td class="c18">
+               <td bgcolor="#292929">
                      
                </td>
                <th>
@@ -196,7 +196,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #2B2B2B
                </th>
-               <td class="c19">
+               <td bgcolor="#2B2B2B">
                      
                </td>
           </tr>
@@ -207,7 +207,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #2E2E2E
                </th>
-               <td class="c20">
+               <td bgcolor="#2E2E2E">
                      
                </td>
                <th>
@@ -216,7 +216,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #303030
                </th>
-               <td class="c21">
+               <td bgcolor="#303030">
                      
                </td>
                <th>
@@ -225,7 +225,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #333333
                </th>
-               <td class="c22">
+               <td bgcolor="#333333">
                      
                </td>
           </tr>
@@ -236,7 +236,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #363636
                </th>
-               <td class="c23">
+               <td bgcolor="#363636">
                      
                </td>
                <th>
@@ -245,7 +245,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #383838
                </th>
-               <td class="c24">
+               <td bgcolor="#383838">
                      
                </td>
                <th>
@@ -254,7 +254,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #3B3B3B
                </th>
-               <td class="c25">
+               <td bgcolor="#3B3B3B">
                      
                </td>
           </tr>
@@ -265,7 +265,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #3D3D3D
                </th>
-               <td class="c26">
+               <td bgcolor="#3D3D3D">
                      
                </td>
                <th>
@@ -274,7 +274,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #404040
                </th>
-               <td class="c27">
+               <td bgcolor="#404040">
                      
                </td>
                <th>
@@ -283,7 +283,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #424242
                </th>
-               <td class="c28">
+               <td bgcolor="#424242">
                      
                </td>
           </tr>
@@ -294,7 +294,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #454545
                </th>
-               <td class="c29">
+               <td bgcolor="#454545">
                      
                </td>
                <th>
@@ -303,7 +303,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #474747
                </th>
-               <td class="c30">
+               <td bgcolor="#474747">
                      
                </td>
                <th>
@@ -312,7 +312,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #4A4A4A
                </th>
-               <td class="c31">
+               <td bgcolor="#4A4A4A">
                      
                </td>
           </tr>
@@ -323,7 +323,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #4D4D4D
                </th>
-               <td class="c32">
+               <td bgcolor="#4D4D4D">
                      
                </td>
                <th>
@@ -332,7 +332,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #4F4F4F
                </th>
-               <td class="c33">
+               <td bgcolor="#4F4F4F">
                      
                </td>
                <th>
@@ -341,7 +341,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #525252
                </th>
-               <td class="c34">
+               <td bgcolor="#525252">
                      
                </td>
           </tr>
@@ -352,7 +352,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #555555
                </th>
-               <td class="c35">
+               <td bgcolor="#555555">
                      
                </td>
                <th>
@@ -361,7 +361,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #575757
                </th>
-               <td class="c36">
+               <td bgcolor="#575757">
                      
                </td>
                <th>
@@ -370,7 +370,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #595959
                </th>
-               <td class="c37">
+               <td bgcolor="#595959">
                      
                </td>
           </tr>
@@ -381,7 +381,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #5C5C5C
                </th>
-               <td class="c38">
+               <td bgcolor="#5C5C5C">
                      
                </td>
                <th>
@@ -390,7 +390,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #5E5E5E
                </th>
-               <td class="c39">
+               <td bgcolor="#5E5E5E">
                      
                </td>
                <th>
@@ -399,7 +399,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #616161
                </th>
-               <td class="c40">
+               <td bgcolor="#616161">
                      
                </td>
           </tr>
@@ -410,7 +410,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #636363
                </th>
-               <td class="c41">
+               <td bgcolor="#636363">
                      
                </td>
                <th>
@@ -419,7 +419,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #666666
                </th>
-               <td class="c42">
+               <td bgcolor="#666666">
                      
                </td>
                <th>
@@ -428,7 +428,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #696969
                </th>
-               <td class="c43">
+               <td bgcolor="#696969">
                      
                </td>
           </tr>
@@ -439,7 +439,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #696969
                </th>
-               <td class="c43">
+               <td bgcolor="#696969">
                      
                </td>
                <th>
@@ -448,7 +448,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #6B6B6B
                </th>
-               <td class="c44">
+               <td bgcolor="#6B6B6B">
                      
                </td>
                <th>
@@ -457,7 +457,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #6E6E6E
                </th>
-               <td class="c45">
+               <td bgcolor="#6E6E6E">
                      
                </td>
           </tr>
@@ -468,7 +468,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #707070
                </th>
-               <td class="c46">
+               <td bgcolor="#707070">
                      
                </td>
                <th>
@@ -477,7 +477,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #737373
                </th>
-               <td class="c47">
+               <td bgcolor="#737373">
                      
                </td>
                <th>
@@ -486,7 +486,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #757575
                </th>
-               <td class="c48">
+               <td bgcolor="#757575">
                      
                </td>
           </tr>
@@ -497,7 +497,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #787878
                </th>
-               <td class="c49">
+               <td bgcolor="#787878">
                      
                </td>
                <th>
@@ -506,7 +506,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #7A7A7A
                </th>
-               <td class="c50">
+               <td bgcolor="#7A7A7A">
                      
                </td>
                <th>
@@ -515,7 +515,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #7D7D7D
                </th>
-               <td class="c51">
+               <td bgcolor="#7D7D7D">
                      
                </td>
           </tr>
@@ -526,7 +526,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #808080
                </th>
-               <td class="c52">
+               <td bgcolor="#808080">
                      
                </td>
                <th>
@@ -535,7 +535,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #7F7F7F
                </th>
-               <td class="c53">
+               <td bgcolor="#7F7F7F">
                      
                </td>
                <th>
@@ -544,7 +544,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #808080
                </th>
-               <td class="c52">
+               <td bgcolor="#808080">
                      
                </td>
           </tr>
@@ -555,7 +555,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #828282
                </th>
-               <td class="c54">
+               <td bgcolor="#828282">
                      
                </td>
                <th>
@@ -564,7 +564,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #858585
                </th>
-               <td class="c55">
+               <td bgcolor="#858585">
                      
                </td>
                <th>
@@ -573,7 +573,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #878787
                </th>
-               <td class="c56">
+               <td bgcolor="#878787">
                      
                </td>
           </tr>
@@ -584,7 +584,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #8A8A8A
                </th>
-               <td class="c57">
+               <td bgcolor="#8A8A8A">
                      
                </td>
                <th>
@@ -593,7 +593,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #8C8C8C
                </th>
-               <td class="c58">
+               <td bgcolor="#8C8C8C">
                      
                </td>
                <th>
@@ -602,7 +602,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #8F8F8F
                </th>
-               <td class="c59">
+               <td bgcolor="#8F8F8F">
                      
                </td>
           </tr>
@@ -613,7 +613,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #919191
                </th>
-               <td class="c60">
+               <td bgcolor="#919191">
                      
                </td>
                <th>
@@ -622,7 +622,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #949494
                </th>
-               <td class="c61">
+               <td bgcolor="#949494">
                      
                </td>
                <th>
@@ -631,7 +631,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #969696
                </th>
-               <td class="c62">
+               <td bgcolor="#969696">
                      
                </td>
           </tr>
@@ -642,7 +642,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #999999
                </th>
-               <td class="c63">
+               <td bgcolor="#999999">
                      
                </td>
                <th>
@@ -651,7 +651,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #9C9C9C
                </th>
-               <td class="c64">
+               <td bgcolor="#9C9C9C">
                      
                </td>
                <th>
@@ -660,7 +660,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #9E9E9E
                </th>
-               <td class="c65">
+               <td bgcolor="#9E9E9E">
                      
                </td>
           </tr>
@@ -671,7 +671,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A1A1A1
                </th>
-               <td class="c66">
+               <td bgcolor="#A1A1A1">
                      
                </td>
                <th>
@@ -680,7 +680,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A3A3A3
                </th>
-               <td class="c67">
+               <td bgcolor="#A3A3A3">
                      
                </td>
                <th>
@@ -689,7 +689,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A6A6A6
                </th>
-               <td class="c68">
+               <td bgcolor="#A6A6A6">
                      
                </td>
           </tr>
@@ -700,7 +700,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A9A9A9
                </th>
-               <td class="c69">
+               <td bgcolor="#A9A9A9">
                      
                </td>
                <th>
@@ -709,7 +709,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A8A8A8
                </th>
-               <td class="c70">
+               <td bgcolor="#A8A8A8">
                      
                </td>
                <th>
@@ -718,7 +718,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #A9A9A9
                </th>
-               <td class="c69">
+               <td bgcolor="#A9A9A9">
                      
                </td>
           </tr>
@@ -729,7 +729,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #ABABAB
                </th>
-               <td class="c71">
+               <td bgcolor="#ABABAB">
                      
                </td>
                <th>
@@ -738,7 +738,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #AAAAAA
                </th>
-               <td class="c72">
+               <td bgcolor="#AAAAAA">
                      
                </td>
                <th>
@@ -747,7 +747,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #ADADAD
                </th>
-               <td class="c73">
+               <td bgcolor="#ADADAD">
                      
                </td>
           </tr>
@@ -758,7 +758,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #B0B0B0
                </th>
-               <td class="c74">
+               <td bgcolor="#B0B0B0">
                      
                </td>
                <th>
@@ -767,7 +767,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #B3B3B3
                </th>
-               <td class="c75">
+               <td bgcolor="#B3B3B3">
                      
                </td>
                <th>
@@ -776,7 +776,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #B5B5B5
                </th>
-               <td class="c76">
+               <td bgcolor="#B5B5B5">
                      
                </td>
           </tr>
@@ -787,7 +787,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #B8B8B8
                </th>
-               <td class="c77">
+               <td bgcolor="#B8B8B8">
                      
                </td>
                <th>
@@ -796,7 +796,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #BABABA
                </th>
-               <td class="c78">
+               <td bgcolor="#BABABA">
                      
                </td>
                <th>
@@ -805,7 +805,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #BDBDBD
                </th>
-               <td class="c79">
+               <td bgcolor="#BDBDBD">
                      
                </td>
           </tr>
@@ -816,7 +816,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #C0C0C0
                </th>
-               <td class="c80">
+               <td bgcolor="#C0C0C0">
                      
                </td>
                <th>
@@ -825,7 +825,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #BEBEBE
                </th>
-               <td class="c81">
+               <td bgcolor="#BEBEBE">
                      
                </td>
                <th>
@@ -834,7 +834,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #BFBFBF
                </th>
-               <td class="c82">
+               <td bgcolor="#BFBFBF">
                      
                </td>
           </tr>
@@ -845,7 +845,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #C2C2C2
                </th>
-               <td class="c83">
+               <td bgcolor="#C2C2C2">
                      
                </td>
                <th>
@@ -854,7 +854,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #C4C4C4
                </th>
-               <td class="c84">
+               <td bgcolor="#C4C4C4">
                      
                </td>
                <th>
@@ -863,7 +863,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #C7C7C7
                </th>
-               <td class="c85">
+               <td bgcolor="#C7C7C7">
                      
                </td>
           </tr>
@@ -874,7 +874,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #C9C9C9
                </th>
-               <td class="c86">
+               <td bgcolor="#C9C9C9">
                      
                </td>
                <th>
@@ -883,7 +883,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #CDCDCD
                </th>
-               <td class="c87">
+               <td bgcolor="#CDCDCD">
                      
                </td>
                <th>
@@ -892,7 +892,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #CCCCCC
                </th>
-               <td class="c88">
+               <td bgcolor="#CCCCCC">
                      
                </td>
           </tr>
@@ -903,7 +903,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #CFCFCF
                </th>
-               <td class="c89">
+               <td bgcolor="#CFCFCF">
                      
                </td>
                <th>
@@ -912,7 +912,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D1D1D1
                </th>
-               <td class="c90">
+               <td bgcolor="#D1D1D1">
                      
                </td>
                <th>
@@ -921,7 +921,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D4D4D4
                </th>
-               <td class="c91">
+               <td bgcolor="#D4D4D4">
                      
                </td>
           </tr>
@@ -932,7 +932,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D3D3D3
                </th>
-               <td class="c92">
+               <td bgcolor="#D3D3D3">
                      
                </td>
                <th>
@@ -941,7 +941,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D3D3D3
                </th>
-               <td class="c92">
+               <td bgcolor="#D3D3D3">
                      
                </td>
                <th>
@@ -950,7 +950,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D6D6D6
                </th>
-               <td class="c93">
+               <td bgcolor="#D6D6D6">
                      
                </td>
           </tr>
@@ -961,7 +961,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #D9D9D9
                </th>
-               <td class="c94">
+               <td bgcolor="#D9D9D9">
                      
                </td>
                <th>
@@ -970,7 +970,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #DCDCDC
                </th>
-               <td class="c95">
+               <td bgcolor="#DCDCDC">
                      
                </td>
                <th>
@@ -979,7 +979,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #DBDBDB
                </th>
-               <td class="c96">
+               <td bgcolor="#DBDBDB">
                      
                </td>
           </tr>
@@ -990,7 +990,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #DEDEDE
                </th>
-               <td class="c97">
+               <td bgcolor="#DEDEDE">
                      
                </td>
                <th>
@@ -999,7 +999,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #E0E0E0
                </th>
-               <td class="c98">
+               <td bgcolor="#E0E0E0">
                      
                </td>
                <th>
@@ -1008,7 +1008,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #E3E3E3
                </th>
-               <td class="c99">
+               <td bgcolor="#E3E3E3">
                      
                </td>
           </tr>
@@ -1019,7 +1019,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #E5E5E5
                </th>
-               <td class="c100">
+               <td bgcolor="#E5E5E5">
                      
                </td>
                <th>
@@ -1028,7 +1028,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #E8E8E8
                </th>
-               <td class="c101">
+               <td bgcolor="#E8E8E8">
                      
                </td>
                <th>
@@ -1037,7 +1037,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #EBEBEB
                </th>
-               <td class="c102">
+               <td bgcolor="#EBEBEB">
                      
                </td>
           </tr>
@@ -1048,7 +1048,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #EDEDED
                </th>
-               <td class="c103">
+               <td bgcolor="#EDEDED">
                      
                </td>
                <th>
@@ -1057,7 +1057,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #F0F0F0
                </th>
-               <td class="c104">
+               <td bgcolor="#F0F0F0">
                      
                </td>
                <th>
@@ -1066,7 +1066,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #F2F2F2
                </th>
-               <td class="c105">
+               <td bgcolor="#F2F2F2">
                      
                </td>
           </tr>
@@ -1077,7 +1077,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #F5F5F5
                </th>
-               <td class="c106">
+               <td bgcolor="#F5F5F5">
                      
                </td>
                <th>
@@ -1086,7 +1086,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #F7F7F7
                </th>
-               <td class="c107">
+               <td bgcolor="#F7F7F7">
                      
                </td>
                <th>
@@ -1095,7 +1095,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #FAFAFA
                </th>
-               <td class="c108">
+               <td bgcolor="#FAFAFA">
                      
                </td>
           </tr>
@@ -1106,7 +1106,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #FCFCFC
                </th>
-               <td class="c109">
+               <td bgcolor="#FCFCFC">
                      
                </td>
                <th>
@@ -1115,7 +1115,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                <th>
                     #FFFFFF
                </th>
-               <td>
+               <td bgcolor="#FFFFFF">
                      
                </td>
                <th>
