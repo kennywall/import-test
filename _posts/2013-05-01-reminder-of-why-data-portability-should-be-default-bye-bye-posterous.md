@@ -12,5 +12,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/post
      <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/posterous/posterous-spaces-is-no-longer-available.png"  width="550" />
 </p>
 <p>
-     Just a reminder that in ALL platforms, data portability needs to be default.  Either an API or at least an archive download as HTML, JSON, CSV or other common, open format.  Pretty simple stuff that users need to always look for when signing up for a new platform.
+     Just a reminder that in ALL platforms, data portability needs to be default.  Either an API or at least an archive download as HTML, JSON, CSV or other common, open format. Pretty simple stuff that users need to always look for when signing up for a new platform.
 </p>
