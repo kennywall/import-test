@@ -1,8 +1,0 @@
----
-layout: post
-title: Moving to the Next Challenge and Shifting From Web Programming
-url: http://kinlane.com/2008/02/01/moving-to-the-next-challenge-and-shifting-from-web-programming/
-image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
----
-{% include JB/setup %}
-I waiting a while before I started blogging about this topic until everything was in place.  It seems all the pieces have fallen in place so I am going to start on this new path.Tomorrow 2/1/2008 is my last day a lead web application developer at Palo Alto Software.  I gave notice 2 weeks ago and on 2/6/2008 I will be started a new job with Altrec in Redmond, Oregon.I am shifting my career a little after almost 20 years as a programmer.  The first ten years was primarily database programming with the last ten years building web applications. Now I am changing course a little bit, I won't ever stop programming, I am shifting into more of a Social Media Architect.  I am taking my knowledge of data and API's, coupled with web application development and most recently AJAX development, and marrying it together with a passion for social media. All that equals Social Media Architect.I am excited about working with Altrec and assisting them with their social media, API, and other technical needs for the future.  I haven't started yet so I really don't know exactly what will happen.Anyways I just wanted to draw the line in the sand on the blog here. I will miss working with all my friends at Palo Alto Software, it has been a great couple of years.

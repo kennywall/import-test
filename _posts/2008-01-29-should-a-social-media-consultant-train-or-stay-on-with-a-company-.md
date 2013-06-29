@@ -1,8 +1,0 @@
----
-layout: post
-title: Should a Social Media Consultant Train or Stay on with a Company 
-url: http://kinlane.com/2008/01/29/should-a-social-media-consultant-train-or-stay-on-with-a-company/
-image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
----
-{% include JB/setup %}
-I was reading a blog entry by Lisa McNeil called The Marketer's Foray Into Social Media, where she talks about her experiences with clients and the top questions they ask.Anyways, the post was great.  I noticed a comment at the bottom by Geoff Livngston the author of Now is Gone.  His comment asked the question:Shouldn't a social media agency ultimately enable to company, not stay on? But the monitoring and coaching component seems to be necessary for the long-term.This is such an important questions.  I've talked about my frustrations regarding building web sites and applications for clients being very tough because of the lack of involvement on their part.  The standard response is, "just build it I really don't understand this stuff". I keep saying how critical it is for the site owner to be part of the development and understand their site and make it reflect them.This is only getting more and more critical with the need to develop social media marketing strategies.  Your social media marketing voice has to reflect your company and it takes key decision makers being involved in daily decisions and activities.As a social media professional it is your responsibility to train your clients and get them intimately involved with their campaign and the decision making process.  Train them to execute in house and not use you as a crutch just because your an "employee'.
