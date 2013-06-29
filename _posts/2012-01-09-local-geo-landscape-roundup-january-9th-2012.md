@@ -27,7 +27,8 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <li>
           <a href="https://twitter.com/!/Fwix/status/152105275241926656%3E@marshallk%20thanks%20for%20pointing%20@cynapse%20to%20us!%20@cynapse%20if%20you%20have%20any%20questions%20on%20our%20API,%20please%20let%20us%20know%20and%20happy%20to%20help.%3C/a%3E%3Cbr%20/%3E%3C/blockquote%3E%3Cstrong%3EProcessing%20RSS%20for%20InfoChimps%3C/strong%3E%3Cbr%20/%3E%3Cblockquote%3E%3Ca%20href=">More Facebook Users than Buddhists</a>- (12-27-2011) - Check out this neat visualization of different gatherings of people. Size of the bubble represents population and colors represent different types of gatherings, including religions, countries, online services and mass fatalities.
      </li>
-</ul>Tweets from <a title="InfoChimps" href="https://twitter.com/!/infochimps">InfoChimps</a>
+</ul>
+<p>Tweets from <a title="InfoChimps" href="https://twitter.com/!/infochimps">InfoChimps</a></p>
 <ul>
      <li>(12-29-2011) 10 Trends for Online Marketers in 2012 <a href="http://t.co/IQv5x3EN">http://t.co/IQv5x3EN</a> via @entmagazine
      </li>
