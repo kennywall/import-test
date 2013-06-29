@@ -8,6 +8,6 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <strong>From the <a href="http://feeds.feedburner.com/thefoursquareblog">Foursquare</a> Blog</strong>
 <ul class="mainlist">
      <li>
-          <a href="http://feedproxy.google.com/~r/thefoursquareblog/~3/Tr7YLvbX9Mc/">The foursquare-powered art thesis!</a> - (01-09-2012) - Take a look! Know of any cool foursquare projects? Post them in the comments!
+          hello
      </li>
 </ul><strong>From the <a href="http://developers.facebook.com/blog/feed">Facebook</a> Blog</strong>
