@@ -11,7 +11,8 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
      <li>
           hey
      </li>
-</ul>From the <a title="Facebook Developer" href="http://developers.facebook.com/blog/">Facebook Developer</a> Blog
+</ul>
+<p>From the <a title="Facebook Developer" href="http://developers.facebook.com/blog/">Facebook Developer</a> Blog</p>
 <ul>
      <li>
           hey
