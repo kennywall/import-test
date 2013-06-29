@@ -6,5 +6,25 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     I've been doing a lot of work with the Google Cloud Print API lately. I've built a prototype Google Cloud Print Proxy, and I am trying to push the boundaries of what can be done with Google Cloud Print. I'm engineering cloud print solutions for commercial printing, and along the way Im also doing a lot of research around device printing. When it comes to device printing I keep seeing a concept called follow me printing or pull printing. Where you can queue up a print job from your computer, and then go to printer and print from the device. Think of this in terms of medical records or other secure documents. You don't want to print down the hall, then have it take 5 minutes to walk there and get it. With mobile phones, and Google Cloud Printing you can have your document in Google Docs, walk to your target printer, pull out your smart phone and print your document. You no longer need the device have a pull printing interface. Google Cloud Print and your mobile phone handle securely printing your documents when your ready.
+     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I've been doing a lot of work with the <a title="Google Cloud Print API" href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html">Google Cloud Print API</a> lately. I've built a prototype <a title="Google Cloud Print Proxy" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy,</a> and I am trying to push the boundaries of what can be done with Google Cloud Print.
+</p>
+
+<p>
+     I'm engineering cloud print solutions for commercial printing, and along the way Im also doing a lot of research around device printing.
+</p>
+
+<p>
+     When it comes to device printing I keep seeing a concept called follow me printing or <a class="zem_slink" title="Pull printing" rel="wikipedia" href="http://en.wikipedia.org/wiki/Pull_printing">pull printing</a>. Where you can queue up a print job from your computer, and then go to printer and print from the device.
+</p>
+
+<p>
+     Think of this in terms of medical records or other secure documents. You don't want to print down the hall, then have it take 5 minutes to walk there and get it.
+</p>
+
+<p>
+     With mobile phones, and Google Cloud Printing you can have your document in Google Docs, walk to your target printer, pull out your smart phone and print your document.
+</p>
+
+<p>
+     You no longer need the device have a pull printing interface. Google Cloud Print and your mobile phone handle securely printing your documents when your ready.
 </p>

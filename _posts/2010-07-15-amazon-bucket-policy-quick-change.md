@@ -6,5 +6,13 @@ image: http://images.cloudberrylab.com/Content_01.gif
 ---
 {% include JB/setup %}
 <p>
-     I have several Amazon Buckets I quickly want to use for public viewing of images and other files for clients. I haven't had time to integrate the bucket policy API into our code base. I just need the buckets updated right away for GETOBJECT for all public users. I logged into the Amazon Console and right clicked on the properties for the bucket. Just ACL functionality here. I then opened up my CloudBerry Explorer Pro and right clicked on a bucket. They have a bucket policy property for all buckets. Way to be on the ball CloudBerry, you guys seem to be the most agile player in the cloud storage game at the moment.
+     <img class="alignnone" title="Cloudberry Labs" src="http://images.cloudberrylab.com/Content_01.gif"  width="209" height="54" align="right" />I have several Amazon Buckets I quickly want to use for public viewing of images and other files for clients. I haven't had time to integrate the <a href="http://www.kinlane.com/2010/07/amazon-web-services-releases-more-granular-access-policies-for-amazon-s3-buckets/">bucket policy API</a> into our code base. I just need the buckets updated right away for GETOBJECT for all public users.
+</p>
+
+<p>
+     I logged into the <a href="http://www.kinlane.com/category/amazon/amazon-console/">Amazon Console</a> and right clicked on the properties for the bucket. Just ACL functionality here.
+</p>
+
+<p>
+     I then opened up my <a href="http://cloudberrylab.com/?page=s3-explorer-pro" target="_blank">CloudBerry Explorer Pro</a> and right clicked on a bucket. They have a bucket policy property for all buckets. Way to be on the ball <a href="http://cloudberrylab.com/" target="_blank">CloudBerry</a>, you guys seem to be the most agile player in the <a href="http://cloudberrylab.com/">cloud storage</a> game at the moment.
 </p>

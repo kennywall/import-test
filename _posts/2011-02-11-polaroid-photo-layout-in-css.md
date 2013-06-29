@@ -6,5 +6,19 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid
 ---
 {% include JB/setup %}
 <p>
-     I'm working on several print photobook projects right now and I'm always on the lookout for good CSS photo layouts. I came across a very well done tutorial called, How To Create a Pure CSS Polaroid Photo Gallery. I have modified somewhat for use as a photo book template, and published @ Github. I will be using this layout for several blog posts to come on building photo books with Flickr, Instagram and other photo sharing tools
+     <a href="http://working.laneworks.net/instagram/step1.php" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid-photo-layout.png"  width="130" align="right" /></a>I'm working on several print photobook projects right now and I'm always on the lookout for good CSS photo layouts.
+</p>
+
+<p>
+     I came across a very well done tutorial called, <a href="http://line25.com/tutorials/how-to-create-a-pure-css-polaroid-photo-gallery" target="_blank">How To Create a Pure CSS Polaroid Photo Gallery</a>.
+</p>
+
+<p>
+     I have modified somewhat for use as a photo book template, and published @ <a href="https://gist.github.com/823364" target="_blank">Github</a>.
+</p>
+<script src="https://gist.github.com/823364.js?file=CSS%20Polaroid%20Photo%20Layout" type="text/javascript">
+</script>
+
+<p>
+     I will be using this layout for several blog posts to come on building photo books with Flickr, Instagram and other photo sharing tools
 </p>

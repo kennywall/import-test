@@ -6,5 +6,37 @@ image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
 {% include JB/setup %}
 <p>
-     This code sample is something you can find easily on the Internet, but I want to include it in my series about creating a photo book with Flickr. Its easy to pull photos from Flickr, all you need is a Flickr API key and the Zend Framework. Notice I use the tags argument to filter my search. In this particular case I'm pulling photos that are tagged "Instagram App" because I want only photos I've taken with Instagram on my IPhone. Next I will be creating a layout for a photo book, using my Instagram photos from Flickr. Related articles Zend Lucene Migration (arnoldit.com) Instagram Photo Book [Idea] (kinlane.com) History of APIs - Flickr API (apievangelist.com)
+     <a href="http://www.flickr.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg"  width="140" align="right" /></a>This code sample is something you can find easily on the Internet, but I want to include it in my series about creating a photo book with Flickr.
 </p>
+
+<p>
+     Its easy to pull photos from <a href="http://www.flickr.com">Flickr</a>, all you need is a <a href="http://www.flickr.com/services/api/" target="_blank">Flickr API</a> key and the <a href="http://framework.zend.com/" target="_blank">Zend Framework</a>.
+</p>
+<script src="https://gist.github.com/823496.js?file=Pull%20Flickr%20with%20Zend" type="text/javascript">
+</script>
+<p>
+     Notice I use the tags argument to filter my search.
+</p><script src="https://gist.github.com/823498.js?file=Instgram%20Tag%20Filter" type="text/javascript">
+</script>
+
+<p>
+     In this particular case I'm pulling photos that are tagged "Instagram App" because I want only photos I've taken with <a href="http://instagr.am/" target="_blank">Instagram</a> on my IPhone.
+</p>
+
+<p>
+     Next I will be creating a layout for a photo book, using my <a href="http://instagr.am/" target="_blank">Instagram</a> photos from <a href="http://blog.apievangelist.com/2011/02/09/history-of-apis-flickr-api/" target="_blank">Flickr</a>.
+</p>
+<h6 class="zemanta-related-title c2">
+     Related articles
+</h6>
+<ul class="zemanta-article-ul">
+     <li class="zemanta-article-ul-li">
+          <a href="http://arnoldit.com/wordpress/2011/01/26/zend-lucene-migration/">Zend Lucene Migration</a> (arnoldit.com)
+     </li>
+     <li class="zemanta-article-ul-li">
+          <a href="http://www.kinlane.com/2011/01/instagram-photo-book-idea/">Instagram Photo Book [Idea]</a> (kinlane.com)
+     </li>
+     <li class="zemanta-article-ul-li">
+          <a href="http://blog.apievangelist.com/2011/02/09/history-of-apis-flickr-api/">History of APIs - Flickr API</a> (apievangelist.com)
+     </li>
+</ul>

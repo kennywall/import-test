@@ -6,5 +6,16 @@ image: http://kinlane-productions.s3.amazonaws.com/LinkedIn.jpg
 ---
 {% include JB/setup %}
 <p>
-     LinkedIn released some changes to their LinkedIn Open API today. They have: Increased Search API Throttle - They've increased the Search API throttle by 400%. Increased Access to Profile Data - Users who have granted access you will now get full profile data. Looks like they are slowly increasing the value of their API. They seem to really take this process seriously and just rolling out features incrementally.
+     <a href="http://www.linkedin.com" target="_blank"><img class="alignnone c1" title="LinkedIn" src="http://kinlane-productions.s3.amazonaws.com/LinkedIn.jpg"  width="250" align="right" /></a><a href="http://blog.linkedin.com/2010/06/25/linkedin-api-developers/trackback/" target="_blank">LinkedIn released some changes to their LinkedIn Open API</a> today. They have:
+</p>
+<ul class="mainlist">
+     <li>
+          <strong>Increased Search API Throttle</strong> - They've increased the Search API throttle by 400%.
+     </li>
+     <li>
+          <strong>Increased Access to Profile Data -</strong> Users who have granted access you will now get full profile data.
+     </li>
+</ul>
+<p>
+     Looks like they are slowly increasing the value of their API. They seem to really take this process seriously and just rolling out features incrementally.
 </p>

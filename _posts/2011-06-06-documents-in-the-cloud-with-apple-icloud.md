@@ -6,5 +6,33 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png
 ---
 {% include JB/setup %}
 <p>
-     Lots of big news coming out of Apple's World Wide Developer Conference (WWDC2011) in San Francisco today. We saw major enhancements coming down the pipes with IOS 5 and Mac OS X Lion. What really stood out was their new iCloud. iCloud is free, seamless storage in the cloud for documents and everything else you use on your Mac and IOS devices. This means documents you've written, presentations you've prepared are available on any IOS device. You can view and edit the same document, in its latest state, on all your devices. And since iCloud automatically updates any changes you make, you don't even have to remember to save your work. iCloud will also have a full set of APIs for developers to take advantage of, allowing them to implement iCloud storage, sync, and backup for documents into any application. Apple's iCloud represents a continued evolution of the file system from being local to existing on the Internet and available on any device. This means that all design, collaboration, publishing and printing will move off the desktop as well. More to come on iClouds role in self publishing and print on demand integration.
+     <img src="http://kinlane-productions.s3.amazonaws.com/apple/WWDC-Moscone.png"  width="200" align="right" />
+</p>
+
+<p>
+     Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.
+</p>
+
+<p>
+     We saw major enhancements coming down the pipes with IOS 5 and Mac OS X Lion. What really stood out was their new <a title="iCloud" href="http://www.apple.com/icloud/">iCloud</a>.
+</p>
+
+<p>
+     iCloud is free, seamless storage in the cloud for documents and everything else you use on your Mac and IOS devices.
+</p>
+
+<p>
+     This means documents you've written, presentations you've prepared are available on any IOS device. You can view and edit the same document, in its latest state, on all your devices. And since iCloud automatically updates any changes you make, you don't even have to remember to save your work.
+</p>
+
+<p>
+     iCloud will also have a full set of APIs for developers to take advantage of, allowing them to implement iCloud storage, sync, and backup for documents into any application.
+</p>
+
+<p>
+     Apple's iCloud represents a continued evolution of the file system from being local to existing on the Internet and available on any device. This means that all design, collaboration, publishing and printing will move off the desktop as well.
+</p>
+
+<p>
+     More to come on iClouds role in <a title="self publishing and print on demand integration" href="http://developer.mimeo.com">self publishing and print on demand integration</a>.
 </p>

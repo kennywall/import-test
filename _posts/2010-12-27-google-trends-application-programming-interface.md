@@ -6,5 +6,8 @@ image: http://www.google.com/trends/viz?q=application+programming+interface&amp;
 ---
 {% include JB/setup %}
 <p>
-     I thought the visualization of the search and news traffic for Application Programming Interface (API) at Google Trends was interesting enough to share. You have to ask yourself: What 2011 will look like for APIs?
+     I thought the visualization of the search and news traffic for <a href="http://www.apievangelist.com/">Application Programming Interface</a> (<a href="http://www.apievangelist.com/">API</a>) at Google Trends was interesting enough to share.
+</p>
+<p>
+     <img class="aligncenter" src="http://www.google.com/trends/viz?q=application+programming+interface&amp;date=all&amp;geo=all&amp;graph=weekly_img&amp;sa=N"  /> You have to ask yourself: What 2011 will look like for <a href="http://www.apievangelist.com/">APIs</a>?
 </p>

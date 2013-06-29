@@ -6,5 +6,72 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-
 ---
 {% include JB/setup %}
 <p>
-     This summer its been 2 years since I started API Evangelist. API Evangelist started as my research project into the Business of APIs, and became a full time career. While over the last two years I’ve worked for clients like Mimeo and CityGrid, my ultimate goal is to focus on studying the Business of APIs. So whenever I get the time, I study how popular APIs operate, and how they are transforming industries. This month, I’m getting the opportunity to dive deeper into my research around different API business models, with the chance to look at the politics within specific API ecosystems. While my research will always span the entire API sector, this round I’m going to study the approach of some of the most successful APIs: Twitter - Deep understanding of the largest, and most important API ecosystem Facebook - Better understanding of the largest API driven social platform Google - Document the 100 or so APIs offered by Google, and the platform that connects them LinkedIn - Better picture of the leading business social network platform Amazon - Document the history of this API pioneer Twilio - Understand how Twilio continues to deliver their API, and woo developers I’m going to begin by analyzing the business and politics of Twitters API ecosystem, and as more funding comes through I’ll focus on the other APis. While studying each API I look at: Historical company blog posts, tweets and press releases Historical blog posts and tweets from the blogosphere and developers I organize all my research into a curation framework I’ve developed and will be generating: Timeline - A easy to navigate, timeline of the APIs history through curated blog posts, tweets and company announcments. Blog Posts - Single and series of blog posts documenting the business and politics of each API provider. Final Paper(s) - Each project will have at least one final white-paper with findings from the research. Raw Research - A searchable repository of curated research and notes from my work. Then making this work available across both apievangelist.com and my new blog apivoice.com, which tends to focus on the politics of APIs including legal and other issues affecting developer ecosystems. I feel pretty strongly that this new round of research will help me better understand the business and politics of APIs, produce rich research, stories and industry reports that I can make available--helping us all better understand this ever changing API economy. If you'd like to get involved and fund any portion of this research, feel free to contact me.
+     <img src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png"  width="300" align="right" />
+</p>
+<p>
+     This summer its been 2 years since I started API Evangelist. API Evangelist started as my research project into the Business of APIs, and became a full time career.
+</p>
+<p>
+     While over the last two years I’ve worked for clients like <a title="Mimeo" href="http://developer.mimeo.com">Mimeo</a> and <a title="CityGrid" href="http://developer.citygridmedia.com">CityGrid</a>, my ultimate goal is to focus on studying the Business of APIs. So whenever I get the time, I study how popular APIs operate, and how they are transforming industries.
+</p>
+<p>
+     This month, I’m getting the opportunity to dive deeper into my research around different API business models, with the chance to look at the politics within specific API ecosystems.
+</p>
+<p>
+     While my research will always span the entire API sector, this round I’m going to study the approach of some of the most successful APIs:
+</p>
+<ul class="mainlist">
+     <li>
+          <strong>Twitter</strong> - Deep understanding of the largest, and most important API ecosystem
+     </li>
+     <li>
+          <strong>Facebook</strong> - Better understanding of the largest API driven social platform
+     </li>
+     <li>
+          <strong>Google</strong> - Document the 100 or so APIs offered by Google, and the platform that connects them
+     </li>
+     <li>
+          <strong>LinkedIn</strong> - Better picture of the leading business social network platform
+     </li>
+     <li>
+          <strong>Amazon</strong> - Document the history of this API pioneer
+     </li>
+     <li>
+          <strong>Twilio</strong> - Understand how Twilio continues to deliver their API, and woo developers
+     </li>
+</ul>
+<p>
+     I’m going to begin by <a title="analyzing the business and politics of Twitters API ecosystem" href="http://apivoice.com/2012/05/06/the-business-and-politics-of-twitters-api/">analyzing the business and politics of Twitters API ecosystem</a>, and as more funding comes through I’ll focus on the other APis. While studying each API I look at:
+</p>
+<ul class="mainlist">
+     <li>Historical company blog posts, tweets and press releases
+     </li>
+     <li>Historical blog posts and tweets from the blogosphere and developers
+     </li>
+</ul>
+<p>
+     I organize all my research into a curation framework I’ve developed and will be generating:
+</p>
+<ul class="mainlist">
+     <li>
+          <strong>Timeline</strong> - A easy to navigate, timeline of the APIs history through curated blog posts, tweets and company announcments.
+     </li>
+     <li>
+          <strong>Blog Posts</strong> - Single and series of blog posts documenting the business and politics of each API provider.
+     </li>
+     <li>
+          <strong>Final Paper(s)</strong> - Each project will have at least one final white-paper with findings from the research.
+     </li>
+     <li>
+          <strong>Raw Research</strong> - A searchable repository of curated research and notes from my work.
+     </li>
+</ul>
+<p>
+     Then making this work available across both <a title="apievangelist.com" href="http://apievangelist.com">apievangelist.com</a> and my new blog <a title="apivoice.com" href="http://apivoice.com">apivoice.com</a>, which tends to focus on the politics of APIs including legal and other issues affecting developer ecosystems.
+</p>
+<p>
+     I feel pretty strongly that this new round of research will help me better understand the business and politics of APIs, produce rich research, stories and industry reports that I can make available--helping us all better understand this ever changing API economy.
+</p>
+<p>
+     If you'd like to get involved and fund any portion of this research, feel free to <a title="Contact Me" href="/contact/">contact me</a>.
 </p>

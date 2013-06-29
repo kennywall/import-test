@@ -6,5 +6,17 @@ image: http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png
 ---
 {% include JB/setup %}
 <p>
-     My 10 year old Kaia is starting a business.   If you live in South Eugene, OR....let me know. I got the hookup!
+     My 10 year old Kaia is starting a business.
+</p>
+
+<p>
+      
+</p>
+
+<p>
+     <img class="aligncenter" src="http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png"  align="center" />
+</p>
+
+<p>
+     If you live in South Eugene, OR....let me know. I got the hookup!
 </p>
