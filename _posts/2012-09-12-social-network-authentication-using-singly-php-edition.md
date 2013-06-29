@@ -141,9 +141,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 </p>
 <p>
      I provide six links with icons triggering the social network authentication via Singly:
-</p>
-
-<p>
+</p><script src="https://gist.github.com/3710690.js?file=gistfile1.txt" type="text/javascript"></script><p>
      Then I provide <a href="https://github.com/kinlane/singly-social-authentication-php/tree/master/auth">six separate authentication callback handlers</a>. I keep them separate, because I intend to do separate handling for each social network within these callbacks in the near future.
 </p>
 <p>
