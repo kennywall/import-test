@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}
 <p>
-     <a title="Instapaper API" href="http://www.instapaper.com/api/full"><img src="http://kinlane-productions.s3.amazonaws.com/instapaper.png"  width="175" align="right" /></a>I'm working my way through a list of projects I have, and currently the<a title="Instapaper API" href="http://www.instapaper.com/api/full">Instapaper API</a> is top of my list.
+     <a title="Instapaper API" href="http://www.instapaper.com/api/full"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png"  width="175" align="right" /></a>I'm working my way through a list of projects I have, and currently the<a title="Instapaper API" href="http://www.instapaper.com/api/full">Instapaper API</a> is top of my list.
 </p>
 
 <p>
@@ -45,7 +45,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 <p>
      You can <a title="download / checkout on Github" href="https://github.com/kinlane/InstapaperXAuth">download / checkout on Github</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

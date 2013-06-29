@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/SMS-Updates.gi
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/SMS-Updates.gif"  width="250" align="right" /><a title="amazon Simple Notification Service now supports SMS text messages" href="http://aws.amazon.com/sns/">Amazon Simple Notification Service now supports SMS text messages</a> as a new method for notifications. Now with support for SMS text messaging, Amazon SNS messages can be delivered to SMS-enabled phone.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/SMS-Updates.gif"  width="250" align="right" /><a title="amazon Simple Notification Service now supports SMS text messages" href="http://aws.amazon.com/sns/">Amazon Simple Notification Service now supports SMS text messages</a> as a new method for notifications. Now with support for SMS text messaging, Amazon SNS messages can be delivered to SMS-enabled phone.
 </p>
 
 <p>

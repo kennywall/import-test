@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     I know very little about the <a href="http://www.kinlane.com/category/publishing/">Print</a> industry. As I'm learning I find myself applying my programming and IT background to everything. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /> Currently I'm prototyping a <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> platform that provides 2 step commercial <a href="http://www.kinlane.com/category/publishing/">Printing</a> service from top cloud service providers:
+     I know very little about the <a href="http://www.kinlane.com/category/publishing/">Print</a> industry. As I'm learning I find myself applying my programming and IT background to everything. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /> Currently I'm prototyping a <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> platform that provides 2 step commercial <a href="http://www.kinlane.com/category/publishing/">Printing</a> service from top cloud service providers:
 </p>
 <ul class="mainlist">
      <li>
@@ -33,7 +33,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 </p>
 
 <p>
-     I need a print object to apply to that content and create a printable document. So I am created 12 separate documents or cloud print objects to deliver common print properties such as binding, size and color. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/book-open-pages.jpg"  width="250" align="right" /> Each cloud print object contains the properties most people who are printing from cloud platforms are looking for:
+     I need a print object to apply to that content and create a printable document. So I am created 12 separate documents or cloud print objects to deliver common print properties such as binding, size and color. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/book-open-pages.jpg"  width="250" align="right" /> Each cloud print object contains the properties most people who are printing from cloud platforms are looking for:
 </p>
 <ul class="mainlist">
      <li>Magazine Style Binding (Saddle Stitch)

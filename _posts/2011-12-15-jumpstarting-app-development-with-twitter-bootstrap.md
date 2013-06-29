@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/twitter/Bootstrap.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://twitter.github.com/bootstrap/"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/Bootstrap.png"  width="150" align="right" /></a>Like many other engineers I've worked with, Twitter engineers will use any set of tools they are familiar with to deliver the front-end of their applications.
+     <a href="http://twitter.github.com/bootstrap/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/Bootstrap.png"  width="150" align="right" /></a>Like many other engineers I've worked with, Twitter engineers will use any set of tools they are familiar with to deliver the front-end of their applications.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/twitter/Bootstrap.png
 </p>
 
 <p>
-     Twitter Bootstrap provides CSS and HTML for several key areas of UI development:<a href="http://twitter.github.com/bootstrap/"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/bootstrap-alerts.jpg"  width="250" align="right" /></a>
+     Twitter Bootstrap provides CSS and HTML for several key areas of UI development:<a href="http://twitter.github.com/bootstrap/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/bootstrap-alerts.jpg"  width="250" align="right" /></a>
 </p>
 <ul class="mainlist">
      <li>Grids

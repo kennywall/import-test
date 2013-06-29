@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I've been <a title="Proofing Documents" href="http://www.kinlane.com/2011/01/proofing-scribd-pdf-using-mimeo-connect/">proofing documents</a> with the Mimeo Connect Cloud Print API.
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I've been <a title="Proofing Documents" href="http://www.kinlane.com/2011/01/proofing-scribd-pdf-using-mimeo-connect/">proofing documents</a> with the Mimeo Connect Cloud Print API.
 </p>
 
 <p>

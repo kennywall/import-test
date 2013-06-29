@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/euro
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/europe-api-big-data.jpg"  width="250" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/europe-api-big-data.jpg"  width="250" align="right" />
 </p>
 <p>
      I just got back from France this week where I was attending <a title="API Days" href="http://apidays.io">API Days</a> in Paris. I thoroughly enjoyed many deep discussions with folks about big data and APIs, coming home with what I feel is a pretty clear difference between the US approach and the potential EU approach to APIs and big data.

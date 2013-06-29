@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/docu
 ---
 {% include JB/setup %}
 <p>
-     <a title="DocuSign" href="http://www.docusign.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/docusign.gif"  align="right" /></a>The Internet has changed how we do business, and more specifically how we obtain signatures for client contracts. Using paper documents to finalize transactions, sending documents back and forth can be costly and time consuming, especially in today's fast-paced industries, with multiple partners, vendors and global work teams.
+     <a title="DocuSign" href="http://www.docusign.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/docusign.gif"  align="right" /></a>The Internet has changed how we do business, and more specifically how we obtain signatures for client contracts. Using paper documents to finalize transactions, sending documents back and forth can be costly and time consuming, especially in today's fast-paced industries, with multiple partners, vendors and global work teams.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/docu
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />Even though the DocuSign solution is meant to make more efficient usage of paper documents, doesn't mean printing of documents is completely out of the picture.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />Even though the DocuSign solution is meant to make more efficient usage of paper documents, doesn't mean printing of documents is completely out of the picture.
 </p>
 
 <p>

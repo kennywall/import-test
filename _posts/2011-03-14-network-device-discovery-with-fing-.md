@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/overlook-fing.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/overlook-fing.png"  width="300" align="right" />I was looking for a network device discovery tool.
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/overlook-fing.png"  width="300" align="right" />I was looking for a network device discovery tool.
 </p>
 
 <p>

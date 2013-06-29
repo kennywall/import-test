@@ -36,7 +36,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cyberduck.png
 <p>
      A complete list of features are available on the <a title="Cyberduck Change Log" href="http://cyberduck.ch/changelog/">Cyberduck change log</a>.
 </p>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

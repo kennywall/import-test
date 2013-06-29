@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/linkedin/LinkedIn-Developer-N
 ---
 {% include JB/setup %}
 <p>
-     <a target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/linkedin/LinkedIn-Developer-Network.png"  width="175" align="right" /></a><a title="LinkedIn has just open-sourced the technology behind IndexTank" href="http://engineering.linkedin.com/open-source/indextank-now-open-source">LinkedIn has just open-sourced the technology behind IndexTank</a> under the Apache 2.0 License.
+     <a target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/linkedin/LinkedIn-Developer-Network.png"  width="175" align="right" /></a><a title="LinkedIn has just open-sourced the technology behind IndexTank" href="http://engineering.linkedin.com/open-source/indextank-now-open-source">LinkedIn has just open-sourced the technology behind IndexTank</a> under the Apache 2.0 License.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ image: http://kinlane-productions.s3.amazonaws.com/linkedin/LinkedIn-Developer-N
      </li>
 </ul>
 <p>
-     <a href="http://indextank.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/indextank/indextank_logo.png"  width="250" align="right" /></a> An example of IndexTank in action is, Reddit, which runs on IndexEngine and the API.
+     <a href="http://indextank.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/indextank/indextank_logo.png"  width="250" align="right" /></a> An example of IndexTank in action is, Reddit, which runs on IndexEngine and the API.
 </p>
 
 <p>

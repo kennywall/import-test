@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Health-Logo.gif
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/Google-Health-Logo.gif"  width="200" align="right" />I never view closing down a project as a failure, if I make sure and record information about the project throughout its life. Then I have access to what was learned over its life. Good or bad.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/Google-Health-Logo.gif"  width="200" align="right" />I never view closing down a project as a failure, if I make sure and record information about the project throughout its life. Then I have access to what was learned over its life. Good or bad.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Health-Logo.gif
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/google-powermeter.gif"  width="200" align="right" />Apparently neither did <a title="Google Health" href="http://www.google.com/intl/en-US/health/about/">Google Health</a> and <a title="Google PowerMeter" href="http://www.google.com/powermeter/about/">Google PowerMeter</a>. These two areas represent such massive technology problems, I don't even know how you'd measure success. All you can do in these areas is try, try, and try again, and make sure you record data along the way, and make accessible when done.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-powermeter.gif"  width="200" align="right" />Apparently neither did <a title="Google Health" href="http://www.google.com/intl/en-US/health/about/">Google Health</a> and <a title="Google PowerMeter" href="http://www.google.com/powermeter/about/">Google PowerMeter</a>. These two areas represent such massive technology problems, I don't even know how you'd measure success. All you can do in these areas is try, try, and try again, and make sure you record data along the way, and make accessible when done.
 </p>
 
 <p>

@@ -44,7 +44,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 </p>
 
 <p>
-     This can be done without forcing printers to route through a proxy. If manufacturers build printers to be web-enabled, they can work directly with GCP services. Then operational and management systems can access users accounts using the GCP services interface. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /> This just makes sense. I get a lot of questions via email, twitter and comments on my site regarding how to diagnose printer problems using Google Cloud Print.
+     This can be done without forcing printers to route through a proxy. If manufacturers build printers to be web-enabled, they can work directly with GCP services. Then operational and management systems can access users accounts using the GCP services interface. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /> This just makes sense. I get a lot of questions via email, twitter and comments on my site regarding how to diagnose printer problems using Google Cloud Print.
 </p>
 
 <p>

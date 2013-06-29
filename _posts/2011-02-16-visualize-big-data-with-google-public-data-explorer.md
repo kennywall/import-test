@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-public-data-exp
 ---
 {% include JB/setup %}
 <p>
-     Google launched a <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">powerful new big data visualization tool</a> today. The <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">Google Public Data Explorer</a> allows users to upload their own datasets for visualization and exploration. <img src="http://kinlane-productions.s3.amazonaws.com/google/google-public-data-explorer.png"  width="300" align="right" /> The Public Data Explorer requires your datasets be described using the <a href="http://code.google.com/apis/publicdata/" target="_blank">Dataset Publishing Language</a> (DSPL), an open, XML-based metdata format optimized for data visualization.
+     Google launched a <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">powerful new big data visualization tool</a> today. The <a href="http://www.googlelabs.com/show_details?app_key=agtnbGFiczIwLXd3d3IVCxIMTGFic0FwcE1vZGVsGOjsnQIM" target="_blank">Google Public Data Explorer</a> allows users to upload their own datasets for visualization and exploration. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-public-data-explorer.png"  width="300" align="right" /> The Public Data Explorer requires your datasets be described using the <a href="http://code.google.com/apis/publicdata/" target="_blank">Dataset Publishing Language</a> (DSPL), an open, XML-based metdata format optimized for data visualization.
 </p>
 
 <p>
@@ -42,7 +42,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-public-data-exp
 <p>
      ?The Google Public Data Explorer also provides embed, linking and sharing options, allowing users to share, compare and make the whole process of data visualisation very public and social.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

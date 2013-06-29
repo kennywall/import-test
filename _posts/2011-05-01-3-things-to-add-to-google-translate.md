@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-translate.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://translate.google.com">Google Translate</a> is an amazing tool. It translates those random foreign web pages I run across, and those ever growing number of emails I receive from overseas.<a href="http://translate.google.com"><img src="http://kinlane-productions.s3.amazonaws.com/google/google-translate.png"  align="right" /></a>
+     <a href="http://translate.google.com">Google Translate</a> is an amazing tool. It translates those random foreign web pages I run across, and those ever growing number of emails I receive from overseas.<a href="http://translate.google.com"><img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-translate.png"  align="right" /></a>
 </p>
 
 <p>

@@ -43,8 +43,8 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
      </li>
      <li>Hackathons - Solicit Elance developer involvement in Mimeo Cloud Print API Hackathons.
      </li>
-     <li>
-          <a href="http://www.elance.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/elance/elance-logo.jpg"  width="250" align="right" /></a>
+     <li style="list-style: none">
+          <a href="http://www.elance.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/elance/elance-logo.jpg"  width="250" align="right" /></a>
      </li>
      <li>Elance Groups - Establishing an Elance Group for the Mimeo Cloud Print API.
      </li>

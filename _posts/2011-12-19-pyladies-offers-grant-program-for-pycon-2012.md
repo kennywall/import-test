@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/pyladies_logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/pyladies_logo.jpg"  width="250" align="right" /><a title="PyLadies" href="http://pyladies.com/">PyLadies</a>, an organization that works to bring women to the forefront of the open source world is now offering a grant program for women in the Python community.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/pyladies_logo.jpg"  width="250" align="right" /><a title="PyLadies" href="http://pyladies.com/">PyLadies</a>, an organization that works to bring women to the forefront of the open source world is now offering a grant program for women in the Python community.
 </p>
 
 <p>

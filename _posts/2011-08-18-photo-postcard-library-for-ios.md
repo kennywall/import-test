@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/mimeo/Ship-Library-for-iOS.p
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/mimeo/Ship-Library-for-iOS.png"  width="150" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/mimeo/Ship-Library-for-iOS.png"  width="150" align="right" />
 </p>
 
 <p>

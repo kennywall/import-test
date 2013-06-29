@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://aws.amazon.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /></a>Amazon Web Services just announced a <a title="new South American Region located in Sao Paulo, Brazil" href="http://aws.amazon.com/about-aws/whats-new/2011/12/14/announcing-the-south-america-sao-paulo-region/">new South American Region located in Sao Paulo, Brazil</a>. South America-based businesses and global companies with customers in South America can run their applications and workloads in the new Sao Paulo Region, significantly reducing latency to end-users in South America and allows those needing their data to reside in Brazil for legal reasons, to easily do so.
+     <a href="http://aws.amazon.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /></a>Amazon Web Services just announced a <a title="new South American Region located in Sao Paulo, Brazil" href="http://aws.amazon.com/about-aws/whats-new/2011/12/14/announcing-the-south-america-sao-paulo-region/">new South American Region located in Sao Paulo, Brazil</a>. South America-based businesses and global companies with customers in South America can run their applications and workloads in the new Sao Paulo Region, significantly reducing latency to end-users in South America and allows those needing their data to reside in Brazil for legal reasons, to easily do so.
 </p>
 
 <p>

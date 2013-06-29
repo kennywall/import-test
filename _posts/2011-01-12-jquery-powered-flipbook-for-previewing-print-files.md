@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png
 ---
 {% include JB/setup %}
 <p>
-     On my hunt for killer scripts and tools to go with with my Cloud Print API, I came across a way cool <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">JQuery Flipbook</a> script over at <a href="http://codecanyon.net/" target="_blank">codecanyon</a>. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png"  width="250" align="right" /> <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">Flipbook jQuery</a> provides a magazine / book style display for digital media. The features include:
+     On my hunt for killer scripts and tools to go with with my Cloud Print API, I came across a way cool <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">JQuery Flipbook</a> script over at <a href="http://codecanyon.net/" target="_blank">codecanyon</a>. <img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/jquery-flipbook.png"  width="250" align="right" /> <a href="http://codecanyon.net/item/flipbook-jquery-powered-w-media-gallery/152110" target="_blank">Flipbook jQuery</a> provides a magazine / book style display for digital media. The features include:
 </p>
 <ul class="mainlist">
      <li>

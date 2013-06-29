@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/moment-jobs-api.png
 </p>
 
 <p>
-     I run most of my web applications on a Windows 2008 server, this is the platform I'm most familiar with. So I use the task scheduler built into the platform. <a href="http://momentapp.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/moment-jobs-api.png"  align="right" /></a> When I migrate applications off my native development environment I need a better way to trigger scheduled jobs.
+     I run most of my web applications on a Windows 2008 server, this is the platform I'm most familiar with. So I use the task scheduler built into the platform. <a href="http://momentapp.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/moment-jobs-api.png"  align="right" /></a> When I migrate applications off my native development environment I need a better way to trigger scheduled jobs.
 </p>
 
 <p>

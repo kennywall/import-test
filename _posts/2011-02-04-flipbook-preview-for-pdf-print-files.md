@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/flipbook.jpg
 ---
 {% include JB/setup %}
 <p>
-     When I am building a user interface for any print application I want to allow users to preview their PDF after upload. The Mimeo Proofing Service is what I use. <img src="http://kinlane-productions.s3.amazonaws.com/flipbook.jpg"  width="225" align="right" /> Proofing takes a PDF and generates a small and large image for each page of the PDF, and adds to your Mimeo account.
+     When I am building a user interface for any print application I want to allow users to preview their PDF after upload. The Mimeo Proofing Service is what I use. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/flipbook.jpg"  width="225" align="right" /> Proofing takes a PDF and generates a small and large image for each page of the PDF, and adds to your Mimeo account.
 </p>
 
 <p>

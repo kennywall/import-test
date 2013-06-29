@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instagram.PNG
 </p>
 
 <p>
-     Instagram allows you to take photos on your IPhone apply unique filters to them which change color, brightness, borders and create an entirely new version of your photo. <img src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG"  width="250" align="right" /> The mobile app allows you to enhance the average photos taken with your IPhone and quickly share to <a href="http://www.kinlane.com/category/twitter/">Twitter</a>, <a href="http://www.kinlane.com/category/facebook/">Facebook</a>, Flickr or Tumblr.
+     Instagram allows you to take photos on your IPhone apply unique filters to them which change color, brightness, borders and create an entirely new version of your photo. <img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/instagram.PNG"  width="250" align="right" /> The mobile app allows you to enhance the average photos taken with your IPhone and quickly share to <a href="http://www.kinlane.com/category/twitter/">Twitter</a>, <a href="http://www.kinlane.com/category/facebook/">Facebook</a>, Flickr or Tumblr.
 </p>
 
 <p>

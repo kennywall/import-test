@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.flickr.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg"  width="140" align="right" /></a>This code sample is something you can find easily on the Internet, but I want to include it in my series about creating a photo book with Flickr.
+     <a href="http://www.flickr.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg"  width="140" align="right" /></a>This code sample is something you can find easily on the Internet, but I want to include it in my series about creating a photo book with Flickr.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 <p>
      Next I will be creating a layout for a photo book, using my <a href="http://instagr.am/" target="_blank">Instagram</a> photos from <a href="http://blog.apievangelist.com/2011/02/09/history-of-apis-flickr-api/" target="_blank">Flickr</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

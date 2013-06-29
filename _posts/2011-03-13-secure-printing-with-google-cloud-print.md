@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I've been doing a lot of work with the <a title="Google Cloud Print API" href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html">Google Cloud Print API</a> lately. I've built a prototype <a title="Google Cloud Print Proxy" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy,</a> and I am trying to push the boundaries of what can be done with Google Cloud Print.
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I've been doing a lot of work with the <a title="Google Cloud Print API" href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html">Google Cloud Print API</a> lately. I've built a prototype <a title="Google Cloud Print Proxy" href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/">Google Cloud Print Proxy,</a> and I am trying to push the boundaries of what can be done with Google Cloud Print.
 </p>
 
 <p>

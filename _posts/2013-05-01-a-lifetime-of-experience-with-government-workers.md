@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/uncl
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/uncle-sam.jpg"  width="250" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/uncle-sam.jpg"  width="250" align="right" />
 </p>
 <p>
      I grew up in rural Oregon. One concept I was raised on and given healthy portions of, was a distrust of "government workers". Government workers were lazy, predatory, beauracratic and definitely not working for the interests of anyone I encountered in the small town I grew up in.

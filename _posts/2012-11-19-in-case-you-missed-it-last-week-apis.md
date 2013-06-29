@@ -8,7 +8,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table width="350">
      <tbody>
           <tr>
-               <td>
+               <td style="width: 50px;">
                     <a title="Dropbox" href="https://singly.com/docs/dropbox"><img src="https://singly.com/images/service_icons/dropbox.png"  width="40" /></a>
                </td>
                <td>
@@ -24,7 +24,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table width="350">
      <tbody>
           <tr>
-               <td>
+               <td style="width: 50px;">
                     <a title="Foursquare" href="https://singly.com/docs/foursquare"><img src="https://singly.com/images/service_icons/foursquare.png"  width="40" /></a>
                </td>
                <td>
@@ -42,7 +42,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <table width="350">
      <tbody>
           <tr>
-               <td>
+               <td style="width: 50px;">
                     <a title="Tumblr" href="https://singly.com/docs/tumblr"><img src="https://singly.com/images/service_icons/tumblr.png"  width="40" /></a>
                </td>
                <td>

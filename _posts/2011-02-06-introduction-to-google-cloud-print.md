@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 ---
 {% include JB/setup %}
 <p>
-     I have been studying <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://blog.chromium.org/2010/04/new-approach-to-printing.html" target="_blank">since they announced it last year</a>. Even though you don't catch me printing very often, I am fascinated by the technology and its potential. <img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png"  width="300" align="right" /> <a href="http://www.google.com/chrome/intl/en/p/cloudprint.html" target="_blank">Google Cloud Print</a> enables any <a href="http://www.kinlane.com/category/application/">application</a> (web, desktop, <a href="http://www.kinlane.com/category/mobile/">mobile</a>) on any device to print to any printer. Applications submit print jobs to the cloud print service via the <a href="http://www.apievangelist.com/">API</a> offered by Google.
+     I have been studying <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://blog.chromium.org/2010/04/new-approach-to-printing.html" target="_blank">since they announced it last year</a>. Even though you don't catch me printing very often, I am fascinated by the technology and its potential. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png"  width="300" align="right" /> <a href="http://www.google.com/chrome/intl/en/p/cloudprint.html" target="_blank">Google Cloud Print</a> enables any <a href="http://www.kinlane.com/category/application/">application</a> (web, desktop, <a href="http://www.kinlane.com/category/mobile/">mobile</a>) on any device to print to any printer. Applications submit print jobs to the cloud print service via the <a href="http://www.apievangelist.com/">API</a> offered by Google.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      However, I'm interested in going further with this. I'm spending time working with the <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Google Cloud Print Services API</a> and building a print proxy that can be used in many different situations, beyond interfacing with physical printers.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

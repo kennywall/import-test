@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 ---
 {% include JB/setup %}
 <p>
-     <a title="Open Xerox" href="https://open.xerox.com/"><img src="http://kinlane-productions.s3.amazonaws.com/open-xerox.png"  align="right" /></a>I spend time each day monitoring how technology is impacting various industries. APIs are playing a major role in evolving how business is done in just about any sector. In my search for new APIs and technologies for the print and publishing industry I came across a new community called <a title="Open Xerox" href="https://open.xerox.com/">Open Xerox</a>.
+     <a title="Open Xerox" href="https://open.xerox.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/open-xerox.png"  align="right" /></a>I spend time each day monitoring how technology is impacting various industries. APIs are playing a major role in evolving how business is done in just about any sector. In my search for new APIs and technologies for the print and publishing industry I came across a new community called <a title="Open Xerox" href="https://open.xerox.com/">Open Xerox</a>.
 </p>
 
 <p>
@@ -24,7 +24,7 @@ image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 <p>
      Everything looks great. Except the open. I don't see any open-source technologies and when I try to sign up to submit my open-source tools I got this:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>We are sorry but developer roles are for the moment reserved to Xerox users. We will inform you whenever we open this to any user.</em> I see a lot of of open washing where people use the term open to describe what they are doing, when in reality there isn't much open.
 </p>
 
@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/open-xerox.png
 <p>
      I think it is important that we all work to maintain the integrity of the term, so that the general public respects it for what it is. So c'mon Xerox, open up.
 </p>
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

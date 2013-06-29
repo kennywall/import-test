@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg"  width="260" align="right" /><a title="EADS Engineers in UK" href="http://www.eads.com/eads/int/en.html">Engineers in the UK</a> are using 3D printing with a nylon powder to create a really cool, <a title="3D Nylon Bicycle" href="http://www.popsci.com/technology/article/2011-03/3-d-laser-printing-builds-nylon-bike-strong-steel">futuristic bicycle</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg"  width="260" align="right" /><a title="EADS Engineers in UK" href="http://www.eads.com/eads/int/en.html">Engineers in the UK</a> are using 3D printing with a nylon powder to create a really cool, <a title="3D Nylon Bicycle" href="http://www.popsci.com/technology/article/2011-03/3-d-laser-printing-builds-nylon-bike-strong-steel">futuristic bicycle</a>.
 </p>
 
 <p>
@@ -45,7 +45,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 <p>
      3D printing combined with web APIs are going to revolutionize manufacturing in the next couple years.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

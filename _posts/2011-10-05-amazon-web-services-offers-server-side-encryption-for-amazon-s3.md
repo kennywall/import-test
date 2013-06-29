@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/amazon/amazon-s3-encryption.p
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/amazon/amazon-s3-encryption.png"  width="250" align="right" />Amazon Web Services <a title="now offers Server Side Encryption" href="http://aws.typepad.com/aws/2011/10/new-amazon-s3-server-side-encryption.html" target="_blank">now offers Server Side Encryption (SSE) for Amazon S3</a>, enablingthe ability to encrypt data stored in Amazon S3, by adding an additional request header when writing the object to Amazon S3, with decryptionoccurringautomatically when data is retrieved.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/amazon-s3-encryption.png"  width="250" align="right" />Amazon Web Services <a title="now offers Server Side Encryption" href="http://aws.typepad.com/aws/2011/10/new-amazon-s3-server-side-encryption.html" target="_blank">now offers Server Side Encryption (SSE) for Amazon S3</a>, enablingthe ability to encrypt data stored in Amazon S3, by adding an additional request header when writing the object to Amazon S3, with decryptionoccurringautomatically when data is retrieved.
 </p>
 
 <p>

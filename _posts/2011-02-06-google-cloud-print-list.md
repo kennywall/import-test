@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a>In addition to <a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">registering a Google Cloud Printer</a> you may want to list what cloud printers you have registered with a specific Google Account.
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a>In addition to <a href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">registering a Google Cloud Printer</a> you may want to list what cloud printers you have registered with a specific Google Account.
 </p>
 
 <p>
@@ -31,7 +31,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 <p>
      You can store the list of cloud printers in a database and / or display for the user to navigate and manage their Google Cloud Printers.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

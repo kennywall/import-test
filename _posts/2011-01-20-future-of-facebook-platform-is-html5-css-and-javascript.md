@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.p
 </p>
 
 <p>
-     Spearkers will include: <img src="http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.png"  width="250" align="right" />
+     Spearkers will include: <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/facebook/Facebook-Developer.png"  width="250" align="right" />
 </p>
 <ul class="mainlist">
      <li>

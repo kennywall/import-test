@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I was attracted to my current job as the Mimeo Connect API evangelist because of the challenges associated with a print API.
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I was attracted to my current job as the Mimeo Connect API evangelist because of the challenges associated with a print API.
 </p>
 
 <p>

@@ -17,7 +17,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Scribd.PNG
      </li>
 </ul>
 <p>
-     I want to help developers integrate Scribd document storage and Mimeo <a href="http://www.kinlane.com/category/publishing/">printing</a> into their applications. <a href="http://www.scribd.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/Scribd.PNG"  width="250" align="right" /></a> You can see this in action on my working example, <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-scribd-api-and-prepare-proof.php" target="_blank">Pulling a PDF from Scribd and Proofing with Mimeo</a>.
+     I want to help developers integrate Scribd document storage and Mimeo <a href="http://www.kinlane.com/category/publishing/">printing</a> into their applications. <a href="http://www.scribd.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Scribd.PNG"  width="250" align="right" /></a> You can see this in action on my working example, <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-scribd-api-and-prepare-proof.php" target="_blank">Pulling a PDF from Scribd and Proofing with Mimeo</a>.
 </p>
 
 <p>

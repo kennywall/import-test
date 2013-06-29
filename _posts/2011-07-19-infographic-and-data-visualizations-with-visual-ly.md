@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.png"  width="200" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.png"  width="200" align="right" />
 </p>
 
 <p>
@@ -30,7 +30,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-logo.
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-infographic.png"  width="250" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/visually/visually-infographic.png"  width="250" align="right" />
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-creat
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-creators.jpg"  width="250" align="right" />3D printing starts with someones idea. Someones idea to recreate an existing object, or a vision of an object they hold in their head.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-creators.jpg"  width="250" align="right" />3D printing starts with someones idea. Someones idea to recreate an existing object, or a vision of an object they hold in their head.
 </p>
 
 <p>

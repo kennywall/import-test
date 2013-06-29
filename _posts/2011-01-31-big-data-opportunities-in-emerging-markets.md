@@ -6,7 +6,7 @@ image: http://blogs.worldbank.org/files/transport/taxi(1).jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://blogs.worldbank.org/files/transport/taxi(1).jpg"  width="250" align="right" />As <a href="http://www.kinlane.com/category/mobile/">mobile</a> phones and <a class="zem_slink" title="Global Positioning System" rel="wikipedia" href="http://en.wikipedia.org/wiki/Global_Positioning_System">GPS</a> gadgets infiltrate our every day lives, the opportunities for mining of <a href="http://www.kinlane.com/category/data-20/">big data</a> grows exponentially.
+     <img style="padding: 15px;" src="http://blogs.worldbank.org/files/transport/taxi(1).jpg"  width="250" align="right" />As <a href="http://www.kinlane.com/category/mobile/">mobile</a> phones and <a class="zem_slink" title="Global Positioning System" rel="wikipedia" href="http://en.wikipedia.org/wiki/Global_Positioning_System">GPS</a> gadgets infiltrate our every day lives, the opportunities for mining of <a href="http://www.kinlane.com/category/data-20/">big data</a> grows exponentially.
 </p>
 
 <p>

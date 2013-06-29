@@ -28,7 +28,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 <p>
      Good to know how to do for the future, with my other web applications.
 </p>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

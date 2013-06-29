@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMeP
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMePress-Kickstarter.jpg"  width="300" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/lettermepress/LetterMePress-Kickstarter.jpg"  width="300" align="right" />
 </p>
 
 <p>

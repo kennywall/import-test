@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-souve
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-souveniers.png"  width="125" align="right" />A group of innovators called <a title="BlablabLAB" href="http://www.facebook.com/pages/blablabLAB/204092786276896?sk=wall">BlablabLAB</a> have integrated a Kinect with a 3-D printer to print personalized statues.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-souveniers.png"  width="125" align="right" />A group of innovators called <a title="BlablabLAB" href="http://www.facebook.com/pages/blablabLAB/204092786276896?sk=wall">BlablabLAB</a> have integrated a Kinect with a 3-D printer to print personalized statues.
 </p>
 
 <p>

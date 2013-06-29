@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="250" align="right" />I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="250" align="right" />I'm working to make it easier to get up and running using the Mimeo Connect Cloud Print API.
 </p>
 
 <p>
@@ -32,10 +32,10 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 <p>
      The Document ID is a GUID, for those of you who don't know what a GUID is:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>A globally unique identifier or GUID (pronounced /??u??d/ or /??w?d/) is a unique reference number used as an identifier in computer software</em> <em>So a Document ID looks like this:</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>3F2504E0-4F89-11D3-9A0C-0305E82C3301</em> Except for some reason the one that shows in My Mimeo is missing the dashes, and doesn't work when you pass through the API.
 </p>
 

@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/junk-drawer.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/AutoCAD_Symbols_Fasteners.jpg"  align="right" />We could create a virtual junk drawer of all these items. Once cataloged in our virtual junk drawer, we could properly dispose of in a recycling bin, Goodwill donation bag, or items in garage for the big yard sale that will make us rich. No more physical junk drawer. We could access our virtual junk drawer at any time, in an online environment.
+     <img style="padding: 15 px;" src="http://kinlane-productions.s3.amazonaws.com/AutoCAD_Symbols_Fasteners.jpg"  align="right" />We could create a virtual junk drawer of all these items. Once cataloged in our virtual junk drawer, we could properly dispose of in a recycling bin, Goodwill donation bag, or items in garage for the big yard sale that will make us rich. No more physical junk drawer. We could access our virtual junk drawer at any time, in an online environment.
 </p>
 
 <p>
@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/junk-drawer.jpg
 <p>
      Anyways...just a thought.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <a title="Pen.io" href="http://pen.io/"><img src="http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png"  width="200" align="right" /></a>I really enjoy web applications that focus on doing one thing, and doing it well.
+     <a title="Pen.io" href="http://pen.io/"><img style="padding: 25 px;" src="http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png"  width="200" align="right" /></a>I really enjoy web applications that focus on doing one thing, and doing it well.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ image: http://kinlane-productions.s3.amazonaws.com/pen-io-logo.png
 <p>
      It doesn't get much simpler than that. It is a very elegant representation of a Software as a Service for a single resource.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

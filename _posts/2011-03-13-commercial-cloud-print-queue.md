@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>As I'm working on different cloud printing solutions I am considering the practical use of these technologies in conjunction with <a title="Mimeo Commercial Printing" href="http://www.mimeo.com">Mimeo commercial printing</a>.
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>As I'm working on different cloud printing solutions I am considering the practical use of these technologies in conjunction with <a title="Mimeo Commercial Printing" href="http://www.mimeo.com">Mimeo commercial printing</a>.
 </p>
 
 <p>
@@ -32,7 +32,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 <p>
      Seems like using cloud printing with a commercial print queue would be a smart implementation of cloud print technology.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

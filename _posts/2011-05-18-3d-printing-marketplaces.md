@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-marke
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-marketplace.jpg"  width="250" align="right" />Marketplaces are necessary to showcase and make 3D printing products and parts accessible by the public and other potential customers.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-marketplace.jpg"  width="250" align="right" />Marketplaces are necessary to showcase and make 3D printing products and parts accessible by the public and other potential customers.
 </p>
 
 <p>

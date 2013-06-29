@@ -6,7 +6,7 @@ image: http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thi
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://i.materialise.com/blog/entry/3d-printing-rodins-thinker" target="_blank"><img src="http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thinker-by-Rodin-images-copyright-Kees-Haageman321.jpg"  width="200" align="right" /></a>In 2007 the popular statue <a class="zem_slink" title="The Thinker" rel="wikipedia" href="http://en.wikipedia.org/wiki/The_Thinker">Rodin's Thinker</a> was stolen from the Singer Laren museum and damaged while the thieves were trying to destroy and sell it for scrap metal.
+     <a href="http://i.materialise.com/blog/entry/3d-printing-rodins-thinker" target="_blank"><img style="padding: 15px;" src="http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thinker-by-Rodin-images-copyright-Kees-Haageman321.jpg"  width="200" align="right" /></a>In 2007 the popular statue <a class="zem_slink" title="The Thinker" rel="wikipedia" href="http://en.wikipedia.org/wiki/The_Thinker">Rodin's Thinker</a> was stolen from the Singer Laren museum and damaged while the thieves were trying to destroy and sell it for scrap metal.
 </p>
 
 <p>
@@ -20,7 +20,7 @@ image: http://i.materialise.com/blog/wp-content/uploads/2011/02/imaterialise-Thi
 <p>
      An interesting example of how 3D printing is not just for creating new works, it can repair historic artifacts as well.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

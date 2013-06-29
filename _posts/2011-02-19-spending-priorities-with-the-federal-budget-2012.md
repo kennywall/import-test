@@ -54,7 +54,7 @@ image: http://kinlane-productions.s3.amazonaws.com/budget/us-whitehouse-logo.jpg
           <a href="http://federalbudget2011.laneworks.net/index.php" target="_blank">My Priorities for the President's Budget / Fiscal Year 2012</a>
      </li>
 </ul>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

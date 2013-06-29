@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Evil_Monkey.gif
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Evil_Monkey.gif"  width="250" align="right" /><a title="Netflix wrote an interesting post about making their systems redundant and more fault tolerant" href="http://techblog.netflix.com/2011/07/netflix-simian-army.html">Netflix wrote an interesting post about making their systems, redundant and more fault-tolerant</a>, while running in the Clouds. Since no single component in the cloud can guarantee 100% up-time, Netflix has to design a cloud architecture where individual components can fail without affecting the availability of the entire system.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Evil_Monkey.gif"  width="250" align="right" /><a title="Netflix wrote an interesting post about making their systems redundant and more fault tolerant" href="http://techblog.netflix.com/2011/07/netflix-simian-army.html">Netflix wrote an interesting post about making their systems, redundant and more fault-tolerant</a>, while running in the Clouds. Since no single component in the cloud can guarantee 100% up-time, Netflix has to design a cloud architecture where individual components can fail without affecting the availability of the entire system.
 </p>
 
 <p>

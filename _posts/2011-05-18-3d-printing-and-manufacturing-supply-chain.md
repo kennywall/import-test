@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_sup
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_supply_chain.jpg"  width="200" align="right" />In preparation for <a title="Maker Faire" href="http://makerfaire.com/">Maker Faire</a> this weekend I'm collecting more of my thoughts around 3D printing.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_supply_chain.jpg"  width="200" align="right" />In preparation for <a title="Maker Faire" href="http://makerfaire.com/">Maker Faire</a> this weekend I'm collecting more of my thoughts around 3D printing.
 </p>
 
 <p>
@@ -53,7 +53,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/Manufacturing_sup
      </li>
 </ul>
 <p>
-     Of course this is just my perspective of the industry and can evolve as I learn more, and collaborate with other industry players.<img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-manufacturing.jpg"  width="200" align="right" />
+     Of course this is just my perspective of the industry and can evolve as I learn more, and collaborate with other industry players.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-manufacturing.jpg"  width="200" align="right" />
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/scrabble.jpg
 ---
 {% include JB/setup %}
 <p>
-     I have a central keyword list that I use as a reference on a daily basis. <a href="http://www.danielbowen.com/2004/05/28/superscrabble/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/scrabble.jpg"  width="175" align="right" /></a> I track these keywords across many tools from <a href="www.google.com/reader" target="_blank">Google Reader</a>, <a href="http://www.google.com/webmasters/" target="_blank">Google Webmaster</a>, <a href="www.google.com/analytics/" target="_blank">Google Analytics</a>, and Wordpress.
+     I have a central keyword list that I use as a reference on a daily basis. <a href="http://www.danielbowen.com/2004/05/28/superscrabble/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/scrabble.jpg"  width="175" align="right" /></a> I track these keywords across many tools from <a href="www.google.com/reader" target="_blank">Google Reader</a>, <a href="http://www.google.com/webmasters/" target="_blank">Google Webmaster</a>, <a href="www.google.com/analytics/" target="_blank">Google Analytics</a>, and Wordpress.
 </p>
 
 <p>
@@ -67,7 +67,7 @@ image: http://kinlane-productions.s3.amazonaws.com/scrabble.jpg
      </li>
 </ul>
 <p>
-     These words represent the most important key words and phrases in my daily life. There are plenty more, but these are the top of the list. <img src="http://kinlane-productions.s3.amazonaws.com/rss-drop-shadow.png"  align="right" /> These keywords drive what I read and curate, and what people search for on the Internet and find my web sites.
+     These words represent the most important key words and phrases in my daily life. There are plenty more, but these are the top of the list. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/rss-drop-shadow.png"  align="right" /> These keywords drive what I read and curate, and what people search for on the Internet and find my web sites.
 </p>
 
 <p>

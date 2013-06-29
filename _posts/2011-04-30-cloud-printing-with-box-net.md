@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jp
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.box.net"><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg"  width="125" align="right" /></a>
+     <a href="http://www.box.net"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jpg"  width="125" align="right" /></a>
 </p>
 
 <p>
@@ -32,7 +32,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/Box-logo-new.jp
      </li>
 </ul>
 <p>
-     <a href="http://www.mimeo.com"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="175" align="right" /></a>
+     <a href="http://www.mimeo.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="175" align="right" /></a>
 </p>
 
 <p>

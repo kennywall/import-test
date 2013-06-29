@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target=""><img src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg"  width="250" align="right" /></a>I needed to learn more about the<a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target="">CityGrid APIs</a>. What better way than to actually build a prototype.
+     <a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target=""><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg"  width="250" align="right" /></a>I needed to learn more about the<a title="CityGrid APIs" href="http://developer.citygridmedia.com/" target="">CityGrid APIs</a>. What better way than to actually build a prototype.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/citygrid/citygrid_logo.jpg
 </p>
 
 <p>
-     I put together five pages, allowing you to browse some local business categories in West Hollywood, CA.<a title="Hyp3rL0cal" href="http://hyp3rl0cal.com/"><img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/Hyp3rL0cal-3.png"  width="350" align="right" /></a>
+     I put together five pages, allowing you to browse some local business categories in West Hollywood, CA.<a title="Hyp3rL0cal" href="http://hyp3rl0cal.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/Hyp3rL0cal-3.png"  width="350" align="right" /></a>
 </p>
 <ul class="mainlist">
      <li>Home

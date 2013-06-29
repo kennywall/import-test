@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affil
 ---
 {% include JB/setup %}
 <p>
-     <a title="Amazon Affiliate Program" href="https://affiliate-program.amazon.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affiliates.png"  width="250" align="right" /></a>Amazon sent me an email about the recent <a title="signing of the online sales tax law, by California Governor Brown" href="http://www.mercurynews.com/top-stories/ci_18282733" target="_blank">signing of the online sales tax law by California Governor Brown</a>, which would force online retailers who have no physical presence in California, to collect the same levies as bricks-and-mortar stores.
+     <a title="Amazon Affiliate Program" href="https://affiliate-program.amazon.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affiliates.png"  width="250" align="right" /></a>Amazon sent me an email about the recent <a title="signing of the online sales tax law, by California Governor Brown" href="http://www.mercurynews.com/top-stories/ci_18282733" target="_blank">signing of the online sales tax law by California Governor Brown</a>, which would force online retailers who have no physical presence in California, to collect the same levies as bricks-and-mortar stores.
 </p>
 
 <p>
@@ -28,7 +28,7 @@ image: http://kinlane-productions.s3.amazonaws.com/amazon/affiliate/amazon-affil
 <p>
      These are Internet businesses, I don't think moving them will be very hard.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

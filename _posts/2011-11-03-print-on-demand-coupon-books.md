@@ -16,7 +16,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/coupon-cabin-logo.png
 <p>
      This idea comes from my co-worker Heath. His thoughts are:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Seems like a subscription service to pick the stores near you have coupon books printed and delivered from a site like Coupon Cabin, would be pretty cool. A rare case where the printed pages have true monetary value.</em> <a title="Coupon Cabin" href="http://www.couponcabin.com/printable-coupons/">Coupon Cabin</a>searches, aggregates and verifies printable in-store coupons from offline retail stores. Users can browse the site and find coupons for the things they need, print and use.
 </p>
 

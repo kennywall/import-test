@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/C-Sharp.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/C-Sharp.jpg"  width="125" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/C-Sharp.jpg"  width="125" align="right" />
 </p>
 
 <p>

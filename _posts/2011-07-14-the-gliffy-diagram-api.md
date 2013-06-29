@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.gliffy.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-logo.gif"  width="150" align="right" /></a>
+     <a href="http://www.gliffy.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-logo.gif"  width="150" align="right" /></a>
 </p>
 
 <p>
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-api-server.jpg"  width="200" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/gliffy/gliffy-api-server.jpg"  width="200" align="right" />
 </p>
 
 <p>

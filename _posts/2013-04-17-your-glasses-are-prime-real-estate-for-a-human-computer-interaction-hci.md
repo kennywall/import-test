@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/goog
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/google-glasses/google-glasses.jpg"  width="250" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/google-glasses/google-glasses.jpg"  width="250" align="right" />
 </p>
 <p>
      I’m closely following the <a href="http://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction">Human Computer Interaction</a> (HCI) world lately, in an attempt to understand the role APIs will play in this expanding tech sector. One product that is of particular interest is <a href="http://www.google.com/glass/start/">Google Glasses</a>, which I think is one of the most exciting and scariest technologies to emerge in recent times.

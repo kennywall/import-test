@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/github-logo.png"  width="150" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/github-logo.png"  width="150" align="right" />
 </p>
 <p class="p1">
      You have the power to update your own profile on the <a href="https://github.com/1l2p/reclaimopen">#ReclaimOpen Github repository</a>, by editing and submitting a pull request. Here are some steps you will need to consider to accomplish this.
@@ -51,7 +51,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
 <p>
      Here is a video walkthrough of the process as I update my own profile on the people.html page.
 </p>
-<p>
+<p style="text-align: center; font-size: 14px; color: #ff0000;">
      <strong>UPDATE: Edit the hackathon.html page NOT the people.html page!! I messed up!!</strong>
 </p>
 <p>

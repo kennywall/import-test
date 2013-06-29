@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <p>
-     <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/"><img src="https://s3.amazonaws.com/kinlane-productions/events/dfw-api-meetup-group/dfw-api-meetup-group.jpeg"  width="200" align="right" /></a>
+     <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/events/dfw-api-meetup-group/dfw-api-meetup-group.jpeg"  width="200" align="right" /></a>
 </p>
 <p>
      Hey everyone. I'm heading out to the Dallas-Fort Worth area the week after next, Tuesday, May 14, to kick off the <a title="DFW API Professional Meetup Group" href="http://www.meetup.com/DFW-API-Professionals/events/115600132/">DFW API Professionals Meetup</a>.
@@ -23,7 +23,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      Look forward to seeing you there and connecting.
 </p>
-<table cellspacing="1" cellpadding="5" width="95%">
+<table style="padding: 15px;" cellspacing="1" cellpadding="5" width="95%">
      <tbody>
           <tr>
                <td align="center">

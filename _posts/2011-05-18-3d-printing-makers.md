@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-maker
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-makers.jpg"  width="250" align="right" />Just like it takes <a title="creators" href="http://www.kinlane.com/2011/05/3d-printing-the-creators/">creators</a> to develop 3D models of physical objects, it takes makers, who are people that actually bring these virtual representations into the world.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-makers.jpg"  width="250" align="right" />Just like it takes <a title="creators" href="http://www.kinlane.com/2011/05/3d-printing-the-creators/">creators</a> to develop 3D models of physical objects, it takes makers, who are people that actually bring these virtual representations into the world.
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png"  width="250" align="right" />APIs are transforming the way we print. I'm always looking for other APIs that compliment the <a title="Mimeo Connect Cloud Print API" href="http://developer.mimeo.com">Mimeo Connect Cloud Print API</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png"  width="250" align="right" />APIs are transforming the way we print. I'm always looking for other APIs that compliment the <a title="Mimeo Connect Cloud Print API" href="http://developer.mimeo.com">Mimeo Connect Cloud Print API</a>.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
 </p>
 
 <p>
-     In school, a used textbook can be of high value because of the notes written in the margins, and the highlighting of important parts.<img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
+     In school, a used textbook can be of high value because of the notes written in the margins, and the highlighting of important parts.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
 </p>
 
 <p>

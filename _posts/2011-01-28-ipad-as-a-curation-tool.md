@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/apple_ipad_2.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.kinlane.com/2011/01/information-curation-with-my-google-reader/" target="_blank">Google Reader is the primary application I use for information curation</a>. I currently have 572 subscriptions that I stay on top of daily. <a href="http://www.kinlane.com/category/mobile/ipad/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/apple/apple_ipad_2.jpg"  width="250" align="right" /></a> I just cleaned this list of <a href="http://www.kinlane.com/category/rss/">RSS</a> subscriptions up to keep moremanageableand realistic.
+     <a href="http://www.kinlane.com/2011/01/information-curation-with-my-google-reader/" target="_blank">Google Reader is the primary application I use for information curation</a>. I currently have 572 subscriptions that I stay on top of daily. <a href="http://www.kinlane.com/category/mobile/ipad/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/apple_ipad_2.jpg"  width="250" align="right" /></a> I just cleaned this list of <a href="http://www.kinlane.com/category/rss/">RSS</a> subscriptions up to keep moremanageableand realistic.
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png"  width="200" align="right" />My 10 year old daughter Kaia and I were chatting last night about a old family friend that is coming to visit. She hasn't seen him since she was three years old.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png"  width="200" align="right" />My 10 year old daughter Kaia and I were chatting last night about a old family friend that is coming to visit. She hasn't seen him since she was three years old.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/kaia-krausky.png
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Jimmy-Lifting-Weights.png"  width="250" align="right" />This all happened when she was 3. That magical age where memories start sticking with you, but how many of these memories evolve from photos, videos, and stories that you are exposed to?
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Jimmy-Lifting-Weights.png"  width="250" align="right" />This all happened when she was 3. That magical age where memories start sticking with you, but how many of these memories evolve from photos, videos, and stories that you are exposed to?
 </p>
 
 <p>

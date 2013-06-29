@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg"  width="250" align="right" />3D models used in 3D printing are stored in files. These files can be a wide range of standard or specialized file formats.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-file-formats.jpg"  width="250" align="right" />3D models used in 3D printing are stored in files. These files can be a wide range of standard or specialized file formats.
 </p>
 
 <p>

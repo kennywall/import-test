@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png
      </li>
 </ul>
 <p>
-     The web site is simple and provides essential building blocks to support the application:<a title="CrocoDoc" href="http://crocodoc.com/"><img src="http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png"  width="250" align="right" /></a>
+     The web site is simple and provides essential building blocks to support the application:<a title="CrocoDoc" href="http://crocodoc.com/"><img style="padding-top: 100px;" src="http://kinlane-productions.s3.amazonaws.com/Crocodoc-logo.png"  width="250" align="right" /></a>
 </p>
 <ul class="mainlist">
      <li>Overview

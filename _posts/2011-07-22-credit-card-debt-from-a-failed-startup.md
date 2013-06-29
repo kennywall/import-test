@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/startup-credit-card-payments.
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/startup-credit-card-payments.png"  width="300" align="right" />Here is a little reminder for all the startup hungry folks out there.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/startup-credit-card-payments.png"  width="300" align="right" />Here is a little reminder for all the startup hungry folks out there.
 </p>
 
 <p>

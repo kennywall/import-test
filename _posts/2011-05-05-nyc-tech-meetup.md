@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png"  width="300" align="right" />I was fortunate enough to attend the <a title="NY Tech Meetup" href="http://www.meetup.com/ny-tech/">NY Tech Meetup</a> last night at NYU while I was in town.
+     <img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/ny-tech-meetup-logo.png"  width="300" align="right" />I was fortunate enough to attend the <a title="NY Tech Meetup" href="http://www.meetup.com/ny-tech/">NY Tech Meetup</a> last night at NYU while I was in town.
 </p>
 
 <p>

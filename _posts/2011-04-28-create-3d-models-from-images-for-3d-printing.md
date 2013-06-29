@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways-drawing
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways-drawing-to-3d-model.jpg"  width="250" align="right" />3D printing innovators <a href="http://www.shapeways.com/blog/archives/816-Introducing-Image-Popper,-a-new-way-to-easily-3D-model-and-3D-print.html">Shapeways has released a new concept in 3D Printing</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways-drawing-to-3d-model.jpg"  width="250" align="right" />3D printing innovators <a href="http://www.shapeways.com/blog/archives/816-Introducing-Image-Popper,-a-new-way-to-easily-3D-model-and-3D-print.html">Shapeways has released a new concept in 3D Printing</a>.
 </p>
 
 <p>

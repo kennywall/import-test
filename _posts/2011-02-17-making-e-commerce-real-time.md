@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png
 </p>
 
 <p>
-     Setting up a site for e-commerce has always taken time. Its not a quick process. <a href="http://www.paypal.com" target="_blank">Paypal</a> has made most of the advances in this space, but it still can take several hours to get up and going with their Paypal basic, and could be days to get up and going with Paypal Advanced integration. <a href="http://tinypay.me/~R0Tfj3i" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png"  width="300" align="right" /></a> I came across a company called <a href="http://tinypay.me/" target="_blank">Tinypay.me</a> the other day. I learned about them through <a href="http://www.mashape.com" target="_blank">Mashape</a>, who Tinypay.me uses for their API.
+     Setting up a site for e-commerce has always taken time. Its not a quick process. <a href="http://www.paypal.com" target="_blank">Paypal</a> has made most of the advances in this space, but it still can take several hours to get up and going with their Paypal basic, and could be days to get up and going with Paypal Advanced integration. <a href="http://tinypay.me/~R0Tfj3i" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png"  width="300" align="right" /></a> I came across a company called <a href="http://tinypay.me/" target="_blank">Tinypay.me</a> the other day. I learned about them through <a href="http://www.mashape.com" target="_blank">Mashape</a>, who Tinypay.me uses for their API.
 </p>
 
 <p>
@@ -36,7 +36,7 @@ image: http://kinlane-productions.s3.amazonaws.com/tinypay-me-e-commerce.png
 <p>
      Impressive movement forward in simplifying e-commerce and making it more real-time. I haven't even played with the API yet, more to come.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

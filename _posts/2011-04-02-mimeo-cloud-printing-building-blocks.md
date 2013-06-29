@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/legos.jpg
 </p>
 
 <p>
-     <strong>Cloud Printing Technologies</strong><img src="http://kinlane-productions.s3.amazonaws.com/legos.jpg"  width="200" align="right" />
+     <strong>Cloud Printing Technologies</strong><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/legos.jpg"  width="200" align="right" />
 </p>
 <ul class="mainlist">
      <li>Mimeo Connect REST Cloud Print API
@@ -42,7 +42,7 @@ image: http://kinlane-productions.s3.amazonaws.com/legos.jpg
      </li>
 </ul>
 <p>
-     <strong>Document Types and Print Formats</strong><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
+     <strong>Document Types and Print Formats</strong><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
 </p>
 <ul class="mainlist">
      <li>Brochures / Flyers

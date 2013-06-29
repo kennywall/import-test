@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg"  width="100" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg"  width="100" align="right" />
 </p>
 
 <p>
@@ -32,7 +32,7 @@ image: http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg
 <p>
      Mozilla is open-sourcing pdf.js, and releasing under a very liberal 3-clause BSD license. You can <a title="download and get involved at Github" href="https://github.com/andreasgal/pdf.js">download and get involved over at Github</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

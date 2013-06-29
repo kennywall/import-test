@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github/github-mac.png
 ---
 {% include JB/setup %}
 <p>
-     <a title="Github client for the Mac" href="http://mac.github.com/"><img src="http://kinlane-productions.s3.amazonaws.com/github/github-mac.png"  align="right" /></a><a title="Github" href="http://www.github.com">Github</a> just released a new <a title="Github client for the Mac" href="http://mac.github.com/">Github client for the Mac</a>. It provides a GUI alternative to the Github command line.
+     <a title="Github client for the Mac" href="http://mac.github.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/github/github-mac.png"  align="right" /></a><a title="Github" href="http://www.github.com">Github</a> just released a new <a title="Github client for the Mac" href="http://mac.github.com/">Github client for the Mac</a>. It provides a GUI alternative to the Github command line.
 </p>
 
 <p>
@@ -30,7 +30,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github/github-mac.png
 <p>
      I still have to manage my certificate using the command line, but the GUI definitely has made me more efficient.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

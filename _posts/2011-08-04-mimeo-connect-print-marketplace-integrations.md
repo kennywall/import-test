@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marke
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/solutions/mimeo-marketplace.php"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png"  width="250" align="right" /></a>
+     <a href="http://www.mimeo.com/solutions/mimeo-marketplace.php"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/marketplace/Mimeo-Marketplace-Technology.png"  width="250" align="right" /></a>
 </p>
 
 <p>

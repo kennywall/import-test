@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg
 </p>
 
 <p>
-     When I research new technologies I usually create some sort of overview document, a presentation and probably some sort of sample code or prototype. <img src="http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg"  width="250" align="right" /> In legacy positions I do all this hard work, and usually submit to my boss and maybe do apresentationto other teams. Often times, my work goes nowhere.
+     When I research new technologies I usually create some sort of overview document, a presentation and probably some sort of sample code or prototype. <img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/transparency-jellyfish.jpg"  width="250" align="right" /> In legacy positions I do all this hard work, and usually submit to my boss and maybe do apresentationto other teams. Often times, my work goes nowhere.
 </p>
 
 <p>

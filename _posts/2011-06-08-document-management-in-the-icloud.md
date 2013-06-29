@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage.png"  width="270" align="right" />Apple's new <a title="iCloud Platform" href="http://www.apple.com/icloud/">iCloud platform</a> provides a centralized cloud storage solution for managing documents from any computer and iOS device.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage.png"  width="270" align="right" />Apple's new <a title="iCloud Platform" href="http://www.apple.com/icloud/">iCloud platform</a> provides a centralized cloud storage solution for managing documents from any computer and iOS device.
 </p>
 
 <p>
@@ -44,7 +44,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/iCloud-Document-Storage
 <p>
      Apple's intent is to not just provide cloud storage, they want to provide a seamless experience for users across all applications and devices so they don't have to think about where their music, video, images, and other documents are. It just happens.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

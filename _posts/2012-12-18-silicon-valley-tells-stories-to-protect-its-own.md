@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tell
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/telling-stories.gif"  width="250" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/telling-stories.gif"  width="250" align="right" />
 </p>
 <p>
      I'm closely following the whole <a href="http://blogs.wsj.com/digits/2012/12/18/why-the-web-is-freaking-out-over-instagrams-new-terms-of-service/">Instagram terms of service discussion</a>. I will be watching closely and if Instagram follows through with implementing these TOS changes, I will migrate my photos and close my account.
@@ -24,5 +24,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tell
      When in reality we should be shaming companies that have practices that exploit users or developers. There are plenty of positive examples of terms of use that protect users and API strategies that empower developers.
 </p>
 <p>
-     Let’s not support the stories Silicon Valley tells to protects its own, but tell stories that make sure that all cloud services consider their users interests and privacy in all aspects of operations, and all APIs are developer centric in all technical, business and legal aspects of operating their platform.
+     Let’s not support the stories Silicon Valley tells to protects its own, but tell stories that make sure that <span style="text-decoration: underline;">all cloud services consider their users interests and privacy in all aspects of operations, and <span style="text-decoration: underline;">all APIs are developer centric in all technical, business and legal aspects of operating their platform.
 </p>

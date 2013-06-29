@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Twilio.PNG
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://blog.twilio.com/2011/02/announcing-twilio-subaccounts.html" target="_blank">Twilio now has subaccounts</a>. You can now build multi-tenant web applications that use the <a href="http://www.twilio.com/" target="_blank">Twilio Voice or SMS web service</a>s. <a href="http://www.twilio.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/Twilio.PNG"  align="right" /></a> Now you can build a single app and create individual "subaccounts" for each customer you have. By segmenting users into subaccounts, you can track the usage of individual customers and provideindividualcustomer billing.
+     <a href="http://blog.twilio.com/2011/02/announcing-twilio-subaccounts.html" target="_blank">Twilio now has subaccounts</a>. You can now build multi-tenant web applications that use the <a href="http://www.twilio.com/" target="_blank">Twilio Voice or SMS web service</a>s. <a href="http://www.twilio.com/" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/Twilio.PNG"  align="right" /></a> Now you can build a single app and create individual "subaccounts" for each customer you have. By segmenting users into subaccounts, you can track the usage of individual customers and provideindividualcustomer billing.
 </p>
 
 <p>

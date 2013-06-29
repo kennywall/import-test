@@ -36,12 +36,12 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-tag-cloud.
      <tbody>
           <tr>
                <td>
-                    <p>
+                    <p style="text-align: right;">
                           
                     </p>
                </td>
                <td>
-                    <p>
+                    <p style="text-align: right;">
                          <a title="Provide High Quality, Professional API Developers with Elance" href="http://www.kinlane.com/2011/02/provide-high-quality-professional-api-developers-with-elance/"><strong>Next</strong> &gt;&gt;</a>
                     </p>
                </td>

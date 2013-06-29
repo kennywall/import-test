@@ -20,7 +20,7 @@ image: https://gist.github.com/813841.js?file=Google%20Cloud%20Print%20Services%
 </script>
 
 <p>
-     The ClientLogin API requires you to use the users Google Account email and password and using Zend we can create a $client object for the users account. <a href="http://www.mimeo.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a> Using the getClientLoginToken() method we can get the Auth Token we will need to make each API call.
+     The ClientLogin API requires you to use the users Google Account email and password and using Zend we can create a $client object for the users account. <a href="http://www.mimeo.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a> Using the getClientLoginToken() method we can get the Auth Token we will need to make each API call.
 </p>
 
 <p>

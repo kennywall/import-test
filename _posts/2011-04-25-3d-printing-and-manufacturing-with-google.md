@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg"  width="250" align="right" />I'm watching the future of manufacturing and printing unfold slowly in front of us. I'm paying attention to 3D printing solutions evolving from companies like <a title="Shapeways" href="http://www.shapeways.com/">Shapeways</a>, <a title="Makerbot" href="http://www.makerbot.com/">MakerBot</a>, <a title="Materialise" href="http://www.materialise.com/">Materialise</a>, <a title="ZCorp" href="http://www.zcorp.com/">ZCorp</a>, and <a title="Object" href="http://www.objet.com/">Objet</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3D-Nylon-Bike.jpg"  width="250" align="right" />I'm watching the future of manufacturing and printing unfold slowly in front of us. I'm paying attention to 3D printing solutions evolving from companies like <a title="Shapeways" href="http://www.shapeways.com/">Shapeways</a>, <a title="Makerbot" href="http://www.makerbot.com/">MakerBot</a>, <a title="Materialise" href="http://www.materialise.com/">Materialise</a>, <a title="ZCorp" href="http://www.zcorp.com/">ZCorp</a>, and <a title="Object" href="http://www.objet.com/">Objet</a>.
 </p>
 
 <p>

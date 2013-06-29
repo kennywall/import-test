@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-b
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-broadband.jpg"  width="300" align="right" />I was reading a great <a title="post in Gigaom about community broadband" href="http://gigaom.com/broadband/cool-idea-communal-broadband/">post in Gigaom about community broadband</a>. In short, this company called <a title="netBlazr" href="http://netblazr.com/">netBlazr</a> wants to create a <a title="community supported broadband network" href="http://stopthecap.com/2011/07/19/free-communal-broadband-boston-firm-says-share-and-share-alike-and-get-service-for-free/">community supported broadband network</a> using a <a title="commercially available and industry-tested radio access and networking equipment" href="http://netblazr.com/services/access-equipment/">commercially available and industry-tested radio access and networking equipment</a>. They are doing this in Boston, but could be implemented anywhere.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-broadband.jpg"  width="300" align="right" />I was reading a great <a title="post in Gigaom about community broadband" href="http://gigaom.com/broadband/cool-idea-communal-broadband/">post in Gigaom about community broadband</a>. In short, this company called <a title="netBlazr" href="http://netblazr.com/">netBlazr</a> wants to create a <a title="community supported broadband network" href="http://stopthecap.com/2011/07/19/free-communal-broadband-boston-firm-says-share-and-share-alike-and-get-service-for-free/">community supported broadband network</a> using a <a title="commercially available and industry-tested radio access and networking equipment" href="http://netblazr.com/services/access-equipment/">commercially available and industry-tested radio access and networking equipment</a>. They are doing this in Boston, but could be implemented anywhere.
 </p>
 
 <p>
@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-b
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblz-logo.png"  width="200" align="right" />This got me thinking thinking about the state of our worlds Internet access, and how many people want to be able to control and shut off the Internet when it suits them, such as in times of riots like in London, or even San Francisco BART, and in extreme cases like Syria and Egypt.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblz-logo.png"  width="200" align="right" />This got me thinking thinking about the state of our worlds Internet access, and how many people want to be able to control and shut off the Internet when it suits them, such as in times of riots like in London, or even San Francisco BART, and in extreme cases like Syria and Egypt.
 </p>
 
 <p>
@@ -30,7 +30,7 @@ image: http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-community-b
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-equipment.jpg"  width="250" align="right" />These networks could be deployed and managed on a local, community level...but could be part of a larger coalition that discusses best practices, strategies, etc. This is just an idea I had as I read the Gigaom post, and other <a title="netBlar and Stop the Cap" href="http://stopthecap.com/2011/07/19/free-communal-broadband-boston-firm-says-share-and-share-alike-and-get-service-for-free/">material from netBlazr and Stop the Cap</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netBlazr/netblazr-equipment.jpg"  width="250" align="right" />These networks could be deployed and managed on a local, community level...but could be part of a larger coalition that discusses best practices, strategies, etc. This is just an idea I had as I read the Gigaom post, and other <a title="netBlar and Stop the Cap" href="http://stopthecap.com/2011/07/19/free-communal-broadband-boston-firm-says-share-and-share-alike-and-get-service-for-free/">material from netBlazr and Stop the Cap</a>.
 </p>
 
 <p>

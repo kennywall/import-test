@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-softw
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-software.JPG"  width="250" align="right" />When it comes to creating 3D models for 3D printing there are many types of software to choose from.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-software.JPG"  width="250" align="right" />When it comes to creating 3D models for 3D printing there are many types of software to choose from.
 </p>
 
 <p>

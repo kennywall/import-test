@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/cobo
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/cobol.jpeg"  width="150" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/cobol.jpeg"  width="150" align="right" />
 </p>
 <p>
      Every couple of years I migrate my platform a little bit forward (hopefully) and begin weaving in new tools into my personal and business world. I recently spent some time looking back, and trying to map out the last 24 years of my professional technology career--in hopes of helping me understand how far I've come.

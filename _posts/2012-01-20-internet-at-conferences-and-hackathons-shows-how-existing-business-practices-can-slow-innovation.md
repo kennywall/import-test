@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inte
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/events/Conference-Event-People.png"  width="250" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/events/Conference-Event-People.png"  width="250" align="right" />
 </p>
 <p>
      I was at the <a title="Facebook Mobile Hackathon" href="http://blog.apievangelist.com/events/facebook_mobile_hack__boston.php">Facebook Mobile Hackathon</a> at a hotel in Boston today, and during the event the Internet started going in and out, and eventually stopped working.
@@ -27,7 +27,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inte
      At most event and conference centers you are at the mercy of the venue for Internet. In my early and naive days, while planning events at Moscone Center, I wanted to bring in a secondary Internet feed, so I could supplement our connection. I was told I couldn’t, it was a violation of the venue contract.
 </p>
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/events/internet-pipes.jpg"  width="250" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/events/internet-pipes.jpg"  width="250" align="right" />
 </p>
 <p>
      I had to use the services of the provider that had the contract with the venue. Nothing else was allowed. So I watched for two years as some pretty amazing Google I/O sessions failed.  I had local databases, so registration generally went smoothly.  

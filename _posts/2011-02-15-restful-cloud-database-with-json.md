@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/jasondb.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://rest.jasondb.com/jasondb/jasondb.html" target="_blank">Jasondb</a> is a cloud-based, RESTful JSON database designed to replace <a href="http://www.kinlane.com/category/data-20/">MySQL</a> as the database in traditional web development <a href="http://rest.jasondb.com/jasondb/jasondb.html" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/jasondb.png"  width="200" align="right" /></a> Jasondb persists the data in the same JSON format used by many AJAX driven sites.
+     <a href="http://rest.jasondb.com/jasondb/jasondb.html" target="_blank">Jasondb</a> is a cloud-based, RESTful JSON database designed to replace <a href="http://www.kinlane.com/category/data-20/">MySQL</a> as the database in traditional web development <a href="http://rest.jasondb.com/jasondb/jasondb.html" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/jasondb.png"  width="200" align="right" /></a> Jasondb persists the data in the same JSON format used by many AJAX driven sites.
 </p>
 
 <p>
@@ -20,7 +20,7 @@ image: http://kinlane-productions.s3.amazonaws.com/jasondb.png
 <p>
      Jasondb appears to scale automatically with the help of <a href="http://www.kinlane.com/category/amazon/amazon-web-services/">Amazon Web Services</a> (AWS).
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

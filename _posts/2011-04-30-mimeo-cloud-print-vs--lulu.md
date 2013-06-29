@@ -12,7 +12,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/lulu/lulu-logo.jpg
 <p>
      <span id="internal-source-marker_0.2542797683272511">One search term I've seen come up in my Google Analytics frequestly is:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <span id="internal-source-marker_0.2542797683272511"><a title="Mimeo.com" href="Mimeo.com">Mimeo.com</a> vs. <a title="Lulu.com" href="http://www.lulu.com/">Lulu.com</a> I wanted to help people understand the difference.
 </p>
 

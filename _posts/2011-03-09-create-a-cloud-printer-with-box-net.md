@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="&quot;http://www.box.net"></a><img src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="250" align="right" />A while back I was playing around with the <a title="Box.net API" href="http://developers.box.net/w/page/12923958/FrontPage">Box.net API</a>, I wanted to see what services they offered.
+     <a href="&quot;http://www.box.net"></a><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="250" align="right" />A while back I was playing around with the <a title="Box.net API" href="http://developers.box.net/w/page/12923958/FrontPage">Box.net API</a>, I wanted to see what services they offered.
 </p>
 
 <p>
@@ -35,7 +35,7 @@ image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
      </li>
 </ul>
 <p>
-     I can share the URL of my application with users and keep private or publish to directory, either way users can add my Cloud Report Printer to their Box.net account. <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> Then when editing a document, they have an action called Print Report @ Mimeo.
+     I can share the URL of my application with users and keep private or publish to directory, either way users can add my Cloud Report Printer to their Box.net account. <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> Then when editing a document, they have an action called Print Report @ Mimeo.
 </p>
 
 <p>

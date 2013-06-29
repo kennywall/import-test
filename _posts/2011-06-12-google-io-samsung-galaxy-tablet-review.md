@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-
 </p>
 
 <p>
-     <a href="http://www.samsung.com/global/microsite/galaxytab/10.1/index.html"><img src="http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-edition.png"  width="300" align="right" /></a>For me the Samsung Galaxy is more functional as an actual working device, than the IPad ever was.
+     <a href="http://www.samsung.com/global/microsite/galaxytab/10.1/index.html"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-edition.png"  width="300" align="right" /></a>For me the Samsung Galaxy is more functional as an actual working device, than the IPad ever was.
 </p>
 
 <p>
@@ -47,7 +47,7 @@ image: http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-
 </p>
 
 <p>
-     <a href="http://www.evernote.com/about/download/android.php"><img src="http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-evernote.jpg"  width="250" align="right" /></a>Beyond that, the only creation I say I do on the Galaxy Tab is brainstorming and notetaking with Evernote. Evernote on a tablet is extremely useful, and I couldn't do without it.
+     <a href="http://www.evernote.com/about/download/android.php"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-evernote.jpg"  width="250" align="right" /></a>Beyond that, the only creation I say I do on the Galaxy Tab is brainstorming and notetaking with Evernote. Evernote on a tablet is extremely useful, and I couldn't do without it.
 </p>
 
 <p>
@@ -80,7 +80,7 @@ image: http://kinlane-productions.s3.amazonaws.com/samsung-galaxy-tab-google-io-
 <p>
      Thanks Google!
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

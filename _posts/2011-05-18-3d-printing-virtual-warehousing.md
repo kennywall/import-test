@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-wareh
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-warehousing.jpg"  width="250" align="right" />With the growing number of 3D models used in 3D printing there is a building need for warehouse space to store these virtual products, and parts.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-warehousing.jpg"  width="250" align="right" />With the growing number of 3D models used in 3D printing there is a building need for warehouse space to store these virtual products, and parts.
 </p>
 
 <p>

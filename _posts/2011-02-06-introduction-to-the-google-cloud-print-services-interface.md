@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 </p>
 
 <p>
-     The Google Cloud Print service interfaces allow you to create a cloud print proxy that gives you a virtual cloud printer you can send jobs to. <img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png"  width="300" align="right" /> I'm developing a PHP / MySQL proxy that enables me to register a virtual cloud printer with Google Cloud Print (GCP) registry. Once the printer is registered with the service, it can then receive jobs from and communicate status with Google Cloud Print.
+     The Google Cloud Print service interfaces allow you to create a cloud print proxy that gives you a virtual cloud printer you can send jobs to. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print.png"  width="300" align="right" /> I'm developing a PHP / MySQL proxy that enables me to register a virtual cloud printer with Google Cloud Print (GCP) registry. Once the printer is registered with the service, it can then receive jobs from and communicate status with Google Cloud Print.
 </p>
 
 <p>
@@ -65,13 +65,13 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
      </li>
 </ul>
 <p>
-     The GCP services interface gives you access to everything you for managing Google Cloud printers and jobs. Google Cloud Print can also provide print job availability notification through Google Talk, using a persistent <a class="zem_slink" title="Extensible Messaging and Presence Protocol" rel="wikipedia" href="http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol">XMPP</a> connection. <a href="http://www.mimeo.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> I have a working XMPP script, because my focus goes beyond instant gratification from a local printer, into more a commercial cloud print format, I'm not implementing the XMPP jobs management and just relying on the /fetch and /control endpoints to manage jobs.
+     The GCP services interface gives you access to everything you for managing Google Cloud printers and jobs. Google Cloud Print can also provide print job availability notification through Google Talk, using a persistent <a class="zem_slink" title="Extensible Messaging and Presence Protocol" rel="wikipedia" href="http://en.wikipedia.org/wiki/Extensible_Messaging_and_Presence_Protocol">XMPP</a> connection. <a href="http://www.mimeo.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> I have a working XMPP script, because my focus goes beyond instant gratification from a local printer, into more a commercial cloud print format, I'm not implementing the XMPP jobs management and just relying on the /fetch and /control endpoints to manage jobs.
 </p>
 
 <p>
      That concludes a quick overview of the GCP services interface, I will be publishing specific Google Cloud Print code samples for each step shortly. You can also find <a href="http://code.google.com/apis/cloudprint/docs/devguide.html" target="_blank">a Google Cloud Print Developers</a> <a href="http://code.google.com/apis/cloudprint/docs/proxyinterfaces.html" target="_blank">Guide and Google Cloud Print Services Interface Guide</a> over at Google Code.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

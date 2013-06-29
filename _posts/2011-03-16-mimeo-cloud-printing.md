@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/MCP-Overview.png
 </p>
 
 <p>
-     Related articles
+     <span style="font-weight: bold;">Related articles
 </p>
 <ul class="zemanta-article-ul">
      <li class="zemanta-article-ul-li">

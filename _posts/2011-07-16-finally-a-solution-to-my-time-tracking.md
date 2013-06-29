@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg"  width="200" align="right" />Like everyone else, I struggle with keeping track of my time. What projects did I work on, how much time did I spend researching, reading and writing each day.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg"  width="200" align="right" />Like everyone else, I struggle with keeping track of my time. What projects did I work on, how much time did I spend researching, reading and writing each day.
 </p>
 
 <p>
@@ -34,7 +34,7 @@ image: http://kinlane-productions.s3.amazonaws.com/chrometa/chrometa.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/chrometa/Chrometa-Dashboard.png"  width="250" align="right" />Chrometa even asks me how I want to categorize my downtime when I come back to work on my laptop. I can choose to officially record or skip tracking what I did in my off time.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/chrometa/Chrometa-Dashboard.png"  width="250" align="right" />Chrometa even asks me how I want to categorize my downtime when I come back to work on my laptop. I can choose to officially record or skip tracking what I did in my off time.
 </p>
 
 <p>

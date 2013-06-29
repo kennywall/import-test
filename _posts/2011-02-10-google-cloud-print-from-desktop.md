@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-mob
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-mobile-cloud-print.png"  width="200" align="right" />I was working on a demo today on<a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Printing</a> from <a href="http://www.kinlane.com/category/google/google-apps-google/">Google Apps</a>. I wanted to go through the process of adding a <a href="http://www.mimeo.com">Mimeo</a> Google Cloud Printer to my Google Account, then be able to show on my <a href="http://www.kinlane.com/category/mobile/iphone/">IPhone</a> or <a href="http://www.kinlane.com/category/mobile/ipad/">IPad</a>.
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-mobile-cloud-print.png"  width="200" align="right" />I was working on a demo today on<a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Printing</a> from <a href="http://www.kinlane.com/category/google/google-apps-google/">Google Apps</a>. I wanted to go through the process of adding a <a href="http://www.mimeo.com">Mimeo</a> Google Cloud Printer to my Google Account, then be able to show on my <a href="http://www.kinlane.com/category/mobile/iphone/">IPhone</a> or <a href="http://www.kinlane.com/category/mobile/ipad/">IPad</a>.
 </p>
 
 <p>

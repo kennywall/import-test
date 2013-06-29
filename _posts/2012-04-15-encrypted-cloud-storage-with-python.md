@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyth
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-python.png"  width="200" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IDrive/idrive-python.png"  width="200" align="right" />
 </p>
 <p>
      <a title="IDrive" href="http://www.idrive.com/">IDrive</a> now has a set of Python samples complete with full library you can use when developing your encrypted, versioned cloud storage for your web application.

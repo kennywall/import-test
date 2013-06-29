@@ -46,7 +46,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      Each how-to, has the samples, and link to the full repositories for download at Github. I'm hoping this help developers get going with self-publishing and print-on-demand using Google Apps, Google Cloud Print and Mimeo.com.
 </p>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

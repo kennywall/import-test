@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-print
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-printers.jpg"  width="200" align="right" />A 3D printer works by taking a 3D model, then by making a series of slices that are printed one on top of the other to create a 3D object of the model.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-printers.jpg"  width="200" align="right" />A 3D printer works by taking a 3D model, then by making a series of slices that are printed one on top of the other to create a 3D object of the model.
 </p>
 
 <p>

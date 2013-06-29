@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 </p>
 
 <p>
-     Using AWS and Jumpbox you can launch a:<img src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" />
+     Using AWS and Jumpbox you can launch a:<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" />
 </p>
 <ul class="mainlist">
      <li>
@@ -31,7 +31,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 </p>
 
 <p>
-     Each application runs already installed and configured on its own Amazon EC2 instance. All you have to do is signup using JumpBox, choose application and its up and running. <img src="http://kinlane-productions.s3.amazonaws.com/jumpbox-logo.png"  align="right" /> After launching you can make all your configurations using a password-protected control panel that controls the application and EC2 instance its running on.
+     Each application runs already installed and configured on its own Amazon EC2 instance. All you have to do is signup using JumpBox, choose application and its up and running. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/jumpbox-logo.png"  align="right" /> After launching you can make all your configurations using a password-protected control panel that controls the application and EC2 instance its running on.
 </p>
 
 <p>

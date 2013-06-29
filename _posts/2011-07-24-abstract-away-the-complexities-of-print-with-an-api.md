@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>When I was being interviewed at Mimeo.com as the API evangelist, one big gap in my resume, that I was concerned about, was no print industry experience. Mimeo is a print company and naturally I should bring something to the table?
+     <a href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>When I was being interviewed at Mimeo.com as the API evangelist, one big gap in my resume, that I was concerned about, was no print industry experience. Mimeo is a print company and naturally I should bring something to the table?
 </p>
 
 <p>
@@ -41,12 +41,12 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/posters-sample.png"  align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/posters-sample.png"  align="right" />
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Start by signing up as a Mimeo.com developer, then setup your sandbox environment. Then login and build the poster you wish to see using Mimeo.com poster builder. When done you right click on the document and grab the product id for your poster. Then you can start making calls against the API to build new posters using that document and any new PDF file.</em> Too much! I should be saying:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Sign up for developer key, make call against this web service with the size of poster and the URL of PDF you wish to print. You can get proof quote, shipping options, and when ready add address and credit card info to actually order a poster.</em> My first response is already too long, and you actually haven't even reached the actual goal of printing a poster with an API? My second response is short and achieves the desired goal.
 </p>
 

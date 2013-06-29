@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png"  width="300" align="right" />REST is simplifying APIs. Its opening up APIs to casual developers and beyond.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png"  width="300" align="right" />REST is simplifying APIs. Its opening up APIs to casual developers and beyond.
 </p>
 
 <p>
@@ -38,7 +38,7 @@ image: http://kinlane-productions.s3.amazonaws.com/intersect-apigee-explorer.png
 </p>
 
 <p>
-     Related articles
+     <span style="font-weight: bold;">Related articles
 </p>
 <ul class="zemanta-article-ul">
      <li class="zemanta-article-ul-li">

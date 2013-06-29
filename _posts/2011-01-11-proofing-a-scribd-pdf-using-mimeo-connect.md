@@ -12,7 +12,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      We need to make a second call to the Proof Service and Get the Proof.
 </p>
-<div>
+<div style="border: 1px solid #000; width: 540px; padding: 10px; margin: 10px; text-align: left;">
      <code>$root_url = "connect.sandbox.mimeo.com/2010/09/"; $user_name = "[user name]"; $password = "[user password]"; $rest = new MimeoRESTclient($root_url,$user_name,$password);$documentId = "702e6c5b-35d8-4ffb-8d3c-cf779d9a13eb"; $url = "ProofService/Proof/" . $Product_ID;</code>
      <code>$rest-&gt;createRequest($url,"GET",""); $rest-&gt;sendRequest(); $output = $rest-&gt;getResponseBody(); $XMLArray = xmlstr_to_array($output);</code>
      <code>for ($Page = 0; $Page &lt; $PageCount; $Page++) { $Small_Image_URL = $XMLArray['ProofPages']['ProofPage'][$Page]['SmallImage']; $Large_Image_URL = $XMLArray['ProofPages']['ProofPage'][$Page]['LargeImage']; }</code>

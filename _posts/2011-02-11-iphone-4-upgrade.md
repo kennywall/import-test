@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg
 </p>
 
 <p>
-     However my IPhone is getting slower and slower and was actually keeping me from doing work. <img src="http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg"  width="250" align="right" /> I chose not to have the store transfer my data, I enjoy doing myself and rewiring my world. Finding new ways of doing things if possible.
+     However my IPhone is getting slower and slower and was actually keeping me from doing work. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/IPhone/iphone-4-in-hand.jpg"  width="250" align="right" /> I chose not to have the store transfer my data, I enjoy doing myself and rewiring my world. Finding new ways of doing things if possible.
 </p>
 
 <p>

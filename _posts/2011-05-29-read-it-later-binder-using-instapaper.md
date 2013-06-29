@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/inst
 ---
 {% include JB/setup %}
 <p>
-     <a title="Instapaper" href="http://www.instapaper.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/instapaper-logo-250.png"  width="125" align="right" /></a><a title="Instapaper" href="http://www.instapaper.com/">Instapaper</a> is a dead simple tool to save web pages for reading later. It allows bookmarking of web pages, blog posts and any web or mobile content. Once bookmarked the content is available for reading on Instapaper web site and mobile.
+     <a title="Instapaper" href="http://www.instapaper.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/instapaper-logo-250.png"  width="125" align="right" /></a><a title="Instapaper" href="http://www.instapaper.com/">Instapaper</a> is a dead simple tool to save web pages for reading later. It allows bookmarking of web pages, blog posts and any web or mobile content. Once bookmarked the content is available for reading on Instapaper web site and mobile.
 </p>
 
 <p>
@@ -30,7 +30,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/application-images/inst
 </p>
 
 <p>
-     <a title="Mimeo Connect REST API" href="http://developer.mimeo.com"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" /></a>I would like to see a developer build an application that would pull a users list of active posts to Instapaper every Thursday night (or other schedule) and push to <a title="Mimeo Connect REST API" href="http://developer.mimeo.com">Mimeo Connect REST API</a> for printing in a binder. The user would receive their binder by Friday at end of business and could consume over the weekend.
+     <a title="Mimeo Connect REST API" href="http://developer.mimeo.com"><img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" /></a>I would like to see a developer build an application that would pull a users list of active posts to Instapaper every Thursday night (or other schedule) and push to <a title="Mimeo Connect REST API" href="http://developer.mimeo.com">Mimeo Connect REST API</a> for printing in a binder. The user would receive their binder by Friday at end of business and could consume over the weekend.
 </p>
 
 <p>

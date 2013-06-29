@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/flickr.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.flickr.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg"  width="140" align="right" /></a>Next I wanted to merge my <a href="http://www.kinlane.com/2011/02/polaroid-photo-layout-in-css/" target="_blank">Polaroid Photo Layout in CSS</a> with my <a href="http://www.kinlane.com/2011/02/pull-images-from-flickr-with-zend/" target="_blank">images from Flickr with Zend</a>.
+     <a href="http://www.flickr.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/flickr.jpg"  width="140" align="right" /></a>Next I wanted to merge my <a href="http://www.kinlane.com/2011/02/polaroid-photo-layout-in-css/" target="_blank">Polaroid Photo Layout in CSS</a> with my <a href="http://www.kinlane.com/2011/02/pull-images-from-flickr-with-zend/" target="_blank">images from Flickr with Zend</a>.
 </p>
 <script src="https://gist.github.com/823530.js?file=gistfile1.txt" type="text/javascript">
 </script>

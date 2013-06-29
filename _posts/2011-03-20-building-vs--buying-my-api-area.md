@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png"  width="250" align="right" />For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery-logo.png"  width="250" align="right" />For the last four months I've been on a pretty wild ride trying to find a solution to delivering the Mimeo Connect Print API and its community.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery
 </p>
 
 <p>
-     I really like what the API service providers offer.<img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/apigee-logo.gif"  width="250" align="right" />
+     I really like what the API service providers offer.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/apigee-logo.gif"  width="250" align="right" />
 </p>
 <ul class="mainlist">
      <li>
@@ -44,7 +44,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery
      </li>
 </ul>
 <p>
-     All four API service providers offer some powerful tools for delivering our APIs. <img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/3scale-logo.jpg"  width="250" align="right" /> Really it came down to cost.
+     All four API service providers offer some powerful tools for delivering our APIs. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/3scale-logo.jpg"  width="250" align="right" /> Really it came down to cost.
 </p>
 <ul class="mainlist">
      <li>Cost of hourly development for custom API work.
@@ -61,7 +61,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashery
 </p>
 
 <p>
-     This makes every hour spent and every API call made during research and development potentially costly. <img src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png"  width="250" align="right" /> I just couldn't sell the cost / value proposition to my executive team and justify the money I'd be spending with these API service provider.
+     This makes every hour spent and every API call made during research and development potentially costly. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-service-providers/mashape-logo.png"  width="250" align="right" /> I just couldn't sell the cost / value proposition to my executive team and justify the money I'd be spending with these API service provider.
 </p>
 
 <p>

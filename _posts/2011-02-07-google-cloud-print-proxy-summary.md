@@ -58,11 +58,11 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      I will also publish samples for managing Google Cloud Print jobs using the Google Cloud Print services interface.
 </p>
-<p>
-     <a href="http://www.mimeo.com" target="_blank"><img class="aligncenter c1" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="400" align="center" /></a>
+<p style="text-align: center;">
+     <a href="http://www.mimeo.com" target="_blank"><img class="aligncenter" style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="400" align="center" /></a>
 </p>
 
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

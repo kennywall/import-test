@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /><a title="Cloud computing" href="http://www.kinlane.com/category/cloud-computing/">Cloud computing</a> holds the promise of infinite scalability and capacity. We hust pay for what we use, and whatever capacity you need is there.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /><a title="Cloud computing" href="http://www.kinlane.com/category/cloud-computing/">Cloud computing</a> holds the promise of infinite scalability and capacity. We hust pay for what we use, and whatever capacity you need is there.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/comcast-logo.gif"  width="250" align="right" />This approach is at odds with the vision and promise of cloud computing, and at some point cloud computing growth will slow because of this.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/comcast-logo.gif"  width="250" align="right" />This approach is at odds with the vision and promise of cloud computing, and at some point cloud computing growth will slow because of this.
 </p>
 
 <p>
@@ -42,7 +42,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/att-logo.jpg"  width="150" align="right" />So it didn't matter how much capacitiy, redundancy, or scalability I had in the cloud. It all went out the window because of the client side of my network.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/att-logo.jpg"  width="150" align="right" />So it didn't matter how much capacitiy, redundancy, or scalability I had in the cloud. It all went out the window because of the client side of my network.
 </p>
 
 <p>

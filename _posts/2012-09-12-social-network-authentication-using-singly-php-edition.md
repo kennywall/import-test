@@ -6,7 +6,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.singly.com/"><img src="https://s3.amazonaws.com/kinlane-productions/singly/singly-twitter-linkedin-github-facebook-authentication.png"  width="175" align="right" /></a>
+     <a href="http://www.singly.com/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/singly/singly-twitter-linkedin-github-facebook-authentication.png"  width="175" align="right" /></a>
 </p>
 <p>
      As an active user of a variety of cloud services I’ve become very accustom to authenticating using my social networks, such as Facebook, Twitter, LInkedin or Github, rather than creating yet another new account.
@@ -17,7 +17,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      I want to make this default for users of my websites, apps and APIs--allowing them authenticate using six social networks:
 </p>
-<table cellspacing="10" cellpadding="10">
+<table style="padding-left: 25px;" cellspacing="10" cellpadding="10">
      <tbody>
           <tr>
                <td width="25">
@@ -61,7 +61,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
           </tr>
      </tbody>
 </table>
-<p>
+<p style="text-align: center;">
      <strong>Singly has made this nice and easy!</strong>
 </p>
 <table>
@@ -72,7 +72,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                          <strong>Step 1 - <a href="https://singly.com/signup?section=header" target="_blank">Sign up for Singly</a></strong>
                     </p>
                     <p>
-                         <a href="https://singly.com/signup?section=header" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Sign-Up.png"  width="250" /></a>
+                         <a href="https://singly.com/signup?section=header" target="_blank"><img style="padding-left: 25px;" src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Sign-Up.png"  width="250" /></a>
                     </p>
                </td>
                <td>
@@ -80,7 +80,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
                          <strong>Step 2 - <a href="https://singly.com/apps/new" target="_blank">Create New Singly App</a></strong>
                     </p>
                     <p>
-                         <a href="https://singly.com/apps/new" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Create-New-App.png"  width="250" /></a>
+                         <a href="https://singly.com/apps/new" target="_blank"><img style="padding-left: 25px;" src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Create-New-App.png"  width="250" /></a>
                     </p>
                </td>
           </tr>
@@ -89,7 +89,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 <p>
      <strong>Step 3 - Create Social Network Apps.</strong> This part seems like it is a lot of work, but once done...it is sweet. You need to create an app for each one of the six social networks you will be allowing authentication:
 </p>
-<table cellspacing="2" cellpadding="2">
+<table style="padding-left: 25px;" cellspacing="2" cellpadding="2">
      <tbody>
           <tr>
                <td width="25">

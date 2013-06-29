@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/inst
 ---
 {% include JB/setup %}
 <p>
-     <img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png"  width="250" align="right" />
+     <img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/instagram/Instagram_logo.png"  width="250" align="right" />
 </p>
 <p>
      As a startup, you are bound to reach a point in your evolution where money will blind you, whether its during roadmap planning or communicating with your customers--eventually you will be blinded by your investors.

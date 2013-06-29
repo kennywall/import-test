@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}
 <p>
-     You can tell we are in a seriously volatile time, and the Internet is the center of it. <a href="http://www.github.com"><img src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  width="250" align="right" /></a> With <a href="http://motherjones.com/mojo/2011/01/whats-happening-egypt-explained" target="_blank">revolutions in Middle East</a>, <a href="http://gigaom.com/2011/01/28/how-egypt-switched-off-the-internet/" target="_blank">country-wide Internet blackout</a>, and <a href="http://www.audreywatters.com/2010/12/05/the-weakest-link-what-wikileaks-has-taught-us-about-the-open-internet/" target="_blank">Wikileaks</a>, everyone is on edge, waiting for whats next.
+     You can tell we are in a seriously volatile time, and the Internet is the center of it. <a href="http://www.github.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  width="250" align="right" /></a> With <a href="http://motherjones.com/mojo/2011/01/whats-happening-egypt-explained" target="_blank">revolutions in Middle East</a>, <a href="http://gigaom.com/2011/01/28/how-egypt-switched-off-the-internet/" target="_blank">country-wide Internet blackout</a>, and <a href="http://www.audreywatters.com/2010/12/05/the-weakest-link-what-wikileaks-has-taught-us-about-the-open-internet/" target="_blank">Wikileaks</a>, everyone is on edge, waiting for whats next.
 </p>
 
 <p>

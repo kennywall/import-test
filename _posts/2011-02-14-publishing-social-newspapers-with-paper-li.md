@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://Paper.li" target="_blank">Paper.li</a> is a Software as a Service (<a class="zem_slink" title="Software as a Service" rel="wikinvest" href="http://www.wikinvest.com/concept/Software_as_a_Service">SaaS</a>) that organizes links shared on <a href="http://paper.li/" target="_blank">Twitter and Facebook into a newspaper-style format</a>. <a href="http://paper.li/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png"  width="350" align="right" /></a> There are four types of <a class="zem_slink" title="Twitter" rel="homepage" href="http://twitter.com">Twitter</a> account based papers a user can create:
+     <a href="http://Paper.li" target="_blank">Paper.li</a> is a Software as a Service (<a class="zem_slink" title="Software as a Service" rel="wikinvest" href="http://www.wikinvest.com/concept/Software_as_a_Service">SaaS</a>) that organizes links shared on <a href="http://paper.li/" target="_blank">Twitter and Facebook into a newspaper-style format</a>. <a href="http://paper.li/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png"  width="350" align="right" /></a> There are four types of <a class="zem_slink" title="Twitter" rel="homepage" href="http://twitter.com">Twitter</a> account based papers a user can create:
 </p>
 <ul class="mainlist">
      <li>
@@ -37,7 +37,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/paper-li-logo.png
 <p>
      Could be easily printed as a folded newsletter or booklet using a <a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Cloud Print API</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

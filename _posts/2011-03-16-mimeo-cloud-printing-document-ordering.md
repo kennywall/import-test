@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Order.png
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Order.png"  width="300" align="right" />Mimeo Cloud Printers also enable ordering of any document that is submitted.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Order.png"  width="300" align="right" />Mimeo Cloud Printers also enable ordering of any document that is submitted.
 </p>
 
 <p>

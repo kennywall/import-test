@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a title="YellowAPI.com" href="http://www.yellowapi.com"><img src="http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg"  width="150" align="right" /></a>The <a title="Yellow Pages Group" href="http://www.ypg.com/en/">Yellow Pages Group</a> (YPG) <a title="announced today that it will join with foursquare" href="http://www.marketwire.com/press-release/canadas-yellow-pages-group-announces-strategic-agreement-with-foursquare-tsx-ylo-1523671.htm">announced today it will join with Foursquare</a> in a project to clean up or harmonize venue related data.
+     <a title="YellowAPI.com" href="http://www.yellowapi.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg"  width="150" align="right" /></a>The <a title="Yellow Pages Group" href="http://www.ypg.com/en/">Yellow Pages Group</a> (YPG) <a title="announced today that it will join with foursquare" href="http://www.marketwire.com/press-release/canadas-yellow-pages-group-announces-strategic-agreement-with-foursquare-tsx-ylo-1523671.htm">announced today it will join with Foursquare</a> in a project to clean up or harmonize venue related data.
 </p>
 
 <p>
@@ -16,14 +16,14 @@ image: http://kinlane-productions.s3.amazonaws.com/yellowAPI/yellow-api.jpg
 <p>
      Nicolas Gaudreau, Vice-President, Digital &amp; Print Media, Acquisition &amp; Retention at Yellow Pages Group says:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>"Through agreements such as this one, we continue to increase the value proposition of our public API, www.YellowAPI.com, and multiply traffic driven to our advertisers by making sure their businesses appear in major online and social networking destinations"</em> YPG will be brining 1.5 million Canadia business listings into the Foursquare's venue harmonization project, and will also allow the hundreds of developers using <a title="YellowAPI.com" href="http://www.yellowapi.com">www.YellowAPI.com</a> to integrate foursquare functionality into their apps.
 </p>
 
 <p>
      Partnerships like this will be critical in many industries who face big data problems like venue, business and geographic data. The management of this data has to be dealt with in real-time and shared by all providers.
 </p>
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

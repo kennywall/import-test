@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/Rapportive.PNG
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/Rapportive.PNG"  width="250" align="right" /><a title="Rapportive" href="http://rapportive.com/">Rapportive</a>, a social CRM service has added <a title="Rapportive support for Bitbucket, Github, and Stack Overflow." href="http://blog.rapportive.com/rapportive-for-developers-bitbucket-github-st">support for Bitbucket, GitHub, and Stack Overflow</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Rapportive.PNG"  width="250" align="right" /><a title="Rapportive" href="http://rapportive.com/">Rapportive</a>, a social CRM service has added <a title="Rapportive support for Bitbucket, Github, and Stack Overflow." href="http://blog.rapportive.com/rapportive-for-developers-bitbucket-github-st">support for Bitbucket, GitHub, and Stack Overflow</a>.
 </p>
 
 <p>

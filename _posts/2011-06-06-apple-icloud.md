@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/apple-icloud.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/apple/apple-icloud.jpg"  width="150" align="right" />Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/apple-icloud.jpg"  width="150" align="right" />Lots of big news coming out of <a title="Apple's World Wide Developer Conference" href="http://developer.apple.com/wwdc/">Apple's World Wide Developer Conference</a> (WWDC2011) in San Francisco today.
 </p>
 
 <p>

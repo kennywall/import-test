@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I have some working code for a <a href="http://www.kinlane.com/2011/02/introduction-to-the-google-cloud-print-services-interface/" target="_blank">Google Cloud Print Proxy</a>. It is currently written in PHP and uses the <a href="http://framework.zend.com/" target="_blank">Zend framework</a>.
+     <a href="http://mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>I have some working code for a <a href="http://www.kinlane.com/2011/02/introduction-to-the-google-cloud-print-services-interface/" target="_blank">Google Cloud Print Proxy</a>. It is currently written in PHP and uses the <a href="http://framework.zend.com/" target="_blank">Zend framework</a>.
 </p>
 
 <p>
@@ -77,7 +77,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 </p>
 
 <p>
-     <a href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="500" align="center" /></a>
+     <a href="http://www.mimeo.com/"><img style="padding: 3px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="500" align="center" /></a>
 </p>
 
 <p>
@@ -87,7 +87,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 <p>
      <strong>UPDATE 2/28/2011 -</strong> I have finished the first prototype for the <a title="XMPP Print Job Notification Service" href="http://www.kinlane.com/2011/02/google-cloud-print-xmpp-print-job-notifications/">XMPP print job notification service</a>. This is critical piece to eliminate constant polling of /fetch service.
 </p>
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

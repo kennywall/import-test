@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/logic.jpg
 </p>
 
 <p>
-     The course containsthree main parts:<img src="http://kinlane-productions.s3.amazonaws.com/logic.jpg"  width="250" align="right" />
+     The course containsthree main parts:<img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/logic.jpg"  width="250" align="right" />
 </p>
 <ol class="mainlist">
      <li>

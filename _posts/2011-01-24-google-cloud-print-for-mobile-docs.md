@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-mobile-cloud-pr
 ---
 {% include JB/setup %}
 <p>
-     Google has launched a <a href="http://googlemobile.blogspot.com/2011/01/cloud-printing-on-go.html" target="_blank">BETA program of the Google Cloud Print for mobile documents and Gmail for mobile</a>. <img src="http://kinlane-productions.s3.amazonaws.com/google/google-mobile-cloud-print.png"  align="right" />
+     Google has launched a <a href="http://googlemobile.blogspot.com/2011/01/cloud-printing-on-go.html" target="_blank">BETA program of the Google Cloud Print for mobile documents and Gmail for mobile</a>. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-mobile-cloud-print.png"  align="right" />
 </p>
 
 <p>

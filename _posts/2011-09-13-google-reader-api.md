@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.google.com/reader"><img src="http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg"  width="290" align="right" /></a>One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications.
+     <a href="http://www.google.com/reader"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg"  width="290" align="right" /></a>One thing I love about Google, is the APIs. The apps I use most like Gmail, Calendar and Docs all have APIs, allowing me to write code that works my accounts and its data, and integrate it into other applications.
 </p>
 
 <p>
@@ -16,7 +16,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-reader.jpg
 <p>
      So I tend to look regularly to see if they have put one out. Tonight I came across a <a href="http://code.google.com/p/google-reader-api/">Google Code project</a> that says it:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Hosts documentation and the issue tracker for the (unofficial) Google Reader API.</em> It has a <a href="https://plus.google.com/111567061469336027617/posts">Googler working on it</a>, that was from the reader team. It appears to be work in progress, but has activity in the last month.
 </p>
 

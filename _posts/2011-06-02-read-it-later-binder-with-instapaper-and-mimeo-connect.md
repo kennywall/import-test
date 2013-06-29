@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/instapaper.png"  width="125" align="right" />I do a lot of reading on topics ranging from APIs to Printing. I read articles, white-papers and other news from a wide variety of sources on my desktop, laptop, tablet and my mobile phone.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/instapaper.png"  width="125" align="right" />I do a lot of reading on topics ranging from APIs to Printing. I read articles, white-papers and other news from a wide variety of sources on my desktop, laptop, tablet and my mobile phone.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
           <li>
                <strong><a title="Mimeo Connect Cloud Print API" href="../../">Mimeo Connect Cloud Print API</a></strong> - Using Mimeo Connect I take the PDF I've created, pass the URL to the REST API along with the document ID for the type of binder or binding I want. I pass the API my shipping addres, get the shipping options returned, and place order for my binder.
           </li>
-     </ul><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="175" align="right" />Using Instapapers powerful suite of bookmarking tools and three separate APIs I can produce a binder or booklet of articles, white-papers and other news from the week for easy reading over the weekend.
+     </ul><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="175" align="right" />Using Instapapers powerful suite of bookmarking tools and three separate APIs I can produce a binder or booklet of articles, white-papers and other news from the week for easy reading over the weekend.
      If I get this in by Thursday night I can have the printed copy on my desk Friday before I leave for the weekend. In the northeast same day shipping is even possible.
      You can download the <a title="PHP Code for this at Github" href="https://github.com/mimeoconnect/InstapaperBinder">PHP code for this prototype at Github</a>, and build your own read it later application using Mimeo Connect.
      
@@ -35,7 +35,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 <p>
       
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

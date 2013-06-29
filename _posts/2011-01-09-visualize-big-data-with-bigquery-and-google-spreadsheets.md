@@ -14,7 +14,7 @@ image: http://2.bp.blogspot.com/__kILdkKyUIk/TST1AS9mHyI/AAAAAAAAAGA/kKfyJZ0GaT0
 </p>
 
 <p>
-     With a simple query Google Apps Script you can embed and process a query that pulls counts, fields and other information you use in spreadsheet columns and data visualizations. <img id="BLOGGER_PHOTO_ID_5558837225521028898" src="http://2.bp.blogspot.com/__kILdkKyUIk/TST1AS9mHyI/AAAAAAAAAGA/kKfyJZ0GaT0/s400/graph-demo.jpg" border="0"  width="250" align="right" /> You can upload VERY large sets of data like the <a href="http://code.google.com/apis/bigquery/docs/dataset-mlab.html">M-Lab dataset in BigQuery</a> which contains <strong>240B</strong> rows!
+     With a simple query Google Apps Script you can embed and process a query that pulls counts, fields and other information you use in spreadsheet columns and data visualizations. <img id="BLOGGER_PHOTO_ID_5558837225521028898" style="padding: 20px;" src="http://2.bp.blogspot.com/__kILdkKyUIk/TST1AS9mHyI/AAAAAAAAAGA/kKfyJZ0GaT0/s400/graph-demo.jpg" border="0"  width="250" align="right" /> You can upload VERY large sets of data like the <a href="http://code.google.com/apis/bigquery/docs/dataset-mlab.html">M-Lab dataset in BigQuery</a> which contains <strong>240B</strong> rows!
 </p>
 
 <p>

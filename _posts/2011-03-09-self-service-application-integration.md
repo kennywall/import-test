@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplac
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplace.jpg"  width="250" align="right" />Today is the <a title="First Birthday Google Apps Marketplace" href="http://googleblog.blogspot.com/2011/03/happy-1st-birthday-to-google-apps.html">first birthday of the Google Apps Marketplace</a>, and what better time to talk about the significance of application ecosystems.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplace.jpg"  width="250" align="right" />Today is the <a title="First Birthday Google Apps Marketplace" href="http://googleblog.blogspot.com/2011/03/happy-1st-birthday-to-google-apps.html">first birthday of the Google Apps Marketplace</a>, and what better time to talk about the significance of application ecosystems.
 </p>
 
 <p>
@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplac
 </p>
 
 <p>
-     I can do this with other ecosystems like <a title="Facebook Developer Platform" href="http://developers.facebook.com/">Facebook</a>, <a title="Evernote Trunk" href="http://www.evernote.com/about/trunk/">Evernote</a> and <a title="Box.net" href="http://www.box.net/services">Box.net</a>. <img src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="250" align="right" /> Congratulations Google on your success, but this post is more about the concept of this type of self-service application layer within platforms.
+     I can do this with other ecosystems like <a title="Facebook Developer Platform" href="http://developers.facebook.com/">Facebook</a>, <a title="Evernote Trunk" href="http://www.evernote.com/about/trunk/">Evernote</a> and <a title="Box.net" href="http://www.box.net/services">Box.net</a>. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="250" align="right" /> Congratulations Google on your success, but this post is more about the concept of this type of self-service application layer within platforms.
 </p>
 
 <p>
@@ -34,7 +34,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplac
 </p>
 
 <p>
-     OpenBox lets you add a application. This application can be public or private, if public it is displayed in their public directory. Then you can create actions. These actions are available in individual Box.net users accounts when they have added the application. <img src="http://kinlane-productions.s3.amazonaws.com/Box.net/Open-Box.png"  width="300" align="right" /> Its simple, logical and self-service to setup. The Box.net approach was obviously very well thought out, and executed perfectly.
+     OpenBox lets you add a application. This application can be public or private, if public it is displayed in their public directory. Then you can create actions. These actions are available in individual Box.net users accounts when they have added the application. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/Box.net/Open-Box.png"  width="300" align="right" /> Its simple, logical and self-service to setup. The Box.net approach was obviously very well thought out, and executed perfectly.
 </p>
 
 <p>
@@ -52,7 +52,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/Google-Apps-Marketplac
 <p>
      All web applications will have an API, as well as a self-service application layer in the coming years.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

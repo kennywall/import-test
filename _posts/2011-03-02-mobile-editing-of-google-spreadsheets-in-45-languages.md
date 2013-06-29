@@ -6,7 +6,7 @@ image: http://1.bp.blogspot.com/-sRbuM8hc-5E/TW5nBf4LniI/AAAAAAAAAw0/hEmmYXoqGNQ
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://1.bp.blogspot.com/-sRbuM8hc-5E/TW5nBf4LniI/AAAAAAAAAw0/hEmmYXoqGNQ/s320/nexus-screenshot-2.jpg"  width="130" align="right" />Google has enabled many of the same mobile editing capabilities in Google Docs, for Google Spreadsheets.
+     <img style="padding: 15px;" src="http://1.bp.blogspot.com/-sRbuM8hc-5E/TW5nBf4LniI/AAAAAAAAAw0/hEmmYXoqGNQ/s320/nexus-screenshot-2.jpg"  width="130" align="right" />Google has enabled many of the same mobile editing capabilities in Google Docs, for Google Spreadsheets.
 </p>
 
 <p>

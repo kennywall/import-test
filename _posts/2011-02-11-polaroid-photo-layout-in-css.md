@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://working.laneworks.net/instagram/step1.php" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid-photo-layout.png"  width="130" align="right" /></a>I'm working on several print photobook projects right now and I'm always on the lookout for good CSS photo layouts.
+     <a href="http://working.laneworks.net/instagram/step1.php" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/photo-book/css-polaroid-photo-layout.png"  width="130" align="right" /></a>I'm working on several print photobook projects right now and I'm always on the lookout for good CSS photo layouts.
 </p>
 
 <p>

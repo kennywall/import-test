@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a title="Mimeo-Google Cloud Print" href="http://developer.mimeo.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" /></a>Google updated the <a title="Google Cloud Print website" href="http://code.google.com/apis/cloudprint/docs/overview.html">Google Cloud Print website</a> today with all new documentation, code samples and other goodies to help get up and running using Google Cloud Print.
+     <a title="Mimeo-Google Cloud Print" href="http://developer.mimeo.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" /></a>Google updated the <a title="Google Cloud Print website" href="http://code.google.com/apis/cloudprint/docs/overview.html">Google Cloud Print website</a> today with all new documentation, code samples and other goodies to help get up and running using Google Cloud Print.
 </p>
 
 <p>

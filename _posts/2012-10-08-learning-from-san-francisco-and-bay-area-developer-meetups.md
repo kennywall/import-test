@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/meet
 ---
 {% include JB/setup %}
 <p>
-     <a title="Meetup" href="http://www.meetup.com/"><img src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif"  width="250" align="right" /></a>
+     <a title="Meetup" href="http://www.meetup.com/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/meetup/meetup_logo.gif"  width="250" align="right" /></a>
 </p>
 <p>
      I’m spending time profiling eight of the top developer markets in the country. My goal is to profile the building blocks of cities that have healthy developer communities, and from the research write several blog posts, and a white paper that will help other underserved communities understand what it takes to build a healthy base of mobile developers.

@@ -28,7 +28,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      First I authenticate with the Google Talk Service using Client Login and ChromiumSync Service.
 </p>
-<div>
+<div style="padding: 5p;">
      <script src="https://gist.github.com/848071.js?file=GCP%20-%20XMPP%20-%20Client%20Login" type="text/javascript">
 </script>
 </div>
@@ -37,7 +37,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
      Then I setup a persistent XMPP connection with the Google Talk Service on behalf of my Google Cloud Print user, for my Printer Proxy.
 </p>
 
-<div>
+<div style="padding: 5p;">
      <script src="https://gist.github.com/848079.js?file=GCP%20-%20XMPP%20-%20Persistent%20Connection" type="text/javascript">
 </script>
 </div>
@@ -48,7 +48,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      Once the session begins you send the following subscription stanza:
 </p>
-<div>
+<div style="padding: 5p;">
      <script src="https://gist.github.com/848082.js?file=GCP%20-%20XMPP%20-%20Subscription%20Stanza" type="text/javascript">
 </script>
 </div>
@@ -57,14 +57,14 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
      The service will acknowledge your subscription by returning the following:
 </p>
 
-<div>
+<div style="padding: 5p;">
      <script src="https://gist.github.com/848087.js?file=GCP%20-%20XMPP%20-%20Acknowledgement%20Response" type="text/javascript">
 </script>
      Once subscribed, my persistent XMPP will handle and process any messages from cloudprint.google.com notifying of new cloud print jobs for users.
-     <div>
+     <div style="padding: 5p;">
           <script src="https://gist.github.com/848099.js?file=GCP%20-%20XMPP%20-%20Print%20Job%20Notification" type="text/javascript">
 </script>
-     </div><img src="http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png"  width="150" align="right" /> I still have a lot of work to do to make the Google Cloud Print Proxy handle jobs flawlessly.
+     </div><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png"  width="150" align="right" /> I still have a lot of work to do to make the Google Cloud Print Proxy handle jobs flawlessly.
      I need to setup the XMPP print jobs notifications to handle print jobs for all users that have a print proxy registered.
      The XMPP print job notification service has to be running 24 / 7 and initiate the print job /fetch via API, and the commercial print process for each job.
      Once I get this cleaned up a little more I will publish a PHP class for working with Google Cloud Print Services Interface and XMPP Print Job Notifications to Github.

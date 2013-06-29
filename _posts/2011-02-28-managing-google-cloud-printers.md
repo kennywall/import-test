@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 </p>
 
 <p>
-     To help guide users stumbling across my site, there are <strong>two types</strong> of Google Cloud Print Users:
+     To help guide users stumbling across my site, there are <span style="text-decoration: underline;"><strong>two types</strong> of Google Cloud Print Users:
 </p>
 <ul class="mainlist">
      <li>
@@ -21,7 +21,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
      </li>
 </ul>
 <p>
-     <strong>I'm in the developer camp.</strong> My <a title="Register Cloud Printer" href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">register cloud printer</a> or my <a title="Delete Cloud Printer" href="http://www.kinlane.com/2011/02/google-cloud-print-delete/" target="_blank">delete cloud printer</a> blog posts won't help end users much, they are for developers.
+     <strong><span style="text-decoration: underline;">I'm in the developer camp.</strong> My <a title="Register Cloud Printer" href="http://www.kinlane.com/2011/02/google-cloud-print-register/" target="_blank">register cloud printer</a> or my <a title="Delete Cloud Printer" href="http://www.kinlane.com/2011/02/google-cloud-print-delete/" target="_blank">delete cloud printer</a> blog posts won't help end users much, they are for developers.
 </p>
 
 <p>
@@ -55,7 +55,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 <p>
      Also, if you want to uninstall Google Cloud Print from your machine, you will have to do that under your Control Panel on your Windows workstation.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

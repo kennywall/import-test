@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/viewshound/ViewsHound-L
 ---
 {% include JB/setup %}
 <p>
-     <a title="ViewsHound" href="http://www.viewshound.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/viewshound/ViewsHound-Logo.png"  width="250" align="right" /></a><a title="ViewsHound" href="http://www.viewshound.com/">ViewsHound</a>, a crowdpublished media site, has published work from over 1,000 authors in its first 10 weeks since launch, including over 230 authors, who have submitted at least 5 pieces of work a piece to ViewsHound.
+     <a title="ViewsHound" href="http://www.viewshound.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/viewshound/ViewsHound-Logo.png"  width="250" align="right" /></a><a title="ViewsHound" href="http://www.viewshound.com/">ViewsHound</a>, a crowdpublished media site, has published work from over 1,000 authors in its first 10 weeks since launch, including over 230 authors, who have submitted at least 5 pieces of work a piece to ViewsHound.
 </p>
 
 <p>

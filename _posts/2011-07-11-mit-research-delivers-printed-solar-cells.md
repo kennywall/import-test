@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/printed-solar-cells.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/printed-solar-cells.jpg"  width="250" align="right" />A <a title="team of researchers at MIT have developed a way to print solar cells" href="http://web.mit.edu/newsoffice/2011/printable-solar-cells-0711.html">team of researchers at MIT have developed a way to print solar cells</a>, just like printing out of an office printer. Almost as inexpensive as printing a photo from your inkjet, the simple solar cell have been created on a flimsy sheet, formed from special inks deposited on the paper.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/printed-solar-cells.jpg"  width="250" align="right" />A <a title="team of researchers at MIT have developed a way to print solar cells" href="http://web.mit.edu/newsoffice/2011/printable-solar-cells-0711.html">team of researchers at MIT have developed a way to print solar cells</a>, just like printing out of an office printer. Almost as inexpensive as printing a photo from your inkjet, the simple solar cell have been created on a flimsy sheet, formed from special inks deposited on the paper.
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devi
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devices-key-value.png"  width="275" align="right" />Apple's new <a title="iCloud platform" href="http://www.apple.com/icloud/">iCloud platform</a> includes a new <a class="zem_slink" title="Associative array" rel="wikipedia" href="http://en.wikipedia.org/wiki/Associative_array">key-value data</a> store, along side its <a title="document storage" href="http://www.kinlane.com/2011/06/document-management-in-icloud/">document storage</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devices-key-value.png"  width="275" align="right" />Apple's new <a title="iCloud platform" href="http://www.apple.com/icloud/">iCloud platform</a> includes a new <a class="zem_slink" title="Associative array" rel="wikipedia" href="http://en.wikipedia.org/wiki/Associative_array">key-value data</a> store, along side its <a title="document storage" href="http://www.kinlane.com/2011/06/document-management-in-icloud/">document storage</a>.
 </p>
 
 <p>
@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/apple/icloud-stainless-3-devi
 <p>
      iCloud key-value storage is meant to empower developers with a centralize storage to use between devices, that enhances the user experience on Mac and iOS devices.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

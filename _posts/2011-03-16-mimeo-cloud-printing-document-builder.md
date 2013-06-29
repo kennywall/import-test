@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Builder.png
 </p>
 
 <p>
-     Mimeo.com provides the ability to upload print files and build many common document types:<img src="http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Builder.png"  width="300" align="right" />
+     Mimeo.com provides the ability to upload print files and build many common document types:<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Builder.png"  width="300" align="right" />
 </p>
 <ul class="mainlist">
      <li>Presentations
@@ -35,7 +35,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/Document-Builder.png
 <p>
      After any document is built, real-time quotes can be requested through the Mimeo Cloud Print API to get an idea what it will cost.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

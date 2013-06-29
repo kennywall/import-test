@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/breezy/Breezy-Cloud-Pri
 ---
 {% include JB/setup %}
 <p>
-     <a title="Breezy" href="http://breezy.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/breezy/Breezy-Cloud-Printing.png"  width="200" align="right" /></a>
+     <a title="Breezy" href="http://breezy.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/breezy/Breezy-Cloud-Printing.png"  width="200" align="right" /></a>
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_an
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png"  width="300" align="right" />It can be difficult to truly measure with accuracy, the amount of traffic that is driven to your site from Twitter.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/twitter_web_analytics.png"  width="300" align="right" />It can be difficult to truly measure with accuracy, the amount of traffic that is driven to your site from Twitter.
 </p>
 
 <p>

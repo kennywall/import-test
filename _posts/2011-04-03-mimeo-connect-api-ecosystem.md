@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 </p>
 
 <p>
-     Mimeo ecosystem areas are:<img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" />
+     Mimeo ecosystem areas are:<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" />
 </p>
 <ul class="mainlist">
      <li>
@@ -34,7 +34,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
      </li>
 </ul>
 <p>
-     Mimeo Connect ecosystem consists of:<img src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
+     Mimeo Connect ecosystem consists of:<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/mimeo_connect_logo.jpg"  width="200" align="right" />
 </p>
 <ul class="mainlist">
      <li>

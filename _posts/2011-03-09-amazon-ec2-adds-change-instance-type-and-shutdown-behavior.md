@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /><strong>Amazon Web Services</strong> just released two pretty <a title="Amazon EC2 Enhancements" href="http://aws.typepad.com/aws/2011/03/even-more-ec2-goodies-in-the-aws-management-console.html">significationenhancementsto the Amazon EC2 infrastructure</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg"  width="250" align="right" /><strong>Amazon Web Services</strong> just released two pretty <a title="Amazon EC2 Enhancements" href="http://aws.typepad.com/aws/2011/03/even-more-ec2-goodies-in-the-aws-management-console.html">significationenhancementsto the Amazon EC2 infrastructure</a>.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ image: http://kinlane-productions.s3.amazonaws.com/AWS_LOGO_CMYK.jpg
 <p>
      Gone are the days when you shut down an instance and its gone forever, thanks to EBS and the new and Amazon EC2.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

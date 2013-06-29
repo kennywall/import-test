@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/newspaper-club/newspape
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/newspaper-club/newspaper-club-api.png"  width="200" align="right" />
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/newspaper-club/newspaper-club-api.png"  width="200" align="right" />
 </p>
 
 <p>

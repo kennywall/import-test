@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-upload-any
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-upload-any-file-type.png"  width="300" align="right" />Over the next few days google will be rolling out the <a title="ability to upload any file type to Google Documents List API" href="http://googleappsdeveloper.blogspot.com/2011/05/upload-all-file-types-to-any-google.html">ability to upload any file type to Google Documents List API</a> for all accounts.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-upload-any-file-type.png"  width="300" align="right" />Over the next few days google will be rolling out the <a title="ability to upload any file type to Google Documents List API" href="http://googleappsdeveloper.blogspot.com/2011/05/upload-all-file-types-to-any-google.html">ability to upload any file type to Google Documents List API</a> for all accounts.
 </p>
 
 <p>

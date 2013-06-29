@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mashape-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mashape-logo.png"  align="right" /><a title="Mashape" href="http://www.mashape.com/">Mashape</a>, the <a title="API Framework and Marketplace" href="http://www.mashape.com/">API framework and marketplace</a> service provider has recently released some new features and resources for developers.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mashape-logo.png"  align="right" /><a title="Mashape" href="http://www.mashape.com/">Mashape</a>, the <a title="API Framework and Marketplace" href="http://www.mashape.com/">API framework and marketplace</a> service provider has recently released some new features and resources for developers.
 </p>
 
 <p>
@@ -37,7 +37,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mashape-logo.png
 <p>
      Even though Mashape is still in BETA, they are moving fast and providing a wide variety of tools for deploying an API, and standardizing integration for developers.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

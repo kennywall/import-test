@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.p
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png"  width="200" align="right" /><a title="Aviary" href="aviary.com">Aviary</a>, a creator of web-based image editing tools, <a title="launched a new Effects API" href="http://blog.aviary.com/aviarys-effects-api-and-new-developer-site/">launched a new Effects API</a> that can apply filters and utilities to photos via a RESTful interface.
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.png"  width="200" align="right" /><a title="Aviary" href="aviary.com">Aviary</a>, a creator of web-based image editing tools, <a title="launched a new Effects API" href="http://blog.aviary.com/aviarys-effects-api-and-new-developer-site/">launched a new Effects API</a> that can apply filters and utilities to photos via a RESTful interface.
 </p>
 
 <p>
@@ -37,7 +37,7 @@ image: http://kinlane-productions.s3.amazonaws.com/aviary/aviary-effects-image.p
 </p>
 
 <p>
-     Along with the release of the Effects API, Aviary has launched a new <a title="area to support developers" href="http://developers.aviary.com/">area to support developers</a>, where you will find:<img src="http://kinlane-productions.s3.amazonaws.com/aviary/aviary-developer-area.png"  width="325" align="right" />
+     Along with the release of the Effects API, Aviary has launched a new <a title="area to support developers" href="http://developers.aviary.com/">area to support developers</a>, where you will find:<img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/aviary/aviary-developer-area.png"  width="325" align="right" />
 </p>
 <ul class="mainlist">
      <li>Simple explanation of all Aviary APIs on the homepage

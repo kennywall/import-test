@@ -24,5 +24,5 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/gith
      I've looked briefly for any Github solutions, but everything is client-side tracking.  Let me know if I'm missing anything.
 </p>
 <p>
-     <a href="https://github.com/kinlane" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-contributions.png"  width="550" /></a>
+     <a href="https://github.com/kinlane" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-contributions.png"  width="550" /></a>
 </p>

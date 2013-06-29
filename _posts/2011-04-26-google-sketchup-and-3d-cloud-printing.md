@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-sketchup/Google-Sketch
 </p>
 
 <p>
-     Yesterday I was brainstorming on <a title="3D printing and manufacturing with Google" href="http://www.kinlane.com/2011/04/3d-printing-and-manufacturing-with-google/">3D printing and manufacturing with Google</a>.<img src="http://kinlane-productions.s3.amazonaws.com/google-sketchup/Google-SketchUp.png"  width="250" align="right" />
+     Yesterday I was brainstorming on <a title="3D printing and manufacturing with Google" href="http://www.kinlane.com/2011/04/3d-printing-and-manufacturing-with-google/">3D printing and manufacturing with Google</a>.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-sketchup/Google-SketchUp.png"  width="250" align="right" />
 </p>
 
 <p>
@@ -38,7 +38,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-sketchup/Google-Sketch
 </p>
 
 <p>
-     Everything is there to build models to be used in 3D printing and manufacturing. The only missing link right now is integration with Google Cloud Print.<img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways_logo.png"  width="250" align="right" />
+     Everything is there to build models to be used in 3D printing and manufacturing. The only missing link right now is integration with Google Cloud Print.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/shapeways_logo.png"  width="250" align="right" />
 </p>
 
 <p>

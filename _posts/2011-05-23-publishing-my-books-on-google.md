@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg
 </p>
 
 <p>
-     As a publisher, Google Book allows me to:<img src="http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg"  width="150" align="right" />
+     As a publisher, Google Book allows me to:<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-books-logo.jpg"  width="150" align="right" />
 </p>
 <ul class="blue">
      <li>Increase awareness of my book titles

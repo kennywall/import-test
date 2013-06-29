@@ -43,7 +43,7 @@ image: http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/matrix-pics/washington-crossing-the-delaware-cropped.png"  width="250" align="right" />Even in my heavy data, API, and cloud based world if I do not store data in centralized, accessible, and standardized way, right away...it is unlikely it will ever happen. Rarely will I clean up data, publish, and make accessible in the future. The time has come and gone for opening up, it will be much more costly in the future.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/matrix-pics/washington-crossing-the-delaware-cropped.png"  width="250" align="right" />Even in my heavy data, API, and cloud based world if I do not store data in centralized, accessible, and standardized way, right away...it is unlikely it will ever happen. Rarely will I clean up data, publish, and make accessible in the future. The time has come and gone for opening up, it will be much more costly in the future.
 </p>
 
 <p>
@@ -53,10 +53,10 @@ image: http://kinlane-productions.s3.amazonaws.com/bottleneck.jpg
 <p>
      In the New York Times article they state:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>The new frontier in government accountability is not faster responses to information requests. It is an era of open data in which government departments put their information online in usable, searchable formats.</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>That would eliminate the need for many people to file individual FOIA requests - and for agencies to undertake the labor-intensive process of answering them.</em> The ROI on making all government data open would be huge. If government departments put their information online in usable, search-able formats in real-time, it would eliminate the need for people to file FOIA requests, and for the agencies to respond to these requests.
 </p>
 

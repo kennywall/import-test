@@ -12,7 +12,7 @@ image: http://kinlane-productions.s3.amazonaws.com/instapaper.png
 <p>
      <a title="Marco Arment" href="https://twitter.com/#!/marcoarment">Marco Arment</a>, creator of Instapaper just tweeted:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>"<a href="https://twitter.com/#!/marcoarment/status/63010410286166016">As an experiment, I temporarily pulled the Free app from the App Store over a month ago. Sales of the paid app remain great. Few complaints.</a>"</em> What I like most about Arment and Instaper is he experiments with different monetization strategies for his app and API, and shares his thoughts and reasoning with the rest of the world.
 </p>
 

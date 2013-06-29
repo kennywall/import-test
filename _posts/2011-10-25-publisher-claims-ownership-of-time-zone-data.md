@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/time-zone-data.jpeg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/time-zone-data.jpeg"  width="250" align="right" />I've been following the latest <a title="copyright infringement lawsuit" href="http://www.wired.com/threatlevel/2011/10/time-zone-data-lawsuit/">copyrightinfringementlawsuit</a> againstArthur Olson, a computer scientist at the National Institutes of Health, and Paul Eggert, a computer scientist at the University of California at Los Angeles. <a title="Astrolabe" href="http://alabe.com/">Astrolabe</a>, an Astrology site claims theyhave unlawfully reproduced the works and distributed them without their permission.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/time-zone-data.jpeg"  width="250" align="right" />I've been following the latest <a title="copyright infringement lawsuit" href="http://www.wired.com/threatlevel/2011/10/time-zone-data-lawsuit/">copyrightinfringementlawsuit</a> againstArthur Olson, a computer scientist at the National Institutes of Health, and Paul Eggert, a computer scientist at the University of California at Los Angeles. <a title="Astrolabe" href="http://alabe.com/">Astrolabe</a>, an Astrology site claims theyhave unlawfully reproduced the works and distributed them without their permission.
 </p>
 
 <p>

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jp
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://code.google.com/apis/documents/" target="_blank">Google Docs Listing API</a> provides document translation at file upload. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jpg"  width="250" align="right" /> When upload a document you can enable document translation with the following parameters:
+     <a href="http://code.google.com/apis/documents/" target="_blank">Google Docs Listing API</a> provides document translation at file upload. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jpg"  width="250" align="right" /> When upload a document you can enable document translation with the following parameters:
 </p>
 <ul class="mainlist">
      <li>targetLanguage=x
@@ -21,7 +21,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/document-translation.jp
 <p>
      Google Docs List API provides <a href="http://translate.google.com/support/?hl=en" target="_blank">translation in 53 languages</a> and adding more as <a href="http://translate.google.com/#" target="_blank">Google Translate</a> evolves.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

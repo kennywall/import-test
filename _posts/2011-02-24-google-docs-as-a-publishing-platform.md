@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg"  align="right" />As I'm spending a lot of time with Google Docs lately, I'm getting to see it in a different perspective.
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg"  align="right" />As I'm spending a lot of time with Google Docs lately, I'm getting to see it in a different perspective.
 </p>
 
 <p>
@@ -109,7 +109,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 <p>
      As I'm planning for development of Google Cloud Printers, I am beginning to see much more opportunity for publishing beyond just a way to print, its a full blown publishing platform.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

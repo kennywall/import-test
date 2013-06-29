@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg"  width="150" align="right" />A <a title="Quick Response(QR)" href="http://en.wikipedia.org/wiki/QR_code">Quick Response (QR)</a> code is a two-dimensional code that is readable by barcode readers as well as camera phones.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg"  width="150" align="right" />A <a title="Quick Response(QR)" href="http://en.wikipedia.org/wiki/QR_code">Quick Response (QR)</a> code is a two-dimensional code that is readable by barcode readers as well as camera phones.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/QR-Codes.jpg
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/google-goggles.png"  width="350" align="right" />Google Goggles is an image recognition application created by Google, which is used for searches based on images captured with your camera phone or handheld device.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-goggles.png"  width="350" align="right" />Google Goggles is an image recognition application created by Google, which is used for searches based on images captured with your camera phone or handheld device.
 </p>
 
 <p>

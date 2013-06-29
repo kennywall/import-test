@@ -21,7 +21,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/urba
 </ul>
 <p>
      <br />
-     <a title="Urban Airship" href="http://urbanairship.com/"><img class="aligncenter size-medium wp-image-1033 c1" title="urban-airship-products" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/urban-airship-products-300x130.png"  width="300" height="130" /></a>
+     <a title="Urban Airship" href="http://urbanairship.com/"><img class="aligncenter size-medium wp-image-1033" style="display: block; margin-left: auto; margin-right: auto;" title="urban-airship-products" src="http://www.citygridmedia.com/developer/wp-content/uploads/2012/04/urban-airship-products-300x130.png"  width="300" height="130" /></a>
 </p>
 <p>
      <br />

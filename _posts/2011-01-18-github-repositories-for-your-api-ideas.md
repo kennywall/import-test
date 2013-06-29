@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://github.com"><img src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  align="right" /></a>I'm still working on the deployment of the Mimeo Connect Cloud Print API area. In the mean time I am preparing a lot of content to publish when its ready.
+     <a href="http://github.com"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  align="right" /></a>I'm still working on the deployment of the Mimeo Connect Cloud Print API area. In the mean time I am preparing a lot of content to publish when its ready.
 </p>
 
 <p>

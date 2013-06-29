@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>. <a href="http://www.box.net" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="200" align="right" /></a> I have put together a demonstration of how to <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-box-net-and-prepare-proof.php" target="_blank">pull a PDF file from Box.net and the proof it with Mimeo Connect</a>.
+     I am making my way through each major <a href="http://www.kinlane.com/category/cloud-computing/cloud-storage/">cloud storage</a> provider and building demos that pull PDF files from the provider and proofs the file before <a href="http://www.kinlane.com/category/publishing/">printing</a> with <a href="http://www.mimeo.com">Mimeo</a>. <a href="http://www.box.net" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg"  width="200" align="right" /></a> I have put together a demonstration of how to <a href="http://nimbus2.laneworks.net/functions-pull-pdf-from-box-net-and-prepare-proof.php" target="_blank">pull a PDF file from Box.net and the proof it with Mimeo Connect</a>.
 </p>
 
 <p>
@@ -21,7 +21,7 @@ image: http://kinlane-productions.s3.amazonaws.com/box-net-logo.jpg
      </li>
 </ul>
 <p>
-     This <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> demonstration is written in <a href="http://www.kinlane.com/category/php/">PHP</a>, and uses the <a href="https://github.com/mimeoconnect/Mimeo-Connect-Cloud-Print-API---REST-Client" target="_blank">Mimeo Connect Cloud Print API REST Client</a>. <a href="http://www.mimeo.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> You can download the source code for the Box.netto Mimeo Connect project in the following formats:
+     This <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> demonstration is written in <a href="http://www.kinlane.com/category/php/">PHP</a>, and uses the <a href="https://github.com/mimeoconnect/Mimeo-Connect-Cloud-Print-API---REST-Client" target="_blank">Mimeo Connect Cloud Print API REST Client</a>. <a href="http://www.mimeo.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a> You can download the source code for the Box.netto Mimeo Connect project in the following formats:
 </p>
 <ul class="mainlist">
      <li>

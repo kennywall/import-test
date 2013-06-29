@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-proce
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-process-materials.jpg"  width="200" align="right" />Once in production, a 3D model will be printed layer by layer using one of four potential 3D printing processes and corresponding materials:
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-process-materials.jpg"  width="200" align="right" />Once in production, a 3D model will be printed layer by layer using one of four potential 3D printing processes and corresponding materials:
 </p>
 <ul class="mainlist">
      <li>

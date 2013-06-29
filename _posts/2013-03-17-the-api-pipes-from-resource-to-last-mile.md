@@ -12,7 +12,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apis
      Meir kicks up a bunch of thoughts related to how I perceive my role in the API space, which I believe is to help keep a certain amount of oxygen (aka open) present in the space, which I believe is the key ingredient in why the expirement we know as APIs is working.  At first glance, API Evangelist looks like just a blog, but in reality it is a pretty complex system of data stores, API connectors, jobs and curation that I'm using to help draw a map of the API space that I can follow. Currently it looks something like this:
 </p>
 <p>
-     <a href="https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-resource-to-last-mile.png" target="_blank"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-resource-to-last-mile.png"  width="600" /></a>
+     <a href="https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-resource-to-last-mile.png" target="_blank"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-resource-to-last-mile.png"  width="600" /></a>
 </p>
 <p>
      The way I see the space, is there are a shitload of resources, awaiting to be exposed via APIs that are both public and private resources. The stewards of these resources have the ability to select from tools and resources to deploy their API resources, using various building blocks for accomplishing this.
@@ -50,25 +50,25 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/apis
 <p>
      I want the pipes to stay open, accessible, transparent and part of ALL "last mile" conversations.  Which brings me back to Patrick Meir article.  There were several key quotes I'm processing in regards to how I view API resources, API pipes and the last mile API Products that are derived from them:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Feenberg’s own view is constructivist, “emphasizing that technology development is humanly controlled and encapsulates values and politics; it should thus be open to democratic control and intervention.” In other words, “technology can and should be seen as a result of political negotiations that lead to its production and use. In too many cases, the complexities of technological systems are used to concentrate power within small groups of technological, financial, and political elites and to prevent the wider body of citizens from meaningful participation in shaping it and deciding what role it should have in the everyday.”</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>“Meaning Hacking" is often hijacked by "Deep Technical Hackers"</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Democratizing information flows and access; promoting Open Data and Do it Yourself (DIY)</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>Innovation with free, highly hackable (i.e., open source) technology; letting go of control.</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>"the artful alteration of technology beyond the goals of its original design or intent,” enables “Deep Democratization"</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>"Freely pro-viding the hackable building blocks for DIY Innovation is one way to let go of control and democratize"</em>
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>"The control over the information is kept, by and large, by major corporations and the participant’s labor is enrolled in the service of these corporations, leaving the issue of payback for this effort a moot point. Significantly, the primary intention of the providers of the tools is not to empower communities or to include marginalized groups, as they do not re-present a major source of revenue."</em>
 </p>
 <p>

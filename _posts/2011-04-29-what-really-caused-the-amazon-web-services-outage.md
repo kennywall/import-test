@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.j
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.jpg"  width="300" align="right" />Amazon released a summary of the <a href="http://aws.amazon.com/message/65648/">Amazon EC2 and Amazon RDS service disruption in the US East Region</a> today.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.jpg"  width="300" align="right" />Amazon released a summary of the <a href="http://aws.amazon.com/message/65648/">Amazon EC2 and Amazon RDS service disruption in the US East Region</a> today.
 </p>
 
 <p>
@@ -52,16 +52,16 @@ image: http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.j
 <p>
      After looking for patterns I noticed several things. In the first 2 hours I saw my dictionary database I use for indexing harvested data processed, with following coded tags around each word:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>112 114 111 99 101 115 115&gt;&gt;aardvaark&lt;&lt;112 114 111 99 101 115 115</em> The log files the rest of the days seemed to be processing all blog posts I've pulled from around the web for the last year:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>76 101 97 114 110&gt;&gt; The first serious infowar is now engaged, EFF co-founder John Perry Barlow tweeted on Friday. The field of battle is WikiLeaks. You are the troops. Cablegate and Tech Companies. And here we are. In the week since the whistleblower site released its latest round of documents to major global newspapers, the site has been besieged by DDOS attacks (upwards of 10 Gbps at one point), forcing the site offline and hampering its ability to deliver data...&lt;&lt;76 101 97 114 110</em> Then for the next 36 hours the log files contained random posts, bits of information, which I could not make sense of:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>85 110 100 101 114 115 116 97 110 100&gt;&gt;Care must be taken to recognize when the effects of one constraint may counteract the benefits of some other constraint. Nevertheless, it is possible for an experienced software architect to build such a derivation tree of architectural constraints for a given application domain, and then use the tree to evaluate many different architectural designs for applications within that domain. Thus, building a derivation tree provides a mechanism for architectural design guidance.&lt;&lt; 85 110 100 101 114 115 116 97 110 100</em> This is pretty what seemed to fill up my hard drive(s). After that, all it seemed to pull was was Amazon EC2 instance IDs and EBS Volume IDs:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>69 120 112 108 111 114 101&gt;&gt;i-77f3849,i-399fF3a49&lt;&lt;69 120 112 108 111 114 101</em> I've looked for other reports of this type of scanning across the Internet and can't find anything.
 </p>
 
@@ -76,7 +76,7 @@ image: http://kinlane-productions.s3.amazonaws.com/matrix-pics/blue-matrix-400.j
 <p>
      The last file I found modified was a log file with timestamp Sunday at 8:01:00 PM with a single line in it:
 </p>
-<p>
+<p style="padding-left: 30px;">
      <em>83 108 101 101 112</em> I'm not sure what all this is, but it seemed to only exist on my server and started at the same time everyone started complaining about an outage. Amazons report on outage, says a similar time: 12:47 AM PDT on April 21st.
 </p>
 

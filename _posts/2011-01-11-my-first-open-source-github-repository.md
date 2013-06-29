@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/github-logo.png
 ---
 {% include JB/setup %}
 <p>
-     I have checked out and downloaded code from plenty of <a href="http://github.com">github</a> repositories. I've even help manage a couple of private repositories for clients. <a href="http://github.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  width="250" align="right" /></a> I have never actually shared an open source repository before. A virgin of sorts.
+     I have checked out and downloaded code from plenty of <a href="http://github.com">github</a> repositories. I've even help manage a couple of private repositories for clients. <a href="http://github.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/github-logo.png"  width="250" align="right" /></a> I have never actually shared an open source repository before. A virgin of sorts.
 </p>
 
 <p>

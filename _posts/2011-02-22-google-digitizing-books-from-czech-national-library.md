@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/random/czech-national-library
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://thepugetnews.com/wp-content/uploads/2008/12/dsc_0103_2.jpg" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/random/czech-national-library.jpg"  width="300" align="right" /></a>Google is <a href="http://booksearch.blogspot.com/2011/02/printed-treasures-from-golden-city.html" target="_blank">partnering with the Czech National Library to digitize</a> up to 200,000 works from the historical collection dating back to the 11th century.
+     <a href="http://thepugetnews.com/wp-content/uploads/2008/12/dsc_0103_2.jpg" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/random/czech-national-library.jpg"  width="300" align="right" /></a>Google is <a href="http://booksearch.blogspot.com/2011/02/printed-treasures-from-golden-city.html" target="_blank">partnering with the Czech National Library to digitize</a> up to 200,000 works from the historical collection dating back to the 11th century.
 </p>
 
 <p>
@@ -16,7 +16,7 @@ image: http://kinlane-productions.s3.amazonaws.com/random/czech-national-library
 <p>
      The digitization of these books will open up the collection for scholars and interested readers all over the world. Digitizing and opening up collections around the world is not just critical for preservation, but is essential for sharing with our emerging global community.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/government/data_gov.jpg
 ---
 {% include JB/setup %}
 <p>
-     I refuse to align myself with any political party. When I vote for president its always a vote for the lesser of two evils. <img src="http://kinlane-productions.s3.amazonaws.com/government/data_gov.jpg"  width="325" align="right" /> My republican friends probably think I'm a liberal, my liberal friends probably think I'm aconservative.
+     I refuse to align myself with any political party. When I vote for president its always a vote for the lesser of two evils. <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/government/data_gov.jpg"  width="325" align="right" /> My republican friends probably think I'm a liberal, my liberal friends probably think I'm aconservative.
 </p>
 
 <p>

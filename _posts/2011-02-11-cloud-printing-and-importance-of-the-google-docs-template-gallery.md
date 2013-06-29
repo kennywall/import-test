@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-doc
 ---
 {% include JB/setup %}
 <p>
-     As I'm planning and developing around the <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> platform I'm starting to see a bigger picture. <a href="https://docs.google.com/templates" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-docs-template-gallery-1.png"  width="300" align="right" /></a> If <a href="http://www.kinlane.com/category/google/google-docs/">Google Docs</a> becomes a central point of storage and <a href="http://www.kinlane.com/category/publishing/">printing</a> via cloud printers, its value in the print supply chain becomes extremely valuable.
+     As I'm planning and developing around the <a href="http://www.kinlane.com/category/google/">Google</a> <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> platform I'm starting to see a bigger picture. <a href="https://docs.google.com/templates" target="_blank"><img style="paddng: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-docs-template-gallery-1.png"  width="300" align="right" /></a> If <a href="http://www.kinlane.com/category/google/google-docs/">Google Docs</a> becomes a central point of storage and <a href="http://www.kinlane.com/category/publishing/">printing</a> via cloud printers, its value in the print supply chain becomes extremely valuable.
 </p>
 
 <p>

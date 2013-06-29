@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/judgement-day.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/judgement-day.jpg"  width="300" align="right" />On June 8th, 2011major web companies, including Google, Facebook, Yahoo!, and Microsoft, will enable IPv6 on many of their websites for 24 hours to test how IPv6 performs in the real world.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/judgement-day.jpg"  width="300" align="right" />On June 8th, 2011major web companies, including Google, Facebook, Yahoo!, and Microsoft, will enable IPv6 on many of their websites for 24 hours to test how IPv6 performs in the real world.
 </p>
 
 <p>
@@ -27,7 +27,7 @@ image: http://kinlane-productions.s3.amazonaws.com/judgement-day.jpg
 <p>
      You can start checking your organization's IPv6 preparedness before June 8th, by going to<a href="http://ipv6test.google.com/" target="_blank">ipv6test.google.com</a> from the devices that you use to access Google Apps, like primary work machines, tablet devices and home computers. If you discover IPv6 connectivity problems, you can find troubleshooting tips and more information on the <a title="Google IPv6 Site" href="http://www.google.com/support/websearch/bin/answer.py?hl=en&amp;topic=8995&amp;answer=1299266">Google support site</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.scribd.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg"  width="200" align="right" /></a>Computing is moving online. With the introduction cloud computing, more business are moving their documents online.
+     <a href="http://www.scribd.com" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg"  width="200" align="right" /></a>Computing is moving online. With the introduction cloud computing, more business are moving their documents online.
 </p>
 
 <p>
@@ -17,7 +17,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg
      Mimeo Cloud Printing enables commercial printing from popular cloud storage platforms:
 </p>
 <ul class="mainlist">
-     <li>
+     <li style="list-style: none">
           <a href="http://www.dropbox.com" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jpg"  width="250" align="right" /></a>
      </li>
      <li>
@@ -40,7 +40,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/scribd-logo.jpg
 <p>
      As business document management moves into the cloud, Mimeo Cloud Print API will enable service providers to offer cloud printing from any platform.
 </p>
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

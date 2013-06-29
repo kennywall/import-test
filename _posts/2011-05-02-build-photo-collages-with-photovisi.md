@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/other/PhotoVisi.png
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/other/PhotoVisi.png"  width="250" align="right" />I was just playing with a cool new, free photo collage tool called <a title="Photovisi" href="http://www.photovisi.com/">Photovisi</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/other/PhotoVisi.png"  width="250" align="right" />I was just playing with a cool new, free photo collage tool called <a title="Photovisi" href="http://www.photovisi.com/">Photovisi</a>.
 </p>
 
 <p>

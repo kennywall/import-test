@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jp
 ---
 {% include JB/setup %}
 <p>
-     <a title="Dropbox" href="https://www.dropbox.com/"><img src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jpg"  width="200" align="right" /></a><a title="Dropbox" href="https://www.dropbox.com/">Dropbox</a> is a dead simple, web-based file hosting service, that uses cloud computing to enable users to store and share files with others across the Internet using file synchronization.
+     <a title="Dropbox" href="https://www.dropbox.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jpg"  width="200" align="right" /></a><a title="Dropbox" href="https://www.dropbox.com/">Dropbox</a> is a dead simple, web-based file hosting service, that uses cloud computing to enable users to store and share files with others across the Internet using file synchronization.
 </p>
 
 <p>
@@ -34,7 +34,7 @@ image: http://kinlane-productions.s3.amazonaws.com/cloud-storage/dropbox-logo.jp
 <p>
      All samples contain code samples you can download on <a title="Github" href="https://github.com/mimeoconnect">Github</a>, or the <a title="Mimeo Connect Code Library" href="http://developer.mimeo.com/code/index.php">Mimeo Connect code library</a>.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

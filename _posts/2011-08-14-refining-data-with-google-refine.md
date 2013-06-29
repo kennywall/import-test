@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.j
 ---
 {% include JB/setup %}
 <p>
-     <a title="Google Refine" href="http://code.google.com/p/google-refine/"><img src="http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.jpg"  width="250" align="right" /></a>I stumbled across <a title="Google Refine" href="http://code.google.com/p/google-refine/">Google Refine</a> yesterday while writing a story on a <a title="Famers Market API" href="http://blog.apievangelist.com/2011/08/13/united-states-farmers-market-api/">Famers Market API</a>. Google Refine is the rebirth of what was formerly known as Freebase Gridworks, in which Google picked up in their <a title="2010 acquisition of Metaweb" href="http://googleblog.blogspot.com/2010/07/deeper-understanding-with-metaweb.html">2010 acquisition of Metaweb</a>.
+     <a title="Google Refine" href="http://code.google.com/p/google-refine/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.jpg"  width="250" align="right" /></a>I stumbled across <a title="Google Refine" href="http://code.google.com/p/google-refine/">Google Refine</a> yesterday while writing a story on a <a title="Famers Market API" href="http://blog.apievangelist.com/2011/08/13/united-states-farmers-market-api/">Famers Market API</a>. Google Refine is the rebirth of what was formerly known as Freebase Gridworks, in which Google picked up in their <a title="2010 acquisition of Metaweb" href="http://googleblog.blogspot.com/2010/07/deeper-understanding-with-metaweb.html">2010 acquisition of Metaweb</a>.
 </p>
 
 <p>
@@ -18,7 +18,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine.j
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine-project.png"  width="340" align="right" />Beyond data refinement and transformation you can add to your data using Google Refine. For example, you can do address lookups and other web service calls using the data you have, to find new values and make your data more complete and usable for whatever goal you have in mind.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/refine/google-refine-project.png"  width="340" align="right" />Beyond data refinement and transformation you can add to your data using Google Refine. For example, you can do address lookups and other web service calls using the data you have, to find new values and make your data more complete and usable for whatever goal you have in mind.
 </p>
 
 <p>

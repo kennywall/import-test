@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iph
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iphone.jpg"  width="200" align="right" />I'm spending some time brainstorming the next generation of product catalogs with a new platform partner <a title="Moodstocks" href="http://www.moodstocks.com/">Moodstocks</a>. These are just a few of my preliminary thoughts on the subject.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iphone.jpg"  width="200" align="right" />I'm spending some time brainstorming the next generation of product catalogs with a new platform partner <a title="Moodstocks" href="http://www.moodstocks.com/">Moodstocks</a>. These are just a few of my preliminary thoughts on the subject.
 </p>
 
 <p>
@@ -14,7 +14,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iph
 </p>
 
 <p>
-     This type of <a title="print on demand product catalog" href="http://developer.mimeo.com/projects/idea_detail.php?ID=9">print on demand product catalog</a> is an ideal way to efficiently print a product catalog that is always up to date, without large print runs and warehousing. Code can be embedded on web sites and partner sites that allow users to request a print version of a product catalog, and delivered the next day.<a title="Moodstocks" href="http://www.mimeo.com/"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>
+     This type of <a title="print on demand product catalog" href="http://developer.mimeo.com/projects/idea_detail.php?ID=9">print on demand product catalog</a> is an ideal way to efficiently print a product catalog that is always up to date, without large print runs and warehousing. Code can be embedded on web sites and partner sites that allow users to request a print version of a product catalog, and delivered the next day.<a title="Moodstocks" href="http://www.mimeo.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="250" align="right" /></a>
 </p>
 
 <p>
@@ -22,7 +22,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mobile-product-catalog-on-iph
 </p>
 
 <p>
-     <a title="Moodstocks" href="http://www.moodstocks.com/"><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png"  width="250" align="right" /></a>Using Mimeo you can make your e-commerce site immediately exportable to the physical world as a product catalog. Then using Moodstocks API you can provide an e-commerce mobile application that links these product catalogs in the physical world back to the wealth of real-time information available on the web.
+     <a title="Moodstocks" href="http://www.moodstocks.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/moodstocks/Moodstocks-Logo.png"  width="250" align="right" /></a>Using Mimeo you can make your e-commerce site immediately exportable to the physical world as a product catalog. Then using Moodstocks API you can provide an e-commerce mobile application that links these product catalogs in the physical world back to the wealth of real-time information available on the web.
 </p>
 
 <p>

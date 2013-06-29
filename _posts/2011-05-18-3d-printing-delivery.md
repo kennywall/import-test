@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-deliv
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-delivery.jpg"  width="175" align="right" />3D printing is about delivering a virtual object as a physical object, on demand.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/3D-Printing/3d-printing-delivery.jpg"  width="175" align="right" />3D printing is about delivering a virtual object as a physical object, on demand.
 </p>
 
 <p>

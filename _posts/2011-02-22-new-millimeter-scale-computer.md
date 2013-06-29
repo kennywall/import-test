@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg"  width="300" align="right" />The <a href="http://www.eecs.umich.edu/" target="_blank">University of Michigan Department of Electrical Engineering and Computer Science</a> has <a href="http://ns.umich.edu/htdocs/releases/story.php?id=8278" target="_blank">announced a prototype millimeter-scale computer</a> along with their paper on the subject at at the <a href="http://isscc.org/" target="_blank">International Solid-State Circuits Conference (ISSCC) in San Francisco.</a>
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg"  width="300" align="right" />The <a href="http://www.eecs.umich.edu/" target="_blank">University of Michigan Department of Electrical Engineering and Computer Science</a> has <a href="http://ns.umich.edu/htdocs/releases/story.php?id=8278" target="_blank">announced a prototype millimeter-scale computer</a> along with their paper on the subject at at the <a href="http://isscc.org/" target="_blank">International Solid-State Circuits Conference (ISSCC) in San Francisco.</a>
 </p>
 
 <p>
@@ -24,7 +24,7 @@ image: http://kinlane-productions.s3.amazonaws.com/millimeter-scale-computer.jpg
 <p>
      A very interesting step toward a world where computers are ubiquitous, present in virtually any object or life form.
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

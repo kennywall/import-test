@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-widget.png"  width="325" align="right" />Widgets and other embeddable objects are the number one request we get at <a title="Mimeo Connect" href="http://developer.mimeo.com/">Mimeo Connect</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/widgets/bound-document-widget.png"  width="325" align="right" />Widgets and other embeddable objects are the number one request we get at <a title="Mimeo Connect" href="http://developer.mimeo.com/">Mimeo Connect</a>.
 </p>
 
 <p>

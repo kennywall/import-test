@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghos
 ---
 {% include JB/setup %}
 <p>
-     When it comes to developing for <a href="http://www.kinlane.com/category/publishing/">Print</a> applications you need to be able to <a href="http://www.kinlane.com/2011/01/programming-with-images-using-imagemagick/">programmatically manipulate images</a>. Currently with <a href="http://www.mimeo.com">Mimeo</a>, ultimately everything needs to be in a PDF format before it gets sent to the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>. <a href="http://pages.cs.wisc.edu/~ghost/doc/intro.htm" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png"  width="197" height="206" align="right" /></a> Whether its a report, <a href="http://www.kinlane.com/category/publishing/">book</a>, magazine, <a href="http://www.kinlane.com/category/publishing/">photo</a> or <a href="http://www.kinlane.com/category/publishing/">poster</a> it will have to be PDF document at some point. Hopefully soon we will accept a wider range of formats. :)
+     When it comes to developing for <a href="http://www.kinlane.com/category/publishing/">Print</a> applications you need to be able to <a href="http://www.kinlane.com/2011/01/programming-with-images-using-imagemagick/">programmatically manipulate images</a>. Currently with <a href="http://www.mimeo.com">Mimeo</a>, ultimately everything needs to be in a PDF format before it gets sent to the Mimeo Connect <a href="http://www.kinlane.com/category/cloud-computing/cloud-print/">Cloud Print</a> <a href="http://www.apievangelist.com/">API</a>. <a href="http://pages.cs.wisc.edu/~ghost/doc/intro.htm" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghostscript-Logo.png"  width="197" height="206" align="right" /></a> Whether its a report, <a href="http://www.kinlane.com/category/publishing/">book</a>, magazine, <a href="http://www.kinlane.com/category/publishing/">photo</a> or <a href="http://www.kinlane.com/category/publishing/">poster</a> it will have to be PDF document at some point. Hopefully soon we will accept a wider range of formats. :)
 </p>
 
 <p>
@@ -28,7 +28,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/GPL-Ghos
      </li>
 </ul>
 <p>
-     <a href="http://www.pdfsam.org/mediawiki/index.php?title=Main_Page" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/pdfsam_logo.png"  align="right" /></a> These three open source tools are allowing me to convert and manipulate PDF documents as I need, and provide resources to my Print API developers. I will be digesting and providing documentation, how tos, and code samples helping developers become more efficient using PDF.
+     <a href="http://www.pdfsam.org/mediawiki/index.php?title=Main_Page" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/pdf-management/pdfsam_logo.png"  align="right" /></a> These three open source tools are allowing me to convert and manipulate PDF documents as I need, and provide resources to my Print API developers. I will be digesting and providing documentation, how tos, and code samples helping developers become more efficient using PDF.
 </p>
 
 <p>

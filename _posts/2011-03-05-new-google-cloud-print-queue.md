@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-clo
 </p>
 
 <p>
-     <img class="aligncenter c1" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-queue-1.png"  width="550" align="center" />
+     <img class="aligncenter" style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-queue-1.png"  width="550" align="center" />
 </p>
 
 <p>

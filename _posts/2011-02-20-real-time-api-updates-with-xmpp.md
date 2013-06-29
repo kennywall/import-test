@@ -59,7 +59,7 @@ image: http://kinlane-productions.s3.amazonaws.com/xmpp_logo.png
 <p>
      Think if <a href="http://www.kinlane.com/category/twitter/">Twitter</a> provided <a href="http://www.kinlane.com/category/xmpp/" target="_blank">XMPP</a> updates for applications looking for search updates. They would getnotifiedto make an API request when there is truly an update.
 </p>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

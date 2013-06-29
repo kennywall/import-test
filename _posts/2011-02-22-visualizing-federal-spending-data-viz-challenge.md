@@ -22,13 +22,13 @@ image: http://3.bp.blogspot.com/-5SMO-mBHvg8/TWPvE6ASrxI/AAAAAAAAHmU/KvmqXR9IbxI
 </p>
 
 <p>
-     There is $10,000 in prize money including $5,000 top prize. Entries must submitted by midnight of March 27, 2011 with finalists being announced the week of April 11, and winners will be publicly announced on Tax Day, April 18, 2011. <a href="http://googleblog.blogspot.com/2011/02/data-viz-challenge-can-you-make-tax.html" target="_blank"><img src="http://3.bp.blogspot.com/-5SMO-mBHvg8/TWPvE6ASrxI/AAAAAAAAHmU/KvmqXR9IbxI/datavizchallenge-screenshot.png"  width="325" align="right" /></a> This challenge was created by <a href="http://eyebeam.org/" target="_blank">Eyebeam</a> and <a href="http://googleblog.blogspot.com/2011/02/data-viz-challenge-can-you-make-tax.html" target="_blank">Google</a>, with data provided by <a href="http://whatwepayfor.com/" target="_blank">WhatWePayFor.com</a>.
+     There is $10,000 in prize money including $5,000 top prize. Entries must submitted by midnight of March 27, 2011 with finalists being announced the week of April 11, and winners will be publicly announced on Tax Day, April 18, 2011. <a href="http://googleblog.blogspot.com/2011/02/data-viz-challenge-can-you-make-tax.html" target="_blank"><img style="padding: 25;" src="http://3.bp.blogspot.com/-5SMO-mBHvg8/TWPvE6ASrxI/AAAAAAAAHmU/KvmqXR9IbxI/datavizchallenge-screenshot.png"  width="325" align="right" /></a> This challenge was created by <a href="http://eyebeam.org/" target="_blank">Eyebeam</a> and <a href="http://googleblog.blogspot.com/2011/02/data-viz-challenge-can-you-make-tax.html" target="_blank">Google</a>, with data provided by <a href="http://whatwepayfor.com/" target="_blank">WhatWePayFor.com</a>.
 </p>
 
 <p>
      What a great way to educate the American taxpayer through the use of open data, APIs and visualization!
 </p>
-<h6 class="zemanta-related-title c2">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

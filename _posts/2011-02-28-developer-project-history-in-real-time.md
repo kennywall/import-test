@@ -32,7 +32,7 @@ image: http://careers.stackoverflow.com/Content/Img/logo-careers-2-so.png
 <p>
      I'm creating a new <a href="http://www.kinlane.com/projects/" target="_blank">projects</a> page where I'm going to try and list projects I develop in real-time. I'm going to try and work my project history into my blogging schedule as much as I can.
 </p>
-<h6 class="zemanta-related-title c1">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">

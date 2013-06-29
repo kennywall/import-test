@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-p
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png"  width="250" align="right" />To kick-off my role as <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> at <a title="CityGrid" href="http://developer.citygridmedia.com/">CityGrid</a>, I took a <a title="quick walk through of locations and places data APIs" href="http://blog.apievangelist.com/2011/12/22/quick-walk-through-the-world-of-location-&amp;-places-apis/">quick walk through the world of location and places API</a>.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png"  width="250" align="right" />To kick-off my role as <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> at <a title="CityGrid" href="http://developer.citygridmedia.com/">CityGrid</a>, I took a <a title="quick walk through of locations and places data APIs" href="http://blog.apievangelist.com/2011/12/22/quick-walk-through-the-world-of-location-&amp;-places-apis/">quick walk through the world of location and places API</a>.
 </p>
 
 <p>
@@ -26,7 +26,7 @@ image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-p
 </p>
 
 <p>
-     Along with places data there are various geo related services that are offered across these APIs: <img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/geofencing.jpg"  width="250" align="right" />
+     Along with places data there are various geo related services that are offered across these APIs: <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/geofencing.jpg"  width="250" align="right" />
 </p>
 <ul class="mainlist">
      <li>
@@ -60,7 +60,7 @@ image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-p
      </li>
 </ul>
 <p>
-     After location and business related content I'd say there is a growing pool of related content that may not be directly associated with a business or location, but provide context, and augment places data making it more meaningful to users: <img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/neighborhood-city-center.jpg"  width="250" align="right" />
+     After location and business related content I'd say there is a growing pool of related content that may not be directly associated with a business or location, but provide context, and augment places data making it more meaningful to users: <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/neighborhood-city-center.jpg"  width="250" align="right" />
 </p>
 <ul class="mainlist">
      <li>Weather
@@ -94,7 +94,7 @@ image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-p
 </p>
 
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/urban-spoon-iphone.png"  width="250" align="right" />Next I broke out a group of location specific services, that provide location tools for developers that provide current location of users as well as tools for recording the history of users. There are also robust tools for doing look-ups of location based upon IP address, longitude and latitude and physical address.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/urban-spoon-iphone.png"  width="250" align="right" />Next I broke out a group of location specific services, that provide location tools for developers that provide current location of users as well as tools for recording the history of users. There are also robust tools for doing look-ups of location based upon IP address, longitude and latitude and physical address.
 </p>
 
 <p>

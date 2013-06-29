@@ -70,7 +70,7 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist/proxy-connecto
 </p>
 
 <p>
-     Related articles
+     <span style="font-weight: bold;">Related articles
 </p>
 <ul class="zemanta-article-ul">
      <li class="zemanta-article-ul-li">

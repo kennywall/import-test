@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     I just installed the <a href="https://chrome.google.com/extensions/detail/idonmcopbgceobhkdbikbdellmdogkih?hl=en-US" target="_blank">Google Web Clipboard</a> in my Google Chrome browser.<img src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg"  width="250" align="right" />
+     I just installed the <a href="https://chrome.google.com/extensions/detail/idonmcopbgceobhkdbikbdellmdogkih?hl=en-US" target="_blank">Google Web Clipboard</a> in my Google Chrome browser.<img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-chrome-logo.jpg"  width="250" align="right" />
 </p>
 
 <p>

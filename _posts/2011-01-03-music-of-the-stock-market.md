@@ -6,7 +6,7 @@ image: http://www.popsci.com/files/imagecache/article_image_large/articles/Pictu
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://money.cnn.com/markets/storysupplement/dow_piano/"><img src="http://www.popsci.com/files/imagecache/article_image_large/articles/Picture%202_25.png"  width="250" align="right" /></a>I am intrigued of any patterns or art you can extract from <a href="http://www.kinlane.com/category/data-20/">Big Data</a>. I have been fascinated by the art of fractal mathematics since my 7th grade social studies teacher introduced me to them in 1984. Her boyfriend was an early pioneer in this field.
+     <a href="http://money.cnn.com/markets/storysupplement/dow_piano/"><img style="padding: 20px;" src="http://www.popsci.com/files/imagecache/article_image_large/articles/Picture%202_25.png"  width="250" align="right" /></a>I am intrigued of any patterns or art you can extract from <a href="http://www.kinlane.com/category/data-20/">Big Data</a>. I have been fascinated by the art of fractal mathematics since my 7th grade social studies teacher introduced me to them in 1984. Her boyfriend was an early pioneer in this field.
 </p>
 
 <p>

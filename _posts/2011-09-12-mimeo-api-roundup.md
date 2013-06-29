@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.mimeo.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a>We added four new APIs, introducing a whole new type of APIs we'll be releasing from time to time here at Mimeo Connect. I'm calling them <a title="Document Printing APIs" href="http://mimeoconnect.3scale.net/">Document Printing APIs</a>, because they are focused around printing specific type of document.
+     <a href="http://www.mimeo.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo-logo.jpg"  width="200" align="right" /></a>We added four new APIs, introducing a whole new type of APIs we'll be releasing from time to time here at Mimeo Connect. I'm calling them <a title="Document Printing APIs" href="http://mimeoconnect.3scale.net/">Document Printing APIs</a>, because they are focused around printing specific type of document.
 </p>
 
 <p>

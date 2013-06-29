@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg"  width="200" align="right" />I spent some time this evening researching file size limitations for Google Docs. Here is what I found:
+     <img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-docs-icon.jpg"  width="200" align="right" />I spent some time this evening researching file size limitations for Google Docs. Here is what I found:
 </p>
 <ul class="mainlist">
      <li>

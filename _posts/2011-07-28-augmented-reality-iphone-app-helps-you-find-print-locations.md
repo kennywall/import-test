@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/worksnug/worksnug-iphon
 ---
 {% include JB/setup %}
 <p>
-     <a title="download WorkSnug Pro" href="http://itunes.apple.com/gb/app/worksnug-pro/id367331923?mt=8"><img src="http://kinlane-productions.s3.amazonaws.com/mimeo/worksnug/worksnug-iphone-print-locations.jpg"  width="250" align="right" /></a>Print is an important part of our hectic business world, and when we are preparing for an important meeting or that up-coming training session, we often find ourselves needing to print from unplanned locations. Every mobile worker in today's today's fast paced world has been there.
+     <a title="download WorkSnug Pro" href="http://itunes.apple.com/gb/app/worksnug-pro/id367331923?mt=8"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/worksnug/worksnug-iphone-print-locations.jpg"  width="250" align="right" /></a>Print is an important part of our hectic business world, and when we are preparing for an important meeting or that up-coming training session, we often find ourselves needing to print from unplanned locations. Every mobile worker in today's today's fast paced world has been there.
 </p>
 
 <p>

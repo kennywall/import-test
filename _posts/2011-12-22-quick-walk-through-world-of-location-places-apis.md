@@ -9,7 +9,7 @@ image: http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-p
      <tbody>
           <tr>
                <td>
-                    <a href="http://www.designdelux.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png"  width="150" align="right" /></a>
+                    <a href="http://www.designdelux.com/" target="_blank"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/hyp3rl0cal/local-search-map-pin.png"  width="150" align="right" /></a>
                </td>
           </tr>
           <tr>

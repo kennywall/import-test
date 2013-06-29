@@ -10,7 +10,7 @@ image: http://kinlane-productions.s3.amazonaws.com/mimeo/open-book.jpg
 </p>
 
 <p>
-     Services like <a href="http://www.lulu.com/" target="_blank">Lulu.com</a> and <a href="http://www.amazon.com/gp/seller-account/mm-summary-page.html?topic=200260520" target="_blank">Amazon self publishing</a> are empowering many authors to self-publish their works and handle the business side of getting their work sold. Keeping more of the profits in their pockets. <img src="http://kinlane-productions.s3.amazonaws.com/mimeo/open-book.jpg"  width="300" align="right" /> This is definitely a viable option for many authors, however I think there will always be a place for niche publishing houses. Not every author is up for the task of promoting their own <a href="http://www.kinlane.com/category/publishing/">Book</a>.
+     Services like <a href="http://www.lulu.com/" target="_blank">Lulu.com</a> and <a href="http://www.amazon.com/gp/seller-account/mm-summary-page.html?topic=200260520" target="_blank">Amazon self publishing</a> are empowering many authors to self-publish their works and handle the business side of getting their work sold. Keeping more of the profits in their pockets. <img style="padding: 20px;" src="http://kinlane-productions.s3.amazonaws.com/mimeo/open-book.jpg"  width="300" align="right" /> This is definitely a viable option for many authors, however I think there will always be a place for niche publishing houses. Not every author is up for the task of promoting their own <a href="http://www.kinlane.com/category/publishing/">Book</a>.
 </p>
 
 <p>

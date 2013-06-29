@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/amazon/Run-Website-On-Amazon-
 ---
 {% include JB/setup %}
 <p>
-     <a href="http://www.allthingsdistributed.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/amazon/Run-Website-On-Amazon-S3.png"  width="300" align="right" /></a>Amazon made some more tweaks to <a href="http://aws.amazon.com/s3/" target="_blank">Amazon S3</a> that make it even easier to <a href="http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html" target="_blank">host your entire static web site at Amazon S3</a>.
+     <a href="http://www.allthingsdistributed.com/" target="_blank"><img style="padding: 10px;" src="http://kinlane-productions.s3.amazonaws.com/amazon/Run-Website-On-Amazon-S3.png"  width="300" align="right" /></a>Amazon made some more tweaks to <a href="http://aws.amazon.com/s3/" target="_blank">Amazon S3</a> that make it even easier to <a href="http://aws.typepad.com/aws/2011/02/host-your-static-website-on-amazon-s3.html" target="_blank">host your entire static web site at Amazon S3</a>.
 </p>
 
 <p>

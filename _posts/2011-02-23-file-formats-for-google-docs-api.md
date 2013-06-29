@@ -6,7 +6,7 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 ---
 {% include JB/setup %}
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/googleapps.jpg"  width="240" align="right" />I am defining various aspects of the <a href="http://docs.google.com" target="_blank">Google Docs</a> platform in conjunction with my <a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Print Proxy</a> work.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/googleapps.jpg"  width="240" align="right" />I am defining various aspects of the <a href="http://docs.google.com" target="_blank">Google Docs</a> platform in conjunction with my <a href="http://www.kinlane.com/2011/02/google-cloud-print-proxy-cloud-printer/" target="_blank">Google Cloud Print Proxy</a> work.
 </p>
 
 <p>
@@ -61,8 +61,8 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
      You can import in the following file types for Google Docs:
 </p>
 <ul class="mainlist">
-     <li>
-          <img src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg"  width="150" align="right" />
+     <li style="list-style: none">
+          <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/PDF_red.jpg"  width="150" align="right" />
      </li>
      <li>.gif - image/gif - <a class="zem_slink" title="Graphics Interchange Format" rel="wikipedia" href="http://en.wikipedia.org/wiki/Graphics_Interchange_Format">Graphics Interchange Format</a>
      </li>
@@ -91,8 +91,8 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
      You can export in the following file types for Google Docs:
 </p>
 <ul class="mainlist">
-     <li>
-          <img src="http://kinlane-productions.s3.amazonaws.com/microsoft-powerpoint.png"  width="150" align="right" />
+     <li style="list-style: none">
+          <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/microsoft-powerpoint.png"  width="150" align="right" />
      </li>
      <li>.doc - application/msword - Microsoft Word Format
      </li>
@@ -164,8 +164,8 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
      You can export in the following file types for Google Presentations:
 </p>
 <ul class="mainlist">
-     <li>
-          <img src="http://kinlane-productions.s3.amazonaws.com/google/google-doc-on-iphone.png"  width="200" align="right" />
+     <li style="list-style: none">
+          <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google/google-doc-on-iphone.png"  width="200" align="right" />
      </li>
      <li>.pdf - application/pdf - Portable Document Format
      </li>
@@ -217,7 +217,7 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
      </li>
 </ul>
 <p>
-     <img src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="350" align="right" /> All other types of files uploaded to Google Docs for storage, and if they are not converted into a Google Document, can be a maximum of 1GB. PDF documents uploaded to Google Docs can only be exported as PDF documents.
+     <img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/google-cloud-print/google-cloud-print-mimeo.png"  width="350" align="right" /> All other types of files uploaded to Google Docs for storage, and if they are not converted into a Google Document, can be a maximum of 1GB. PDF documents uploaded to Google Docs can only be exported as PDF documents.
 </p>
 
 <p>
@@ -235,7 +235,7 @@ image: http://kinlane-productions.s3.amazonaws.com/googleapps.jpg
 <p>
      Throw in mobile viewing, editing and cloud printing of documents. You have thebuildingblocks for a pretty amazing cloud document management system.
 </p>
-<h6 class="zemanta-related-title c3">
+<h6 class="zemanta-related-title" style="font-size: 1em;">
      Related articles
 </h6>
 <ul class="zemanta-article-ul">
