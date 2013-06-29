@@ -1,0 +1,10 @@
+---
+layout: post
+title: Google Feed Server
+url: http://kinlane.com/2009/12/28/google-feed-server/
+image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
+---
+{% include JB/setup %}
+Google Feed Server is an open source Atom Publishing Protocol server based on the Apache Abdera framework. Google Feed Server provides a simple back end for data adapters, which allows developers to quickly deploy a feed for an existing data source such as a database.
+Google Feed Server also provides the Feed Server Client Tool (FSCT), which lets developers perform create, receive, update, and delete (CRUD) operations on a Feed Server feed.
+URL: http://code.google.com/p/google-feedserver/

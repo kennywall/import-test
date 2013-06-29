@@ -1,0 +1,10 @@
+---
+layout: post
+title: Mobile Advertising Platform Round Up
+url: http://kinlane.com/2012/03/04/mobile-advertising-platform-round-up/
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/CityGrid-Mobile-Advertising.png
+---
+{% include JB/setup %}
+<p>
+     I’m doing more research for my Local, Mobile, Social Stack, and spending some time understanding the mobile advertising space. So far I’ve found 24 mobile advertising platforms: Adfonic - Global mobile advertising marketplace AdMob - Tools to promote, measure and monetize mobile apps Admoda - Global mobile advertising marketplace BuzzCity - Global mobile advertising network Chitika - Online Web and Mobile Advertising Network CityGrid Custom Ads API - The raw, parts and pieces of local advertisements CityGrid Mobile Ads API - Local mobile advertising network Google Mobile Ads - Mobile advertising network GreyStripe - Brand-focused mobile advertising network Hunt Mobile Ads - Mobile advertising platform InMobi - Mobile advertising platform Inneractive - Mobile app monetization exchange Jumptap - Targeted mobile advertising Madvertise - Global mobile advertising network Microsoft Mobile Advertising - MSN Advertising Network Millennial Media - mobile advertising &amp; data platform Mojiva - Global mobile advertising network Mobclix - Real-Time Bidding mobile ad exchange Mobile Theory - Mobile advertising network NAVTEQ Media Solutions - Location based, mobile advertising network Rvolve Hyperlocal Ads - Hyperlocal advertising platform Smaato - mobile advertising optimization platform xAd - Mobile advertising service This is is just a round-up, next I will profile what each of the mobile advertising providers offer and see how the CityGrid advertising network compares. Many of these networks offer mobile advertising for the entire world, beyond the local advertising space, but I want to see as many of the providers as I can. Stayed tuned for more detail on mobile advertising as part of the CityGrid local, mobile, social stack.
+</p>
