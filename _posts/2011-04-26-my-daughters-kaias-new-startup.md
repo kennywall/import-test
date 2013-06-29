@@ -5,6 +5,7 @@ url: http://kinlane.com/2011/04/26/my-daughters-startup/
 image: http://kinlane-productions.s3.amazonaws.com/kaia-dog-walking.png
 ---
 {% include JB/setup %}
-<p>
-     My 10 year old Kaia is starting a business.   If you live in South Eugene, OR....let me know. I got the hookup!
-</p>
+My 10 year old Kaia is starting a business.
+&nbsp;
+
+If you live in South Eugene, OR....let me know. I got the hookup!
