@@ -10,7 +10,7 @@ image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-a.png
 
 <ul>
      <li>
-          <a href="http://feedproxy.google.com/~r/thefoursquareblog/~3/rr1v8MjwuQs/">3-2-1 foursquare Follow Friday, New Years Eve edition! 4sqFF</a>- (12-30-2011) - Still figuring out your plans for celebrating the end of 2011? Check out these New Years Eve lists from New York, North Carolina, Miami, India, and all around the world! Know of celebrations going on in your town?
+          (12-30-2011) - Still figuring out your plans for celebrating the end of 2011? Check out these New Years Eve lists from New York, North Carolina, Miami, India, and all around the world! Know of celebrations going on in your town?
      </li>
 </ul>From the <a title="Facebook Developer" href="view-source:http://developers.facebook.com/blog/">Facebook Developer</a> Blog
 
