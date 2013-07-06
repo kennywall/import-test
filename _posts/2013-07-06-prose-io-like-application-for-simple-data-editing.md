@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Prose io Like Application for Simple Data Editing
+title: Prose.io Like Application for Simple Data Editing
 url: http://kinlane.com/2013/07/06/prose-io-like-application-for-simple-data-editing/
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/prose-io-login.png
 ---
