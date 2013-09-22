@@ -5,7 +5,7 @@ url: 'http://kinlane.com/2013/07/21/the-next-decade-is-going-to-be-a-wild-ride/'
 image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KinLane-04-2012-Headshot-3-250.jpg'
 ---
 
-~image0~
+<img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/KinLane-04-2012-Headshot-3-250.jpg" alt="" width="150" align="right" />
 
 I turned 41 in June. As I retool, reboot and readjust during what I guess could be called "vacation", I'm reflecting on the last year and the major shift that has gone on in my world.
 
@@ -19,7 +19,7 @@ I had just had a very meaningful experiences in scaling architecture for SAP and
 
 Its been 3 years since I made the decision to do API Evangelist, dedicating my world to studying not just the technical, but the business and politics of providing and consuming APIs. While studying the space, I've worked hard to tell the story of my research, finding a unique voice that was informative, while also establishing enough credibility, so that people would find my research and stories something worth listening to, sharing and re-using.
 
-~image1~
+<img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/audrey-kin-paris-2.JPG" alt="" width="200" align="right" />
 
 I strongly believe there is a some amazing changes going on in business, government and our personal lives--changes that are being powered via APIs. We can make meaningful change in our world through opening up data and resources via APIs, but at the same time, the potential for great damage to privacy, markets and other negative influences exist. This intersection of the good and the bad of APIs is where I want to exist. Not being dogmatic about any particular technology or approach, but openly showcasing and discussing how APIs are being used wisely, and where APIs are being used in potentially harmful ways.
 
@@ -27,7 +27,7 @@ After two years of studying and telling stories at this intersection, last summe
 
 Now in the summer of 2013, I don't feel like I need to be a cheerleader for APIs anymore, and I am allowed to evolve my approach. I want to maintain my research and monitoring of both providing and consuming APIs, keeping an eye on trends and being a champion of the priorities like government, education and healthcare. To support this, over the last year I've successfully migrated my research and storytelling to a new, agile way of reading, curating, organizing and writing of short and long form stories from the API space--while staying true to the intersection of technology, business and politics.
 
-~image2~
+<img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/Kaia-And-Me.png" alt="" width="200" align="right" />
 
 While not perfect, my website(s) API Evangelist, API Voice, API Stack, Hacker Storytelling and Kin Lane make me happy in their current state. Also while not perfect, I'm happy with the financial side of my world. I don't make a lot of money, but I find enough support to make ends meet, while staying focused on what is important and staying independent of any single company or product.
 

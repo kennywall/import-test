@@ -5,7 +5,7 @@ url: 'http://kinlane.com/2013/08/11/my-first-day-in-washington-dc-as-presidentia
 image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/kinlane-white-house-3-web.jpg'
 ---
 
-~image0~
+<img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/kinlane-white-house-3-web.jpg" alt="" width="200" align="right" />
 
 Tomorrow, will be my first official day in Washington D.C. as a [Presidential Innovation Fellow][1]. I'm super excited, yet also very calm about what is happening. It seems like it is so meant to be, that I don't have any questions or reservations, I just want to get to work.
 
@@ -15,7 +15,7 @@ As a Presidential Innovation Fellow I will be assigned to the "VA Modernization 
 
 > _An enterprise Digits-to-Digits Electronic Claims Submission Service that will provide a common access point to standardize, centralize, and integrate the universal collection of Benefits Claim Forms and supporting evidence data to produce a streamlined, paperless Veteran/Service member-centric claims process._
 
-~image1~
+<img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/kin-lane/william-bignall-1.jpg" alt="" width="150" align="right" />
 
 I couldn't think of a more meaningful project to be part of. I've gone through the project and begun to acquaint myself with its inner workings, and I'm impressed with the amount of work and detail that has gone on so far, in such a short period of time.
 
