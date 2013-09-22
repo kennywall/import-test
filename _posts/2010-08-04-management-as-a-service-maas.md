@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Management as a Service (MaaS)"
+url: 'http://kinlane.com/2010/08/04/management-as-a-service/'
+image: ''
+---
+
+I have been reviewing as many Cloud Service providers as I can get my hands on. I am building a database right now of them and their products, locations, and types of providers. I am breaking them into the following types:
+
+  * [Software as a Service (SaaS)][1]
+  * [Platform as a Service (PaaS)][2]
+  * [Infrastructure as a Service (IaaS)][3]
+  * [Open Source][4]
+  * [Enterprise][5]
+  * [Education][6]
+  * Government
+Cloud service providers usually fit neatly into one or many of those categorizations without a problem. Except for one group; the growing number of cloud management software providers.
+
+There are some that have their own data centers or platforms so they easily fit into a category. However there are many service providers that purely provide a cloud management set of tools that work with one provider (Amazon) or several providers, and they offer no infrastructure or platform. They are a software, but not the end user Software as a Service (SaaS) we are used to.
+
+I have gone back and forth on this one, feeling they need their own categorization. Then no....they are just a IaaS provider, or wait no Paas, wait no...SaaS.
+
+I even discussed this with Audrey and she was intrigued enough to ask RWW readers if [the 3 Common Acronyms for Cloud Services Sufficient?][7]
+
+I am now dubbing cloud management software as Management as a Service (MaaS).
+
+   [1]: http://www.kinlane.com/category/software-as-a-service-saas/
+   [2]: http://www.kinlane.com/category/platform-as-a-service-paas/
+   [3]: http://www.kinlane.com/category/infrastructure-as-a-service-iaas/
+   [4]: http://www.kinlane.com/category/open-source/
+   [5]: http://www.kinlane.com/category/enterpise-20/
+   [6]: http://www.hackeducation.com
+   [7]: http://www.readwriteweb.com/cloud/2010/08/weekly-poll-are-the-3-common-a.php

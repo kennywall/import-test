@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Managing Service Relationships for Personal and Business"
+url: 'http://kinlane.com/2008/01/09/managing-service-relationships-for-personal-and-business/'
+image: ''
+---
+
+I was reading John Udell's post on [Managing Service Relationships][1], talks about managing your service profiles and choosing to receive or not receive paper bills, renewing your accounts etc.
+
+I have pondered this on several levels and thought about how nice it would be to have an application that would aggregate all your relationships under one interface.
+
+So this is really an application that could be offered on 2 levels.
+
+Personal Service Relationship Manager - Would allow me to track all my service relationships that I enter into. So this would go beyond managing my login information across networks like with OpenID. This would be a tool to manage the entire relationship and give me updates on when my relationships are expiring, keep track of SLA's, billing accounting, auditing, etc.
+
+Business Service Relationship Manager - Now this would go with my rants on Small Business IT 2.0 as well as Enterprise 2.0 initiatives. The more 2.0 relationships you enter the more IT tracking you will need. Every API you use, every hosting account, domain you buy, DNS account, and every service relationship you enter as a business needs to be tracked and evaluated.
+
+My wife and I were doing this during our Christmas holiday. We were figuring out what we needed to spend before the end of the year to balance out our taxes. So we were organizing what we have spent and part of this is going through every account we have and analyzing our service relationships. This took a while. Wouldn't it be nice if we just had one interface or report to do this like my American Express account?
+
+So there you go, another application for you all to run with. I don't have the time. Make sure I get a mention.
+
+   [1]: http://blog.jonudell.net/2008/01/04/managing-service-relationships/

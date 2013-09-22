@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Facebook Platform Application Development Fatigue"
+url: 'http://kinlane.com/2008/01/29/facebook-platform-application-development-fatigue/'
+image: ''
+---
+
+ReadWriteWeb is posing the question [Have Facebook Apps Peaked][1]?
+
+The hype is gone and what is left? Not to many useful tools that we can use.
+
+Next we should see a bunch of truly usable business applications that we can use in our everday life. I would like to to see some truly Web 2.0 IT applications that I can utilize for projects and conducting business on a daily basis.
+
+Hopefully now that the Facebook bubble has burst and they seem to be opening up to integration and data portability, we can get real and create some truly useful Facebook applications.
+
+   [1]: http://www.readwriteweb.com/archives/have_facebook_apps_peaked_in_popularity.php
