@@ -5,7 +5,7 @@ url: 'http://kinlane.com/2013/08/22/to-the-audrey-watters-haters/'
 image: 'http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/audrey-kin-paris.jpg'
 ---
 
-![][1]
+<img src="https://s3.amazonaws.com/kinlane-productions/kin-lane/audrey-kin-paris.jpg" align="right" width="200" />
 
 I've had the joy of watching a lot of you bash on my girlfriend, from the misogynistic douche bags telling her to get back in the kitchen because she questions their technology startup, to the recent [@FakeAudreyWatters][2] Twitter account spending a good portion of their day mocking her.
 
@@ -23,5 +23,4 @@ What I hope is, that you can learn to do the same. If she says something that bo
 
 If not, I think secretly you have more problems than just Audrey. You are probably insecure, greedy, sad sack o shit like the creator @FakeAudreyWatters. Someone who could be spending their time actually contributing to the education space, but they are actually working hard to suck value from their space, just like the company you work at. Something that is just unacceptable, c'mon these are our kids asshole, get a fuck'n life.
 
-   [1]: https://s3.amazonaws.com/kinlane-productions/kin-lane/audrey-kin-paris.jpg
    [2]: https://twitter.com/FakeAudryWattrs
