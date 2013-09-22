@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Create PDF Files on iPhone and iPad with Adobe CreatePDF"
+url: 'http://kinlane.com/2011/08/30/create-pdf-files-on-iphone-and-ipad-with-adobe-createpdf/'
+image: 'http://kinlane-productions.s3.amazonaws.com/mimeo/adobe-create-pdf-ios-screenshot.jpg'
+---
+
+1
