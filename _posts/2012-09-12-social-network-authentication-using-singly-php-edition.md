@@ -13,6 +13,43 @@ If I want access to an online service, and it allows me to authenticate using my
 
 I want to make this default for users of my websites, apps and APIs--allowing them authenticate using six social networks:
 
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" alt="" width="25" />][2]
+
+**[Facebook**][2]
+
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png" alt="" width="25" />][3]
+
+**[Foursquare][3]**
+
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png" alt="" width="25" />][4]
+
+**[Github][4]**
+
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png" alt="" width="25" />][5]
+
+**[Instagram][5]**
+
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" alt="" width="25" />][6]
+
+**[LinkedIn][7]**
+
+[<img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png" alt="" width="25" />][8]
+
+**[Twitter][8]**
+
+**Singly has made this nice and easy!**
+
+**Step 1 - [Sign up for Singly][9]**
+
+[<img class="c4" src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Sign-Up.png" alt="" width="250" />][9]
+
+**Step 2 - [Create New Singly App][10]**
+
+[<img class="c4" src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Create-New-App.png" alt="" width="250" />][10]
+
+**Step 3 - Create Social Network Apps.** This part seems like it is a lot of work, but once done...it is sweet. You need to create an app for each one of the six social networks you will be allowing authentication:
+
+
 
 Singly has great instructions to walk you through this process. It will only take you about 5-10 minutes. And once you are done, you will have one API key to access all six of these APIs.
 
