@@ -38,3 +38,4 @@ It is a much different landscape in the clouds.
    [2]: http://blogs.wsj.com/digits/2012/12/18/why-the-web-is-freaking-out-over-instagrams-new-terms-of-service/
    [3]: http://flickr.com
    [4]: http://blog.flickr.net/en/2012/12/12/our-latest-flickr-iphone-app/
+   [5]: http://apievangelist.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
