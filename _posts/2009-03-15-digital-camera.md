@@ -1,8 +1,0 @@
----
-layout: post
-title: "Digital Camera"
-url: 'http://kinlane.com/2009/03/15/digital-camera/'
-image: ''
----
-
-I think I lost my digital camera somewhere. :(
