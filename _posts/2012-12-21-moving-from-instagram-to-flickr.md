@@ -21,7 +21,10 @@ I’ll leave my Instagram account up, so I can test on the API and play with the
 
 There are several key elements that went into action in my decision:
 
- 
+  * **Technology** \- Flickr launched a superior technology that negated Instagrams technology value in my life
+  * **Money** \- I was already paying Flickr for premium services. Which translated into greater allegiance to Flickr
+  * **Social** \- Since I haven’t invested in social networks at either Instagram or Flickr it makes the migration easier. This is why I’m still at Twitter and Facebook, is I have invested in networks
+  * **Licensing** \- I am in control of my licensing at Flickr!
 
 The migration was a no brainer, because I had invested in Flickr already. They had invested in me with premium services and mediocre technology, but when Flickr upgraded and surpassed Instagram--it made Instagram relevant.  But the licensing stance of Flickr seals the deal.  I'm in control over the licensing definition.  End of story.  
 
@@ -35,4 +38,3 @@ It is a much different landscape in the clouds.
    [2]: http://blogs.wsj.com/digits/2012/12/18/why-the-web-is-freaking-out-over-instagrams-new-terms-of-service/
    [3]: http://flickr.com
    [4]: http://blog.flickr.net/en/2012/12/12/our-latest-flickr-iphone-app/
-   [5]: /2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
