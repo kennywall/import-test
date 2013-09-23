@@ -28,7 +28,9 @@ There are several key elements that went into action in my decision:
 
 The migration was a no brainer, because I had invested in Flickr already. They had invested in me with premium services and mediocre technology, but when Flickr upgraded and surpassed Instagram--it made Instagram relevant.  But the licensing stance of Flickr seals the deal.  I'm in control over the licensing definition.  End of story.  
 
-nstagram has stopped caring about its users and is caring more about monetizing the platform. [Instagram could monetize][5] while still caring for their users it would just take a little imagination. 
+<img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/flickr/Flickr-Default-Upload-Licensing.png" width="500" />
+
+Instagram has stopped caring about its users and is caring more about monetizing the platform. [Instagram could monetize][5] while still caring for their users it would just take a little imagination. 
 
 No matter what dance Instagram does now, the damage is already done. Tech companies need to realize that the sands can shift at digital speeds now. Companies need to be as thoughtful and imaginative as possible when planning their roadmaps and communication with the public.
 
