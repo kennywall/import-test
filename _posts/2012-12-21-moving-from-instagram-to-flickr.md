@@ -28,7 +28,7 @@ There are several key elements that went into action in my decision:
 
 The migration was a no brainer, because I had invested in Flickr already. They had invested in me with premium services and mediocre technology, but when Flickr upgraded and surpassed Instagram--it made Instagram relevant.  But the licensing stance of Flickr seals the deal.  I'm in control over the licensing definition.  End of story.  
 
-<img class="c2" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/flickr/Flickr-Default-Upload-Licensing.png" alt="" width="500" />Instagram has stopped caring about its users and is caring more about monetizing the platform. [Instagram could monetize while still caring for their users, it would just take a little imagination][5]. 
+<img class="c2" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/flickr/Flickr-Default-Upload-Licensing.png" alt="" width="500" />Instagram has stopped caring about its users and is caring more about monetizing the platform. [Instagram could monetize while still caring for their users--it would just take a little imagination][5]. 
 
 No matter what dance Instagram does now, the damage is already done. Tech companies need to realize that the sands can shift at digital speeds now. Companies need to be as thoughtful and imaginative as possible when planning their roadmaps and communication with the public.
 
@@ -38,4 +38,4 @@ It is a much different landscape in the clouds.
    [2]: http://blogs.wsj.com/digits/2012/12/18/why-the-web-is-freaking-out-over-instagrams-new-terms-of-service/
    [3]: http://flickr.com
    [4]: http://blog.flickr.net/en/2012/12/12/our-latest-flickr-iphone-app/
-   [5]: http://apievangelist.com/2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
+   [5]: /2012/12/21/instagram-terms-of-use-change-represents-a-lack-of-imagination/
