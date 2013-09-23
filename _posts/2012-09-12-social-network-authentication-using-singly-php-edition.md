@@ -13,27 +13,15 @@ If I want access to an online service, and it allows me to authenticate using my
 
 I want to make this default for users of my websites, apps and APIs--allowing them authenticate using six social networks:
 
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" alt="" width="25" />][2]
-
 **[Facebook**][2]
-
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png" alt="" width="25" />][3]
 
 **[Foursquare][3]**
 
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png" alt="" width="25" />][4]
-
 **[Github][4]**
-
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png" alt="" width="25" />][5]
 
 **[Instagram][5]**
 
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" alt="" width="25" />][6]
-
 **[LinkedIn][7]**
-
-[<img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png" alt="" width="25" />][8]
 
 **[Twitter][8]**
 
@@ -49,7 +37,29 @@ I want to make this default for users of my websites, apps and APIs--allowing th
 
 **Step 3 - Create Social Network Apps.** This part seems like it is a lot of work, but once done...it is sweet. You need to create an app for each one of the six social networks you will be allowing authentication:
 
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" alt="" width="25" />
 
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Facebook-New-App.png" alt="" width="150" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/foursquare.png" alt="" width="25" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Foursquare-New-App.png" alt="" width="150" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/github.png" alt="" width="25" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Github-New-App.png" alt="" width="150" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/instagram.png" alt="" width="25" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Instagram-New-App.png" alt="" width="150" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" alt="" width="25" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-LinkedIn-New-App.png" alt="" width="150" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter-2.png" alt="" width="25" />
+
+<img src="https://s3.amazonaws.com/kinlane-productions/singly/Singly-Twitter-New-App.png" alt="" width="150" />
 
 Singly has great instructions to walk you through this process. It will only take you about 5-10 minutes. And once you are done, you will have one API key to access all six of these APIs.
 
