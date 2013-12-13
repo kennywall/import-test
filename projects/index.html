@@ -54,7 +54,7 @@ title: Projects
 {% endraw %}
 
 <!--BaaS Full Listing Container--->
-<div class="projectcontainter">
+<div class="projectcontainer">
      <ul id="projectListing" class="projecttypelistingul"></ul>
 </div>  
 
@@ -66,7 +66,7 @@ title: Projects
 function listprojecttypes()
     {
     $.getJSON('/data/projecttype.json', function(data) {
-         $.each(data['projecttype'], function(key, val) {
+         $.each(data['project_type'], function(key, val) {
              
             var template = $('#projecttypeTemplate').html();
             var html = Mustache.to_html(template, val);
