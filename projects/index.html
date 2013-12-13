@@ -65,7 +65,7 @@ title: Projects
 
 function listprojecttypes()
     {
-    $.getJSON('data/projecttype.json', function(data) {
+    $.getJSON('/data/projecttype.json', function(data) {
          $.each(data['projecttype'], function(key, val) {
              
             var template = $('#projecttypeTemplate').html();
@@ -77,7 +77,7 @@ function listprojecttypes()
     
 function listprojects()
     {
-    $.getJSON('data/projects.json', function(data) {
+    $.getJSON('/data/projects.json', function(data) {
          $.each(data['projects'], function(key, val) {
             categoryslug = val['typeslug']; 
             var template = $('#projectTemplate').html();
