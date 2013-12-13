@@ -45,11 +45,11 @@ title: Projects
 {% raw  %}
 
 <script id="projecttypeTemplate" type="text/template">       
-    <li><strong>{{category}}</strong><ul id="{{slug}}" class="projectul"></ul></li>                                                                                               
+    <li><strong>{{type}}</strong><ul id="{{slug}}" class="projectul"></ul></li>                                                                                               
 </script>
 
 <script id="projectTemplate" type="text/template">       
-    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
+    <li><a href="{{url}}"><img src="{{image}}" width="50" align="left" style="padding: 15px;" /></a><a href="{{url}}"><strong>{{name}}</strong></a> - {{summary}}</li>                                                                                               
 </script>
 {% endraw %}
 
