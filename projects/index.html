@@ -45,17 +45,22 @@ title: Projects
 {% raw  %}
 
 <script id="projecttypeTemplate" type="text/template">       
-    <li><strong>{{type}}</strong><ul id="{{slug}}" class="projectul"></ul></li>                                                                                               
+    <tr>
+        <td colspan="2"><strong>{{type}}</strong><ul id="{{slug}}" class="projectul"></ul></td>
+    </tr>                                                                                                    
 </script>
 
 <script id="projectTemplate" type="text/template">       
-    <li><a href="{{url}}"><img src="{{image}}" width="50" align="left" style="padding: 15px;" /></a><a href="{{url}}"><strong>{{name}}</strong></a> - {{summary}}</li>                                                                                               
+    <tr>
+        <td width="25%"><a href="{{url}}"><img src="{{image}}" width="50" align="left" style="padding: 15px;" /></a></td>
+        <td><a href="{{url}}"><strong>{{name}}</strong></a> - {{summary}}</td>
+    </tr>                                                                                               
 </script>
 {% endraw %}
 
 <!--BaaS Full Listing Container--->
 <div class="projectcontainer">
-     <ul id="projectListing" class="projecttypelistingul"></ul>
+     <table id="projectListing" class="projecttypelistingul"></table>
 </div>  
 
 <!--BaaS Full Listing JavaScript--->
