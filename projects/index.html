@@ -3,27 +3,92 @@ layout: page
 title: Projects
 ---
 
+
+<ul class="toolbar">
+    <li>{"<a href="https://raw.github.com/kinlane/kin-lane/gh-pages/data/projects.json" title="JSON" target="_blank">JSON</a>"}</li>
+    <li>{"<a href="https://apievangelist.3scale.net/docs" title="API" target="_blank">API</a>"}</li>
+    <li>{"<a href="https://gist.github.com/kinlane/5993280" title="Script" target="_blank">SCRIPT</a>"}</li>
+</ul>
 <h1>Projects</h1>
 <p>I've created this page to try and provide links to specific projects I have worked on. It is difficult to try and capture lists of projects from the past, I find documenting them in real-time is the best way. &nbsp;As I bring projects live, make updates, or even archive a project I will list here and try to summarize.</p>
-<p><strong>2013</strong></p>
-<ul class="mainlist">
-<li><strong><a href="http://kinlane.github.com/i-want-an-api/index.html">I Want An API</a></strong> - I want to outline what it takes to deploy and API either with a cloud service or on your open using open source tools.</li>
-<li><strong><a href="http://digitalstrategy.apievangelist.com">Digital Strategy Scorecard</a></strong> - A new attempt to track on the White House Digital Strategy using the Hacker Storytelling format and produce visualizations showing progress, but using the APIs and data available as part of the digital strategy.</li>
-<li><strong><a href="http://hackerstorytelling.com">Hacker Storytelling</a> </strong>- This is my new project platform for 2013. &nbsp;Allowing me to make every project I do, be open and machine readable by default. &nbsp;As you can see some of the projects below don't have links anymore, because they went away. &nbsp;With Hacker Storytelling they will stick around longer.</li>
-<li><strong><a title="IPA Evangelist" href="http://ipaevangelist.com/">IPA Evangelist</a></strong> - This is an ongoing project documenting the darker side of my personality, as an IPA evangelist.</li>
-<li><strong><a href="http://theapistack.com">The API Stack</a></strong> - A weekly dump of the top 25 APIs I'm tracking on each week, with news and analysis.</li>
-</ul>
-<p><strong>2012</strong></p>
-<ul class="mainlist">
-<li><strong><a title="Hack Weekends Guide" href="https://github.com/kinlane/hack-weekends-guide">Hack Weekends Guide</a></strong> - This is my mashup of several how to throw a hackathon guides into a single, open source implementation complete with template hackathon website.</li>
-<li><strong><a title="Earth as ARt" href="https://github.com/kinlane/earth-as-art">Earth as Art</a></strong> - I took an amazing collection of earth photos from NASA, liberated from PDF and published as project on Github, with all the images and JSON feed, so anyone can remix. &nbsp;It was my first <a href="http://hackerstorytelling.com">Hacker Storytelling</a> project.</li>
-<li><strong><a title="Business of Twitters API" href="http://twitter.apivoice.com">Business of Twitters API</a></strong> - I just wanted to understand how Twitter and its API evolved and changed since they launched in 2006, allowing me to have a better understanding of what Twitter has done right, but also what it did wrong.</li>
-<li><strong><a href="http://www.apievangelist.com/federal_government.php">White House Digital Strategy</a></strong> - I wanted to track on the progress of the White House digital strategy.</li>
-<li><strong><a href="http://hackweekends.com">Hack Weekends</a></strong> - My information, calendar and news site for the Hackathon space.</li>
-</ul>
-<p><strong>2011</strong></p>
-<ul class="mainlist">
-<li><strong>Elance Powered API Developer Area</strong>&nbsp;- This is a prototype to demonstrate how to integrate Elance developer community into an API community. &nbsp;Unfortunately this site isn't up anymore either. &nbsp;</li>
-<li><strong>Federal Budget Prioritization</strong>&nbsp;- I deployed an older project and merged it with data from Obamas 2012 proposed budget. &nbsp;I wanted users to be able to prioritize their budget priorities. &nbsp;I did this for state of Oregon and California in 2010 and federal level in 2012. &nbsp;Unfortunately I took the sites down.</li>
-<li><strong><a href="http://alternate.kinlane.com/">Alternate Kin Lane</a></strong> - Where I put my fictional work, to excercise my creativity and not be swallowed by the tech blogosphere.</li>
-</ul>   
+
+<style>
+
+    .projectcontainer{
+        padding-left: 10px; 
+        padding-right: 10px; 
+        width:550px;
+    }
+    .projecttypelistingul{
+        padding-left: 30px;
+    }  
+    .projecttypelistingul li{
+        list-style: none; 
+        padding: 10px 10px 20px 10px;
+        border: 0px solid #000;
+        font-size: 18px;
+        font-weight: bold;
+    }  
+    .projectul{
+        padding-left: 30px;
+    }  
+    .projectul li{
+        padding: 20px; 
+        border: 0px solid #000;
+        font-size: 14px;
+        font-weight: normal;
+    } 
+</style>
+
+<!--BaaS Full Listing Template--->
+{% raw  %}
+
+<script id="projecttypeTemplate" type="text/template">       
+    <li><strong>{{category}}</strong><ul id="{{slug}}" class="projectul"></ul></li>                                                                                               
+</script>
+
+<script id="projectTemplate" type="text/template">       
+    <li><img src="{{image}}" width="50" align="left" style="padding: 15px;" /><strong>{{name}}</strong> - {{summary}}</li>                                                                                               
+</script>
+{% endraw %}
+
+<!--BaaS Full Listing Container--->
+<div class="projectcontainter">
+     <ul id="projectListing" class="projecttypelistingul"></ul>
+</div>  
+
+<!--BaaS Full Listing JavaScript--->
+<script type="text/javascript">
+
+// Requires Mustache - http://mustache.github.io/
+
+function listprojecttypes()
+    {
+    $.getJSON('data/projecttype.json', function(data) {
+         $.each(data['projecttype'], function(key, val) {
+             
+            var template = $('#projecttypeTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#projectListing').append(html);  
+            });                                   
+        });           
+    } 
+    
+function listprojects()
+    {
+    $.getJSON('data/projects.json', function(data) {
+         $.each(data['projects'], function(key, val) {
+            categoryslug = val['typeslug']; 
+            var template = $('#projectTemplate').html();
+            var html = Mustache.to_html(template, val);
+            $('#'+categoryslug).append(html);   
+            });                                   
+        });        
+    }    
+</script>
+
+<!--Trigger BaaS Full Listing JavaScript onLoad-->
+<script type="text/javascript">
+listprojecttypes();
+listprojects();
+</script>
