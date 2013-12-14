@@ -72,6 +72,10 @@ title: Projects
 
 // Requires Mustache - http://mustache.github.io/
 
+$.getJSON('/data/projects.json', function(data) {
+    alert(count(data));                                  
+    });           
+    
 function listprojecttypes()
     {
     $.getJSON('/data/projecttype.json', function(data) {
