@@ -71,11 +71,9 @@ title: Projects
 <!--BaaS Full Listing JavaScript--->
 <script type="text/javascript">
 
-// Requires Mustache - http://mustache.github.io/
-
 $.getJSON('/data/projects.json', function(data) {
-    //alert(data['project_type'].length);     
-    document.getElementById('projectcount').innerHTML = 'Currently I have ' + data['project_type'].length + ' projects that I am working on.';                             
+    //alert(data['projects'].length);     
+    document.getElementById('projectcount').innerHTML = 'Currently I have ' + data['projects'].length + ' projects that I am working on.';                             
     });           
     
 function listprojecttypes()
