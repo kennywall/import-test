@@ -74,8 +74,8 @@ title: Projects
 // Requires Mustache - http://mustache.github.io/
 
 $.getJSON('/data/projects.json', function(data) {
-    alert(data.length);     
-    document.getElementById('projectcount').innerHTML = 'Currently I have X projects that I am working on.';                             
+    //alert(data['project_type'].length);     
+    document.getElementById('projectcount').innerHTML = 'Currently I have ' + data['project_type'].length + ' projects that I am working on.';                             
     });           
     
 function listprojecttypes()
