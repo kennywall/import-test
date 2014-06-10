@@ -43,48 +43,48 @@
                         </tbody>
                         </table>                     
                      </center>
-                 </div>                                         
-                
-                 <div class="widget widget_recent_entries">  
+                 </div>   
                  
-                    <h3>API Evangelist Network</h3>
-                     <p align="center"><a href="http://apievangelist.com/network.html"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/network/API-Evangelist-Network.png" width="215" /></a></p>
-                    
-                 </div>
-                
-                 <div class="widget widget_recent_entries">  
-                     
-                    <!--- Begin Partners --->
+                <!--- Begin Partners --->
+                <div class="widget widget_recent_entries">  
+                 
                     <script id="parterListingTemplate" type="text/template"> 
                         {% raw  %}  
                         <a href="{{url}}" target="_blank" title="{{title}}">
-                            <img src="{{logo}}" width="{{width}}" style="padding-bottom: {{paddingbottom}}px;" />
+                        <img src="{{logo}}" width="{{width}}" style="padding-bottom: {{paddingbottom}}px;" />
                         </a>   
                         {% endraw %}                                                                                                                    
                     </script>  
                      
                     <script type="text/javascript">
-                        function listSponsors()
-                            {
-                            $.getJSON('/data/sponsors.json', function(data) {               
-                                 $.each(data['sponsors'], function(key, val) {                  
-                                    var template = $('#parterListingTemplate').html();
-                                    var html = Mustache.to_html(template, val);
-                                    $('#partnerListingContainer').append(html);
-                                    });         
-                                });             
-                            }    
+                    function listSponsors()
+                        {
+                        $.getJSON('/data/sponsors.json', function(data) {               
+                            $.each(data['sponsors'], function(key, val) {                  
+                            var template = $('#parterListingTemplate').html();
+                            var html = Mustache.to_html(template, val);
+                            $('#partnerListingContainer').append(html);
+                            });         
+                        });             
+                    }    
                     </script>
-               
+                       
                     <h3>Partner Sites</h3>
                     <div id="partnerListingContainer" align="center"><br /><br /> </div>
                     
                     <script type="text/javascript">
                         listSponsors();
                     </script>                    
-                        
+                
                 </div>  
-                <!--- End Partners --->   
+                <!--- End Partners --->                                                           
+                
+                 <div class="widget widget_recent_entries">  
+                 
+                    <h3>API Evangelist Network</h3>
+                     <p align="center"><a href="http://apievangelist.com/network.html"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/network/API-Evangelist-Network.png" width="215" /></a></p>
+                    
+                 </div> 
 
                 <div class="widget widget_recent_entries">  
                 <h3>Latest Blog Posts</h3>
