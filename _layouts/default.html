@@ -6,76 +6,76 @@
   <body>
 
     <header class="masthead">
-      <div class="masthead-inner" align="center">  	      	
-		<h2>{"Kin Lane"}</h2>   
-		<p><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-kin-inverse.png" align="center" width="90" /></p>   		                	      	
+      <div class="masthead-inner" align="center">
+		<h2>{"Kin Lane"}</h2>
+		<p><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-kin-inverse.png" align="center" width="90" /></p>
         <div class="colophon">
           <ul class="colophon-links">
             <li>
               <a href="/">Home</a>
             </li>
             <li>
-              <a href="/blog/">Blog</a> <a href="http://alternate.kinlane.com" style="font-size: 11px;">(alternate)</a> <a href="http://rants.kinlane.com" style="font-size: 11px;">(rants)</a></a>
+              <a href="/blog/">Blog</a> <a href="http://alternate.kinlane.com" style="font-size: 11px;">(alternate)</a> <a href="http://rants.kinlane.com" style="font-size: 11px;">(rants)</a> <a href="http://kinlane.com/archive.html" style="font-size: 11px;">(archive)</a></a>
             </li>
             <li>
               <a href="/projects/">Projects</a>
-            </li>   
+            </li>
             <li>
               <a href="/talks/">Talks</a>
-            </li> 
+            </li>
             <li>
               <a href="/videos/">Videos</a>
-            </li> 
+            </li>
             <li>
               <a href="/images/">Images</a>
-            </li>             
+            </li>
             <li>
               <a href="/experiences/">Experiences</a>
-            </li>                                     
+            </li>
             <li>
               <a href="/about/">About</a>
-            </li>                      
+            </li>
           </ul>
-        </div>        
-        <script id="parterListingTemplate" type="text/template"> 
-            {% raw  %}  
+        </div>
+        <script id="parterListingTemplate" type="text/template">
+            {% raw  %}
             <a href="{{url}}" target="_blank" title="{{title}}">
            		<img src="{{logo}}" width="{{width}}" style="padding: 4px;" />
-            </a>   
-            {% endraw %}                                                                                                                    
-        </script>          
-        
+            </a>
+            {% endraw %}
+        </script>
+
         <script type="text/javascript">
         function listSponsors()
             {
-            $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {               
-                $.each(data['sponsors'], function(key, val) {                  
+            $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {
+                $.each(data['sponsors'], function(key, val) {
                 var template = $('#parterListingTemplate').html();
                 var html = Mustache.to_html(template, val);
                 $('#partnerListingContainer').append(html);
-                });         
-            });             
-        }    
+                });
+            });
+        }
         </script>
 
         <div id="partnerListingContainer" align="center" style="background-color:#FFF; margin-top: 45px; padding-top: 10px; width: 60%; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #FFFFFF; margin-bottom: 7px;">
-		
+
 		</div>
-        
+
         <script type="text/javascript">
             listSponsors();
-        </script>        
-        
+        </script>
+
       </div>
     </header>
 
     <div class="content container">
-    	
-		<p align="center"><img src="http://kinlane-productions.s3.amazonaws.com/kinlane-logo.png" align="center" width="50%" style="padding-bottom: 10px;" /></p>    	
-    	
+
+		<p align="center"><img src="http://kinlane-productions.s3.amazonaws.com/kinlane-logo.png" align="center" width="50%" style="padding-bottom: 10px;" /></p>
+
       	{{ content }}
-      
-	      
+
+
 	     <div class="footer">
 		    <ul>
 		    	<li><a href="/">Home</a></li>
@@ -86,23 +86,23 @@
 		    	<li><a href="/branding-guidelines.html">Branding Guidelines</a></li>
 		    	<li><a href="http://kinlane.com/contact/">Contact</a></li>
 		    </ul>
-		</div>      
-      
+		</div>
+
     </div>
-	
+
 	<script type="text/javascript">
-	
+
 	  var _gaq = _gaq || [];
 	  _gaq.push(['_setAccount', 'UA-1119465-35']);
 	  _gaq.push(['_trackPageview']);
-	
+
 	  (function() {
 	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-	
-	
+
+
 	  function checkLinkRot()
 	    {
 	    var linkArray = [];
@@ -111,28 +111,28 @@
 	        linkArray.push(links[i].href);
 	    }
 	    url = "http://linkrot.api.laneworks.net/v1/links/";
-	    var myJsonString = JSON.stringify(linkArray);                
+	    var myJsonString = JSON.stringify(linkArray);
 	    $.ajax({
 	        type: "POST",
 	        url: url,
 	        data: myJsonString,
-	        success: function (data) {            
-	             $.each(data, function($Key,$Value) {                 
+	        success: function (data) {
+	             $.each(data, function($Key,$Value) {
 	                $URL = $Value['URL'];
-	                $returnURL = $Value['returnURL'];  
+	                $returnURL = $Value['returnURL'];
 	                var links = document.getElementsByTagName("a");
 	                for(var i=0; i<links.length; i++) {
 	                    if(links[i].href==$URL)
 	                        {
-	                        document.getElementsByTagName("a")[i].href=$returnURL;    
+	                        document.getElementsByTagName("a")[i].href=$returnURL;
 	                        }
-	                     }                
-	             });                 
+	                     }
+	             });
 	        }
-	    });                
-	    } 
-	
-	</script>	
-	
+	    });
+	    }
+
+	</script>
+
   </body>
 </html>
