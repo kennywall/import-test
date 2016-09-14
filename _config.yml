@@ -21,3 +21,9 @@ BASE_PATH : http://kinlane.com
 
 categories_path : /categories.html
 tags_path : /tags.html
+
+# Footer
+footer_title: API Evangelist
+footer_link: http://apievangelist.com
+footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
+footer_image_width: 60
