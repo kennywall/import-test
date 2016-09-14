@@ -34,25 +34,12 @@
         <script id="parterListingTemplate" type="text/template">
             {% raw  %}
             <a href="{{url}}" target="_blank" title="{{title}}">
-           		<img src="{{logo}}" width="{{width}}" style="padding: 4px;" />
+           		<img src="{{logo}}" width="{{width}}" style="padding: 1px 1px {{paddingbottom}}px 1px;" />
             </a>
             {% endraw %}
         </script>
 
-        <script type="text/javascript">
-        function listSponsors()
-            {
-            $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {
-                $.each(data['sponsors'], function(key, val) {
-                var template = $('#parterListingTemplate').html();
-                var html = Mustache.to_html(template, val);
-                $('#partnerListingContainer').append(html);
-                });
-            });
-        }
-        </script>
-
-        <div id="partnerListingContainer" align="center" style="background-color:#FFF; margin-top: 45px; padding-top: 10px; width: 60%; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #FFFFFF; margin-bottom: 7px;">
+        <div id="partnerListingContainer" align="center" style="background-color:#FFF; margin-top: 20px; padding: 10px 10px 10px 10px; width: 60%; border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px; border: 3px solid #FFFFFF; margin-bottom: 15px;">
 
 		</div>
 
@@ -69,12 +56,15 @@
 
       	{{ content }}
 
+        <!-- Footer1 -->
+        <p align="center"><a href="{{ site.url }}" target="_blank" id="footer_project_link"><img id="footer_project_image" src="{{ site.footer_image_source }}" width="{{ site.footer_image_width }}%" title="{{ site.footer_title }}" class="fbanner" /></a></p><br />
+
 	     <div class="footer">
 		    <ul>
 		    	<li><a href="http://kinlane.com">Home</a></li>
 		    	<li><a href="http://kinlane.com/blog/">Blog</a></li>
 		    	<li><a href="http://kinlane.com/about/">About</a></li>
-		    	<li><a href="http://apisjson.org">APIs.json</a></li>
+		    	<li><a href="http://apievangelist.com">API Evangelist</a></li>
 		    	<li><a href="http://developer.kinlane.com">API(s)</a></li>
 		    	<li><a href="http://kinlane.com/contact/">Contact</a></li>
 		    </ul>
@@ -95,6 +85,47 @@
 	  })();
 
 	</script>
+
+  <script type="text/javascript">
+
+      // project view log
+     $url = "http://project.api.kinlane.com/project/view/";
+     $vlog = $.post($url, function() {});
+
+      // List Sponsors
+      function listSponsors()
+          {
+          $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {
+              $.each(data['sponsors'], function(key, val) {
+              var template = $('#parterListingTemplate').html();
+              var html = Mustache.to_html(template, val);
+              $('#partnerListingContainer').append(html);
+              });
+          });
+        }
+      listSponsors();
+
+      // Footer Projects
+      function footerProjects()
+          {
+          $get_footer_project_url = "http://project.api.kinlane.com/project/footer/";
+
+          $.ajax({
+            url: $get_footer_project_url,
+            type:"GET",
+            success:function(data) {
+                $footer_title = data['footer_title'];
+                $footer_image = data['footer_image'];
+                $footer_url = data['footer_url'];
+                $("#footer_project_link").attr("href", $footer_url);
+                $("#footer_project_image").attr("src", $footer_image);
+                $("#footer_project_image").attr("title", $footer_title);
+              }
+            });
+          }
+      footerProjects();
+
+  </script>
 
   </body>
 </html>
