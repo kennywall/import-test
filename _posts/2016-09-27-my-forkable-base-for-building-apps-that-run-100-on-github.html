@@ -3,7 +3,7 @@ layout: post
 title: 'My Forkable Base For Building Apps That Run 100% On Github'
 source: http://kinlane.com/2016/09/27/my-forkable-base-for-building-apps-that-run-100-on-github/
 domain: kinlane.com
-image: 
+image:
 atomdate: 2016-09-27T10:00:00-07:00
 ---
 <h1>Github Micro Tool</h1>
@@ -22,15 +22,9 @@ atomdate: 2016-09-27T10:00:00-07:00
 <h2>Github OAuth for Authentication</h2>
 <p>To allow this application interaction to securely occur I am relying on Github OAuth as the gatekeeper. For this example, <a href="https://github.com/settings/tokens">I am using a Github personal tokens retrieved from within any Github account</a>, instead of using a proxy or service like <a href="http://OAuth.io">OAuth.io</a> because I want this solution to be forkable and self-contained. Your tokens will not give you access to this application when it exists under my Github account, but if you fork it, your tokens will give you access to only your forked version. All you do is pass a token into this page using ?token=[your token here], and the API will allow for writing to the underlying repository.</p>
 <h2>Cookie.js To Store The OAuth Token</h2>
-<p>Once the OAuth token is passed into the URL I use <a href="https://github.com/ScottHamper/Cookies">cookies.js</a> to store the token for use across all potential pages of a micro tool. This approach helps prevent it being included in any links and passed between pages. Once each cookie expires, the user is required to pass another valid token in through the URL to set the cookie again, opening up API access to the applications backend. This&nbsp;project is meant to be interactive, and you can validate there is a token here:</p>
-<ul>
-<li><a href="#">Check If Token Exists</a></li>
-</ul>
+<p>Once the OAuth token is passed into the URL I use <a href="https://github.com/ScottHamper/Cookies">cookies.js</a> to store the token for use across all potential pages of a micro tool. This approach helps prevent it being included in any links and passed between pages. Once each cookie expires, the user is required to pass another valid token in through the URL to set the cookie again, opening up API access to the applications backend. This&nbsp;project is meant to be interactive.</p>
 <h2>Github.js To Communicate With API</h2>
-<p>With a valid OAuth token, I use <a href="https://github.com/michael/github">Github.js</a> as the client side JavaScript client for interacting with the Github API. While Github.js allows for using almost all available API endpoints, most application functionality will be just about reading and writing YAML and JSON files using repository paths. For most of the application functionality, I will rely on Liquid for reading YAML and JSON data, and Github.js for writing of data to the underlying repo using the Github API. If you have a valid Github OAuth token passed in and have access to the Github repository for this application, you can click below to see if it will successfully write:</p>
-<ul>
-<li><a href="#">Check If We Can Write To Repo</a></li>
-</ul>
+<p>With a valid OAuth token, I use <a href="https://github.com/michael/github">Github.js</a> as the client side JavaScript client for interacting with the Github API. While Github.js allows for using almost all available API endpoints, most application functionality will be just about reading and writing YAML and JSON files using repository paths. For most of the application functionality, I will rely on Liquid for reading YAML and JSON data, and Github.js for writing of data to the underlying repo using the Github API. If you have a valid Github OAuth token passed in and have access to the Github repository for this application.</p>
 <h2>Forkable Base For Apps That Run 100% On Github</h2>
 <p>I hope this provides a base project that demonstrates what is possible when you build applications on top of Github. I am going to fork it and build another prototype that reads and writes to a YAML file in the _data folder for the underlying repo, exploring what is possible when it comes to using Github as a data-driven micro tool platform.</p>
 <p>The code that makes this happen is pretty simple, and the Github repository is meant to be pretty self-contained, and here are list of technologies at play here:</p>
