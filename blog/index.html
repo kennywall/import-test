@@ -3,9 +3,11 @@ layout: default
 ---
 
 <div class="posts">
+  {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
   {% for post in paginator.posts %}
+    {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
     {% if post.title != '' %}
-
+      {% if posttime < nowunix %}
       <div class="post">
         <h1>
           <a href="{{ site.production_url }}{{ post.url }}">
@@ -46,6 +48,7 @@ layout: default
     	</table>
       <center><hr style="width: 75%;" /></center>
     </div>
+    {% endif %}
     {% endif %}
   {% endfor %}
 </div>
