@@ -1,5 +1,5 @@
 ---
-title: The Stories We Tell Our Youth
+title: The Stories We Tell Our Children
 date: 2017-05-29 10:00:00 Z
 tags:
 - Kin Lane
