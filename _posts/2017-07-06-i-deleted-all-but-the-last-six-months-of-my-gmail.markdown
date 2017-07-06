@@ -9,7 +9,7 @@ tags:
   - Email
 image: 'https://s3.amazonaws.com/kinlane-productions/delete-gmail.png'
 ---
-<p><img src="https://s3.amazonaws.com/kinlane-productions/delete-gmail.png" align="right" width="20%" style="padding: 15px;" />I continuing my effort to take control over my data, and digital presence and the next target on my list is Gmail. I have been using Gmail heavily since early 2007, and the application contained a significant amount of my data in its archives. I didn't need any tools to delete my email, as Gmail provides some easy "select all" options for folders, which easily allows me to delete from inbox, archives, and anywhere else.
+<p><img src="https://s3.amazonaws.com/kinlane-productions/delete-gmail.png" align="right" width="20%" style="padding: 15px;" /></p>I continuing my effort to take control over my data, and digital presence and the next target on my list is Gmail. I have been using Gmail heavily since early 2007, and the application contained a significant amount of my data in its archives. I didn't need any tools to delete my email, as Gmail provides some easy "select all" options for folders, which easily allows me to delete from inbox, archives, and anywhere else.
 
 I'm not fooling myself to think that Google has some index of my history, or that they've already enriched their machine learning models using my data, but cleaning up my past feels good, and is something I will be repeating every six months. Before I got started, I downloaded my archive using [Google Takeout](https://takeout.google.com/settings/takeout), which I've put in a backup location for possible future reference.
 
