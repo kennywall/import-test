@@ -1,0 +1,21 @@
+---
+published: false
+layout: post
+title: >-
+  The Bungee Cord Connecting The Cult Of Always Being Ahead To Always Being Left
+  Behind
+date: 2017-07-21T12:00:00.000Z
+tags:
+  - Kin Lane
+  - Contrafabulists
+image: ''
+---
+I sit at a fascinating vantage point of our reality, where my career is centered around highlighting the unrealistic stories that arise around our use of technology, and my personal life is still very much connected with my rural upbringing where I am seeing many side effects of a population that has been "left behind". I spend my days studying technology and how it is being wielded to influence and control people, while pushing back some guilt, and many frustrations about how this world is impacting my friends and family.
+
+Audrey and I call the umbrella company for [Hack Education](http://hackeducation.com) and [API Evangelist](http://apievangelist.com), [Contrafabulists](http://contrafabulists.com/) -- the definition for fabulists is, "a person who composes or relates fables. a liar, especially a person who invents elaborate, dishonest stories". We work to be contra-fabulists for technology. Pushing back on the stories, myths, and outright lies that get told around what is possible with Internet technology. We spend each day trying to understand how technology is being used to mislead and obfuscate much of what is going on across almost every industry, including how our government operates, or more importantly does not operate on behalf of the people. While there is a number of interesting things going on in the world of technology, there are also a number of forces growing in strength, who have less than honorably intention regarding how technology is used.
+
+When it comes to technology we often feel like we are on this fast moving conveyor belt enabled by technology changing everything around us in ways that we've never seen before! The world is moving fast! You have to keep up! Or you will be left behind! When you actually step off the conveyor belt, step back on, step back off, and repeat for a number of years, you kind of see that the conveyor belt is just a tech themed amusement park ride that is bullshitting you in almost every area. Don't get me wrong, the ride is moving, but it is moving in circles, often around a pre-planned paths, with heavy amounts of storytelling and smoke blowing--you know VR, AR, AI. Everything is moving, but much of what we are experiencing is just a carefully crafted theme park experience.
+
+When I return to the personal side of my world, and begin think about make the long trek back home to hang with friends and family, I'm reminded of the rural effects of this theme park ride we've put everyone on. When I switch back and forth between these realities the bungee cord tying the two worlds becomes more apparent. The lies about social, artificial intelligence, algorithms, and the all knowing qualities of code on what side, pushing, pulling, confusing, and manipulating those on the other side of the spectrum. You fabricate a grand story of what algorithms and artificial intelligence can do on one side to sell some amazing new advertising services to your customers, and you are messing with people's realities, feeding them  false information on top of of an already information starved diet at the other end--allowing old and new stereotypes, prejudices, and myths to flourish in this magical new world we've created for ourselves.
+
+I am working to shine a light into the algorithmic black boxes that are driving much of world, helping distill down the magic of VR, AR, AI, and API into meaningful things that business can actually invest in and depend upon, minimizing the damage of snake oil salesman peddling their warez. While on the other side of my reality I am faced wit having to have discussions about whether wifi is not more damaging than the metropolitan area networks (MAN) wireless technologies that are already around your house, that those shootings in Florida, Paris, and 20 miles down the road from you were real, as well as that Auschwitz place in Germany as well the moon are both actually very, very real places. While miles apart, there seems to be a virtual bungee cord connecting these two worlds, and as some folks are cashing in, others realities are closing in on them and becoming a very, very scary place.
