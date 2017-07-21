@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: >-
   The Bungee Cord Connecting The Cult Of Always Being Ahead To Always Being Left
