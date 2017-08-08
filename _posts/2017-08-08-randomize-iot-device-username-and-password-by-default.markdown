@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Randomize IoT Device Username And Password By Default
-date: 2017-08-08T12:00:00.000Z
+date: 2017-08-08T09:00:00.000Z
 tags:
   - Kin Lane
   - Internet of Things
