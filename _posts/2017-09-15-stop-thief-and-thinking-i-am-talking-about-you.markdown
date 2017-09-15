@@ -1,0 +1,18 @@
+---
+published: true
+layout: post
+title: Stop Thief And Thinking I Am Talking About You
+date: 2017-09-15T09:00:00.000Z
+tags:
+  - Kin Lane
+  - Storytelling
+image: >-
+  https://s3.amazonaws.com/kinlane-productions/photos/5584619738_1b4b57d8ee_z.jpg
+---
+<p><img src="https://s3.amazonaws.com/kinlane-productions/photos/5584619738_1b4b57d8ee_z.jpg" align="right" width="40%" style="padding: 15px;" /></p>I am constantly reworking and reusing stories that are in my notebook for publishing across my network of sites. While doing my monitoring of the world of technology and how it is impacting our world I am constantly taking notes about a variety of personalities and characters I come across, which I use across my stories to drive home specific points. I'd say that 70% of what I write about is not directly about anyone in the real world, it is a mashup up people I've met and read about, rooted in a narrative about how I see the world, and rooted in my experiences. Making some of my stories seem very true, relevant, and timely. When in reality it's fantasy, based upon reality, driven by my personal story.
+
+The effect of this type of storytelling is that there are a number of people who reach out to me, thinking I'm talking about them. I'd consider this to be a form of "stop thief!" syndrome. Where a police officer yells "stop thief" on the streets, and you stop. What are you? I'm always fascinated by the folks who think I'm talking about them, and even more amazed by the folks who feel they need to reach out to me. I know that many people silently brood about this and do not reach out to me as well. Mission accomplished. If you think I'm talking about you, then yes, I probably am. When in reality, I'm rarely ever talking about a specific person. If I am, I'm referencing them by name. I tend to not beat around the bush.
+
+This is an intentional part of the performance that is [Kin Lane,](http://kinlane.com) and the [API Evangelist](http://apievangelist.com). I purposely have developed a pantheon of API characters to reflect all of you. All of us. I purposely make them relatable, recognizable, likeable, and hateable. I add to their personality traits when I can, and develop new characters when I have to. I evolve them based upon my real word conversations, and what I'm reading each day. I keep my characters in sync with the current business and politics of how technology is impacting the world around us. This helps me make my stories more relatable to the level where people think I'm talking about them. Then after I root them in my own experiences, tell stories in my voice, people are usually convinced I'm talking about them. They know me. The characters I'm talking about reflect them, so I must be talking about them.
+
+So, if you are reading anything on Kin Lane or API Evangelist and you think I'm talking about you. I am. Even though I am not. I'm just regularly yelling "stop thief" into the digital crowd to see who stops and turns around. I find it is the best way to get folks to self select, and put themselves into buckets. I find that people rarely are honest about who they are, and what they are up to. In my experience, people respond to stories. This is what makes the whole Facebook ad targeting, media cards, and psychological profiles such a powerful thing. You post a series of stories that fit a range of profiles, then you can target these folks with whatever message you want. I do this with API related things like design, security, privacy, monetization, data ownership, programming language dogma, and other illnesses that plague our sector. I appreciate you reading my work, tuning in, and assisting me in better understanding who you are, and where you stand in all of this.
