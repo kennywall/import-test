@@ -1,0 +1,19 @@
+---
+published: true
+layout: post
+title: Our Isolation Insulating Us
+date: 2017-09-29T12:00:00.000Z
+tags:
+  - Kin Lane
+image: >-
+  https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yuma-downtown.jpg
+---
+## Our Isolation Insulating Us
+
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yuma-downtown.jpg" align="right" width="40%" style="padding: 15px;" /></p>I'm thinking about isolation in our world today on a regular basis. I'm thinking about folks who are isolated within the enterprise. Isolated within technological communities. Isolated in our rural communities. An isolated existence that often warms us, and insulates us from negative consequences, but increasingly, especially with the power of the Internet our isolation is being used against us. When Facebook is your only channel to the world, we are handing over a significant amount of power to these platforms, and to the partners, advertisers, and power users who understand how to game the system.
+
+I single out Facebook, because it has the lion share of the bullhorn when it comes to folks isolated in rural communities, who are being used to inflict a scary amount of damage on our world today. However, this platform effect applies to Instagram, Reddit, Twitter, Google, and on, and on. I'm hearing more about the different types of bubbles folks are living in, some are more damaging to others, but all are dependent one, or multiple platform channels as their lifeline. I'm not exempt from this, but I'd say my channels, and networks are more diverse than the norm, and I'm regularly searching out new sources of information outside of specific platforms, on the open web, and in person. I'm constantly cultivating my channels, and pushing what I know into new realms.
+
+This isolation is what has made the targeting capabilities of Facebook, Twitter, Google, and other platforms. In the 1970s Russia couldn't target NBC, CBS, ABC, and PBS to push propaganda to racist folks in the south, or anti-vaxxers in the pacific northwest. Even with the bullshit that flowed through these channels, there were editorial controls, regulatory limitations that prevented invasions of this kind from happening. Sure, we had to listen to the message of corporations, and the government, but we didn't have to be targeted with messages from foreign powers looking to divide us, and stir up our deep seated hatred and fears. Many technologists see these algorithmic controls which their platform possess as simply democratization, but with that freedom comes a lot of darkness, and when you unleash that on some very isolated individuals, the outcomes are going to be unpredictable.
+
+I spend a lot of time thinking of my friends back home in rural isolation, and many of them aren't much different than some of my friends in tech who live in suburbs, and medium sized communities, but also exist on similar information controlled diets, dictated by the channels they subscribe to. Most of these friends are comfortable in their isolation. Believe in subscribing to channels that only reinforce how they feel, and what they know. Broadening their horizon is hard, it is painful, and it would force them to question themselves. It is easier to stay isolated. Insulated from the world around them. Something the Internet is reinforcing at a phenomenal rate. Our information is delivered, our food, our pharmaceuticals, our entertainment. Why would we want to ever change this?

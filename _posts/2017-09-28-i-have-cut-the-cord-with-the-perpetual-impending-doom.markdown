@@ -1,0 +1,21 @@
+---
+published: true
+layout: post
+title: I Have Cut The Cord With The Perpetual Impending Doom
+date: 2017-09-28T12:00:00.000Z
+tags:
+  - Kin Lane
+image: >-
+  http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg
+---
+## I Have Cut The Cord With The Perpetual Impending Doom
+
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg" ailgn="right" width="40%" style="padding: 15px;" /></p>For my entire life I've always felt on edge. There is always something about to happen, and it will be bad. It has just been a part of my existence since I was a teenager. It got worse in my 20s, and stabilized into a low level, perpetual doom off on the horizon in my 30s, and 40s. Honestly, I used it to develop my career. Even in good times, I knew that something bad was going to happen just around the corner. So I kept working. Working into the night to make sure I had the skills, knowledge, and financial opportunities t make it through whatever was coming.
+
+The problem is, this feeling produces some pretty crippling anxiety. It also can manifest some pretty shitty situations, something I've learn to minimize in my 30s and 40s, but in my 20s it created some pretty holy shit scenarios. When you believe there is doom around the corner, often times you get pretty good and finding doom, creating it, and hanging out with folks who make it happen. I have a laundry list of doomy scenarios from my 20s that would make you cringe--something I'm happy to have been able to evolve beyond.
+
+Even with this world behind me, this feeling of impending doom, even at low levels, pushed me into a steady diet of drinking, and smoking weed to keep anxiety at minimal levels. Eventually this caught up with me. Unable to keep the numbing effects in place, I was forced to address the source of this impending doom, and work through this aspect of my reality until I found some answers. I recently had the realization that this emotional state wasn't mine, it was handed down to me. It was codified in my reality, to the point where I made it mine. I made it about me. I took it in my own direction. I was recently able to set that aside, and I've spent the first two weeks of my adult life with no feeling of doom right around the corner.
+
+I still recognize that I have a significant about of learned behavior, and coping mechanisms developed around my feelings of impending doom. It won't be something I can completely unwind for some time. This story is part of that unwinding. But, now I know that this wasn't mine to own. I don't need to carry this one around with me. There isn't doom waiting for me right over the horizon. I've always known that I can decide my own path, and done a fairly decent job at doing this, even with this weight on my shoulders. Now, I will be able to do a better job of taking care of myself, my health, and my sanity. I'll be able to have better visibility regarding what is around the corner with the fog of anxiety lifted.
+
+However, I am also left with the question of what to do about the person who gave me this vision of the world. Unfortunately at this point, I don't think there is much I can do for them. I'm going to continue to focus on continuing to unwind my own shit, and make sure I do the best I can to create the positive future I know that I deserve. I wish everyone could be along for the ride, but sadly, I think there are some people who feel it is their destiny to suffer. To be scared. To always be afraid of what is around the corner, due to one traumatic thing that happened to them a long, long time ago. I wish I could help, but I've already carried this alongside you for 25 years, and I'm looking forward to some time without it. I enjoy being able to focus on today, without being worried about tomorrow.
