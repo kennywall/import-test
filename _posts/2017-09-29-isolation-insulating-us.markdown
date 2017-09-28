@@ -8,8 +8,6 @@ tags:
 image: >-
   https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yuma-downtown.jpg
 ---
-## Our Isolation Insulating Us
-
 <p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yuma-downtown.jpg" align="right" width="40%" style="padding: 15px;" /></p>I'm thinking about isolation in our world today on a regular basis. I'm thinking about folks who are isolated within the enterprise. Isolated within technological communities. Isolated in our rural communities. An isolated existence that often warms us, and insulates us from negative consequences, but increasingly, especially with the power of the Internet our isolation is being used against us. When Facebook is your only channel to the world, we are handing over a significant amount of power to these platforms, and to the partners, advertisers, and power users who understand how to game the system.
 
 I single out Facebook, because it has the lion share of the bullhorn when it comes to folks isolated in rural communities, who are being used to inflict a scary amount of damage on our world today. However, this platform effect applies to Instagram, Reddit, Twitter, Google, and on, and on. I'm hearing more about the different types of bubbles folks are living in, some are more damaging to others, but all are dependent one, or multiple platform channels as their lifeline. I'm not exempt from this, but I'd say my channels, and networks are more diverse than the norm, and I'm regularly searching out new sources of information outside of specific platforms, on the open web, and in person. I'm constantly cultivating my channels, and pushing what I know into new realms.
