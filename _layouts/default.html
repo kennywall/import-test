@@ -7,7 +7,7 @@
 
     <header class="masthead">
       <div class="masthead-inner" align="center">
-		    <p><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-kin-inverse.png" align="center" width="90" style="padding-bottom:20px;" /></p>
+		    <p><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-kin-inverse.png" align="center" width="90" style="padding-bottom:30px;" /></p>
         <div class="colophon">
           <ul class="colophon-links">
             <li>
@@ -41,12 +41,7 @@
 
     <div class="content container">
 
-		<p align="center"><img src="https://kinlane-productions.s3.amazonaws.com/kinlane-logo.png" align="center" width="60%" style="padding-bottom: 10px;" /></p>
-
       	{{ content }}
-
-        <!-- Footer1 -->
-        <p align="center"><a href="{{ site.url }}" target="_blank" id="footer_project_link"><img id="footer_project_image" src="{{ site.footer_image_source }}" width="{{ site.footer_image_width }}%" title="{{ site.footer_title }}" class="fbanner" /></a></p><br />
 
 	     <div class="footer">
 		    <ul>
@@ -54,67 +49,21 @@
 		    	<li><a href="http://kinlane.com/blog/">Blog</a></li>
 		    	<li><a href="http://kinlane.com/about/">About</a></li>
 		    	<li><a href="http://apievangelist.com">API Evangelist</a></li>
-		    	<li><a href="http://developer.kinlane.com">API(s)</a></li>
 		    	<li><a href="http://kinlane.com/contact/">Contact</a></li>
 		    </ul>
 		</div>
 
     </div>
 
-	<script type="text/javascript">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1119465-35"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-1119465-35']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
-	</script>
-
-  <script type="text/javascript">
-
-      // project view log
-     $url = "https://project.api.kinlane.com/project/view/";
-     $vlog = $.post($url, function() {});
-
-      // List Sponsors
-      function listSponsors()
-          {
-          $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {
-              $.each(data['sponsors'], function(key, val) {
-              var template = $('#parterListingTemplate').html();
-              var html = Mustache.to_html(template, val);
-              $('#partnerListingContainer').append(html);
-              });
-          });
-        }
-      listSponsors();
-
-      // Footer Projects
-      function footerProjects()
-          {
-          $get_footer_project_url = "https://project.api.kinlane.com/project/footer/";
-
-          $.ajax({
-            url: $get_footer_project_url,
-            type:"GET",
-            success:function(data) {
-                $footer_title = data['footer_title'];
-                $footer_image = data['footer_image'];
-                $footer_url = data['footer_url'];
-                $("#footer_project_link").attr("href", $footer_url);
-                $("#footer_project_image").attr("src", $footer_image);
-                $("#footer_project_image").attr("title", $footer_title);
-              }
-            });
-          }
-      footerProjects();
-
-  </script>
+      gtag('config', 'UA-1119465-35');
+    </script>
 
   </body>
 </html>
