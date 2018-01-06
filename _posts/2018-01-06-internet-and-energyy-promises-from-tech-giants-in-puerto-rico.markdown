@@ -12,7 +12,7 @@ image: 'https://cdn-images-1.medium.com/max/800/1*nB3O8hSV1xy8grNEuBTu1g.jpeg'
 
 There is a flood of Internet coverage about the amazing work the tech giants were doing, but just a handful of articles providing information about what was being done on the ground.
 
-- Project Loon - [https://blog.x.company/turning-on-project-loon-in-puerto-rico-f3aa41ad2d7f](https://blog.x.company/turning-on-project-loon-in-puerto-rico-f3aa41ad2d7f)
+- Project Loon - [Turning on Project Loon in Puerto Rico](https://blog.x.company/turning-on-project-loon-in-puerto-rico-f3aa41ad2d7f)
 - AT&T - [Hurricane Maria: Response & Live Updates](http://about.att.com/inside_connections_blog/hurricane_maria)
 - T-Mobile - [Hurricane Maria: Update for Customers](https://newsroom.t-mobile.com/news-and-blogs/hurricane-maria-impacted-customer-update.htm)
 - Facebook (NetHope)
