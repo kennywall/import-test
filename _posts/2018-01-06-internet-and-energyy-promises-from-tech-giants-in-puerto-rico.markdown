@@ -12,13 +12,13 @@ image: 'https://cdn-images-1.medium.com/max/800/1*nB3O8hSV1xy8grNEuBTu1g.jpeg'
 
 There is a flood of Internet coverage about the amazing work the tech giants were doing, but just a handful of articles providing information about what was being done on the ground.
 
-- Project Loon - [Turning on Project Loon in Puerto Rico](https://blog.x.company/turning-on-project-loon-in-puerto-rico-f3aa41ad2d7f)
-- AT&T - [Hurricane Maria: Response & Live Updates](http://about.att.com/inside_connections_blog/hurricane_maria)
-- T-Mobile - [Hurricane Maria: Update for Customers](https://newsroom.t-mobile.com/news-and-blogs/hurricane-maria-impacted-customer-update.htm)
-- Facebook (NetHope)
+- **Project Loon** - [Turning on Project Loon in Puerto Rico](https://blog.x.company/turning-on-project-loon-in-puerto-rico-f3aa41ad2d7f)
+- **AT&T** - [Hurricane Maria: Response & Live Updates](http://about.att.com/inside_connections_blog/hurricane_maria)
+- **T-Mobile** - [Hurricane Maria: Update for Customers](https://newsroom.t-mobile.com/news-and-blogs/hurricane-maria-impacted-customer-update.htm)
+- **Facebook (NetHope)**
 	- [From the Field: Reconnecting Puerto Rico, One Region At A Time](https://nethope.org/2017/10/10/from-the-field-reconnecting-puerto-rico-one-region-at-a-time/)
 	- [The Destruction Is Almost Total](https://nethope.org/2017/09/21/the-destruction-is-almost-total/)
-- Cisco
+- **Cisco**
 	- [Cisco teams up with NetHope for Puerto Rico emergency response](https://newsroom.cisco.com/feature-content?type=webcontent&articleId=1893607)
 	- [Nonprofit Heroes are Re-Connecting Lives in Puerto Rico](https://blogs.cisco.com/news/nonprofit-heroes-are-re-connecting-lives-in-puerto-rico)
 
