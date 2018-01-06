@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Internet And Energy Promises From Tech Giants In Puerto Ric
+title: Internet And Energy Promises From Tech Giants In Puerto Rico
 date: 2018-01-06T09:00:00.000Z
 tags:
   - Kin Lane
@@ -21,7 +21,7 @@ There is a flood of Internet coverage about the amazing work the tech giants wer
 - Cisco
 	- https://newsroom.cisco.com/feature-content?type=webcontent&articleId=1893607
 	- https://blogs.cisco.com/news/nonprofit-heroes-are-re-connecting-lives-in-puerto-rico
-    
+
 Another area you've seen a lot of chatter about, is Elon Musk and Tesla Solar stepping in to help with restoring power, using their solar panel and battery power solutions. I can't find any official stories, but Elon is pretty prolific on Twitter and Instagram.
 
 - https://www.instagram.com/p/Bap6Tqcjo
