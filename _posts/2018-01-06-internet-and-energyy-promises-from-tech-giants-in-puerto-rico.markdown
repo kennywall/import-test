@@ -8,7 +8,7 @@ tags:
   - Puerto Rico
 image: 'https://cdn-images-1.medium.com/max/800/1*nB3O8hSV1xy8grNEuBTu1g.jpeg'
 ---
-<p><a href="https://medium.com/@RobertLeeRead/a-view-of-puerto-rico-71-days-after-maria-9813fa088764"><img src="https://cdn-images-1.medium.com/max/800/1*nB3O8hSV1xy8grNEuBTu1g.jpeg" align="right" width="45%" style="padding: 15ppx;" /></a></p>I've been taking a look at some of the promises made by technology companies over the last couple months when it came to helping make sure Puerto Rico has access to power and Internet. After Hurrican Maria hit the island, the tech and telco giants quickly moved into help make sure the island recovered.
+<p><a href="https://medium.com/@RobertLeeRead/a-view-of-puerto-rico-71-days-after-maria-9813fa088764"><img src="https://cdn-images-1.medium.com/max/800/1*nB3O8hSV1xy8grNEuBTu1g.jpeg" align="right" width="45%" style="padding: 15px;" /></a></p>I've been taking a look at some of the promises made by technology companies over the last couple months when it came to helping make sure Puerto Rico has access to power and Internet. After Hurrican Maria hit the island, the tech and telco giants quickly moved into help make sure the island recovered.
 
 There is a flood of Internet coverage about the amazing work the tech giants were doing, but just a handful of articles providing information about what was being done on the ground.
 
