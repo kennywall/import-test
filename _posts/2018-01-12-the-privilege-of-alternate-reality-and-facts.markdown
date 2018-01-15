@@ -1,8 +1,13 @@
 ---
 published: true
+layout: post
+title: The Privilege of Alternate Reality and Facts
+date: 2018-01-12T12:00:00.000Z
+tags:
+  - Kin Lane
+image: >-
+  https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories-new/20_132_800_500_0_max_0_1_-1.jpg
 ---
-## The Privilege of Alternate Reality and Facts
-
 <p<img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories-new/20_132_800_500_0_max_0_1_-1.jpg" align="right" width="45%" style="padding: 15px;" /></p>I hear a lot of talk about folks looking to bridge the left with the right in this country. Trying to find common ground. Listen. Don't be so angry, and hostile to folks on the right. While I agree with these concepts, on the ground I just don't think they are always practical in the current environment. While this might work with the first layer of conservatives who walk the party line, are generally in denial because of white privilege, but might find themselves troubled by what is going on, I'm don't see this approach working deeper into the depths of the current right wing reality.
 
 While privilege allows us to ignore all the shadows of the society we've created for ourselves. We don't have to see the realities neighborhoods that are majority inhabited by people of color, let alone really understand the difference between El Salvador, Haiti, or a country in Africa--they are just poor brown people who live in the shadows we don't see. However the current conservative realm has constructed even more elaborate set of alternate realities that allow them to ignore obvious facts, and dismiss anything they don't agree with as fake, or as a conspiracy. This new elaborate alternate reality is often constructed and reenforced by the web, and this new virtual reality we exist in.
