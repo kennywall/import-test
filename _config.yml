@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: info@kinlane.com
-baseurl: http://kinlane.com
+baseurl: http://kinlane.com/
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
