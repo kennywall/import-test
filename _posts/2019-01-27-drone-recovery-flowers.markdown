@@ -89,20 +89,38 @@ Look closely at the yellow on this flower. It just blew my mind the detail on th
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/purple-in-dry-grass.jpg" width="100%"></p>
 These little guys were pushing up in a very thorny and unforgiving landscape where we couldn't even sit because of the hostile environment.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/purple-in-rocks-hanging-over-edge.jpg" width="100%"></p>
+I was impressed with these flowers ability to split open this rock, and make their way across the landscape, doing battle with the geological landscape.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/purple-in-rocks.jpg" width="100%"></p>
+More flowers growing out of the rocks in this unforgiving trek to the top of Kerby Peak--pushing rocks out into the path making our journey slower.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/purple-with-light-house.jpg" width="100%"></p>
+We caught this lighthouse outside of Crescent City at the right moment--ensuring that the whole outcropping around it was covered in pink.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/yellow-sunflowers.jpg" width="100%"></p>
+More sunflowers from the Balach Hotel, marking the end of our journey, allowing us to finally relax and get some writing down in the end of the summer heat.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/red-in-bramble.jpg" width="100%"></p>
+More Indian Paintbrushes popping up as part of the rugged foliage by this pine tree, slowly covering up the rocks alongside of the trail.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/red-shoot.jpg" width="100%"></p>
+I have no idea what these things are, but they were really amazing how they popped up out of the pine and madrone mulch, pushing up so brilliantly in the June sun.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/single-daisy-in-rocks.jpg" width="100%"></p>
+You just gotta give this guy credit for making the way up in between the rocks on this sunny early summer day, saying hello tour as we walked by.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/various-daisies-in-dry-grass.jpg" width="100%"></p>
+More diversity in the meadow as we made our way through this old homestead, and as we found later on, a more contemporary place for someone to grow their marijuana.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/white-bell-flower.jpg" width="100%"></p>
+A beautiful white flower growing up in between the wild raspberry bushes which we paused and pick a few as we made our way up to the top of Gold and Silver Falls.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/white-fluffy-flowers-in-grass.jpg" width="100%"></p>
+These were amazing as they dotted the wetlands landscape of Frog pond. You couldn't physically walk out here, but I managed to capture with my zoom lens.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/white-green-yellow-branch.jpg" width="100%"></p>
+I loved the yellow and white of these flowers within this very thorny landscape which I could hardly make my way through without getting torn up.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/white-shoots.jpg" width="100%"></p>
+Another amazing flower which I have no idea of what it is, but they were so brilliant along this dry and broken landscape that we had to stop and take a moment to enjoy.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/white-water-flowers-side.jpg" width="100%"></p>
+More of these pointing towards the sun coming out in between the clouds. We were laying down catching our breath, trying to warm up in the some as well.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/wild-azaleas-big.jpg" width="100%"></p>
+Some more of the wild Azaleas in the cracks of the redwoods, showing their pink brilliance to use as we came out into the sunshine from the old growth.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/wild-azaleas-in-the-redwoods.jpg" width="100%"></p>
+It can be difficult to find a full Azalea like we are used to in a domestic environment, because they are much smaller, skinnier, and further apart when in the wild.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/yellow-daisies-purple-grass.jpg" width="100%"></p>
+Finally t o the end of this meadow as we made our back to the trail. You can't tell from this picture, but there are 3-4 marijuanas holes with irrigation from the creek in the corner.
 <p><img src="https://s3.amazonaws.com/kinlane-productions/drone-recovery/flowers/yellow-flowers-in-dry-grass.jpg" width="100%"></p>
-I fully realize that most of these photos are not "good" photos of flowers, but it doesn't change the fact that each one has a memory attached to them for me. When I look at each one I can recall the place where they were taken, the feeling of the sunshine on my face, and miles I walked to get to that particular place. Experiences that have forever changed my life, and make this summer something I will never ever forget.
+I realize that most of these photos are not "good" photos of flowers, but it doesn't change the fact that each one has a memory attached to them for me. When I look at each one I can recall the place where they were taken, the feeling of the sunshine on my face, and miles I walked to get to that particular place. Experiences that have forever changed my life, and make this summer something I will never ever forget.
+
+It is enjoyable to walk through a flower garden, and purchase bouquet of flowers from time to time, but there is something that exists with wildflowers for me that brings out a different set of emotions for me. Especially when you are 10 miles into a 20+ mile hike and as you are laying on the side of the trail thinking you might die, and you look up and there is a beautiful flower looking back at you from between the rocks, or amongst the unforgiving landscape that you are making your way through.
