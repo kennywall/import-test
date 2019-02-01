@@ -5,7 +5,7 @@ title: The Invisible Currents Flowing Around Me and My Belief in Technology
 date: 2019-01-31T09:00:00.000Z
 tags:
   - Kin Lane
-image:
+image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/sf-city-bridge_copper_circuit.jpg
 ---
 
 <img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/sf-city-bridge_copper_circuit.jpg" align="right" width="40%">One of the reasons I stopped doing <a href="http://apievangelist.com">API Evangelist</a> at the end of 2018 is that I felt the ground beneath my feet became unstable over the eight years of doing my research. The more research I conducted into the world of APIs and the layers of this Internet fueled world we are building, the more I saw the often invisible real world influences that surround and drive our belief in technology. I feel that these influences have always been there, but because of my state of mind, I could not see these ideologies which have been driving me (us). It is difficult to articulate what exactly has come into focus for me, but I will give it my best shot to clarify through my storytelling, which ironically is also the methodology I used to also tune myself into these realities in the first place.
