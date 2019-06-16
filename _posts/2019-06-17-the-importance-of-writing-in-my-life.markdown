@@ -5,7 +5,7 @@ title: The Importance of Writing In My Life
 date: 2019-06-16T09:00:00.000Z
 tags:
   - Kin Lane
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/64_176_800_500_0_max_0_-1_-1.jpg
+image: https://kinlane-productions.s3.amazonaws.com/api-evangelist/chair-in-corner.jpg
 ---
 
 I like to write. I've written here on [kinlane.com](http://kinlane.com) since June 2007, so 12 years. I've written on [apievangelist.com](http://apievangelist.com) since September 2010, so coming up on 9 years. Historically, I've believed I could become a professional writer, but after seeing how much work my wife Audrey puts into her work, I'm not sure I have the discipline. Maybe someday I'll find it. Until then, I must keep writing, and the blogging format seems to be the way to keep the writing juices flowing, producing a regular stream of short form fictional and non-fictional work. I'm writing because it is important to me to work through my thoughts. I'm writing on the blog(s), because it is the only format I have found any amount of success--it is what I know.
