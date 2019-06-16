@@ -16,16 +16,16 @@ We are in the early stages of API sentinelization, with many more consequences t
 
 APIs are early sentinels. They are originally built as application development unit, but are quickly being given (cyber)military tasks. They lack dedicated offensive weaponry, but like a Sentinel, or maybe a Bobcat backhoe, they possess a number of potential attachments that can be weaponized pretty effectively:
 
-- Application - Embedding applications on your mobile, laptop, automobile, television, appliances, and public spaces is a great way for sentinels to burrow into your reality.
-- Email - Emails always provide a slow drip way of infiltrating your reality, leveraging a low level SMTP assault on all of your inboxes.
-- Notifications - Browser, desktop, and mobile notifications are a proven way to assault any target, breaking into their personal space through a constant barrage of eye catching hooks.
-- SMS - Short messages that trigger notifications, requiring users to validate, respond, and react to a whole host of different signals.
-- Payments - If you get access to a credit card, you can maintain a stranglehold on any user, draining their bank account, as well as their time and energy.
-- Storage - The more a user has stored, the less likely they will be going anywhere, allowing you to keep your hooks in them, draining their bank account, sending them emails, notifying them, while also maintaining access to their stores.
-- Audio - Alex, Siri, and other voice enablement solutions have opened up new channels for surveilling and understanding users, providing rich information that can be used to coordinate other attacks.
-- Video - Facebook, Youtube, and other video channels are excellent radicalization tools, providing excellent data mining opportunities, as well as surveillance and behavioral guidance channels.
-- Images - Instagram provides a rich command and control structure, which can be used to mine data from end users, but also guide and nudge them behaviorally in the direction desired.
-- Location - Having access a users location via their automobile and mobile device makes it easy to find anyone, as well as provides a rich environment for mining of data, and guiding actions.
+- **Application** - Embedding applications on your mobile, laptop, automobile, television, appliances, and public spaces is a great way for sentinels to burrow into your reality.
+- **Email** - Emails always provide a slow drip way of infiltrating your reality, leveraging a low level SMTP assault on all of your inboxes.
+- **Notifications** - Browser, desktop, and mobile notifications are a proven way to assault any target, breaking into their personal space through a constant barrage of eye catching hooks.
+- **SMS** - Short messages that trigger notifications, requiring users to validate, respond, and react to a whole host of different signals.
+- **Payments** - If you get access to a credit card, you can maintain a stranglehold on any user, draining their bank account, as well as their time and energy.
+- **Storage** - The more a user has stored, the less likely they will be going anywhere, allowing you to keep your hooks in them, draining their bank account, sending them emails, notifying them, while also maintaining access to their stores.
+- **Audio** - Alex, Siri, and other voice enablement solutions have opened up new channels for surveilling and understanding users, providing rich information that can be used to coordinate other attacks.
+- **Video** - Facebook, Youtube, and other video channels are excellent radicalization tools, providing excellent data mining opportunities, as well as surveillance and behavioral guidance channels.
+- **Images** - Instagram provides a rich command and control structure, which can be used to mine data from end users, but also guide and nudge them behaviorally in the direction desired.
+- **Location** - Having access a users location via their automobile and mobile device makes it easy to find anyone, as well as provides a rich environment for mining of data, and guiding actions.
 
 APIs have much more than little claws and a laser. Only about 25% are APIs directed to physically engage with a subject. The rest of the time is it about cognitive penetration and sustainment. It isn't the heart racing scenes from the Matrix movie. Think of it more as a cognitive tic or parasite that finds its way into your existence, allowing it to mine your experiences, and even direct them when they want to. Sure, most of these APIs are being used to construct specific application-based experiences today, but as we ratchet up cyberwarfare around elections, and other real world events, the weaponization of these units are inevitable. We are just in the early stages of the sentinelization of APIs. All the pieces are there, you just need the right environment to exist to put the evolution into high gear.
 
